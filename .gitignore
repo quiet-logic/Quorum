@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+quorum.db        # generated at deploy time by seed_data.py
+.env
+.DS_Store

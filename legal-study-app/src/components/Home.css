@@ -1,0 +1,481 @@
+/* ── Masthead ── */
+.masthead {
+  height: 58px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 36px;
+  background: var(--bg-light);
+  border-bottom: 1px solid var(--border-light);
+  z-index: 100;
+}
+
+.masthead-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.separator {
+  width: 1px;
+  height: 20px;
+  background: var(--border-light);
+}
+
+.wordmark-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text-light);
+  letter-spacing: -0.02em;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.nav-link {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: color 0.15s ease;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--text-light);
+}
+
+.flk-btns {
+  display: flex;
+  gap: 1px;
+}
+
+.flk-btn {
+  background: var(--text-light);
+  color: var(--bg-light);
+  border: none;
+  padding: 8px 18px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.flk-btn:hover {
+  opacity: 0.8;
+}
+
+/* ── Home Layout ── */
+.home-wrapper {
+  min-height: 100vh;
+  background-color: var(--bg-light);
+  color: var(--text-light);
+  padding-bottom: 80px;
+}
+
+.home-container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 60px 36px;
+}
+
+/* ── Hero ── */
+.hero {
+  margin-bottom: 60px;
+}
+
+.hero-greeting {
+  font-family: 'Playfair Display', serif;
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.hero-overall {
+  font-size: 14px;
+  color: var(--muted);
+  font-family: 'Outfit', sans-serif;
+}
+
+.hero-overall strong {
+  color: var(--text-light);
+}
+
+/* ── Stats Strip (Editorial 1px Gap) ── */
+.stats-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background-color: var(--border-light);
+  border: 1px solid var(--border-light);
+  margin-bottom: 80px;
+}
+
+.stat-card {
+  background-color: var(--surface-light);
+  padding: 32px 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 12px;
+}
+
+.stat-value {
+  font-family: 'DM Mono', monospace;
+  font-size: 36px;
+  line-height: 1;
+}
+
+.stat-value small { font-size: 18px; }
+
+.stat-unit {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted);
+  margin-top: 8px;
+  text-transform: uppercase;
+}
+
+/* ── Home Grid ── */
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 100px;
+}
+
+.section-header {
+  margin-bottom: 40px;
+}
+
+.index-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.14em;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.section-header h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: 400;
+}
+
+/* ── Subject Row Group (row + optional panel) ── */
+.subject-row-group {
+  border-bottom: 1px solid rgba(216, 211, 200, 0.4);
+}
+
+/* ── Subject Row ── */
+.flk-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 20px;
+  display: block;
+}
+
+.subject-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 24px 0;
+}
+
+.subject-row.is-expanded .sub-name {
+  color: var(--gold);
+}
+
+.sub-index {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  padding-top: 4px;
+}
+
+.sub-info {
+  flex: 1;
+}
+
+.sub-name {
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.progress-container {
+  height: 1px;
+  background-color: var(--faint);
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.progress-fill {
+  height: 100%;
+  transition: width 1s ease-in-out;
+}
+
+.sub-counts {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.sub-perc {
+  font-family: 'DM Mono', monospace;
+  font-size: 14px;
+  width: 50px;
+  text-align: right;
+}
+
+.map-btn {
+  background: none;
+  border: 1px solid var(--border-light);
+  padding: 5px 10px;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: var(--muted);
+  transition: all 0.15s;
+  flex-shrink: 0;
+}
+
+.map-btn:hover {
+  border-color: var(--text-light);
+  color: var(--text-light);
+}
+
+.sub-chevron {
+  font-size: 14px;
+  color: var(--muted);
+  padding-top: 4px;
+  width: 18px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+/* ── Subject Panel ── */
+.subject-panel {
+  padding: 0 0 20px 0;
+}
+
+.subject-panel-inner {
+  margin-left: 46px;
+  background: var(--surface-light);
+  border: 1px solid var(--border-light);
+  border-left: 3px solid var(--panel-accent, var(--gold));
+}
+
+.panel-study-all {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--border-light);
+  padding: 14px 20px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-light);
+  transition: background 0.12s;
+}
+
+.panel-study-all:hover {
+  background: var(--faint);
+}
+
+.panel-study-meta {
+  font-size: 9px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  text-transform: none;
+}
+
+.panel-topics {
+  display: flex;
+  flex-direction: column;
+}
+
+.panel-status {
+  font-size: 11px;
+  color: var(--muted);
+  padding: 14px 20px;
+  display: block;
+}
+
+.panel-topic-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--border-light);
+  padding: 11px 20px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  transition: background 0.12s;
+}
+
+.panel-topic-btn:last-child {
+  border-bottom: none;
+}
+
+.panel-topic-btn:hover {
+  background: var(--faint);
+}
+
+.panel-topic-name {
+  font-size: 13px;
+  color: var(--text-light);
+}
+
+.panel-topic-due {
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  flex-shrink: 0;
+}
+
+/* ── Weekly Chart ── */
+.chart-bars {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  height: 120px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.chart-bar-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+.chart-bar {
+  width: 100%;
+  max-width: 32px;
+  background-color: var(--faint);
+  transition: height 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.chart-bar.today { background-color: var(--text-light); }
+
+.chart-day {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  margin-top: 12px;
+  color: var(--muted);
+}
+
+.chart-day.today { color: var(--text-light); font-weight: 700; }
+
+/* ── Sidebar & Recent ── */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+.activity-card {
+  display: flex;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.activity-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  margin-top: 6px;
+}
+
+.activity-subject {
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  display: block;
+}
+
+.activity-subtopic {
+  font-family: 'Outfit', sans-serif;
+  font-size: 13px;
+  color: var(--muted);
+  display: block;
+  margin: 2px 0 6px;
+}
+
+.activity-time {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+/* ── Quick Study Buttons ── */
+.quick-study-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.quick-btn {
+  background: var(--surface-light);
+  border: 1px solid var(--border-light);
+  border-left: 3px solid var(--subject-accent);
+  padding: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.quick-btn:hover {
+  background: var(--faint);
+  transform: translateX(4px);
+}
+
+.quick-btn-name {
+  font-family: 'DM Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.quick-btn-count {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
