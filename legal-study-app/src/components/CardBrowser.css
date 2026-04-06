@@ -277,3 +277,48 @@
   padding-top: 14px;
   text-transform: uppercase;
 }
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .cb-masthead {
+    padding: 0 16px;
+    height: 52px;
+  }
+
+  .cb-container {
+    padding: 20px 16px 60px;
+    gap: 16px;
+  }
+
+  .cb-filters {
+    gap: 10px;
+  }
+
+  .cb-type-pills {
+    flex-wrap: wrap;
+    background: none;
+    border: none;
+    gap: 6px;
+  }
+
+  .cb-type-pill {
+    border: 1px solid var(--border-light);
+    padding: 7px 12px;
+  }
+
+  .cb-row-header {
+    grid-template-columns: 100px auto 1fr 20px;
+    gap: 10px;
+    padding: 14px 0;
+  }
+
+  .cb-row-header:hover { padding-left: 0; padding-right: 0; }
+
+  .cb-detail {
+    padding: 20px 16px;
+  }
+
+  .cb-irac-grid {
+    grid-template-columns: 1fr;
+  }
+}

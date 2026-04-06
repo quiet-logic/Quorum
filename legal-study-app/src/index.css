@@ -56,3 +56,6 @@ button {
   font-family: 'Outfit', sans-serif;
   color: inherit;
 }
+
+/* ── Responsive helpers ── */
+/* Mobile-first breakpoint: anything <= 640px is "mobile" */

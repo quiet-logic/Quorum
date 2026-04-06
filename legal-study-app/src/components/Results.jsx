@@ -9,7 +9,7 @@ const SCORE_META = [
   { score: 5, label: 'Perfect', group: 'advancing' },
 ];
 
-const Results = ({ results, subjectAccent = '#C8A96E', onHome, onStudyAgain }) => {
+const Results = ({ results, subjectAccent = '#C8A96E', onHome, onStudyAgain, onGoDeeper }) => {
   const total = results.length;
 
   // Per-score counts
@@ -78,6 +78,9 @@ const Results = ({ results, subjectAccent = '#C8A96E', onHome, onStudyAgain }) =
         <div className="results-actions">
           <button className="results-btn results-btn--primary outfit" onClick={onStudyAgain}>
             Study Again
+          </button>
+          <button className="results-btn results-btn--deeper outfit" onClick={onGoDeeper}>
+            Go Deeper
           </button>
           <button className="results-btn results-btn--ghost outfit" onClick={onHome}>
             Back to Dashboard

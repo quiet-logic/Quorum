@@ -8,7 +8,8 @@ import sqlite3
 from datetime import date
 from contextlib import contextmanager
 
-DB_PATH = "quorum.db"
+import os
+DB_PATH = os.environ.get("DB_PATH", "quorum.db")
 
 
 # ── Connection ──────────────────────────────────────────────────────────────
@@ -418,7 +419,7 @@ def _diff_rank_sql(advanced: bool) -> str:
         ELSE 2 END"""
 
 
-def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15) -> list[dict]:
+def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15, include_deeper=False) -> list[dict]:
     """
     Return a difficulty-scaled session of up to `limit` due cards.
 
@@ -450,6 +451,8 @@ def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15) -> lis
 
         scope_clause = " AND ".join(conditions) if conditions else "1 = 1"
 
+        deeper_clause = "" if include_deeper else "AND c.is_deeper = 0"
+
         avg_row = conn.execute(
             f"""SELECT AVG(p.repetitions) AS avg_reps
                   FROM cards c
@@ -457,7 +460,7 @@ def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15) -> lis
                   JOIN topics    t  ON st.topic_id   = t.id
                   LEFT JOIN progress p ON p.card_id  = c.id
                  WHERE {scope_clause}
-                   AND c.is_deeper = 0
+                   {deeper_clause}
                    AND p.repetitions IS NOT NULL""",
             scope_params,
         ).fetchone()
@@ -486,7 +489,7 @@ def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15) -> lis
                           JOIN subjects  s  ON t.subject_id  = s.id
                           LEFT JOIN progress p ON p.card_id  = c.id
                          WHERE c.flk = ?
-                           AND c.is_deeper = 0
+                           {deeper_clause}
                            AND (p.id IS NULL OR p.next_review <= ?)
                     )
                     SELECT * FROM ranked
@@ -509,7 +512,7 @@ def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15) -> lis
                   JOIN subjects  s  ON t.subject_id  = s.id
                   LEFT JOIN progress p ON p.card_id  = c.id
                  WHERE {scope_clause}
-                   AND c.is_deeper = 0
+                   {deeper_clause}
                    AND (p.id IS NULL OR p.next_review <= ?)
                  ORDER BY ({diff_rank}),
                           COALESCE(p.next_review, '0000-00-00') ASC
@@ -616,3 +619,92 @@ def get_stats() -> dict:
 def get_overall_progress() -> list[dict]:
     """Progress breakdown per subject — same shape as get_subjects_with_progress."""
     return get_subjects_with_progress()
+
+
+def get_analytics() -> dict:
+    """
+    All data needed by the Progress & Analytics page.
+
+    Returns:
+      - heatmap:      [{date, count}] for the last 60 days
+      - retention:    [{date, pct}]   daily accuracy over last 30 days (min 1 review)
+      - forecast:     [{date, due}]   cards due per day for next 7 days
+      - weak_topics:  [{subject, topic, avg_score, reviews}] bottom 10 topics by avg score
+    """
+    from datetime import timedelta
+
+    today = date.today()
+
+    with get_db() as conn:
+
+        # ── Heatmap: reviews per day, last 60 days ───────────────────────────
+        since_60 = (today - timedelta(days=59)).isoformat()
+        heatmap_rows = conn.execute(
+            """SELECT DATE(reviewed_at) AS day, COUNT(*) AS count
+                 FROM reviews
+                WHERE DATE(reviewed_at) >= ?
+                GROUP BY day
+                ORDER BY day""",
+            (since_60,),
+        ).fetchall()
+        heatmap = [{"date": r["day"], "count": r["count"]} for r in heatmap_rows]
+
+        # ── Retention: daily accuracy last 30 days ───────────────────────────
+        since_30 = (today - timedelta(days=29)).isoformat()
+        retention_rows = conn.execute(
+            """SELECT DATE(reviewed_at) AS day,
+                      ROUND(100.0 * SUM(CASE WHEN score >= 3 THEN 1 ELSE 0 END) / COUNT(*)) AS pct
+                 FROM reviews
+                WHERE DATE(reviewed_at) >= ?
+                GROUP BY day
+               HAVING COUNT(*) >= 1
+                ORDER BY day""",
+            (since_30,),
+        ).fetchall()
+        retention = [{"date": r["day"], "pct": r["pct"]} for r in retention_rows]
+
+        # ── Forecast: cards due per day, next 7 days ─────────────────────────
+        forecast = []
+        for offset in range(7):
+            day = today + timedelta(days=offset)
+            day_str = day.isoformat()
+            # Due on this day = has progress with next_review == day, or new cards if day==today
+            due = conn.execute(
+                """SELECT COUNT(*) AS n FROM progress
+                    WHERE next_review = ? AND repetitions >= 0""",
+                (day_str,),
+            ).fetchone()["n"]
+            if offset == 0:
+                # Also count new (no progress record) cards as due today
+                new_cards = conn.execute(
+                    """SELECT COUNT(*) AS n FROM cards c
+                        LEFT JOIN progress p ON p.card_id = c.id
+                        WHERE p.id IS NULL AND c.is_deeper = 0"""
+                ).fetchone()["n"]
+                due += new_cards
+            forecast.append({"date": day_str, "due": due})
+
+        # ── Weak topics: lowest avg score, min 3 reviews ─────────────────────
+        weak_rows = conn.execute(
+            """SELECT s.name AS subject,
+                      t.name AS topic,
+                      ROUND(AVG(r.score), 2) AS avg_score,
+                      COUNT(r.id) AS reviews
+                 FROM reviews r
+                 JOIN cards c     ON c.id          = r.card_id
+                 JOIN subtopics st ON st.id         = c.subtopic_id
+                 JOIN topics t    ON t.id           = st.topic_id
+                 JOIN subjects s  ON s.id           = t.subject_id
+                GROUP BY t.id
+               HAVING COUNT(r.id) >= 3
+                ORDER BY avg_score ASC
+                LIMIT 10""",
+        ).fetchall()
+        weak_topics = [dict(r) for r in weak_rows]
+
+    return {
+        "heatmap":     heatmap,
+        "retention":   retention,
+        "forecast":    forecast,
+        "weak_topics": weak_topics,
+    }

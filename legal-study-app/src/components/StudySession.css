@@ -47,3 +47,20 @@
   background: var(--text-light);
   color: var(--bg-light);
 }
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .masthead {
+    padding: 0 16px;
+    height: 52px;
+  }
+
+  .session-container {
+    padding: 16px 12px 24px;
+  }
+
+  .end-session-btn {
+    padding: 8px 12px;
+    font-size: 9px;
+  }
+}

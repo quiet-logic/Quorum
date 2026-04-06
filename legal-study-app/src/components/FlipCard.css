@@ -320,3 +320,66 @@
   margin-top: 4px;
   opacity: 0.8;
 }
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .flip-card {
+    height: 260px;
+  }
+
+  .flip-card-front,
+  .flip-card-back {
+    padding: 44px 24px 24px;
+  }
+
+  .flip-card-back {
+    padding: 44px 24px 60px;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .flip-card-back .card-text {
+    font-size: 0.88rem;
+  }
+
+  .card-label {
+    top: 16px;
+    left: 16px;
+  }
+
+  .summary-line {
+    padding: 10px 16px 14px;
+    font-size: 9px;
+  }
+
+  .meta-row {
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+
+  .progress-strip {
+    margin-bottom: 12px;
+  }
+
+  /* Rating buttons — full width, taller for thumbs */
+  .rating-container {
+    margin-top: 2px;
+  }
+
+  .rating-buttons {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  .rating-btn {
+    height: 72px;
+  }
+
+  .score-num { font-size: 18px; }
+
+  .score-label { font-size: 10px; }
+}

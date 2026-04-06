@@ -127,12 +127,16 @@ def study_session():
 
     Pass subject_id OR topic_id, or neither for a cross-subject session.
     """
-    subject_id = request.args.get("subject_id", type=int)
-    topic_id   = request.args.get("topic_id",   type=int)
-    flk        = request.args.get("flk")         # 'FLK1' or 'FLK2'
-    limit      = request.args.get("limit", default=15, type=int)
+    subject_id     = request.args.get("subject_id", type=int)
+    topic_id       = request.args.get("topic_id",   type=int)
+    flk            = request.args.get("flk")
+    limit          = request.args.get("limit", default=15, type=int)
+    include_deeper = request.args.get("include_deeper", "false").lower() == "true"
 
-    cards = db.get_session_cards(subject_id=subject_id, topic_id=topic_id, flk=flk, limit=limit)
+    cards = db.get_session_cards(
+        subject_id=subject_id, topic_id=topic_id, flk=flk,
+        limit=limit, include_deeper=include_deeper,
+    )
     return jsonify({"cards": cards, "total": len(cards)})
 
 
@@ -181,6 +185,14 @@ def stats():
 def progress():
     """Overall progress per subject."""
     return jsonify(db.get_overall_progress())
+
+
+# ── Analytics ─────────────────────────────────────────────────────────────────
+
+@app.route("/api/analytics", methods=["GET"])
+def analytics():
+    """Heatmap, retention curve, 7-day forecast, weak topics."""
+    return jsonify(db.get_analytics())
 
 
 # ── Dev entrypoint ────────────────────────────────────────────────────────────

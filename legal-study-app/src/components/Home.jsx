@@ -27,10 +27,12 @@ const DEFAULT_STATS = { streak: 0, today: 0, accuracy: 0, all_time: 0 };
 
 // ── Component ────────────────────────────────────────────────────────────────
 
-const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser }) => {
+const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress }) => {
   const [subjects, setSubjects]             = useState(DEFAULT_SUBJECTS);
   const [stats, setStats]                   = useState(DEFAULT_STATS);
   const [expandedSubjectId, setExpandedSubjectId] = useState(null);
+  const [flk1Open, setFlk1Open]             = useState(true);
+  const [flk2Open, setFlk2Open]             = useState(true);
 
   useEffect(() => {
     Promise.all([
@@ -97,6 +99,7 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser }) => {
           <div className="nav-links">
             <span className="nav-link active">Dashboard</span>
             <span className="nav-link" onClick={onViewCardBrowser}>Browse Cards</span>
+            <span className="nav-link" onClick={onViewProgress}>Progress</span>
           </div>
         </div>
         <div className="flk-btns">
@@ -127,14 +130,17 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser }) => {
 
         <div className="home-grid">
           <div className="main-col">
-            <h2 className="playfair">FLK 1</h2>
-            <div className="subject-list">
-              {renderSubjectList(flk1)}
+            <div className="flk-section-header" onClick={() => setFlk1Open(o => !o)}>
+              <h2 className="playfair">FLK 1</h2>
+              <span className="flk-section-chevron mono">{flk1Open ? '−' : '+'}</span>
             </div>
-            <h2 className="playfair" style={{ marginTop: '40px' }}>FLK 2</h2>
-            <div className="subject-list">
-              {renderSubjectList(flk2)}
+            {flk1Open && <div className="subject-list">{renderSubjectList(flk1)}</div>}
+
+            <div className="flk-section-header" style={{ marginTop: '40px' }} onClick={() => setFlk2Open(o => !o)}>
+              <h2 className="playfair">FLK 2</h2>
+              <span className="flk-section-chevron mono">{flk2Open ? '−' : '+'}</span>
             </div>
+            {flk2Open && <div className="subject-list">{renderSubjectList(flk2)}</div>}
           </div>
 
           <aside className="sidebar">

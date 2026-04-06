@@ -180,6 +180,21 @@
   font-weight: 400;
 }
 
+/* ── FLK Section Header ── */
+.flk-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: default;
+  user-select: none;
+}
+
+.flk-section-chevron {
+  display: none; /* hidden on desktop */
+  font-size: 16px;
+  color: var(--muted);
+}
+
 /* ── Subject Row Group (row + optional panel) ── */
 .subject-row-group {
   border-bottom: 1px solid rgba(216, 211, 200, 0.4);
@@ -478,4 +493,61 @@
   font-size: 10px;
   color: var(--muted);
   text-transform: uppercase;
+}
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .masthead {
+    padding: 0 16px;
+    height: 52px;
+  }
+
+  .nav-links { gap: 16px; }
+
+  .flk-btns { gap: 1px; }
+
+  .flk-btn {
+    padding: 8px 12px;
+    font-size: 9px;
+  }
+
+  .home-container {
+    padding: 24px 16px 60px;
+  }
+
+  .stats-strip {
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 40px;
+  }
+
+  .stat-card { padding: 20px 16px; }
+
+  .stat-value { font-size: 28px; }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .sidebar { order: -1; }
+
+  .quick-study-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  .quick-btn { padding: 16px 10px; }
+
+  .subject-row { gap: 12px; padding: 18px 0; }
+
+  .sub-name { font-size: 14px; }
+
+  .subject-panel-inner { margin-left: 0; }
+
+  .panel-topic-btn { padding: 14px 16px; }
+
+  .panel-study-all { padding: 14px 16px; }
+
+  .flk-section-header { cursor: pointer; }
+
+  .flk-section-chevron { display: block; }
 }

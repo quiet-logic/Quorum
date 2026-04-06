@@ -4,6 +4,7 @@ import StudySession from './components/StudySession';
 import Results from './components/Results';
 import TopicMap from './components/TopicMap';
 import CardBrowser from './components/CardBrowser';
+import Progress from './components/Progress';
 
 // Map home IDs → subject accent colours
 const SUBJECT_ACCENT = {
@@ -68,6 +69,24 @@ function App() {
     }
   };
 
+  // Deeper cards session: include_deeper=true for current subject
+  const startDeeperSession = async (sub) => {
+    let url = '/api/study/session?limit=15&include_deeper=true';
+    if (sub?.dbId) url += `&subject_id=${sub.dbId}`;
+    try {
+      const res  = await fetch(url);
+      const data = await res.json();
+      const cards = data.cards ?? [];
+      if (!cards.length) {
+        alert('No deeper cards due right now.');
+        return;
+      }
+      launchDeck(cards, sub, sub ? (SUBJECT_ACCENT[sub.id] ?? '#C8A96E') : '#C8A96E');
+    } catch {
+      alert('Could not load session — is the backend running?');
+    }
+  };
+
   // Subtopic-level session: all due cards for one subtopic (from TopicMap)
   const startSubtopicStudy = async (sub, subtopicId) => {
     try {
@@ -92,6 +111,7 @@ function App() {
   };
 
   const viewCardBrowser = () => setView('cardbrowser');
+  const viewProgress    = () => setView('progress');
 
   const handleSessionComplete = (results) => {
     setSessionResults(results);
@@ -105,6 +125,7 @@ function App() {
           onStartStudy={startStudySession}
           onViewTopicMap={viewTopicMap}
           onViewCardBrowser={viewCardBrowser}
+          onViewProgress={viewProgress}
         />
       )}
       {view === 'cardbrowser' && (
@@ -132,7 +153,11 @@ function App() {
           subjectAccent={activeAccent}
           onHome={() => setView('home')}
           onStudyAgain={() => startStudySession(activeSubject)}
+          onGoDeeper={() => startDeeperSession(activeSubject)}
         />
+      )}
+      {view === 'progress' && (
+        <Progress onHome={() => setView('home')} />
       )}
     </div>
   );

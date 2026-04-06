@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './FlipCard.css';
 
 const ratings = [
@@ -29,6 +29,7 @@ const FlipCard = ({
   const [isFlipped, setIsFlipped]     = useState(false);
   const [showRating, setShowRating]   = useState(false);
   const [slideClass, setSlideClass]   = useState('');
+  const touchStart = useRef(null);
 
   // Reset card state when question changes (new card loaded)
   useEffect(() => {
@@ -48,6 +49,32 @@ const FlipCard = ({
   }, [isFlipped]);
 
   const handleFlip = () => setIsFlipped(prev => !prev);
+
+  // Touch handlers — swipe up/down to flip; swipe left/right to rate (when flipped)
+  const handleTouchStart = (e) => {
+    touchStart.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+  };
+
+  const handleTouchEnd = (e) => {
+    if (!touchStart.current) return;
+    const dx = e.changedTouches[0].clientX - touchStart.current.x;
+    const dy = e.changedTouches[0].clientY - touchStart.current.y;
+    touchStart.current = null;
+
+    const absX = Math.abs(dx);
+    const absY = Math.abs(dy);
+
+    // Require at least 40px of movement to count as a swipe
+    if (Math.max(absX, absY) < 40) return;
+
+    if (absY > absX) {
+      // Vertical swipe — flip the card
+      handleFlip();
+    } else if (isFlipped && showRating) {
+      // Horizontal swipe — quick rate: left = Hard (1), right = Good (4)
+      handleRate(e, dx < 0 ? 1 : 4);
+    }
+  };
 
   const handleRate = (e, score) => {
     e.stopPropagation();
@@ -198,6 +225,8 @@ const FlipCard = ({
       <div
         className={`flip-card ${isFlipped ? 'is-flipped' : ''} ${slideClass}`}
         onClick={handleFlip}
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
         style={{ '--subject-accent': subjectAccent }}
       >
         <div className="flip-card-inner">
