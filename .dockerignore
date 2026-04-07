@@ -5,6 +5,5 @@ quorum.db
 .env
 .DS_Store
 legal-study-app/node_modules
-legal-study-app/dist
 .git
 .claude
