@@ -54,7 +54,8 @@ quorum/
         │   ├── SyllabusMap.jsx / SyllabusMap.css
         │   ├── ExamSimulator.jsx / ExamSimulator.css
         │   └── ExamResults.jsx / ExamResults.css
-        └── FLK1_*.json / FLK2_*.json / FLK_PC.json   # Card source data
+        └── data/
+            └── FLK1_*.json / FLK2_*.json / FLK_PC.json   # Card source data
 ```
 
 ---

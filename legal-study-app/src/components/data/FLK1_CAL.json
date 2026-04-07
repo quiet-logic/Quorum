@@ -3232,6 +3232,267 @@
             "is_deeper": 0
           }
         ]
+      },
+      "Devolution": {
+        "Foundations and models": [
+          {
+            "card_code": "FLK1-CAL-079",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is devolution and what were the three primary Acts that established the devolved legislatures in the UK?",
+            "answer": "Devolution is the transfer of legislative and executive powers from the Westminster Parliament to regional bodies, while Westminster retains parliamentary sovereignty. The devolved institutions cannot override Acts of the Westminster Parliament.\n\nThe three primary devolution statutes:\n1. Scotland Act 1998 — established the Scottish Parliament and Scottish Government. Amended significantly by the Scotland Act 2012 and Scotland Act 2016.\n2. Government of Wales Act 1998 — established the National Assembly for Wales (now Senedd Cymru). The Government of Wales Act 2006 transferred executive functions, and the Wales Act 2017 extended primary legislative powers.\n3. Northern Ireland Act 1998 — established the Northern Ireland Assembly and Executive, implementing the Good Friday Agreement.\n\nKey principle: The devolved legislatures have competence over 'devolved matters' (as specified in each Act) — the Westminster Parliament retains competence over 'reserved matters'. For the SQE1 syllabus, Scotland and Wales are the primary focus.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DEVOLUTION · SCOTLAND ACT 1998 · WALES ACT 2017 · NI ACT 1998 · DEVOLVED MATTERS · RESERVED MATTERS",
+            "is_deeper": 0
+          }
+        ],
+        "Scotland": [
+          {
+            "card_code": "FLK1-CAL-080",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the distinction between 'reserved' and 'devolved' matters under the Scotland Act 1998, and give three examples of each?",
+            "answer": "Under the Scotland Act 1998, the Scottish Parliament has competence over all matters that are not 'reserved' to Westminster (the 'general competence' model). Schedule 5 lists the reserved matters.\n\nReserved matters (Westminster only):\n— The constitution (including the Crown succession and the Union).\n— Foreign policy and defence.\n— Immigration and nationality.\n— Social security benefits (broadly).\n— Broadcasting.\n— Most aspects of employment law.\n— Competition law.\n\nDevolved matters (Scottish Parliament can legislate):\n— Health (NHS Scotland).\n— Education (including universities in Scotland).\n— Justice (Scots criminal and civil law).\n— Local government.\n— Housing.\n— Environment and planning.\n— Some tax powers (income tax rates and bands in Scotland; Land and Buildings Transaction Tax replacing SDLT).\n\nKey exam point: Scotland has its own legal system. Scots criminal law and civil procedure differ from English law. The SQE1 syllabus focuses on English law but awareness of the devolution settlement is tested in CAL.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SCOTLAND ACT 1998 · GENERAL COMPETENCE · SCHEDULE 5 RESERVED · HEALTH EDUCATION JUSTICE DEVOLVED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-081",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "How did the devolution settlement for Wales differ from Scotland, and what change did the Wales Act 2017 introduce?",
+            "answer": "Wales's devolution settlement evolved differently from Scotland's:\n\nPre-2017 (conferred powers model): The Government of Wales Act 2006 gave the National Assembly for Wales power to legislate only in areas specifically conferred on it. This required Westminster to pass legislation expressly conferring each new area of competence — a slower, more restricted model than Scotland.\n\nWales Act 2017 (reserved powers model): The Wales Act 2017 switched Wales to a reserved powers model — similar to Scotland. The Senedd Cymru (as it was renamed under the Senedd and Elections (Wales) Act 2020) now has general legislative competence over all matters not reserved to Westminster, listed in Schedule 7A of the Government of Wales Act 2006 (as amended).\n\nKey differences from Scotland:\n— Wales does not have a separate legal system — Welsh law operates within the English legal system (one jurisdiction: England and Wales).\n— The Senedd's legislation must be compatible with Convention rights and EU retained law.\n— The Welsh Government now has some tax powers (Landfill Disposals Tax; Land Transaction Tax replacing SDLT in Wales).\n\nThe switch to the reserved powers model is the key change tested at SQE1.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "WALES · CONFERRED POWERS → RESERVED POWERS · WALES ACT 2017 · SENEDD · ONE JURISDICTION · LTT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-087",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What was decided in R (Miller) v Prime Minister [2019] UKSC 41, and why is it constitutionally significant?",
+            "answer": "In R (Miller) v Prime Minister [2019] UKSC 41 (Miller 2), the UK Supreme Court unanimously held that the Prime Minister's advice to the Queen to prorogue Parliament for five weeks (from 9 September to 14 October 2019) was unlawful.\n\nKey holdings:\n1. Justiciability: The question of whether the prorogation was lawful was justiciable — it was a matter for the courts, not a non-justiciable political question (contrast with earlier prerogative cases such as CCSU v Minister for the Civil Service [1985]).\n2. The legal standard: A prorogation is unlawful if it has the effect of frustrating or preventing, without reasonable justification, the ability of Parliament to carry out its constitutional functions.\n3. Application: A five-week prorogation during a constitutional crisis (Brexit) — with no justification provided by the Government — frustrated Parliament's functions. The prorogation was void ab initio.\n4. Consequence: The prorogation was of no effect. Parliament had not been prorogued and could resume its sittings immediately.\n\nConstitutional significance: First time the Supreme Court struck down an exercise of the royal prerogative (prorogation) as unlawful. Established that prerogative powers, when exercised by ministers, are subject to judicial review against constitutional principles — not merely the grounds in GCHQ.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MILLER 2 2019 · PROROGATION UNLAWFUL · JUSTICIABLE · FRUSTRATED PARLIAMENT · VOID AB INITIO · PREROGATIVE REVIEWABLE",
+            "is_deeper": 0
+          }
+        ],
+        "Wales": [
+          {
+            "card_code": "FLK1-CAL-082",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "Can the Westminster Parliament legislate on devolved matters? Does devolution undermine parliamentary sovereignty?",
+            "answer": "Westminster can still legislate on devolved matters as a matter of law — parliamentary sovereignty (as established by Dicey and affirmed in *R (Miller) v Secretary of State for Exiting the EU* [2017] UKSC 5) means no Parliament can bind its successors and Westminster retains legislative supremacy.\n\nHowever, by constitutional convention (the Sewel Convention), Westminster will not normally legislate on devolved matters without the consent of the devolved legislature. The devolved legislature passes a 'Legislative Consent Motion' (LCM) if it consents.\n\nStatutory recognition: The Sewel Convention was given statutory recognition in the Scotland Act 2016 (s.2, inserting s.28(8) into the Scotland Act 1998), which provides that the UK Parliament will not normally legislate on devolved matters without the Scottish Parliament's consent. The convention was also recognised for Wales in the Wales Act 2017.\n\nJudicial enforceability: In *R (Miller) v Secretary of State for Exiting the EU* [2017], the Supreme Court confirmed that the Sewel Convention, although given statutory recognition, is a political constraint — not legally enforceable by the courts.\n\nDevolution therefore does not undermine parliamentary sovereignty — Westminster can override devolved legislatures but will not normally do so without consent.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SOVEREIGNTY RETAINED · SEWEL CONVENTION · LCM · STATUTE RECOGNISED NOT ENFORCEABLE · MILLER 2017",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-083",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What happens when a devolved legislature passes legislation that exceeds its legislative competence? Who has jurisdiction to determine this?",
+            "answer": "A Bill passed by a devolved legislature that exceeds its competence is outside competence (ultra vires) and is not law to the extent of the incompatibility.\n\nWho determines competence:\n1. Pre-assent review: The Scotland Act 1998 provides mechanisms for pre-assent scrutiny — the Advocate General for Scotland, the Lord Advocate, or the Attorney General can refer a Bill to the UK Supreme Court before Royal Assent if they believe it exceeds competence.\n2. Post-enactment review: Courts can declare a devolved Act outside competence in the course of litigation. The UK Supreme Court has jurisdiction to determine devolution issues.\n3. The UK Supreme Court: The ultimate arbiter of whether devolved legislation is within competence — replacing the Judicial Committee of the Privy Council (which previously had jurisdiction) since 2009.\n\nKey cases: *AXA General Insurance Ltd v Lord Advocate* [2011] (Supreme Court's supervisory jurisdiction over Scottish Parliament legislation); *Reference by the Attorney General and the Advocate General for Scotland* [2022] (on Scottish independence referendum legislation).\n\nRemedies: A court finding that an Act is outside competence results in the Act being of no effect to that extent — it does not invalidate the whole Act if severable.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "OUTSIDE COMPETENCE · UK SUPREME COURT · PRE-ASSENT REFERENCE · POST-ENACTMENT · VOID TO EXTENT · SEVERANCE",
+            "is_deeper": 0
+          }
+        ],
+        "Parliamentary sovereignty and devolution": [
+          {
+            "card_code": "FLK1-CAL-084",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "How does the devolution settlement interact with parliamentary sovereignty following Brexit, and what tension has emerged?",
+            "answer": "Brexit created significant tension in the devolution settlement.\n\nThe core issue: Before Brexit, EU law acted as a constraint on both Westminster and the devolved legislatures equally. After Brexit, the UK Internal Market Act 2020 introduced market access principles (mutual recognition and non-discrimination) that apply across the UK and limit the ability of devolved legislatures to impose different regulatory standards on goods and services.\n\nThe conflict: The UKIMA 2020 was enacted without Legislative Consent Motions from the Scottish Parliament or Senedd — both refused consent. Westminster proceeded anyway, exercising its legal sovereignty but breaking the Sewel Convention.\n\nIn *Reference by the Attorney General and the Advocate General for Scotland* [2022] UKSC 31, the Supreme Court confirmed that the Scottish Parliament's Bill on an independence referendum was outside its legislative competence — the Union of the Parliaments is a reserved matter.\n\nThe tension: Brexit demonstrated that Westminster's legal sovereignty can override the Sewel Convention. The devolved institutions can resist politically but cannot enforce the Convention legally. This has reignited debates about the constitutional status of devolution — whether it is genuinely entrenched or merely conventional.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BREXIT · UKIMA 2020 · SEWEL BREACH · LCM REFUSED · SOVEREIGNTY PREVAILS · CONVENTION NOT ENFORCED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-085",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is the 'West Lothian Question' and why does it matter for understanding devolution?",
+            "answer": "The West Lothian Question (named after the MP Tam Dalyell's 1977 speech) asks: why should Scottish (and Welsh) MPs at Westminster be able to vote on matters affecting England only, when English MPs cannot vote on equivalent matters for Scotland or Wales (which have been devolved)?\n\nThe question arises because: Devolution is asymmetric — Scotland, Wales, and Northern Ireland have their own legislatures for devolved matters, but England does not. Scottish, Welsh, and Northern Irish MPs sit in Westminster and vote on English-only matters (e.g. English NHS, English education policy) even though Westminster cannot pass equivalent legislation for their own constituencies.\n\nAttempted solutions:\n— English Votes for English Laws (EVEL): Introduced in 2015 as a parliamentary procedure allowing English (and English and Welsh) MPs a 'veto' on English-only Bills. Abolished in 2021 as unworkable.\n— English Parliament: Proposed but not adopted — the political and constitutional difficulties of creating a fifth legislature within the UK have deterred successive governments.\n\nCurrent position: The West Lothian Question remains unresolved. It is a constitutional anomaly that devolution has created without fully addressing.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "WEST LOTHIAN QUESTION · ASYMMETRIC DEVOLUTION · SCOTTISH MPs ENGLISH VOTES · EVEL 2015–2021 · UNRESOLVED",
+            "is_deeper": 0
+          }
+        ],
+        "Competence challenges": [
+          {
+            "card_code": "FLK1-CAL-086",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the Scotland Act 2016 and what were its three most significant changes to the devolution settlement?",
+            "answer": "The Scotland Act 2016 implemented the recommendations of the Smith Commission, which was established following the 2014 Scottish independence referendum. Its three most significant changes:\n\n1. Scottish Parliament made permanent: Section 1 declared that the Scottish Parliament and Scottish Government are permanent institutions — they cannot be abolished without a referendum in Scotland. This gave the devolution settlement an entrenched quality, though legally Westminster's sovereignty technically remains.\n\n2. Income tax devolution: The Scottish Parliament received power to set income tax rates and bands for Scottish taxpayers. Westminster retains control of the personal allowance. This created 'Scottish income tax' — Scottish taxpayers now pay rates set by Holyrood, which differ from the rest of the UK.\n\n3. Sewel Convention statutory recognition: Section 2 inserted s.28(8) into the Scotland Act 1998, giving the Sewel Convention legislative recognition — 'it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the Scottish Parliament.' As confirmed in Miller [2017], this is recognition, not legal enforceability.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SCOTLAND ACT 2016 · PERMANENT · INCOME TAX DEVOLVED · SEWEL STATUTORY RECOGNITION · SMITH COMMISSION",
+            "is_deeper": 0
+          }
+        ],
+        "Case cards": [
+          {
+            "card_code": "FLK1-CAL-CASE-034",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "AXA General Insurance Ltd v Lord Advocate [2011] UKSC 46",
+            "answer": null,
+            "issue": "Whether the UK Supreme Court had supervisory jurisdiction over Acts of the Scottish Parliament, and whether AXA could challenge the Damages (Asbestos-related Conditions) (Scotland) Act 2009 by judicial review.",
+            "rule": "The Supreme Court held that Scottish Parliament Acts are not immune from judicial review. Unlike Westminster legislation (which courts will not strike down as a matter of constitutional principle), devolved legislation can be challenged on grounds of incompatibility with the devolution settlement, Convention rights, or EU law. The source of the Scottish Parliament's authority is a Westminster statute — it is not a sovereign legislature.",
+            "application": "The Asbestos Act was challenged by insurance companies. The Court held it was within the Scottish Parliament's competence and refused the challenge on its merits, but confirmed that supervisory jurisdiction existed. Lord Hope emphasised that devolved legislatures lack the sovereignty of Westminster and their Acts may be reviewed.",
+            "conclusion": "Acts of a devolved legislature can be judicially reviewed and struck down if outside competence — unlike Westminster Acts. This reflects the fundamental distinction between sovereign and subordinate legislatures. The Supreme Court is the ultimate arbiter of devolution issues.",
+            "summary_line": "DEVOLVED ACTS REVIEWABLE · NOT SOVEREIGN · SUPREME COURT JURISDICTION · CONTRAST WESTMINSTER",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-CASE-035",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Reference by the Attorney General and the Advocate General for Scotland — United Kingdom Withdrawal from the European Union (Legal Continuity) (Scotland) Bill [2018] UKSC 64",
+            "answer": null,
+            "issue": "Whether the Scottish Parliament's EU Continuity Bill was within its legislative competence when it sought to retain EU law in Scottish devolved areas following Brexit, in a way that potentially conflicted with the UK Withdrawal Act.",
+            "rule": "A Bill or Act of the Scottish Parliament that modifies a protected enactment (here, aspects of the European Communities Act 1972 and the planned EU Withdrawal Act) is outside competence under s.29(2)(c) Scotland Act 1998. The Scottish Parliament cannot legislate in a way that would modify the legislative competence of Westminster Parliament.",
+            "application": "The Supreme Court held that significant parts of the Scottish Continuity Bill were outside competence because they modified aspects of EU withdrawal legislation that Westminster was simultaneously enacting. The Bill sought to create a parallel Scottish regime that conflicted with the UK-wide framework.",
+            "conclusion": "Devolved legislation is outside competence if it modifies Westminster legislation in reserved areas or seeks to undermine the UK Parliament's legislative scheme. Brexit demonstrated the limits of devolved competence when in direct conflict with UK-wide legislation.",
+            "summary_line": "CONTINUITY BILL OUTSIDE COMPETENCE · MODIFIED PROTECTED ENACTMENT · BREXIT TENSION · DEVOLVED LIMITS",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-CAL-SCE-063",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "The Scottish Parliament passes an Act banning all firearms ownership in Scotland for private individuals. A Scottish gun club challenges the Act. Is the Act within competence?",
+            "answer": "No — firearms regulation is a reserved matter under Schedule 5 to the Scotland Act 1998. The Scottish Parliament has no competence to legislate on reserved matters. An Act that purports to regulate firearms in Scotland is outside competence and will have no legal effect to that extent.\n\nThe challenge would proceed as a 'devolution issue' — which can be referred to the UK Supreme Court by the Lord Advocate, the Advocate General for Scotland, or on a reference from a lower court. The Supreme Court would find the Act outside competence and make a declaration to that effect.\n\nThis is a clear example of a devolved legislature exceeding its competence on an expressly reserved matter. Firearms, policing (in part), and national security are all reserved under Schedule 5. The Scottish Parliament cannot create its own firearms regime separate from UK-wide firearms legislation.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FIREARMS RESERVED · SCHEDULE 5 · OUTSIDE COMPETENCE · DEVOLUTION ISSUE · SUPREME COURT · NO EFFECT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-SCE-064",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Westminster passes an Act reforming teacher pay and conditions in England. A Scottish MP votes in favour of the Act. A Welsh MP abstains. The Act passes. Has the Sewel Convention been broken?",
+            "answer": "No — the Sewel Convention is not broken in this scenario. The Convention applies to Westminster legislating on devolved matters for Scotland, Wales, or Northern Ireland — not to Westminster legislating on England-only matters.\n\nTeacher pay and conditions in England is a matter for Westminster (since education in England is not devolved — England has no separate legislature). The Scottish Parliament and Senedd have competence over teacher pay in their own territories.\n\nThe fact that Scottish and Welsh MPs vote on this English matter is the West Lothian Question — an unresolved constitutional anomaly — but it does not implicate the Sewel Convention, which is concerned with Westminster legislating on devolved matters, not with who votes on English matters at Westminster.\n\nThe Sewel Convention would be relevant if Westminster were to pass a law reforming teacher pay in Scotland or Wales without LCMs from those legislatures.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SEWEL NOT BROKEN · ENGLAND ONLY · WEST LOTHIAN QUESTION · SEWEL = DEVOLVED MATTERS ONLY",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-SCE-065",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "The Senedd passes a law introducing a Welsh-specific tax on single-use plastics sold in Wales, including by English retailers who deliver to Wales. An English retailer challenges the law. Analyse the devolution issues.",
+            "answer": "This raises the competence of the Senedd and the interaction with the UK Internal Market Act 2020 (UKIMA).\n\nDevolution competence: Since the Wales Act 2017, the Senedd operates on a reserved powers model. Taxation is generally a reserved matter, but the Wales Act 2017 gave the Senedd power over certain devolved taxes (Land Transaction Tax, Landfill Disposals Tax). A new tax on single-use plastics is not among the expressly devolved taxes — it requires a Legislative Competence Order or further devolution of tax powers. The Senedd may not have the power to create new taxes outside its expressly devolved fiscal competence.\n\nUKIMA 2020 issue: Even if the Senedd had fiscal power, the UKIMA 2020 market access principles — specifically non-discrimination — may prevent Wales from imposing different regulatory burdens on goods entering the Welsh market from England. An English retailer could argue the tax discriminates against them compared to Welsh-based retailers.\n\nConclusion: The law likely faces dual challenge — outside Senedd's fiscal competence (reserved matter), and potentially contrary to UKIMA non-discrimination principles. Both are live arguments.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SENEDD TAX COMPETENCE · RESERVED MATTER · UKIMA 2020 NON-DISCRIMINATION · DUAL CHALLENGE · DEVOLUTION LIMITS",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Miller 2 — Prorogation": {
+        "The decision": [
+          {
+            "card_code": "FLK1-CAL-088",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "How does Miller 2 [2019] develop the law on judicial review of prerogative powers beyond the position in CCSU v Minister for the Civil Service [1985]?",
+            "answer": "CCSU v Minister for the Civil Service [1985] (the GCHQ case) established the modern grounds of judicial review and held that prerogative powers are in principle reviewable — but that some prerogative powers are non-justiciable because of their nature (national security, foreign affairs, treaty-making).\n\nMiller 2 [2019] significantly developed this framework:\n\n1. New constitutional standard: The Court did not apply the traditional GCHQ grounds (illegality, irrationality, procedural impropriety) to this prorogation. Instead, it derived a standard from constitutional principles — specifically, parliamentary sovereignty and parliamentary accountability. The exercise of the prerogative must not frustrate these constitutional principles without reasonable justification.\n\n2. Justiciability expanded: In GCHQ, prorogation was not directly addressed. Miller 2 held that the question of whether prorogation frustrated Parliament's constitutional functions is a legal question — not a political one — and therefore justiciable. The Court declined to adopt a blanket non-justiciability rule for all exercises of the prorogation power.\n\n3. Effect: The standard in Miller 2 is potentially broader than GCHQ — it allows courts to review prerogative exercises against constitutional principles, not just traditional administrative law grounds. This may have implications beyond prorogation for other constitutional prerogative powers.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MILLER 2 DEVELOPS GCHQ · NEW CONSTITUTIONAL STANDARD · NOT JUST TRADITIONAL GROUNDS · JUSTICIABILITY WIDER",
+            "is_deeper": 0
+          }
+        ],
+        "Development of the law": [],
+        "Case cards": [
+          {
+            "card_code": "FLK1-CAL-CASE-036",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "R (Miller) v Prime Minister [2019] UKSC 41 (Miller 2)",
+            "answer": null,
+            "issue": "Whether the Prime Minister's advice to the Queen to prorogue Parliament for five weeks was lawful, and whether the question was justiciable.",
+            "rule": "A prorogation of Parliament is unlawful if it has the effect of frustrating or preventing, without reasonable justification, the ability of Parliament to carry out its constitutional functions. The courts have jurisdiction to determine this — it is a legal question, not a purely political one. The principle that the executive cannot, without parliamentary authorisation, act in a way that undermines parliamentary sovereignty and accountability applies to the exercise of prerogative powers.",
+            "application": "The Prime Minister advised the Queen to prorogue for five weeks during the Brexit crisis, immediately before the prorogation the Prime Minister gave no justification. The Supreme Court found no reasonable justification for five weeks — a prorogation of days (as was customary between sessions) would have been lawful. The five-week period frustrated Parliament's ability to scrutinise the Government during a critical constitutional moment.",
+            "conclusion": "The prorogation was void ab initio. Parliament had not been prorogued and could resume immediately. The Speaker of the House of Commons recalled Parliament within days. This case established that prerogative powers exercised by ministers may be tested against constitutional principles — not merely administrative law grounds — and struck down for the first time.",
+            "summary_line": "PROROGATION UNLAWFUL · VOID AB INITIO · JUSTICIABLE · FRUSTRATED PARLIAMENT · CONSTITUTIONAL PRINCIPLES",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-CAL-SCE-066",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "Following Miller 2, the Prime Minister advises the Queen to prorogue Parliament for 3 days to allow a new session to open with a King's Speech. Is this prorogation lawful?",
+            "answer": "Yes — a brief prorogation for a legitimate purpose (the new session and King's Speech) is constitutionally normal and lawful. Miller 2 did not ban prorogation — it banned prorogation that frustrated Parliament's constitutional functions without reasonable justification.\n\nThe test from Miller 2: does the prorogation have the effect of frustrating or preventing, without reasonable justification, Parliament's ability to carry out its constitutional functions?\n\nApplied here:\n— Three days: Parliament's functions are not frustrated by a brief, conventional prorogation of this length.\n— Legitimate purpose: A King's Speech is a standard parliamentary event — there is clear and obvious justification.\n— Constitutional normality: Brief prorogations between sessions have always been part of parliamentary practice.\n\nThis prorogation would be lawful. Miller 2 was concerned with the exceptional — a five-week prorogation during a constitutional crisis with no justification — not with routine constitutional procedure. The Court affirmed that Parliament can be prorogued; the limit is that prorogation cannot be weaponised to undermine parliamentary scrutiny.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BRIEF PROROGATION LAWFUL · LEGITIMATE PURPOSE · KING'S SPEECH · MILLER 2 NOT ABSOLUTE BAN · 3 DAYS = NORMAL",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-CAL-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA student argues: 'Miller 2 [2019] shows that the royal prerogative is no longer a valid source of executive power — the Supreme Court can now strike down any use of prerogative at will.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: Miller 2 held prorogation unlawful, therefore all exercises of prerogative power are now justiciable and the Supreme Court can strike them down on any ground it sees fit.",
+            "rule": "The Reality: Miller 2 did not abolish the prerogative or hold that all prerogative exercises are justiciable. The Court identified a specific constitutional standard — frustration of Parliament's functions without reasonable justification — applicable to the prorogation power because of its direct interface with parliamentary sovereignty. The GCHQ principle still stands: some prerogative powers remain non-justiciable (e.g. treaty-making, national security decisions, dissolution of Parliament pre-Fixed Term Parliaments Act) because of their nature.",
+            "application": "Why the Distractor Fails: Miller 2 expanded the categories of prerogative exercise that are reviewable and introduced a new constitutional standard, but it was explicitly limited to the prorogation power in a constitutional crisis context. The Court went to lengths to emphasise that it was deciding the legal limits of the prorogation power, not asserting a general supervisory power over all prerogative exercises. Prerogative powers remain legally enforceable — the decision targeted their limits, not their existence.",
+            "conclusion": "The Key Rule: Miller 2 established that prorogation is reviewable against constitutional principles — it did not hold that all prerogative powers are reviewable on all grounds. The prerogative remains valid; its exercise is constrained by constitutional limits in the specific context where it directly conflicts with parliamentary functions.",
+            "summary_line": "MILLER 2 LIMITED · NOT ALL PREROGATIVE REVIEWABLE · GCHQ STILL APPLIES · CONSTITUTIONAL STANDARD SPECIFIC",
+            "is_deeper": 0
+          }
+        ]
       }
     }
   }

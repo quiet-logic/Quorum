@@ -3118,6 +3118,404 @@
             "is_deeper": 0
           }
         ]
+      },
+      "SEIS and EIS": {
+        "Investment tax reliefs — SEIS": [
+          {
+            "card_code": "FLK1-BLP-098",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the Enterprise Investment Scheme (EIS) and what tax reliefs does it provide to investors?",
+            "answer": "The Enterprise Investment Scheme (EIS) is a government-backed scheme designed to encourage investment in smaller, higher-risk trading companies. Qualifying investors receive:\n\n1. Income tax relief: 30% of the amount invested (up to £1,000,000 per tax year, or £2,000,000 if the excess is invested in knowledge-intensive companies), set against the investor's income tax liability.\n2. CGT exemption: Gains on disposal of EIS shares are exempt from CGT if held for at least 3 years.\n3. Loss relief: Losses on EIS shares can be set against income or capital gains.\n4. CGT deferral: CGT on the disposal of other assets can be deferred by reinvesting the gain in EIS shares.\n5. IHT: EIS shares typically qualify for Business Property Relief (BPR) after 2 years, giving 100% IHT relief.\n\nThe company must be unquoted, trading, and under a certain size threshold. EIS is frequently tested in BLP in the context of start-up and growth finance advice. ⚠️ Link — Business Property Relief (see FLK2-WTP and FLK1-BLP-IHT cards).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EIS · 30% INCOME TAX RELIEF · CGT EXEMPTION 3 YEARS · LOSS RELIEF · CGT DEFERRAL · BPR",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-099",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the Seed Enterprise Investment Scheme (SEIS) and how does it differ from EIS?",
+            "answer": "The Seed Enterprise Investment Scheme (SEIS) targets very early-stage companies — it provides more generous tax relief than EIS to reflect the higher risk of investing in start-ups.\n\nKey differences from EIS:\n\n| Feature | SEIS | EIS |\n|---|---|---|\n| Income tax relief | 50% | 30% |\n| Max investment | £200,000 per year | £1,000,000 per year |\n| Company size | Max £350,000 gross assets, max 25 employees | Larger threshold |\n| CGT exemption | Yes (3 years) | Yes (3 years) |\n| CGT reinvestment relief | 50% of gain exempt | Deferral only |\n\nFor BLP exam purposes: SEIS is the scheme for angel investors in very early-stage companies; EIS is for slightly larger growth companies. A solicitor advising an investor in a start-up must identify whether SEIS or EIS applies and advise on the qualifying conditions. Both schemes require HMRC advance assurance for the company.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SEIS · 50% RELIEF · £200K MAX · EARLY STAGE · 25 EMPLOYEES · CONTRAST EIS 30% £1M",
+            "is_deeper": 0
+          }
+        ],
+        "Investment tax reliefs — EIS": [
+          {
+            "card_code": "FLK1-BLP-100",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A client wants to invest £150,000 in a friend's new tech start-up that has been incorporated for 6 months, has 3 employees, and gross assets of £200,000. Which scheme applies, and what is the income tax relief?",
+            "answer": "This is an SEIS scenario. The company satisfies the SEIS conditions:\n— Gross assets under £350,000 ✓\n— Under 25 employees ✓\n— A new company (under 3 years old at the time of the share issue) ✓\n— Must be an unquoted trading company ✓ (assumed)\n\nThe client invests £150,000 — within the SEIS annual limit of £200,000.\n\nIncome tax relief: 50% × £150,000 = £75,000 reduction in the client's income tax liability for the year. This is a credit against tax owed, not a deduction from income — so the client needs sufficient tax liability to absorb the relief.\n\nAdditional reliefs available: CGT exemption on disposal after 3 years; CGT reinvestment relief (50% of a capital gain reinvested in SEIS shares is exempt); loss relief if the shares fall in value.\n\nThe solicitor should advise the client to obtain HMRC advance assurance that the company qualifies before investing, as SEIS status is not automatic.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SEIS · £150K × 50% = £75K RELIEF · GROSS ASSETS £200K · 3 EMPLOYEES · ADVANCE ASSURANCE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-101",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What conditions must a company satisfy to be a qualifying EIS company, and what activities are excluded?",
+            "answer": "To qualify for EIS, a company must:\n1. Be an unquoted company (not listed on a recognised stock exchange — AIM qualifies as unquoted for EIS purposes).\n2. Be a trading company — it must carry on a qualifying trade, not be an investment or property company.\n3. Have gross assets under £15 million before the share issue and under £16 million after.\n4. Have fewer than 250 full-time equivalent employees.\n5. Have been incorporated and trading for less than 7 years before the first EIS share issue (10 years for knowledge-intensive companies).\n6. Not be in financial difficulty.\n\nExcluded activities (non-qualifying trades):\n— Property development and investment.\n— Financial activities (banking, insurance, money-lending).\n— Legal and accountancy services.\n— Farming and market gardening.\n— Energy generation with guaranteed offtake prices.\n— Leasing and receiving royalties.\n\nThe solicitor must check the company's activities against the excluded list before advising an investor that EIS relief is available.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EIS · UNQUOTED · QUALIFYING TRADE · £15M GROSS ASSETS · 250 EMPLOYEES · EXCLUDED: PROPERTY FINANCE LAW",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-102",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A solicitor advises a client who has a £500,000 CGT gain from the sale of a commercial property. How can EIS be used to defer this gain, and what are the conditions?",
+            "answer": "EIS CGT deferral relief allows an investor to defer a capital gain arising on the disposal of any asset (not just shares) by reinvesting the gain into qualifying EIS shares.\n\nConditions for deferral:\n1. The EIS shares must be subscribed for between 1 year before and 3 years after the disposal giving rise to the gain.\n2. The investor must subscribe for new shares — secondary market purchases do not qualify.\n3. The company must qualify for EIS at the time of subscription.\n4. There is no cap on the amount of gain that can be deferred (unlike SEIS where the relief is 50% of gain exempt rather than deferral).\n\nFor the client: they could reinvest up to £500,000 in EIS shares and defer the entire £500,000 gain — deferring the CGT until the EIS shares are sold. At that point, the deferred gain crystallises (though if EIS conditions are met, the gain on the EIS shares themselves is exempt). Additionally, EIS income tax relief of 30% × £500,000 = £150,000 would also be available if the client has sufficient income tax liability.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EIS CGT DEFERRAL · ANY GAIN · 1 YEAR BEFORE/3 AFTER · NEW SHARES · NO CAP · PLUS 30% INCOME TAX",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-103",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is 'advance assurance' in the context of EIS/SEIS, why is it important, and does it guarantee qualifying status?",
+            "answer": "Advance assurance is a formal confirmation from HMRC that, based on the information provided, a company's planned share issue is likely to qualify for EIS or SEIS relief. The company applies to HMRC's Small Company Enterprise Centre before making the share issue.\n\nWhy it is important:\n— Investors can rely on the assurance when making their investment decision.\n— It reduces the risk that relief will be refused after the investment is made.\n— Many investors (particularly sophisticated angel investors) will not invest without advance assurance.\n\nCritical limitation — advance assurance does not guarantee qualifying status:\n— It is based on the information provided and HMRC's understanding at that time.\n— If the company's activities, structure, or circumstances change after assurance is given, HMRC may withdraw the assurance.\n— HMRC can refuse to issue the EIS3/SEIS3 compliance certificates (which investors need to claim relief) even if advance assurance was given, if qualifying conditions are not actually met at the time of the share issue.\n\nThe solicitor must advise that advance assurance is comfort, not certainty. Qualifying conditions must be satisfied at each relevant point.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ADVANCE ASSURANCE · HMRC · COMFORT NOT GUARANTEE · CONDITIONS MUST BE MET · EIS3/SEIS3 CERTIFICATE",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-BLP-SCE-051",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A client has invested £80,000 in SEIS qualifying shares two years ago. The company is now struggling and the shares are worth £20,000. The client is considering selling. What tax reliefs are available on the loss?",
+            "answer": "The client faces a loss of £60,000 (£80,000 cost minus £20,000 proceeds). The following reliefs are available:\n\n1. SEIS income tax relief already claimed: The client claimed 50% × £80,000 = £40,000 income tax relief when they invested. If they sell after 3 years, they keep this relief. If they sell before 3 years, they must repay the income tax relief proportionately — here (selling after 2 years) they would repay £40,000 × (£20,000/£80,000) = £10,000 of the relief.\n\n2. SEIS loss relief: The allowable loss is £60,000 minus the income tax relief retained (£30,000 if sold before 3 years, or £40,000 if sold after). This reduced loss can be set against capital gains or income in the year of disposal or carried back.\n\nKey advice: The client should ideally hold for 3 years to avoid repaying the income tax relief. If they must sell now, loss relief reduces the net cost. The solicitor should model the after-tax position before advising the client to sell.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SEIS LOSS · 3 YEAR RULE · INCOME TAX RELIEF REPAYMENT · LOSS RELIEF AGAINST INCOME OR GAINS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-052",
+            "card_type": 3,
+            "difficulty": "Foundation",
+            "front": "A solicitor is advising a client who wants to invest in a friend's property development company. The friend says the company qualifies for EIS. Is the solicitor's client likely to receive EIS relief?",
+            "answer": "No — property development is an excluded activity under the EIS rules. The EIS regime requires the company to carry on a qualifying trade, and property development (and property investment) is expressly excluded from qualifying trades.\n\nThe solicitor must advise the client that:\n1. The company will not qualify for EIS regardless of what the friend believes.\n2. If the client invests relying on EIS relief that is not available, they will face an income tax liability when HMRC refuses the relief — potentially years after the investment is made.\n3. The client should seek independent tax advice before investing.\n4. The friend may not have sought advance assurance from HMRC, or may be mistaken about the company's qualifying status.\n\nThis is a straightforward excluded activity scenario. The solicitor's duty is to advise clearly and not to allow the client to invest under a false tax assumption.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROPERTY DEVELOPMENT · EIS EXCLUDED ACTIVITY · NO RELIEF · ADVISE CLIENT · ADVANCE ASSURANCE NOT GIVEN",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-053",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A start-up company has raised £150,000 under SEIS and now wants to raise a further £800,000 from new investors. Can it use EIS for the second round, and what must the solicitor check?",
+            "answer": "Yes — it is common and permissible to raise money under SEIS first and then follow with an EIS round. The two schemes can be used sequentially (but not simultaneously for the same shares).\n\nFor the EIS second round, the solicitor must check:\n1. Company size: gross assets must be under £15 million before the EIS issue and under £16 million after.\n2. Employee count: under 250 full-time equivalents.\n3. Age: the company must have been trading for less than 7 years before the first EIS share issue.\n4. The SEIS money must have been spent (or designated to be spent) before the EIS shares are issued — HMRC requires the SEIS fundraise to have been 'used' before EIS can follow.\n5. The investors in the EIS round must not have previously held shares in the company in a non-qualifying capacity.\n\nNew investors in the EIS round receive 30% income tax relief on up to £1,000,000 each. The company should apply for advance assurance from HMRC for the EIS round.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SEIS THEN EIS · SEQUENTIAL PERMITTED · SEIS SPENT FIRST · EIS SIZE CHECKS · ADVANCE ASSURANCE",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Financial Assistance s.678": {
+        "The prohibition": [
+          {
+            "card_code": "FLK1-BLP-104",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the financial assistance prohibition under s.678 CA 2006, and what does it prevent?",
+            "answer": "Section 678 CA 2006 prohibits a public company (and its subsidiaries) from giving financial assistance for the purpose of acquiring its own shares (or those of its holding company). Financial assistance includes gifts, loans, guarantees, security, and any other form of financial assistance.\n\nThe mischief targeted: a company using its own assets to fund the purchase of its shares — effectively helping someone buy the company with the company's own money. This dilutes the company's net assets, prejudices existing shareholders, and undermines the capital maintenance rules.\n\nWhat is prohibited:\n— A plc providing a loan to enable a buyer to purchase the plc's shares.\n— A plc's subsidiary providing security to a lender who is funding the acquisition of the plc's shares.\n— A plc guaranteeing the obligations of a buyer of its own shares.\n\nWhat is not prohibited:\n— Private companies (s.678 applies only to public companies and their subsidiaries).\n— Assistance given by way of a company's ordinary business (e.g. a bank making loans).\n— Assistance given where the company's principal purpose is not the giving of the assistance.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.678 CA 2006 · PLC ONLY · FINANCIAL ASSISTANCE · OWN SHARES · LOAN GUARANTEE SECURITY · PRIVATE CO EXEMPT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-105",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A private equity buyer is acquiring a plc using a leveraged buyout structure where the plc's assets will be used to service the acquisition debt post-completion. Does s.678 CA 2006 apply?",
+            "answer": "This is the paradigm financial assistance scenario in M&A transactions. The answer depends on the structure:\n\nIf the plc provides assistance before or at the time of acquisition — e.g. grants security over its assets to the acquisition lender, or provides upstream guarantees — this directly engages s.678.\n\nPost-acquisition restructuring: Once the buyer owns the plc, the plc is no longer assisting in the acquisition of its own shares — the acquisition has already occurred. The plc can then be merged with the acquisition vehicle (debt push-down) or its assets can be used to service the debt as part of normal group treasury management, without breaching s.678.\n\nThe critical timing question: was the financial assistance given 'for the purpose of' the acquisition? Assistance given before or at completion is caught; restructuring after completion (once the buyer has acquired control) may not be.\n\nSolicitors advising on LBOs must carefully structure the transaction to ensure security and guarantees are not given by the target plc before the acquisition completes. This is one of the most important structural points in public company M&A. ⚠️ Link — Corporate finance and charges (see FLK1-BLP cards).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LBO · S.678 · PRE-COMPLETION SECURITY PROHIBITED · POST-ACQUISITION RESTRUCTURE PERMITTED · TIMING KEY",
+            "is_deeper": 0
+          }
+        ],
+        "Application and consequences": [
+          {
+            "card_code": "FLK1-BLP-106",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the consequences of a transaction that breaches s.678 CA 2006, and who is liable?",
+            "answer": "The consequences of a transaction that contravenes s.678 CA 2006 are:\n\n1. Criminal liability: The company and every officer in default commits a criminal offence. This is punishable by a fine (for the company) and/or imprisonment of up to 2 years and/or a fine (for officers).\n\n2. Civil invalidity: The financial assistance itself is void and unenforceable. A lender who took security from a plc in breach of s.678 has void security — they are an unsecured creditor.\n\n3. Director liability: Directors who authorised the unlawful assistance may be personally liable for breach of their duties under ss.171–177 CA 2006 (in particular the duty to act within powers and to promote the success of the company).\n\n4. The acquisition itself is not automatically void: The share purchase is not invalidated merely because unlawful financial assistance was given — but the assistance element is unenforceable.\n\nSolicitors advising on public company transactions must always check whether a proposed structure involves financial assistance. Failure to identify and avoid the prohibition is a serious professional error.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.678 BREACH · CRIMINAL OFFENCE · SECURITY VOID · DIRECTOR LIABILITY · ACQUISITION NOT VOID",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-107",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "Does s.678 CA 2006 apply to private companies, and what was the position before CA 2006?",
+            "answer": "Under CA 2006 as it stands, s.678 applies only to public companies and their subsidiaries. Private companies are not subject to the financial assistance prohibition.\n\nThis represents a significant change from the Companies Act 1985 position: under s.151 CA 1985, the prohibition applied to all companies (public and private), but private companies could use the 'whitewash procedure' (statutory declaration of solvency + auditor's report) to authorise assistance. CA 2006 abolished the whitewash procedure and removed the prohibition from private companies entirely.\n\nPractical significance:\n— A private company acquisition target can now provide guarantees and security to assist in the funding of its own acquisition without breaching company law (though other considerations — directors' duties, solvency — still apply).\n— The risk for solicitors is in transactions where a private company has a public company holding company or subsidiary in the chain — s.678 will apply to the public company elements of the structure.\n— Solicitors practising pre-2006 rules may be familiar with the whitewash procedure; this is no longer relevant.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.678 PLC ONLY · PRIVATE CO EXEMPT · CA 1985 APPLIED TO ALL · WHITEWASH ABOLISHED · CA 2006 CHANGE",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-BLP-SCE-054",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A private company is being acquired. The buyer asks the target company to guarantee the buyer's acquisition loan from the bank. The seller's solicitor says: 'This is fine — the financial assistance rules don't apply to private companies.' Is this correct?",
+            "answer": "Yes — as a matter of company law under CA 2006, s.678 applies only to public companies and their subsidiaries. A private company can guarantee an acquisition loan without breaching the financial assistance prohibition.\n\nHowever, the solicitor's analysis is incomplete. Even though s.678 does not prohibit the guarantee, other issues arise:\n\n1. Directors' duties: The directors of the target company must consider whether giving the guarantee is in the best interests of the company (s.172 CA 2006). If the company is being acquired and the guarantee benefits the buyer (not the company), the directors must be satisfied they are acting in the company's interests.\n\n2. Corporate benefit: There must be a genuine corporate benefit to the target company in giving the guarantee — it is not enough that the acquisition benefits the shareholders. The guarantee must benefit the company as an entity.\n\n3. Solvency: The guarantee must not render the company insolvent or unable to pay its debts.\n\n4. Lender requirements: Many acquisition lenders require specific legal opinions that the guarantee is valid and enforceable.\n\nSo: lawful under s.678, but the directors must satisfy their duties and corporate benefit must be established.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PRIVATE CO GUARANTEE · S.678 N/A · DIRECTORS DUTIES · CORPORATE BENEFIT · SOLVENCY · LENDER OPINION",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-055",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A plc is being taken private in an MBO. The management team propose that immediately before completion, the plc will grant a fixed charge over its assets to secure the management team's acquisition borrowing. The MBO lawyers say this is efficient. What is the problem?",
+            "answer": "This structure is a textbook breach of s.678 CA 2006. The plc is a public company. Granting a fixed charge over its assets to secure the acquisition borrowing of the buyers (the management team) is financial assistance — the company is using its own assets to assist in the acquisition of its own shares.\n\nThe assistance is given before completion (when the plc is still a public company and s.678 applies). The fact that it is efficient commercially does not override the statutory prohibition.\n\nConsequences:\n— The charge is void — the lender has no security.\n— The directors who authorised it commit a criminal offence.\n— The directors are in breach of their duties under CA 2006.\n\nThe correct structure: complete the acquisition first (the buyers acquire the plc), then restructure — convert to a private company and grant the charge post-acquisition. Once the management team own the company, it can be re-registered as private, and s.678 no longer applies. The charge can then be granted to refinance the acquisition debt on a secured basis.\n\nThis is the standard LBO structure — security is granted only after acquisition, not before.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.678 BREACH · PLC CHARGE PRE-COMPLETION · VOID SECURITY · CRIMINAL · CORRECT: ACQUIRE FIRST THEN CHARGE",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-BLP-TRAP-011",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor is advising on the acquisition of a private company. The buyer's bank asks the target private company to provide an upstream guarantee for the acquisition loan. A junior associate says: 'The financial assistance rules were abolished for private companies in 2006 — no problem.' Is the associate right?",
+            "answer": null,
+            "issue": "The Trap: The CA 2006 abolished financial assistance restrictions for private companies entirely, so a private company can give any form of assistance for the acquisition of its own shares without any legal constraint.",
+            "rule": "The Reality: While it is correct that s.678 CA 2006 does not prohibit financial assistance by private companies, the associate's analysis is dangerously incomplete. Directors of a private company must still comply with their duties under CA 2006 — particularly s.172 (promote the success of the company) and s.171 (act within powers). Giving an upstream guarantee must serve the corporate benefit of the company, not merely the benefit of the acquirer. If the guarantee exposes the company to risk without compensating benefit, the directors are in breach of their duties.",
+            "application": "Why the Distractor Fails: The removal of s.678 for private companies removed one specific prohibition. It did not remove directors' duties, the requirement for corporate benefit, solvency obligations, or the common law rules on transactions at an undervalue (relevant in insolvency). A solicitor who advises that a private company guarantee is 'no problem' without analysing corporate benefit and directors' duties has given incomplete and potentially negligent advice.",
+            "conclusion": "The Key Rule: S.678 does not apply to private companies — but directors' duties, the corporate benefit requirement, and solvency considerations still do. Removal of the statutory prohibition is not a green light; it removes one hurdle while leaving others.",
+            "summary_line": "S.678 PRIVATE CO EXEMPT · DIRECTORS DUTIES REMAIN · CORPORATE BENEFIT REQUIRED · SOLVENCY · NOT A GREEN LIGHT",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "PSC Register": {
+        "Registration requirements": [
+          {
+            "card_code": "FLK1-BLP-108",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the PSC register, who must maintain it, and what information must be recorded?",
+            "answer": "The register of People with Significant Control (PSC register) was introduced by the Small Business, Enterprise and Employment Act 2015. Every UK company and LLP must maintain a PSC register at its registered office (or at Companies House via the central public register).\n\nA PSC is any individual who:\n— Holds more than 25% of the shares or voting rights.\n— Has the right to appoint or remove a majority of the board.\n— Has the right to exercise, or actually exercises, significant influence or control over the company.\n— Exercises significant influence or control over a trust or firm which itself satisfies one of the above conditions.\n\nRequired information for each PSC:\n— Full name and date of birth.\n— Nationality and country/state of usual residence.\n— Service address (and if different, usual residential address — kept on the company's own register but not the public register).\n— The nature of the PSC's control (which of the five conditions is met).\n— The date from which they became a PSC.\n\nFailure to maintain the register is a criminal offence for the company and its officers.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PSC REGISTER · SBEE ACT 2015 · 25% SHARES/VOTES · BOARD APPOINTMENT · SIGNIFICANT CONTROL · CRIMINAL OFFENCE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-109",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are a company's notification obligations when a person's PSC status changes, and what are the timescales?",
+            "answer": "Companies have a duty to keep their PSC register up to date. When changes occur:\n\n1. Company to notify Companies House: Any change to the information on the PSC register must be notified to Companies House within 14 days of the company becoming aware of the change (CA 2006 s.790E onwards, as amended by SBEE Act 2015).\n\n2. PSC to notify the company: A PSC has a duty to notify the company when they first become a PSC, when their information changes, or when they cease to be a PSC — within 1 month of the change.\n\n3. Companies House filing: Changes are filed using form PSC01 (new PSC), PSC04 (change to PSC details), or PSC07 (PSC ceases to be registrable).\n\nConsequence of failure: The company and every officer in default commit a criminal offence. Additionally, a PSC who fails to notify the company may have restrictions placed on their shares (unable to transfer, unable to vote) under the statutory regime.\n\nThis is a frequently tested area in BLP — the 14-day notification to Companies House is a key number.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PSC CHANGE · 14 DAYS TO COMPANIES HOUSE · 1 MONTH PSC TO COMPANY · PSC01 PSC04 PSC07 · CRIMINAL OFFENCE",
+            "is_deeper": 0
+          }
+        ],
+        "Notification obligations": [
+          {
+            "card_code": "FLK1-BLP-110",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A company has three shareholders: A holds 30%, B holds 45%, and C holds 25%. They each have one vote per share. Who must appear on the PSC register?",
+            "answer": "The PSC register threshold is 'more than 25%' — not 25% or more.\n\n— A (30%): more than 25% — A is a PSC. ✓\n— B (45%): more than 25% — B is a PSC. ✓\n— C (25%): exactly 25% — not more than 25% — C is NOT a PSC on the shareholding/voting rights condition.\n\nC must be assessed against the other four PSC conditions (right to appoint majority of board; actual significant influence or control; significant influence over a trust/firm that itself qualifies). If none of those apply, C does not appear on the PSC register.\n\nA and B must be registered. The register must record the nature of control for each — 'holds more than 25% but not more than 50% of shares' (A) and 'holds more than 25% but not more than 50% of shares' (B).\n\nNote: B could also meet the 'holds more than 50%' condition if they hold a majority — on 45% they do not, so the 25–50% bracket applies.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PSC THRESHOLD · MORE THAN 25% · A=30% YES · B=45% YES · C=25% NO (NOT MORE THAN) · NATURE OF CONTROL",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-111",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A company's shares are held by a trust. The trustees are the registered shareholders but the beneficiary effectively controls the trust. Who appears on the PSC register?",
+            "answer": "This scenario involves the fifth PSC condition: a person who has significant influence or control over a trust or firm which itself meets one of the PSC conditions.\n\nAnalysis:\n— The trustees hold the shares and are the registered shareholders. If they hold more than 25% of the company's shares, the trust itself satisfies a PSC condition.\n— The beneficiary who controls the trust (e.g. has power to appoint/remove trustees or direct how the shares are voted) exercises significant influence or control over the trust.\n— Therefore, the beneficiary is a PSC of the company under the fifth condition — even though they hold no shares directly.\n\nThe PSC register should record the beneficiary (not the trustees) as the PSC, noting that their control is exercised through a trust and that the nature of control is the fifth condition.\n\nIf the trust is a registrable relevant legal entity (RLE) — e.g. a corporate trustee — additional rules on RLE registration apply. The purpose of this rule is to pierce through intermediary structures and identify the ultimate beneficial owner.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TRUST HOLDING · FIFTH PSC CONDITION · BENEFICIARY IS PSC · SIGNIFICANT INFLUENCE THROUGH TRUST · UBO",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-BLP-SCE-056",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A company's sole shareholder sells 20% of their shares to a new investor. The seller retains 80%. Two weeks pass and no notification has been made to Companies House. What breaches have occurred and by whom?",
+            "answer": "Multiple obligations arise from this transaction.\n\n1. The new investor (acquirer of 20%): Does not meet the PSC threshold (20% is not more than 25%), so no PSC notification obligation arises for them.\n\n2. The seller (retains 80%): They remain a PSC — their holdings have changed (from 100% to 80%). A change in a PSC's details (here, the extent of their control moving from the 75%+ bracket to the 50–75% bracket) must be notified to Companies House within 14 days of the company becoming aware of the change.\n\n3. The company: Must update the PSC register and file the change with Companies House within 14 days. Two weeks have now passed — if the 14-day period has been exceeded, the company and every officer in default have committed a criminal offence.\n\nThe solicitor should advise the company to file the PSC04 form immediately to update the seller's entry on the register, reflecting the change in the extent of their control.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PSC CHANGE · SELLER 100%→80% · 14 DAYS COMPANIES HOUSE · PSC04 · CRIMINAL OFFENCE IF LATE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-057",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A company secretary says: 'We don't need a PSC register — we're a wholly-owned subsidiary of a listed plc, and listed companies don't need to register PSCs.' Is this correct?",
+            "answer": "Partially incorrect — and dangerously so. The position is more nuanced:\n\n1. The subsidiary itself: All UK companies and LLPs must maintain a PSC register — this obligation applies to wholly-owned subsidiaries as well as standalone companies.\n\n2. Listed companies and their PSC registers: Publicly traded companies that are subject to DTR5 transparency obligations (shares admitted to trading on a regulated market) do not need to maintain a traditional PSC register — their major shareholding disclosure requirements under the Transparency Directive serve a similar function. However, this exemption applies to the listed parent — not necessarily to its subsidiaries.\n\n3. The subsidiary's PSC: For a wholly-owned subsidiary, the parent company is a Registrable Relevant Legal Entity (RLE) and must be entered on the subsidiary's PSC register — with the nature of control recorded as '75%+ voting rights'.\n\nThe company secretary is wrong to conclude no PSC register is required. The subsidiary must maintain its own register, with the parent plc recorded as an RLE. Failure to do so is a criminal offence.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SUBSIDIARY PSC REGISTER · REQUIRED · LISTED PARENT = RLE ENTRY · DTR5 EXEMPTION PARENT ONLY · CRIMINAL",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "TUPE Service Provision Change": {
+        "Definition and scope": [
+          {
+            "card_code": "FLK1-BLP-112",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a 'service provision change' under TUPE 2006, and how does it differ from a business transfer?",
+            "answer": "The Transfer of Undertakings (Protection of Employment) Regulations 2006 (TUPE) apply in two situations:\n\n1. Business transfer: A transfer of an economic entity that retains its identity — the classic TUPE scenario, established under the Acquired Rights Directive.\n\n2. Service provision change (SPC): A situation where:\n   (a) activities cease to be carried out by a client on their own behalf and are carried out instead by a contractor (outsourcing);\n   (b) activities cease to be carried out by a contractor on a client's behalf and are carried out instead by a new contractor (re-tendering); or\n   (c) activities cease to be carried out by a contractor on a client's behalf and are carried out instead by the client (insourcing).\n\nKey difference: A business transfer requires an economic entity retaining its identity — employees, assets, goodwill. A service provision change requires only that an organised grouping of employees is principally dedicated to the activities being transferred. No transfer of assets is necessary.\n\nThe SPC category was introduced by TUPE 2006 (it did not exist under the earlier 1981 regulations) to capture outsourcing and re-tendering situations that might not satisfy the economic entity test.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SERVICE PROVISION CHANGE · TUPE 2006 · OUTSOURCING · RE-TENDERING · INSOURCING · NO ASSETS NEEDED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-113",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A company outsources its IT helpdesk function to a service provider. The helpdesk team of 8 employees has always worked exclusively on this function. Does TUPE apply?",
+            "answer": "Yes — this is a service provision change under reg.3(1)(b) TUPE 2006. The conditions for an SPC are:\n\n1. Immediately before the change, there was an organised grouping of employees situated in Great Britain: ✓ — the 8 employees constitute an organised grouping.\n2. The grouping was principally dedicated to carrying out the activities: ✓ — they worked exclusively on the IT helpdesk function.\n3. The client intended that the activities would be carried out by the transferee (the service provider): ✓ — the outsourcing contract confirms this.\n4. The activities must not be a single specific event or short-term duration (reg.3(3)): ✓ — assumed to be an ongoing service.\n\nEffect of TUPE applying:\n— All 8 employees transfer automatically to the service provider on their existing terms and conditions.\n— Continuity of employment is preserved.\n— Dismissal in connection with the transfer is automatically unfair.\n— The service provider inherits all existing employment liabilities (including accrued holiday pay, potential claims etc.).\n— The company must provide employee liability information to the service provider at least 28 days before the transfer.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SPC OUTSOURCING · ORGANISED GROUPING · PRINCIPALLY DEDICATED · TRANSFERS AUTOMATICALLY · ELI 28 DAYS",
+            "is_deeper": 0
+          }
+        ],
+        "Application and consequences": [
+          {
+            "card_code": "FLK1-BLP-114",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A service contract for office cleaning is re-tendered and awarded to a new provider. The old provider's 5 cleaning staff are not offered employment by the new provider. What is the legal position?",
+            "answer": "This is a service provision change — the re-tendering scenario under reg.3(1)(b)(ii) TUPE 2006.\n\nIf TUPE applies:\n— The 5 cleaning staff transfer automatically to the new provider on their existing terms and conditions.\n— The new provider cannot simply refuse to take them — the transfer is automatic by operation of law.\n— If the new provider refuses to employ them, this is equivalent to dismissal in connection with the transfer — automatically unfair under reg.7 TUPE.\n— The employees have claims for automatic unfair dismissal against the new provider (the transferee).\n\nConditions check:\n— Organised grouping of employees: 5 cleaning staff dedicated to this contract — likely ✓.\n— Principally dedicated: if they clean exclusively for this client — ✓. If they clean multiple clients' premises, the 'principally dedicated' test may not be satisfied — the grouping must be principally dedicated to the activities, not incidentally involved.\n\nThe new provider's solicitor should advise them of the TUPE risk at the tendering stage — before the contract is awarded — so they can price in the inherited employment costs.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "RE-TENDERING SPC · AUTOMATIC TRANSFER · CANNOT REFUSE · AUTOMATIC UNFAIR DISMISSAL · PRINCIPALLY DEDICATED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-115",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is 'employee liability information' under TUPE and what happens if the transferor fails to provide it?",
+            "answer": "Employee liability information (ELI) is information that the transferor (outgoing employer) must provide to the transferee (incoming employer) about the employees who will transfer under TUPE.\n\nRequired information (reg.11 TUPE 2006):\n— Identity and age of transferring employees.\n— Employment particulars (as would appear in a s.1 ERA 1996 statement).\n— Information about any disciplinary action taken or grievances raised in the past 2 years.\n— Any court or tribunal proceedings in the past 2 years and any anticipated claims.\n— Information about collective agreements.\n\nTimescale: ELI must be provided at least 28 days before the transfer.\n\nConsequence of failure: If the transferor fails to provide ELI (or provides inaccurate/incomplete information), the transferee may bring a claim in the Employment Tribunal. The Tribunal may award compensation as it considers just and equitable — there is a minimum award of £500 per employee but no maximum.\n\nWhy it matters: The transferee inherits all employment liabilities. ELI allows them to assess the risk and price it into the deal. A transferee who receives late or incomplete ELI is prejudiced and the remedy is compensation from the transferor.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ELI · REG 11 TUPE · 28 DAYS BEFORE TRANSFER · DISCIPLINARY GRIEVANCES CLAIMS · £500 MIN PER EMPLOYEE",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-BLP-SCE-058",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A law firm outsources its photocopying and printing function to an external reprographics company. The three members of the firm's internal print room have always handled all printing for the firm. Does TUPE apply?",
+            "answer": "This is an SPC outsourcing scenario. The key question is whether the three print room employees form an 'organised grouping principally dedicated' to the outsourced activities.\n\nOn these facts:\n— The three employees form an organised grouping: they operate as a distinct unit within the firm. ✓\n— They are principally dedicated to the activities: they handle all printing for the firm and nothing else. ✓\n— The activities are being transferred from the client (law firm) to a contractor (reprographics company): ✓\n— The activities appear ongoing (not a single event or short-term task): ✓\n\nTUPE likely applies. The three employees would transfer automatically to the reprographics company.\n\nPractical advice to the law firm:\n— Inform and consult with the affected employees before the transfer (reg.13 TUPE — 'inform and consult' obligation).\n— Provide ELI to the reprographics company at least 28 days before the transfer.\n— The reprographics company must take on the employees on their existing terms and conditions.\n— Any attempt to dismiss the employees to avoid the TUPE transfer is likely to be automatically unfair.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "OUTSOURCING SPC · PRINT ROOM · ORGANISED GROUPING · PRINCIPALLY DEDICATED · INFORM CONSULT · ELI 28 DAYS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-059",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A company re-tenders its security guarding contract. The new contractor proposes to use a completely different workforce — none of the old contractor's guards. The old contractor's guards each split their time between three different client sites. Does TUPE apply?",
+            "answer": "The critical issue is whether the guards form an 'organised grouping principally dedicated' to the activities being transferred.\n\n'Principally dedicated' means the principal purpose of the grouping is to carry out the activities for this particular client. If each guard spends, say, one-third of their time at this client's site and two-thirds at other clients' sites, their principal dedication is not to this specific client — and the SPC condition may not be satisfied.\n\nThe analysis:\n— If no guard is principally dedicated to this client (each splits time across three sites), there is no organised grouping principally dedicated to the transferring activities.\n— TUPE may not apply — the guards do not transfer.\n— The old contractor retains its obligations to the guards; the new contractor is free to engage its own workforce.\n\nThis is a common scenario in multi-site service contracts. The 'principally dedicated' test is a safeguard against TUPE being used to transfer workers who have only an incidental connection to the client's contract. The outcome turns on the factual analysis of where each employee spends most of their working time.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PRINCIPALLY DEDICATED TEST · SPLIT ACROSS SITES · NOT PRINCIPALLY DEDICATED · SPC MAY NOT APPLY",
+            "is_deeper": 0
+          }
+        ]
       }
     }
   }

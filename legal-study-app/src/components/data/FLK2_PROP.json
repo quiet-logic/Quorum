@@ -2936,6 +2936,290 @@
             "is_deeper": 0
           }
         ]
+      },
+      "Commonhold": {
+        "Definition and features": [
+          {
+            "card_code": "FLK2-PROP-091",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is commonhold, how was it introduced, and how does it differ from leasehold?",
+            "answer": "Commonhold is a form of freehold land ownership introduced by the Commonhold and Leasehold Reform Act 2002 (CLRA 2002) for multi-occupied buildings such as flats.\n\nKey features:\n— Each flat owner holds their unit as a freehold ('commonhold unit') — there is no lease and no diminishing term.\n— The common parts are owned by the 'commonhold association' — a company limited by guarantee in which all unit holders are members.\n— There is no landlord: unit holders collectively govern the building through the commonhold association.\n— The relationship between unit holders is governed by the 'commonhold community statement' (CCS), a registered document that binds current and future owners.\n— There is no ground rent.\n\nContrast with leasehold:\n— A lease runs for a fixed term and diminishes in value as the term reduces. Commonhold has no term.\n— A landlord retains ownership of the freehold in leasehold; in commonhold there is no freeholder above the unit holders.\n— Leasehold creates a landlord-tenant relationship; commonhold creates a member-association relationship.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMMONHOLD · CLRA 2002 · FREEHOLD UNIT · CCS · COMMONHOLD ASSOCIATION · NO LANDLORD · NO GROUND RENT",
+            "is_deeper": 0
+          }
+        ],
+        "CCS and governance": [
+          {
+            "card_code": "FLK2-PROP-092",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a commonhold community statement (CCS) and what must it contain?",
+            "answer": "A commonhold community statement (CCS) is the constitutional document of a commonhold scheme, registered at HM Land Registry. It governs the obligations and rights of the commonhold association and each unit holder.\n\nA CCS must specify:\n1. The extent and boundaries of each commonhold unit.\n2. The rights and duties of the commonhold association (maintenance of common parts, insurance, etc.).\n3. The rights and duties of unit holders — including service charge contributions, maintenance obligations, and use restrictions.\n4. Rules on use of common parts.\n5. Dispute resolution provisions.\n\nLegal effect: The CCS is binding on the commonhold association and all current and future unit holders — it runs with the land automatically. A buyer takes subject to the CCS without needing a new deed of covenant.\n\nAmendment: Changes require a resolution of unit holders, typically by a supermajority or unanimous agreement — making amendment significantly more difficult than varying a lease.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CCS · REGISTERED · UNIT BOUNDARIES · RIGHTS AND DUTIES · BINDS FUTURE OWNERS · DIFFICULT TO AMEND",
+            "is_deeper": 0
+          }
+        ],
+        "Adoption and comparison": [
+          {
+            "card_code": "FLK2-PROP-093",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "Why has commonhold not been widely adopted in England and Wales, and what has the Law Commission recommended?",
+            "answer": "Despite being introduced in 2002, commonhold has been used for very few developments.\n\nReasons for low adoption:\n1. Lenders: Many mortgage lenders were initially reluctant to lend on commonhold units, reducing buyers' access to finance.\n2. Unanimous conversion requirement: Converting an existing leasehold building to commonhold requires the consent of every leaseholder — near-impossible in practice.\n3. Legal unfamiliarity: Developers, solicitors, and buyers defaulted to the familiar leasehold model.\n4. No developer incentive: Developers lose the ground rent income stream that leasehold generates.\n5. Rigidity of the CCS: Amendment requires a supermajority, making the scheme inflexible.\n\nLaw Commission Report 2020: In 'Reinvigorating Commonhold', the Law Commission recommended:\n— Replacing the unanimous conversion requirement with a threshold (around 75%) to facilitate conversion of existing blocks.\n— Making commonhold the default tenure for new flat developments.\n— Improving the CCS framework to make commonhold more workable.\n— Clarifying lender requirements to encourage mortgage lending on commonhold.\n\nThese reforms have not yet been implemented by legislation.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "RARELY USED · LENDER RELUCTANCE · UNANIMOUS CONVERSION · LAW COM 2020 · 75% THRESHOLD PROPOSED · NOT YET IN FORCE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-094",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "Compare commonhold with the Right to Manage (RTM) under CLRA 2002. What problem does each address and how do they differ?",
+            "answer": "Both commonhold and the Right to Manage (RTM) address absentee or poorly performing freeholders — but through fundamentally different mechanisms.\n\nCommonhold:\n— Replaces leasehold tenure entirely: unit holders own their units as freeholds and collectively own the common parts.\n— The freeholder is eliminated.\n— Eliminates ground rent and the diminishing lease.\n— Applies to new developments; conversion of existing leasehold requires unanimous consent.\n\nRight to Manage (RTM — CLRA 2002 Ch.1):\n— Does not change tenure: the leases and freehold ownership remain in place.\n— Transfers management functions (repairs, insurance, service charges, appointment of contractors) from the freeholder/managing agent to an RTM company set up by qualifying leaseholders.\n— Does not require the freeholder's consent and does not require proof of fault.\n— Requires 50% of qualifying leaseholders to participate.\n— Does not eliminate ground rent or resolve the diminishing lease problem.\n\nKey distinction: Commonhold changes who owns the building; RTM changes who manages it — the freeholder remains as owner in RTM.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMMONHOLD = NEW TENURE · RTM = MANAGEMENT ONLY · FREEHOLDER REMAINS IN RTM · 50% RTM · CLRA 2002",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-095",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What specific matters should a solicitor investigate when acting for a buyer of a commonhold flat?",
+            "answer": "A commonhold purchase requires standard conveyancing steps plus commonhold-specific investigation.\n\nCommonhold-specific matters:\n1. The CCS: Obtain and review the registered CCS — check the extent of the unit, the client's obligations (service charges, maintenance, use restrictions), dispute resolution provisions, and amendment procedures.\n2. The commonhold association: Confirm it is properly incorporated and registered. Obtain accounts — are reserves adequate? Any outstanding litigation or disputes?\n3. Membership: Confirm the client automatically becomes a member of the commonhold association on completion.\n4. Mortgage lender: Verify the client's proposed lender will lend on commonhold — check the UK Finance Mortgage Lenders' Handbook for that lender's specific requirements.\n5. Amendment risk: Advise the client that changes to the CCS require a supermajority — individual unit holders cannot easily vary their obligations.\n6. No LTA protections: Unlike leaseholders, commonhold unit holders do not have the benefit of the Landlord and Tenant Act 1985 (e.g. right to challenge service charges at a First-tier Tribunal under s.27A LTA 1985) — the CCS governs the relationship instead.\n7. HM Land Registry search: Register a search of the commonhold register.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMMONHOLD PURCHASE · CCS REVIEW · ASSOCIATION ACCOUNTS · LENDER CHECK · NO LTA 1985 PROTECTION · MEMBERSHIP",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-096",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "Can commonhold be terminated and what happens if it is?",
+            "answer": "Commonhold can be terminated under CLRA 2002 in limited circumstances.\n\nVoluntary winding up: The commonhold association may resolve to wind up voluntarily. A resolution to wind up requires an 80% majority of unit holders (or unanimous agreement in some circumstances). On winding up, the land and assets are distributed among unit holders in the proportions specified in the CCS.\n\nInvoluntary winding up: The commonhold association may be wound up by the court (e.g. insolvency). The land then vests in a successor association or is distributed by the liquidator.\n\nKey distinction from leasehold: There is no concept of the lease 'expiring' or reverting to a freeholder. The unit holders' freehold rights in the commonhold scheme can only end by deliberate termination or court order — not by effluxion of time.\n\nMortgages on termination: A unit holder's mortgage is a charge on their unit. If the commonhold is wound up, the lender's security follows the unit holder's share of the distribution proceeds — the lender must be notified and their consent obtained in the winding-up process.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMMONHOLD TERMINATION · 80% VOLUNTARY · COURT INVOLUNTARY · ASSETS DISTRIBUTED · NO REVERSION · LENDER CONSENT",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-PROP-SCE-051",
+            "card_type": 3,
+            "difficulty": "Foundation",
+            "front": "A client asks: 'I've seen a flat described as commonhold — is it freehold or leasehold and should I be worried?' How should the solicitor respond?",
+            "answer": "The solicitor should explain that commonhold is a distinct form of freehold ownership specifically designed for multi-occupied buildings such as flats.\n\nKey points to explain:\n— Unlike a lease, commonhold has no time limit — the client owns their unit indefinitely.\n— There is no landlord: the building is managed collectively by the unit holders through the commonhold association.\n— There is no ground rent.\n— The client should not be concerned by the term 'commonhold' itself — it is a legitimate form of tenure introduced by Parliament in 2002.\n\nHowever, the solicitor should:\n(a) Obtain and review the CCS before advising further.\n(b) Check the client's proposed mortgage lender will lend on commonhold.\n(c) Explain that some Landlord and Tenant Act protections (e.g. the right to challenge service charges at a tribunal under LTA 1985) do not apply — the CCS governs the relationship instead.\n\nThe client may find commonhold advantageous (no diminishing lease, no ground rent, no freeholder) but should understand it is a newer and less common regime than leasehold, and the solicitor will need to investigate the CCS carefully.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMMONHOLD EXPLANATION · FREEHOLD TYPE · NO TERM · NO LANDLORD · NO GROUND RENT · CHECK LENDER · CCS REVIEW",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-052",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "An existing leasehold block of 20 flats wants to convert to commonhold. 18 agree; 2 refuse. Can the conversion proceed?",
+            "answer": "No. Conversion of an existing leasehold building to commonhold requires the unanimous consent of all existing leaseholders under CLRA 2002 s.3. The 2 dissenters can block the conversion entirely.\n\nThis unanimity requirement is one of the main reasons commonhold has not been widely adopted — converting an existing block is practically impossible because even a single dissenter can prevent it.\n\nOptions for the 18 agreeing leaseholders:\n— They cannot force the dissenters to participate in a conversion.\n— There is no court mechanism to override dissent.\n— The Law Commission's 2020 report recommended replacing unanimity with a 75% threshold, but this reform has not yet been enacted.\n\nAlternative: If they wish to improve management of the building without changing the tenure, they could use the Right to Manage (RTM), which requires only 50% of qualifying leaseholders — RTM does not need the dissenters' consent and does not require unanimous agreement. RTM would give the leaseholders control of management without eliminating the leasehold structure.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONVERSION TO COMMONHOLD · UNANIMOUS CONSENT · 2 DISSENTERS BLOCK · LAW COM 75% NOT YET · RTM ALTERNATIVE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-053",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A buyer wants to purchase a commonhold flat using a mortgage. Their solicitor discovers the proposed lender's handbook states it does not lend on commonhold. What should the solicitor do?",
+            "answer": "This is a practical problem that must be resolved before exchange. The solicitor must advise the client immediately and explore alternatives.\n\nSteps:\n1. Confirm the restriction: Check the UK Finance Mortgage Lenders' Handbook for the specific lender — does it exclude commonhold expressly or impose conditions the property does not meet?\n2. Advise the client: Explain that if this lender will not lend on commonhold, the client must either find a different lender or find a different property.\n3. Find alternative lenders: Most major high street lenders now lend on commonhold, but some still have restrictions. The solicitor should advise the client to approach alternative lenders.\n4. Do not exchange without confirmed finance: If exchange proceeds without mortgage finance confirmed, the client risks being unable to complete and forfeiting the deposit. This is the critical risk.\n5. Review the CCS: Check whether the CCS imposes any restrictions that would further complicate mortgage lending.\n\nThe solicitor's duty is to flag this as a material issue early — before the client is committed. If no suitable lender can be found, the client may need to withdraw from the purchase. A solicitor who fails to check the lender's position on commonhold before exchange may face a negligence claim.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMMONHOLD MORTGAGE · LENDER HANDBOOK CHECK · FIND ALTERNATIVE LENDER · DO NOT EXCHANGE WITHOUT FINANCE · ADVISE EARLY",
+            "is_deeper": 0
+          }
+        ],
+        "Case cards": [
+          {
+            "card_code": "FLK2-PROP-CASE-018",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Baxter v Four Oaks Properties Ltd [1965] Ch 816 — restrictive covenants and building schemes",
+            "answer": null,
+            "issue": "Whether purchasers of plots on a building estate could enforce restrictive covenants against each other in the absence of a formal scheme of development (Elliston v Reacher scheme), given the covenants were imposed for the common benefit of all purchasers.",
+            "rule": "A building scheme does not require rigid compliance with the Elliston v Reacher requirements. It is sufficient that: (1) both parties claim title from a common vendor; (2) the vendor imposed restrictions on all plots sold as part of a general scheme for the benefit of all; and (3) both parties (or their predecessors) purchased with knowledge of the existence of such restrictions.",
+            "application": "The court found a valid building scheme despite the absence of a clear defined area and a formal prior publication of the scheme. The covenants were imposed consistently across all plots for the common benefit of all purchasers on the estate, and all purchasers had notice of them.",
+            "conclusion": "A building scheme allowing mutual enforcement of restrictive covenants may be established on a more flexible basis than Elliston v Reacher suggests. The essential elements are common vendor, general scheme, and notice — formal demarcation of the estate is not strictly required. This remains relevant in PROP for understanding when restrictive covenants are mutually enforceable in residential developments.",
+            "summary_line": "BUILDING SCHEME · FLEXIBLE TEST · COMMON VENDOR · GENERAL SCHEME · NOTICE · MUTUAL ENFORCEMENT",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Acting for Buyer and Lender": {
+        "When permitted": [
+          {
+            "card_code": "FLK2-PROP-097",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "In what circumstances may a solicitor act for both the residential buyer and their mortgage lender, and when must dual representation cease?",
+            "answer": "Acting for both buyer and lender in a residential conveyancing transaction is common and permitted, subject to conditions under the SRA Code and the UK Finance Mortgage Lenders' Handbook.\n\nPermitted where:\n— The mortgage is on standard residential terms.\n— No conflict exists between the buyer's and lender's interests.\n— The solicitor is on the lender's conveyancing panel.\n\nMust cease acting for the lender (not both) where:\n— The solicitor receives information from the buyer that is material to the lender but the buyer refuses consent to disclose.\n— A conflict emerges between the buyer's interests and the lender's security requirements.\n— The buyer's transaction does not match the basis on which the mortgage was offered.\n\nMust cease acting for both where:\n— The conflict is so acute that the solicitor cannot act for either without breaching duties to the other.\n— The buyer is involved in mortgage fraud or deliberate misrepresentation.\n\nWhen ceasing to act for the lender: the solicitor informs the lender it can no longer act — giving no reason that discloses the buyer's confidential information. The lender then appoints its own solicitors.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BUYER AND LENDER · PERMITTED: STANDARD TERMS · CONFLICT = CEASE FOR LENDER · NO REASON GIVEN · CODE PARA 6.2",
+            "is_deeper": 0
+          }
+        ],
+        "Conflict scenarios": [
+          {
+            "card_code": "FLK2-PROP-098",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "During a conveyancing transaction, the solicitor acting for buyer and lender discovers the buyer paid a lower price than stated on the transfer deed — there is a secret side payment. What must the solicitor do?",
+            "answer": "This is a mortgage fraud scenario — a dual-price arrangement where the lender has advanced funds on the basis of an inflated purchase price.\n\nThe solicitor faces a conflict between the buyer's confidentiality and the duty not to mislead the lender.\n\nThe solicitor must:\n1. Advise the buyer immediately that the transaction cannot proceed on this basis — a false purchase price is likely mortgage fraud under the Fraud Act 2006.\n2. Cease to act for the lender immediately — the solicitor cannot continue to act for the lender while holding undisclosed information that is material to the security.\n3. Inform the lender only that the solicitor can no longer act — without revealing the reason (buyer's confidentiality).\n4. Consider whether to continue acting for the buyer — if the buyer refuses to correct the position, continuing the transaction may involve facilitating fraud.\n5. Assess whether a Suspicious Activity Report (SAR) is required under POCA 2002 — a deliberate misrepresentation of purchase price to obtain a mortgage may constitute fraud and involve proceeds of crime.\n\nThe solicitor cannot allow completion to proceed while knowingly concealing the true price from the lender. Doing so would breach Code para. 2.1 (misleading by omission) and potentially make the solicitor party to mortgage fraud.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DUAL PRICE · MORTGAGE FRAUD · CEASE FOR LENDER · CANNOT CONCEAL · SAR · ADVISE BUYER · FRAUD ACT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-099",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A solicitor acting for buyer and lender is told by the buyer that they plan to let the property immediately after completion, contrary to the residential mortgage conditions. The buyer refuses to allow the solicitor to tell the lender. What must the solicitor do?",
+            "answer": "The buyer's intended letting is a breach of the mortgage conditions — and material information the lender would want to know. The buyer has refused consent to disclosure. This is the paradigm dual-retainer conflict scenario.\n\nThe solicitor cannot:\n— Disclose the buyer's intention to the lender without consent (duty of confidentiality).\n— Proceed with the transaction while the lender is unaware of a material breach of the mortgage conditions (duty not to mislead by omission — Code para. 2.1).\n\nThe solicitor must:\n1. Advise the buyer that the solicitor cannot conceal this from the lender — proceeding without disclosure would make the solicitor complicit in misleading the lender.\n2. If the buyer refuses to disclose and refuses to change their intention, the solicitor must cease to act for the lender.\n3. Notify the lender it can no longer act, giving no reason.\n4. Advise the buyer separately of the consequences — the mortgage may be called in if the lender discovers the breach post-completion, and deliberate misrepresentation to the lender may constitute fraud.\n5. Consider whether to continue acting for the buyer at all.\n\nDo not allow completion while holding this information.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LETTING BREACH MORTGAGE · CEASE FOR LENDER · CANNOT CONCEAL · NO REASON TO LENDER · DO NOT COMPLETE · FRAUD RISK",
+            "is_deeper": 0
+          }
+        ],
+        "Lenders Handbook": [
+          {
+            "card_code": "FLK2-PROP-100",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is a solicitor's duty under the UK Finance Mortgage Lenders' Handbook, and how does it interact with the duty of confidentiality to the buyer?",
+            "answer": "By accepting instructions under the UK Finance Mortgage Lenders' Handbook (formerly CML Handbook), a solicitor agrees to comply with specific reporting obligations to the lender.\n\nKey duties under the Handbook:\n— Report any matter that affects or might affect the value of or the lender's security in the property.\n— Report any discrepancy between the purchase price and other information in the solicitor's possession.\n— Report any incentives from the developer/seller that reduce the effective purchase price.\n— Certify the title is good and marketable and the property matches the mortgage offer.\n\nInteraction with confidentiality:\n— Information received from the buyer in the course of the retainer is confidential to the buyer.\n— If the buyer discloses information that is material to the lender (e.g. a cashback, an undisclosed occupier, a dual price) and refuses consent to disclosure, the solicitor faces a conflict.\n— Resolution: The solicitor cannot disclose the buyer's confidential information but must cease to act for the lender. The buyer's refusal is not a licence for the solicitor to continue in silence — it results in ceasing to act for the lender, not continuing while concealing.\n— Information discovered independently (e.g. from searches or the title documents) rather than from the buyer in confidence is reportable to the lender — there is no confidentiality issue with discovered facts.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LENDERS HANDBOOK · REPORT MATERIAL MATTERS · CONFIDENTIALITY CONFLICT · CEASE NOT CONTINUE · DISCOVERED FACTS REPORTABLE",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-PROP-SCE-054",
+            "card_type": 3,
+            "difficulty": "Foundation",
+            "front": "A solicitor discovers a planning enforcement notice against the property during conveyancing searches. The buyer wants to proceed. What must the solicitor do regarding the lender?",
+            "answer": "A planning enforcement notice is a matter that affects the security and is reportable to the lender under the UK Finance Mortgage Lenders' Handbook — regardless of the buyer's wishes.\n\nThis is not a confidential communication from the buyer — it is information discovered in the public register through searches. There is no confidentiality issue: the solicitor must report it to the lender.\n\nThe lender may:\n— Withdraw the mortgage offer if the enforcement notice is serious.\n— Vary the offer.\n— Require planning regularisation before the mortgage will proceed.\n\nThe buyer's desire to proceed does not override the solicitor's duty to report to the lender. The solicitor should:\n1. Report the enforcement notice to the lender immediately.\n2. Advise the buyer of the consequences — the mortgage may not proceed.\n3. Advise the buyer on the planning risk independently: the notice may result in enforcement action, demolition orders, or requirements to reinstate.\n\nIf the lender declines to advance, the buyer must either find alternative finance, renegotiate the purchase price, or withdraw.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ENFORCEMENT NOTICE · REPORT TO LENDER · DISCOVERED FACT NOT CONFIDENTIAL · LENDER MAY WITHDRAW · ADVISE BUYER",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-055",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A solicitor acting for buyer and lender learns the property has been converted into two self-contained flats without planning permission. The mortgage offer is for a single dwelling only. What must the solicitor do?",
+            "answer": "The property does not conform to the mortgage offer conditions — the lender offered to advance on a single dwelling, but the property is two unauthorised flats. This is a material matter the solicitor must report to the lender.\n\nThe solicitor must:\n1. Report to the lender that the property does not meet the mortgage offer conditions — it has been converted into two flats without planning permission.\n2. Advise the buyer of the planning enforcement risk: an unauthorised change of use within the relevant enforcement time limit may result in enforcement action.\n3. Await the lender's response — the lender may: withdraw the offer entirely; re-underwrite on a different basis (e.g. a buy-to-let product); or require planning regularisation before completion.\n4. Advise the buyer on their options — including negotiating a reduced price to reflect the planning risk, withdrawing, or seeking planning regularisation.\n\nThe solicitor cannot allow completion to proceed on the basis that the lender believes they are lending on a single dwelling when the solicitor knows it is not. To do so would be misleading the lender by omission (Code para. 2.1).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROPERTY NOT MATCH MORTGAGE · TWO FLATS UNAUTHORISED · REPORT TO LENDER · PLANNING RISK · LENDER MAY WITHDRAW",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-056",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A solicitor discovers the buyer asked the seller to inflate the stated purchase price by £25,000 on the transfer, with the excess paid privately in cash, in order to obtain a larger mortgage. What are the implications?",
+            "answer": "This is mortgage fraud. The buyer is misrepresenting the purchase price to obtain a mortgage advance larger than the property's true consideration would support.\n\nThe solicitor cannot participate and has multiple obligations:\n\n1. Cannot certify the false price: The solicitor must certify to the lender that the purchase price is as stated. Certifying a price of £X when the true consideration is £25,000 less is a direct misrepresentation — a breach of Code para. 2.1 and 2.2, and potentially fraud.\n\n2. Criminal liability: The buyer's conduct is fraud under the Fraud Act 2006. A solicitor who knowingly participates may be party to the fraud or commit fraud by abuse of position.\n\n3. Money laundering: The private cash payment may involve proceeds of crime — a SAR should be considered.\n\n4. Immediate steps:\n   — Refuse to participate in the inflated price arrangement.\n   — Advise the buyer the transaction cannot proceed on this basis.\n   — Cease to act for the lender immediately.\n   — Consider ceasing to act for the buyer.\n   — File a SAR with the MLRO if a money laundering suspicion arises.\n   — Consider whether to report to the SRA.\n\nNot completing is the only permissible course while this arrangement stands.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MORTGAGE FRAUD · INFLATED PRICE · CANNOT CERTIFY FALSE · FRAUD ACT · SAR · CEASE FOR LENDER · REPORT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-057",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "The buyer's partner (who will live in the property) is providing the deposit as a gift and was not mentioned in the mortgage application. The solicitor discovers this. What must the solicitor do?",
+            "answer": "This raises two distinct issues: an undisclosed occupier and undisclosed source of funds.\n\n1. Undisclosed occupier: Under the UK Finance Mortgage Lenders' Handbook, the solicitor must report the identity of all persons aged 17 or over who will occupy the property. An undisclosed adult occupier is material to the lender — an occupier may acquire an overriding interest under LRA 2002 Sch.3 para.2 that could take priority over the lender's charge.\n\n2. Source of funds: If the partner provided the deposit as a gift, this should have been disclosed in the mortgage application. Lenders need to know if funds are gifted (not repayable) to correctly assess equity and loan-to-value.\n\nThe solicitor must:\n1. Advise the buyer that the partner's occupancy and the gift must be disclosed to the lender.\n2. If the buyer consents to disclosure, report both matters to the lender. The lender will typically require the partner to sign an occupier's waiver/consent form giving up any overriding interest claim.\n3. If the buyer refuses disclosure, the solicitor must cease to act for the lender.\n\nFailure to report leaves the lender with undisclosed security risk. The solicitor's duty under the Handbook requires reporting — the buyer's preference not to disclose does not override it.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "UNDISCLOSED OCCUPIER · GIFT FUNDS · REPORT TO LENDER · OVERRIDING INTEREST · OCCUPIER WAIVER · CEASE IF REFUSED",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-PROP-TRAP-011",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor acts for buyer and lender. The buyer discloses a cashback of £8,000 from the seller (not told to the lender) and refuses to allow disclosure. The solicitor concludes: 'Confidentiality binds me — I cannot tell the lender, so I'll complete as instructed.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: The duty of confidentiality to the buyer prevents the solicitor from disclosing the cashback to the lender — so the solicitor must simply proceed without disclosing.",
+            "rule": "The Reality: The duty of confidentiality prevents disclosure — but it does not permit the solicitor to continue acting for the lender while holding undisclosed material information. The resolution is not 'stay silent and proceed' — it is 'cease to act for the lender'. The solicitor must cease acting for the lender (informing them only that they can no longer act, with no reason given) and cannot allow completion while concealing this from the lender.",
+            "application": "Why the Distractor Fails: Confidentiality is a shield against disclosure — not a licence to mislead by omission. Completing the transaction while the solicitor knows the lender is not aware of a material matter (the cashback reduces the buyer's net equity and affects the loan-to-value) makes the solicitor complicit in misleading the lender by omission (Code para. 2.1). The only permissible courses are: buyer consents to disclosure (report to lender); or buyer refuses (cease to act for lender).",
+            "conclusion": "The Key Rule: Where the buyer refuses consent to disclose material information to the lender, the solicitor must cease to act for the lender — not continue in silence. Confidentiality prevents disclosure; it does not justify proceeding while the lender is misled.",
+            "summary_line": "CASHBACK NON-DISCLOSURE · CEASE FOR LENDER · NOT CONTINUE IN SILENCE · CONFIDENTIALITY NOT A LICENCE · PARA 2.1",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor notices the purchase price in the contract (£240,000) is lower than the price stated in the mortgage application (£250,000). To avoid the discrepancy causing the lender to withdraw, the solicitor amends the contract to show £250,000 before reporting to the lender. Is this approach correct?",
+            "answer": null,
+            "issue": "The Trap: A discrepancy between the contract price and the mortgage application should be resolved by aligning the documents — amending the contract to match the mortgage application avoids a reporting problem and keeps the transaction on track.",
+            "rule": "The Reality: The solicitor cannot amend the contract to show a price different from the true agreed consideration. The agreed price is £240,000. Altering the contract to show £250,000 falsifies a legal document and misrepresents the true consideration to the lender — this is fraud. The discrepancy must be reported to the lender, not resolved by document alteration.",
+            "application": "Why the Distractor Fails: The solicitor's duty is to report the discrepancy accurately to the lender and allow the lender to decide how to respond — not to resolve the conflict by falsifying documents. Changing the contract to match the mortgage application means the transfer will record a false consideration, creating stamp duty and fraud issues. The correct approach is immediate disclosure to the lender of the discrepancy.",
+            "conclusion": "The Key Rule: A solicitor cannot alter legal documents to resolve a discrepancy between the true purchase price and the mortgage application price. The discrepancy must be reported to the lender. Document falsification is fraud regardless of the motive.",
+            "summary_line": "PRICE DISCREPANCY · REPORT TO LENDER · CANNOT ALTER CONTRACT · FRAUD · TRUE PRICE IN ALL DOCUMENTS",
+            "is_deeper": 0
+          }
+        ]
       }
     }
   }

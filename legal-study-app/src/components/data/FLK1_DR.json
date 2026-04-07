@@ -2740,6 +2740,300 @@
             "is_deeper": 0
           }
         ]
+      },
+      "Group Litigation Orders": {
+        "Definition and structure": [
+          {
+            "card_code": "FLK1-DR-078",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a Group Litigation Order (GLO) and when will the court make one?",
+            "answer": "A Group Litigation Order (GLO) is a court order made under CPR r.19.21 to manage multiple claims that give rise to common or related issues of fact or law. GLOs are used in large-scale litigation where many claimants have similar claims — for example, product liability claims, environmental damage, financial mis-selling, or pharmaceutical litigation.\n\nThe court may make a GLO if it is satisfied that there are common or related issues of fact or law shared by the claims. The court establishes:\n— A GLO register (listing all cases subject to the order).\n— A managing court (usually the High Court)\n— A 'lead' or 'test' case to determine the common issues.\n\nEffect of a GLO judgment:\n— A judgment on a common issue in a GLO binds all claimants registered on the GLO register at the time, unless the court orders otherwise.\n— Later-registered claimants may or may not be bound — this depends on the terms of the GLO.\n\nGLOs are distinct from representative actions (CPR r.19.8) and class actions. They are a case management device — each claim remains a separate claim, but common issues are resolved collectively.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GLO · CPR R.19.21 · COMMON ISSUES · GLO REGISTER · MANAGING COURT · BINDING ON REGISTERED CLAIMANTS",
+            "is_deeper": 0
+          }
+        ],
+        "Procedure and effect": [
+          {
+            "card_code": "FLK1-DR-079",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "500 claimants were injured by the same defective pharmaceutical product. Their solicitor applies for a GLO. What procedural steps follow, and what is the effect of the managing court's judgment on a test case?",
+            "answer": "Following the making of a GLO:\n\n1. GLO register: All 500 claimants' cases are entered on the register. Any solicitor wishing to join can apply to add their client's case.\n\n2. Case management conference: The managing court holds a CMC to identify and define the common issues — for example: was the drug defective? Did the manufacturer breach its duty of care? What is the standard of proof on causation?\n\n3. Lead case selection: The court selects a representative lead case (or small number) to be tried first on the common issues.\n\n4. Judgment on common issues: The managing court's judgment on the common issues in the lead case is binding on all claimants registered on the GLO register at the time of that judgment — even if they were not parties to the lead case.\n\n5. Individual issues: After the common issues are resolved, each claimant must still prove their own individual issues — causation specific to their injury, quantum.\n\nCosts: In GLO litigation, costs of the common issues litigation are usually shared among claimants pro rata. Each claimant also bears their own costs on individual issues.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GLO REGISTER · CMC · LEAD CASE · BINDING ON REGISTERED · INDIVIDUAL ISSUES REMAIN · COSTS SHARED",
+            "is_deeper": 0
+          }
+        ],
+        "GLO vs representative actions": [
+          {
+            "card_code": "FLK1-DR-080",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does a GLO differ from a representative action under CPR r.19.8, and when might each be used?",
+            "answer": "GLO (CPR r.19.21) and representative actions (CPR r.19.8) are two mechanisms for collective litigation — but they operate differently.\n\nRepresentative action (r.19.8):\n— One or more persons with the 'same interest' in a claim may sue or be sued in a representative capacity on behalf of all persons with that interest.\n— The representatives act on behalf of the entire class — there is one claim, not multiple separate claims.\n— All class members are bound by the outcome, whether or not they participated.\n— The definition of 'same interest' has been interpreted narrowly by the courts — the class members must have identical interests, not merely similar ones.\n— Used in simpler, more homogeneous claims (e.g. all shareholders affected identically by a corporate act).\n\nGLO (r.19.21):\n— Multiple separate claims are managed collectively where they share common or related issues.\n— Each claimant has their own claim — the GLO is a management tool.\n— Binding only on registered claimants (not all potential claimants).\n— Better suited to mass tort litigation where individual circumstances vary (e.g. personal injury from a defective product with different injury profiles).\n\nIn practice, GLOs are far more commonly used for large-scale tort litigation.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GLO vs REPRESENTATIVE ACTION · GLO = MULTIPLE CLAIMS · REP = ONE CLAIM · GLO REGISTERED ONLY · REP SAME INTEREST",
+            "is_deeper": 0
+          }
+        ],
+        "Cut-off and costs": [
+          {
+            "card_code": "FLK1-DR-081",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is the 'cut-off date' in GLO litigation and what are the costs consequences for late-registered claimants?",
+            "answer": "A GLO will specify a cut-off date — the date by which claimants must register on the GLO register to be entitled to benefit from judgments on the common issues.\n\nClaimants who register before the cut-off:\n— Are bound by judgments on common issues (whether favourable or unfavourable).\n— Share in the costs of the common issues litigation.\n— Can pursue their individual issues after the common issues are resolved.\n\nClaimants who register after the cut-off (late registration):\n— The court has discretion whether to allow late registration.\n— Late-registered claimants may be bound by any common issue judgments already made — they cannot re-litigate decided issues.\n— However, the court may impose conditions on late registration — e.g. contributing to a higher share of past costs.\n— In some GLOs, the court sets a 'last in' date after which no new registrations are permitted without specific leave.\n\nFor claimants who do not register at all:\n— They retain the right to bring their own separate claim but cannot benefit from the GLO judgment unless the court makes a specific order.\n— They face full litigation costs of pursuing an individual action.\n\nThe cut-off mechanism is essential for managing the GLO efficiently and creating finality on common issues.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GLO CUT-OFF DATE · LATE REGISTRATION DISCRETION · BOUND BY PRIOR JUDGMENTS · COSTS CONDITIONS · SEPARATE ACTION",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-DR-SCE-055",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A law firm has 300 clients who all bought the same model of defective boiler. Each suffered similar losses in the range of £2,000–£8,000. The defendant is a well-resourced manufacturer. What litigation structure should the solicitor recommend and why?",
+            "answer": "A Group Litigation Order (GLO) is the appropriate recommendation, for the following reasons:\n\n1. Common issues: All 300 clients have the same core factual and legal issues — was the boiler defective? Did the manufacturer breach the Consumer Rights Act / common law? Was the defect causative of the loss? These are ideal common issues for GLO management.\n\n2. Economies of scale: Pursuing 300 individual claims separately would be prohibitively expensive relative to the individual losses (£2,000–£8,000). A GLO allows the costs of establishing the common issues to be shared across all claimants.\n\n3. Overriding objective: Courts encourage case management approaches that are proportionate and efficient. 300 individual trials on the same issues would be contrary to the overriding objective.\n\n4. Leverage: A GLO against a well-resourced defendant demonstrates the scale of the claim and may encourage early settlement.\n\nAlternatively: if the claims are very homogeneous and clients have identical interests, a representative action (CPR r.19.8) could be considered — but given individual variation in losses, a GLO is preferable. A small claims track claim would be inappropriate given the complexity and the need for collective management.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GLO RECOMMENDATION · COMMON ISSUES · COSTS SHARING · OVERRIDING OBJECTIVE · 300 CLAIMANTS · PROPORTIONATE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-SCE-056",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A claimant registers on a GLO after the cut-off date. The managing court has already issued judgment on the common issues finding the defendant liable. Can the late-registered claimant benefit from the liability judgment?",
+            "answer": "Possibly, but only with the court's permission and on terms. The position of late-registered claimants is governed by the terms of the GLO and CPR r.19.24.\n\nThe judgment on common issues binds all claimants who were registered at the time of the judgment. A claimant who registers after the cut-off was not registered at the time — so they are not automatically bound or benefited.\n\nHowever:\n— The court has discretion to allow late registration.\n— If allowed, the court will typically order that the claimant is bound by the common issue judgment (including the liability finding — which here is in the claimant's favour).\n— The court will usually impose conditions: the late registrant must contribute to a proportion of the past costs of the common issues litigation, on a basis reflecting the fact that they benefit from work done before their registration.\n\nIn practice, if liability has been established in the claimants' favour, late registrants will generally be permitted to join and benefit — subject to costs terms. The court's objective is justice to all parties, not strict procedural exclusion. The claimant should apply promptly for permission to register and should expect to pay a proportionate share of past common issue costs.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LATE REGISTRATION · COURT DISCRETION · BOUND BY JUDGMENT · COSTS CONTRIBUTION · APPLY PROMPTLY",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Small Claims Track": {
+        "Track and costs rules": [
+          {
+            "card_code": "FLK1-DR-082",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the small claims track, what financial limit applies, and what is the general rule on costs?",
+            "answer": "The small claims track (CPR Part 27) is the normal track for claims with a value of no more than £10,000 (with a lower limit of £1,000 for personal injury and housing disrepair claims). It is designed as an accessible, informal process for litigants in person.\n\nKey features:\n— Hearings are informal — strict rules of evidence do not apply.\n— Parties can represent themselves; the process is designed to be manageable without a solicitor.\n— Standard disclosure is not ordered; expert evidence is not usually permitted without leave.\n\nThe general costs rule on the small claims track:\nCosts are not recoverable on the small claims track in the ordinary way. A successful party on the small claims track can recover:\n— Fixed costs of issuing the claim (court fees).\n— Witness expenses (limited amounts).\n— Expert fees (if the court permitted an expert)\n— Any costs the court awards for unreasonable behaviour by the losing party.\n\nThe solicitor's own costs are NOT recoverable even if the party wins. This is a fundamental distinction from the fast track and multi-track, where the winner recovers their reasonable legal costs. On the small claims track, using a solicitor is almost never cost-effective for the claimant.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SMALL CLAIMS TRACK · £10,000 LIMIT · CPR PART 27 · NO COSTS RECOVERY · FIXED COSTS ONLY · INFORMAL",
+            "is_deeper": 0
+          }
+        ],
+        "PI threshold": [
+          {
+            "card_code": "FLK1-DR-083",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A claimant wins a small claims track case for £8,000 against a defendant who was represented by a solicitor throughout. The claimant had no solicitor. Can the claimant recover anything from the defendant?",
+            "answer": "The claimant can recover limited amounts, but NOT the defendant's solicitors' costs (since the claimant had no solicitor). The small claims costs rule is symmetrical — neither side recovers their legal costs, regardless of who wins.\n\nThe successful claimant can recover:\n1. The fixed costs of issuing the claim (the court fee for a £8,000 claim).\n2. Any witness expenses (travel, accommodation, loss of earnings up to £95 per day per witness).\n3. Any court-permitted expert's fee.\n4. Costs for unreasonable conduct by the defendant — if the court finds the defendant behaved unreasonably, it may award additional costs under CPR r.27.14(2)(g).\n\nThe defendant's solicitor's costs: The defendant cannot recover their solicitors' fees from the claimant either — regardless of the outcome. The defendant chose to instruct a solicitor on the small claims track at their own risk.\n\nThis illustrates why the small claims track is designed for straightforward disputes — the no-costs recovery rule discourages legal representation on both sides and reduces the risk that legal costs swamp the value of the claim.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SMALL CLAIMS WIN · COURT FEES + WITNESS EXPENSES · NO SOLICITOR COSTS EITHER SIDE · UNREASONABLE CONDUCT",
+            "is_deeper": 0
+          }
+        ],
+        "Tactical considerations": [
+          {
+            "card_code": "FLK1-DR-084",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A solicitor's client has a £9,500 personal injury claim arising from a road traffic accident. Which track applies and why does the usual small claims costs rule not apply in full?",
+            "answer": "Personal injury claims have a different small claims threshold: the limit for personal injury claims is £1,000 (not £10,000) — specifically, the pain, suffering, and loss of amenity (PSLA) element must not exceed £1,500 for the claim to be in the small claims track (post-2021 reforms for RTA claims under the Official Injury Claim portal).\n\nFor a £9,500 personal injury claim:\n— If the PSLA element exceeds £1,500 (or the total claim is over £10,000), it goes to the fast track.\n— If the claim is a straightforward RTA soft tissue claim with PSLA under £1,500, it may use the OIC portal — where fixed recoverable costs apply under the new fixed costs regime.\n\nOn the fast track:\n— Standard costs recovery applies — the successful party recovers their reasonable legal costs subject to fast track fixed costs (post-October 2023 reforms extended fixed costs to most fast track PI claims).\n— Solicitors' costs are recoverable.\n\nKey distinction: The no-costs recovery rule is specific to the small claims track. Once on the fast track, costs recovery applies (subject to fixed costs). Solicitors advising on PI claims must identify the correct track from the outset to advise on cost risk. ⚠️ Link — Fast track and QOCS (see FLK1-DR cards).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PI SMALL CLAIMS £1,000 LIMIT · PSLA £1,500 · FAST TRACK FOR £9,500 · COSTS RECOVERABLE · OIC PORTAL",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-085",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A claimant deliberately keeps their claim below £10,000 to stay in the small claims track and avoid the risk of the defendant recovering their legal costs if the claim fails. Is this approach proper?",
+            "answer": "This is a legitimate tactical decision in principle, but with limits.\n\nA claimant may legitimately choose to limit or waive part of their claim to keep the total value below the small claims threshold — CPR r.26.8 allows a party to indicate in their allocation questionnaire that they wish to be allocated to a lower track than the value would normally require.\n\nHowever, limits apply:\n1. The claimant should not falsely or misleadingly understate the value of their claim. If the true value is clearly above £10,000 and the claimant misrepresents it to secure small claims allocation, this may constitute improper conduct.\n2. The court has discretion in allocation and will consider all circumstances — including whether the stated value appears artificially reduced.\n3. If the actual loss is £15,000 and the claimant claims £9,500, they waive the remainder. They cannot later top up the claim to above £10,000 without the court's permission.\n4. A solicitor who advises deliberately understating a genuine loss may be advising conduct that is misleading to the court.\n\nStrategically limiting a claim to avoid costs risk is different from misrepresenting loss — the former may be legitimate, the latter is not.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SMALL CLAIMS TACTICAL LIMIT · CPR R.26.8 · LEGITIMATE TO LIMIT · CANNOT MISREPRESENT · WAIVES EXCESS",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-DR-SCE-057",
+            "card_type": 3,
+            "difficulty": "Foundation",
+            "front": "A client wins a small claims hearing for £3,000. The hearing lasted 2 hours. The client was represented by a solicitor throughout the process. How much of the solicitor's fees can the client recover from the losing party?",
+            "answer": "None — or almost none. The small claims track no-costs recovery rule means that the winning party cannot recover their legal costs from the losing party, regardless of the value of the work done by their solicitor.\n\nThe client can recover:\n— The court fee for issuing the claim (for a £3,000 claim, this is a fixed fee based on the claim value — approximately £185).\n— Any witness expenses.\n\nThe solicitor's fees for advice, preparation, and attending the hearing are not recoverable from the losing party. The client bears these costs themselves.\n\nThis is a critical piece of pre-litigation advice for clients contemplating small claims track litigation. A solicitor who fails to explain that their fees are not recoverable — leading the client to believe they will recover all costs if they win — may be in breach of their client care obligations and potentially liable for negligence if the client suffers loss as a result.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SMALL CLAIMS WIN · SOLICITOR FEES NOT RECOVERABLE · COURT FEE ONLY · CLIENT BEARS OWN LEGAL COSTS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-SCE-058",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A solicitor has a client with a £12,000 breach of contract claim. The client asks whether they should issue in the small claims track to avoid costs risk. Advise on the costs and track position.",
+            "answer": "The small claims track is not available for a £12,000 claim — it applies to claims up to £10,000 (for non-PI, non-housing disrepair claims). The £12,000 claim would be allocated to the fast track (£10,000–£25,000).\n\nThe solicitor should advise:\n1. Track: The fast track applies. Standard costs recovery rules apply — the successful party recovers their reasonable legal costs (subject to fast track fixed costs for many case types).\n2. Costs risk: If the client wins, they recover legal costs (broadly). If the client loses, they pay the defendant's costs. The no-costs recovery protection of the small claims track is not available.\n3. Tactical option: The client could choose to waive part of their claim and limit it to £10,000 to access the small claims track and the no-costs rule — but they permanently waive the £2,000 excess.\n4. Advice to give: The solicitor must explain the track position, the costs consequences, and the cost-benefit of limiting the claim. This is a core client care / costs information obligation.\n\nIf the client has a strong case and legal costs are proportionate to the claim, the fast track with costs recovery is usually the better approach. If the case is weak or the client is risk-averse, limiting the claim to £10,000 may be defensible.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "£12K = FAST TRACK · NO SMALL CLAIMS OPTION · COSTS RECOVERY APPLIES · LIMITING CLAIM ADVICE · CLIENT CARE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-SCE-059",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A claimant wins a small claims case. During the hearing, the defendant was abusive and wasted significant court time by making repeated irrelevant points. The judge is considering costs. What can the court award?",
+            "answer": "The no-costs recovery rule on the small claims track has an exception for unreasonable behaviour. Under CPR r.27.14(2)(g), the court may award costs where a party has behaved unreasonably.\n\n'Unreasonable behaviour' is interpreted broadly — it includes:\n— Making baseless allegations.\n— Failing to comply with court orders.\n— Wasting time at the hearing.\n— Conduct that amounts to harassment or bullying.\n\nIf the judge finds the defendant's conduct unreasonable, the court can award costs 'as it considers just' — this is not capped at the fixed costs amount but reflects the actual costs caused by the unreasonable behaviour.\n\nFor the claimant in this scenario:\n— The abusive conduct and irrelevant points may well constitute unreasonable behaviour.\n— The judge can award the claimant additional costs caused by the disruption — e.g. extended hearing time, additional preparation, witness expenses incurred as a result.\n— The quantum depends on what costs are attributable to the unreasonable conduct.\n\nThe unreasonable conduct exception is the most important way for a small claims winner to recover legal costs. Solicitors advising on small claims should document the defendant's unreasonable conduct carefully.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SMALL CLAIMS UNREASONABLE CONDUCT · CPR R.27.14(2)(G) · COURT AWARDS COSTS · NOT CAPPED · DOCUMENT CONDUCT",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Infant and Patient Settlements": {
+        "Protected parties and children": [
+          {
+            "card_code": "FLK1-DR-086",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a 'protected party' and a 'child' for the purposes of CPR Part 21, and why does court approval apply to their settlements?",
+            "answer": "CPR Part 21 provides special protections for two categories of party who may lack full capacity to conduct litigation:\n\n1. Child: A person under 18. A child cannot conduct litigation in their own name — they must have a 'litigation friend' to act on their behalf.\n\n2. Protected party: A person who lacks capacity to conduct proceedings as defined by the Mental Capacity Act 2005 — i.e. a person who cannot understand, retain, use, or communicate information relevant to the litigation decision.\n\nWhy court approval is required:\nThe court must approve any settlement or compromise of a claim by or against a child or protected party (CPR r.21.10). The purpose is to protect those who cannot fully protect their own interests — they cannot give fully informed consent to a settlement in the way an adult with capacity can.\n\nWithout court approval, any settlement is NOT binding on the child or protected party — even if the litigation friend agreed to it. Court approval is therefore not a formality; it is the mechanism by which the settlement becomes legally binding.\n\nThe court considers whether the settlement is in the best interests of the child or protected party — not merely whether the litigation friend consented.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CPR PART 21 · CHILD UNDER 18 · PROTECTED PARTY MCA 2005 · LITIGATION FRIEND · COURT APPROVAL REQUIRED",
+            "is_deeper": 0
+          }
+        ],
+        "Approval procedure": [
+          {
+            "card_code": "FLK1-DR-087",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A personal injury claim is settled for £75,000 on behalf of a 14-year-old claimant. The litigation friend (the child's mother) agrees. What procedural steps are required before the money can be paid to the child?",
+            "answer": "The settlement requires court approval under CPR r.21.10 before it is binding. The procedural steps are:\n\n1. Application to court: The claimant's solicitor files a Part 8 claim form (or if proceedings are issued, an application notice) seeking approval of the settlement.\n\n2. Evidence required: The application must be supported by:\n   — A witness statement from the litigation friend setting out the terms of the settlement and confirming their agreement.\n   — A legal opinion (advice) from counsel or a solicitor advising on the reasonableness of the settlement.\n   — Medical evidence (in personal injury cases) confirming the nature and extent of the injuries.\n   — A schedule of past and future losses.\n\n3. Court hearing: The court considers whether the settlement is in the best interests of the child. The judge may require the parties to attend or may deal with it on the papers.\n\n4. Approval order: The court makes an order approving the settlement, specifying how the money is to be held.\n\n5. Investment of funds: Money recovered for a child is usually paid into court (or to the Court Funds Office) and held until the child turns 18 — the child cannot receive the money directly. The court may direct it be invested in the National Savings Investment Account.\n\nThe child (now 14) will receive the funds on turning 18, with interest accumulated.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COURT APPROVAL · PART 8 · COUNSEL OPINION · MEDICAL EVIDENCE · PAID INTO COURT · AGE 18 RELEASE",
+            "is_deeper": 0
+          }
+        ],
+        "Consequences of non-approval": [
+          {
+            "card_code": "FLK1-DR-088",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A defendant pays a settlement sum to a child claimant's litigation friend without obtaining court approval. Is the settlement binding on the child?",
+            "answer": "No — the settlement is NOT binding on the child. CPR r.21.10(1) provides that where a claim is made by or on behalf of a child or protected party, no settlement, compromise, or payment, and no acceptance of money paid into court, shall be valid without the approval of the court.\n\nThis applies even if:\n— The litigation friend consented.\n— The child's solicitor agreed.\n— The sum was paid and received.\n\nConsequences:\n1. The child (or their litigation friend) can repudiate the settlement and pursue the claim for a higher amount.\n2. The defendant cannot use the payment as a complete defence.\n3. The defendant would need to seek a separate restitution claim for the money already paid — and even this may be difficult if it was paid to the litigation friend rather than into court.\n\nThe defendant's solicitor committed a serious error by not ensuring court approval was obtained before payment. The correct approach is for payment to be into court or to the child's solicitor's client account, pending approval. The money should not be released to the litigation friend without an approval order.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NO COURT APPROVAL = NOT BINDING · CPR R.21.10 · CHILD CAN REPUDIATE · DEFENDANT CANNOT RELY · PAYMENT INTO COURT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-089",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A claimant suffers a head injury in an accident and subsequently lacks capacity. They had instructed solicitors before the accident but now cannot give instructions. What must happen procedurally?",
+            "answer": "Once the claimant lacks capacity to conduct proceedings, they become a 'protected party' under CPR Part 21. A litigation friend must be appointed to continue (or commence) the proceedings on their behalf.\n\nProcedural steps:\n1. Ceasing to act on existing instructions: The solicitor cannot continue acting on the claimant's pre-accident instructions — the claimant can no longer ratify or vary those instructions. The retainer is effectively suspended.\n2. Litigation friend appointment: A suitable person (usually a family member, close friend, or the Official Solicitor as a last resort) must be appointed as litigation friend. The litigation friend must:\n   — Not have interests adverse to the protected party.\n   — Be able to fairly and competently conduct proceedings on the party's behalf.\n   — Provide a certificate of suitability (CPR r.21.5).\n3. Court permission: If proceedings have already been issued, the court must be notified and an application made to appoint the litigation friend.\n4. Settlement: Any settlement must be approved by the court (CPR r.21.10).\n5. Funds management: If the claimant remains incapacitated, the Court of Protection may need to manage any large settlement under the Mental Capacity Act 2005.\n\nThe Official Solicitor acts as litigation friend of last resort when no suitable individual can be found.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROTECTED PARTY · LITIGATION FRIEND · CERTIFICATE OF SUITABILITY · OFFICIAL SOLICITOR · COURT APPROVAL SETTLEMENT",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-DR-SCE-060",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A solicitor settles a personal injury claim for a 9-year-old for £15,000. The judge at the approval hearing says the settlement is too low given the injuries and refuses to approve it. What happens next?",
+            "answer": "The refusal to approve is not the end — it means the settlement is not yet binding and the parties must either renegotiate or proceed to trial.\n\nImmediate effect of refusal:\n— The settlement offer from the defendant falls away unless the defendant agrees to hold it open.\n— The claim continues.\n\nOptions:\n1. Renegotiation: The parties may negotiate a higher settlement. The defendant may increase the offer; if the parties agree on a new sum, a fresh approval application is made.\n2. Trial: If the parties cannot agree, the matter proceeds to trial where the court determines liability and quantum.\n3. Further advice: The judge's concerns about quantum should be taken seriously. The solicitor should obtain updated medical evidence and a revised schedule of loss to support a higher settlement application or trial.\n\nThe approval process is protective of the child — the court's refusal is not a criticism of the solicitor but a finding that the child's interests require a higher sum. The solicitor's role is to present the strongest possible case for an appropriate settlement at the approval hearing.\n\nImportant: The refusal does not affect the litigation friend's authority to continue conducting the proceedings on the child's behalf.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "APPROVAL REFUSED · SETTLEMENT NOT BINDING · RENEGOTIATE OR TRIAL · FRESH APPLICATION · CHILD PROTECTION",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-SCE-061",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A litigation friend agrees a settlement of £200,000 for a protected party (adult with acquired brain injury). The litigation friend then asks the solicitor to pay the money directly to them to 'manage'. Should the solicitor comply?",
+            "answer": "No — the solicitor must not pay the settlement money directly to the litigation friend without specific court authority. This is both a regulatory and procedural issue.\n\nProcedural position:\n— The settlement must first be approved by the court (CPR r.21.10).\n— The approval order will specify how the money is to be held and managed — it will not normally authorise payment to the litigation friend personally.\n\nWhy direct payment to the litigation friend is problematic:\n— The protected party lacks capacity to manage the money themselves.\n— A litigation friend managing large sums without oversight creates a conflict of interest and a risk of misappropriation.\n— The Court of Protection should be involved in managing a significant sum for an adult lacking capacity — the Protected Party's property and financial affairs may need to be managed by a deputy appointed by the Court of Protection.\n\nSolicitor's obligations:\n— Do not release funds without a court approval order and in accordance with its terms.\n— Advise the litigation friend that the Court of Protection may need to appoint a deputy before funds can be released.\n— If in doubt, pay into court and seek directions.\n\nDirectly paying £200,000 to a litigation friend without court sanction risks a breach of the solicitor's duties and potentially exposes the protected party to financial harm.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DO NOT PAY LITIGATION FRIEND · COURT ORDER FIRST · COURT OF PROTECTION · DEPUTY APPOINTMENT · PROTECTED PARTY",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-DR-TRAP-011",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA 17-year-old claimant's litigation friend (their parent) tells the solicitor: 'We're happy with the £20,000 offer — just accept it and pay the money to me to hold for him until he's 18.' The solicitor accepts the offer and pays the money. Is this correct?",
+            "answer": null,
+            "issue": "The Trap: Once the litigation friend has agreed to the settlement, the solicitor can accept it and pay the money to the litigation friend to hold on the child's behalf until they turn 18 — the litigation friend's consent makes the arrangement valid.",
+            "rule": "The Reality: A settlement on behalf of a child (under 18) is NOT valid without court approval under CPR r.21.10, regardless of the litigation friend's consent. The solicitor cannot accept the offer as binding and must not release the settlement money to the litigation friend without a court approval order. The settlement has no legal effect until the court approves it.",
+            "application": "Why the Distractor Fails: The litigation friend's consent is a necessary but not sufficient condition. It is the court's approval that makes the settlement binding. Paying the money to the litigation friend without court approval means: (a) the settlement is not binding on the child; (b) the child can, on turning 18, repudiate the settlement and pursue the full claim; (c) the money paid to the litigation friend may be difficult to recover; and (d) the solicitor may face a professional negligence claim and a regulatory complaint.",
+            "conclusion": "The Key Rule: No settlement on behalf of a child or protected party is binding without court approval (CPR r.21.10). The litigation friend's agreement is a prerequisite — not a substitute — for court approval. Money must not be released before the approval order is made.",
+            "summary_line": "COURT APPROVAL MANDATORY · LITIGATION FRIEND CONSENT NOT SUFFICIENT · CPR R.21.10 · NOT BINDING WITHOUT ORDER",
+            "is_deeper": 0
+          }
+        ]
       }
     }
   }

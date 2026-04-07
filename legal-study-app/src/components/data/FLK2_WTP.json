@@ -2578,6 +2578,240 @@
             "is_deeper": 0
           }
         ]
+      },
+      "IPFDA 1975 — Standard Distinction": {
+        "The two standards": [
+          {
+            "card_code": "FLK2-WTP-072",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the two standards of 'reasonable financial provision' under the Inheritance (Provision for Family and Dependants) Act 1975, and to whom does each apply?",
+            "answer": "The IPFDA 1975 provides two distinct standards:\n\n1. The surviving spouse/civil partner standard (s.1(2)(a)): Such financial provision as it would be reasonable in all the circumstances for the applicant to receive, whether or not it is needed for their maintenance. This is the broader standard — it is not limited to maintenance needs. A surviving spouse may claim more than bare subsistence.\n\n2. The maintenance standard (s.1(2)(b)): Such financial provision as it would be reasonable in all the circumstances for the applicant to receive for their maintenance. This narrower standard applies to all other eligible applicants:\n   — Children of the deceased (any age).\n   — Former spouses/civil partners who have not remarried.\n   — Cohabitants (living with the deceased as husband/wife for 2 years immediately before death — s.1(1)(ba)).\n   — Any other person maintained by the deceased.\n\nKey SQE distinction: A spouse/civil partner is not limited to maintenance — they can receive a share of the estate appropriate to the overall circumstances. All other applicants are limited to what is needed for their maintenance, though 'maintenance' is construed broadly to include housing and general living costs.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "IPFDA 1975 · SPOUSE BROADER STANDARD S.1(2)(A) · ALL OTHERS MAINTENANCE ONLY S.1(2)(B) · KEY DISTINCTION",
+            "is_deeper": 0
+          }
+        ],
+        "Adult child claims": [
+          {
+            "card_code": "FLK2-WTP-073",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A deceased left his estate to his new partner. His adult son (35, employed full-time) receives nothing. What standard applies to the son's IPFDA application and what must he show?",
+            "answer": "The adult son is a child of the deceased — he applies under the maintenance standard (s.1(2)(b) IPFDA 1975). He must show that the will fails to make reasonable financial provision for his maintenance.\n\nKey hurdles:\n1. Maintenance standard: He is limited to what is needed for his maintenance — not an equal share of the estate.\n2. Financial independence: An employed adult in full-time work, with no demonstrated financial need, faces a very high hurdle. 'Maintenance' requires a genuine financial need the estate could address.\n3. Moral obligation: Courts assess whether the deceased had a moral obligation to the applicant. An adult child who is financially independent has a much weaker claim on parental obligations than a dependent child.\n\nLeading authority: Re Coventry [1980] — the Court of Appeal held that an adult son in full-time employment failed to show the estate did not make reasonable financial provision. The mere fact of being a child of the deceased is insufficient.\n\nThe son's application is unlikely to succeed without special circumstances: disability, financial need, promises made by the deceased, or a period of dependence or contribution to the deceased's welfare.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ADULT SON · MAINTENANCE STANDARD · RE COVENTRY · EMPLOYED = HIGH HURDLE · NEED + MORAL OBLIGATION REQUIRED",
+            "is_deeper": 0
+          }
+        ],
+        "Spouse and cohabitant": [
+          {
+            "card_code": "FLK2-WTP-074",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A widow receives the family home (£300,000) from a £1.2 million estate. She applies under IPFDA 1975. What standard applies and what are the key factors?",
+            "answer": "A surviving spouse applies under the broader standard — s.1(2)(a) IPFDA 1975. She is not limited to what is needed for her maintenance.\n\nThe question is what it would be reasonable in all the circumstances for her to receive — a significantly wider enquiry than maintenance.\n\nSection 3 factors the court will consider:\n— The size of the estate (£1.2 million).\n— Her financial resources and needs.\n— The duration of the marriage and her contributions (including as homemaker).\n— The value of what she has already received (£300,000 house — 25% of the estate).\n— What she would likely have received on divorce — the 'divorce analogy'.\n— The obligations of the deceased to her and to other beneficiaries.\n\nOn these facts: A widow who receives only 25% of a large estate after a substantial marriage may well have grounds for an application. The court may treat the matrimonial contribution standard as requiring significantly more — particularly if the marriage was long or her non-financial contributions were substantial.\n\nNote: The spouse standard is broader than maintenance — but the court retains discretion and there is no automatic entitlement to 50% or any specific share.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SURVIVING SPOUSE · BROADER STANDARD · NOT MAINTENANCE ONLY · S.3 FACTORS · DIVORCE ANALOGY · 25% MAY BE LOW",
+            "is_deeper": 0
+          }
+        ],
+        "S.3 factors": [
+          {
+            "card_code": "FLK2-WTP-075",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What are the s.3 factors a court must consider in an IPFDA 1975 application, and which carry the most weight?",
+            "answer": "Section 3 IPFDA 1975 requires the court to consider all relevant circumstances, with specific matters listed:\n\n(a) Financial resources and needs of the applicant — now and in the foreseeable future.\n(b) Financial resources and needs of any other applicant or beneficiary.\n(c) Obligations and responsibilities of the deceased to any applicant or beneficiary.\n(d) The size and nature of the estate.\n(e) Physical or mental disability of any applicant or beneficiary.\n(f) Any other matter, including conduct.\n\nAdditional factors for spouse applications (s.3(2)):\n— The applicant's age and the duration of the marriage.\n— The applicant's contribution to family welfare (including caring for children or the home).\n— What they would likely have received on divorce.\n\nFactors carrying most weight in practice:\n— Financial need: The dominant factor in maintenance standard cases.\n— Estate size: Where the estate is large, even a modest award does not impose disproportionate hardship on beneficiaries.\n— Duration of marriage and contribution (for spouses): The divorce analogy is highly influential.\n— Moral obligation: Whether the deceased had a recognised duty to the applicant.\n— Competing claims: The court must balance all applicants — a large family with competing IPFDA claims will result in smaller individual awards.\n\nConduct is relevant but rarely decisive except in extreme cases.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.3 FACTORS · FINANCIAL NEED · ESTATE SIZE · MORAL OBLIGATION · SPOUSE: DURATION AND DIVORCE ANALOGY · CONDUCT",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-WTP-SCE-049",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A cohabitant of 10 years receives nothing under the deceased's will. She lived with him for the whole period immediately before his death. The estate is £500,000. She applies under IPFDA 1975. What must she establish?",
+            "answer": "A cohabitant who lived with the deceased in the same household as if husband and wife for the whole of the 2 years immediately preceding the death is an eligible applicant under s.1(1)(ba) IPFDA 1975 (inserted by the Law Reform (Succession) Act 1995).\n\nShe must establish:\n1. Cohabitation for the 2 years immediately before death: 10 years of cohabitation easily satisfies this.\n2. Received no reasonable financial provision: Receiving nothing requires the court to assess what provision is reasonable.\n3. The maintenance standard applies: As a cohabitant (not a spouse), she is limited to what is needed for her maintenance — she cannot claim the broader spouse standard regardless of the length of cohabitation.\n\nStrengths: 10 years of cohabitation, likely financial interdependence, moral claim.\nWeaknesses: Maintenance standard is narrower than a spouse's; if she is financially self-sufficient, the claim is weaker.\n\nTime limit: Application must be made within 6 months of the grant of representation (s.4 IPFDA 1975), though the court has discretion to extend.\n\nCritical point: A 10-year cohabitant is in a legally weaker position than a 1-year spouse for IPFDA purposes — the duration of cohabitation does not elevate the standard.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COHABITANT · S.1(1)(BA) · 2 YEARS IMMEDIATELY BEFORE · MAINTENANCE STANDARD · NOT SPOUSE STANDARD · 6 MONTHS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-SCE-050",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A deceased left her entire estate to charity, excluding her adult daughter (40) who has a significant disability and relies on state benefits. The daughter applies under IPFDA 1975. Assess the claim.",
+            "answer": "The adult daughter has a stronger claim than a typical financially independent adult child, due to disability and demonstrated financial need.\n\nStrengths of the claim:\n1. Disability: s.3(1)(e) IPFDA 1975 requires the court to consider physical or mental disability. A significant disability limiting earning capacity is a key factor.\n2. Financial need: Reliance on state benefits demonstrates that the maintenance standard is clearly met — the daughter has maintenance needs the estate could address.\n3. Moral obligation: A parent has a stronger moral obligation to a disabled dependent child — even an adult — than to a financially independent one.\n4. Charitable bequest: Courts have shown willingness to reduce or interfere with charitable bequests where close family members have been unreasonably excluded.\n\nWeaknesses:\n1. Maintenance standard applies — she cannot claim an equal share of the estate.\n2. State benefits partially meet her needs — though courts generally do not penalise applicants for receiving state support.\n3. Adult child — the baseline presumption is that adults support themselves, though disability overrides this.\n\nAssessment: This is among the stronger adult child claims under IPFDA 1975 — disability combined with demonstrable need and a parental moral obligation is precisely the combination the Act was designed to address.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DISABLED ADULT DAUGHTER · MAINTENANCE STANDARD · S.3(1)(E) DISABILITY · FINANCIAL NEED · CHARITABLE BEQUEST · STRONG CLAIM",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-SCE-051",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A former wife (divorced 5 years ago, no financial order ever made) applies within 6 months of probate under IPFDA 1975. The deceased left everything to his new partner. Assess her application.",
+            "answer": "A former spouse who has not remarried is eligible under s.1(1)(b) IPFDA 1975. The maintenance standard applies — she cannot claim the broader spouse standard.\n\nKey factors:\n\nStrengths:\n1. No financial order on divorce: Where parties divorced without any financial settlement, the court may be more sympathetic — there was no clean break. She was not provided for during the marriage's dissolution and receives nothing from the estate.\n2. Moral obligation: The deceased may have had a continuing obligation, particularly if children of the marriage are involved or if the failure to obtain a financial order was not due to the applicant's choice.\n\nWeaknesses:\n1. Maintenance standard — she is limited to what she needs for her maintenance, not a share equivalent to what a continuing spouse would receive.\n2. Five years post-divorce — the court considers her current financial position. If she has rebuilt her financial position, her claim is weaker.\n3. Competing claim from new partner — if the partner lived with the deceased for over 2 years, she too may apply under s.1(1)(ba), and the court must balance competing claims.\n\nTime limit: 6 months from grant — met on these facts.\n\nConclusion: A borderline case — the strength depends heavily on her current financial need and whether the failure to obtain a financial order on divorce is attributable to circumstances beyond her control.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FORMER SPOUSE · MAINTENANCE STANDARD · NO FINANCIAL ORDER ON DIVORCE · 5 YEARS · COMPETING NEW PARTNER CLAIM",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-WTP-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA student argues: 'Under IPFDA 1975, a surviving spouse is entitled to at least 50% of the estate — they get the same as on divorce.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: The IPFDA 1975 surviving spouse standard gives the spouse the same entitlement as on divorce, which in modern family law often means 50% of matrimonial assets — so the spouse receives at least half.",
+            "rule": "The Reality: The IPFDA 1975 does not guarantee any fixed percentage. The surviving spouse standard (s.1(2)(a)) is broader than the maintenance standard — it is not limited to maintenance needs — but there is no automatic entitlement to 50% or any specific share. The court uses the divorce analogy as one factor in s.3(2) to inform what is reasonable — it does not simply apply the Matrimonial Causes Act 1973 calculation.",
+            "application": "Why the Distractor Fails: The divorce analogy is a tool for assessing reasonableness — not a floor for the award. The court may award less than a divorcing spouse would receive (e.g. where the marriage was brief, where the spouse has independent means, or where there are strong competing claims). There is no statutory or case law entitlement to 50%. The court retains broad discretion and the award depends on all the s.3 factors considered together.",
+            "conclusion": "The Key Rule: The IPFDA 1975 does not guarantee a surviving spouse 50% of the estate. The broader standard means the claim is not limited to maintenance — not that the spouse receives the divorce entitlement. The divorce analogy is one factor, not a minimum threshold.",
+            "summary_line": "NO 50% ENTITLEMENT · BROADER ≠ DIVORCE EQUIVALENT · S.3(2) DIVORCE ANALOGY ONE FACTOR · COURT DISCRETION",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-TRAP-014",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor advises: 'Your adult son earns £60,000 and has been independent for 15 years. IPFDA 1975 doesn't apply to financially independent adult children — he has no right to apply.' Is this advice correct?",
+            "answer": null,
+            "issue": "The Trap: IPFDA 1975 excludes financially independent adult children — a child with no maintenance needs cannot be an eligible applicant.",
+            "rule": "The Reality: Adult children of the deceased are eligible applicants under s.1(1)(c) IPFDA 1975 — the Act does not exclude any child based on financial independence or age. Any child of the deceased may apply. However, the maintenance standard applies, and a financially independent adult child earning £60,000 faces an extremely high hurdle in demonstrating that the estate fails to make reasonable financial provision for their maintenance — because they have no maintenance needs.",
+            "application": "Why the Distractor Fails: Eligibility and merits are entirely separate questions. The adult son is eligible to apply under s.1(1)(c) — the Act does not exclude him. Whether his application will succeed on its merits is a different question. Re Coventry [1980] confirms that a competent adult child in employment will rarely succeed on the merits — but this is about the strength of the claim, not eligibility. The advice that 'the Act doesn't apply' is wrong and potentially negligent.",
+            "conclusion": "The Key Rule: All children of the deceased (of any age) are eligible applicants under s.1(1)(c) IPFDA 1975. Financial independence does not bar the application — it makes success on the merits very difficult but does not remove the right to apply. Eligibility and merit are separate questions.",
+            "summary_line": "ADULT CHILD ELIGIBLE S.1(1)(C) · INDEPENDENCE ≠ INELIGIBLE · HIGH HURDLE ON MERITS · RE COVENTRY · TWO QUESTIONS",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Solicitor Conduct on Taking Instructions": {
+        "Undue influence and capacity": [
+          {
+            "card_code": "FLK2-WTP-076",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are a solicitor's key duties when taking testamentary instructions, particularly regarding undue influence?",
+            "answer": "When taking instructions for a will, the solicitor must ensure instructions reflect the testator's own genuine and free wishes.\n\nCore duties:\n1. See the testator alone: The solicitor must arrange to take instructions from the testator without the presence of any potential beneficiary, at least for a significant part of the meeting. A beneficiary's presence creates a risk of undue influence — actual or perceived.\n2. Confirm instructions are the testator's own: Ask open questions; avoid leading the testator. Listen for signs that the testator is repeating instructions given to them by a third party.\n3. Identify signs of undue influence: Watch for — the testator being unable to speak freely; a beneficiary answering on the testator's behalf; instructions inconsistent with previously expressed wishes; the beneficiary appearing to have arranged the appointment.\n4. Confirm understanding: Ensure the testator understands the effect of the proposed will — particularly any unusual provisions such as excluding close family members.\n5. Attendance note: Record who was present at every stage, what instructions were given (in the testator's own words where possible), what concerns were observed, and that the testator confirmed the instructions were their own. This note is crucial evidence if the will is later challenged.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TESTAMENTARY INSTRUCTIONS · SEE ALONE · OWN WISHES · SIGNS OF UNDUE INFLUENCE · ATTENDANCE NOTE CRITICAL",
+            "is_deeper": 0
+          }
+        ],
+        "The golden rule": [
+          {
+            "card_code": "FLK2-WTP-077",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the Banks v Goodfellow testamentary capacity test and when must a solicitor apply the 'golden rule'?",
+            "answer": "Banks v Goodfellow (1870) LR 5 QB 549 established the test for testamentary capacity. The testator must:\n1. Understand the nature of making a will and its effects.\n2. Understand the extent of the property they are disposing of (not necessarily the precise value, but a general understanding).\n3. Understand the claims of those who might reasonably expect to benefit — e.g. family members — even if they choose not to provide for them.\n4. Not be suffering from any disorder of the mind that poisons their affections, perverts their sense of right, or prevents the exercise of their natural faculties in disposing of their property.\n\nThe golden rule:\nWhere a solicitor has any doubt about a testator's capacity — e.g. because the testator is elderly, appears confused, has a known medical condition, or has recently recovered from illness — the solicitor should arrange for a contemporaneous medical assessment of capacity at or around the time of execution.\n\nThe golden rule does not mean a medical opinion is required in every case — only where there is genuine doubt. The solicitor's own assessment during the meeting, recorded in the attendance note, remains important. Where doubt exists and a medical opinion is obtained, this provides the best contemporaneous evidence if the will is later challenged.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BANKS v GOODFELLOW · FOUR LIMBS · GOLDEN RULE · MEDICAL ASSESSMENT IF DOUBT · CONTEMPORANEOUS EVIDENCE",
+            "is_deeper": 0
+          }
+        ],
+        "Contested wills": [
+          {
+            "card_code": "FLK2-WTP-078",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A solicitor is asked by a client's adult daughter to draft a new will for the client (85, in a care home), changing it to exclude the other siblings. The daughter brings the client to the appointment. What precautions should the solicitor take?",
+            "answer": "This is a high-risk scenario combining: elderly client; care home resident; instruction to exclude family; and the instruction being brought by the benefiting daughter. All demand heightened precaution.\n\nRequired precautions:\n1. See the client alone: Ask the daughter to leave for the substantive part of the meeting. Instructions must be taken directly from the client.\n2. Assess capacity at the outset: Apply the Banks v Goodfellow test. If there is any doubt, apply the golden rule and arrange a medical assessment.\n3. Take instructions independently: Do not accept the daughter's account of what the client wants — hear the client's own words.\n4. Explain the effect: Ensure the client understands they are excluding their other children and the effect this will have.\n5. Undue influence check: Ask the client privately whether they feel free to make this decision and whether anyone has pressured them.\n6. Attendance note: Record in detail who was present at each stage, what was said, that the client was seen alone, and any concerns observed.\n7. Consider medical evidence: Given the client's age and care home context, a GP assessment may be prudent even if capacity appears present — to protect the will against future challenge.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ELDERLY CARE HOME · SEE ALONE · CAPACITY ASSESS · GOLDEN RULE · UNDUE INFLUENCE CHECK · ATTENDANCE NOTE DETAILED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-079",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A will is challenged after the testator dies on grounds of lack of capacity and undue influence. What contemporaneous evidence does the court look for and how does the solicitor's file assist?",
+            "answer": "The court looks for contemporaneous evidence — produced at the time the will was made, not reconstructed after the death.\n\nFor capacity:\n— The solicitor's attendance note: Does it record the solicitor's own capacity assessment? What was the testator's demeanour and understanding at the meeting?\n— Medical evidence: Was the golden rule applied? Is there a GP or specialist assessment dated around the time of execution?\n— The will's content: Is it rational, internally consistent, and consistent with the testator's previously expressed wishes?\n— Witness statements from the solicitor and others present.\n\nFor undue influence:\n— Who was present at each stage of the meetings? (The attendance note must record this.)\n— Were instructions taken from the testator alone or with a beneficiary present?\n— Did the testator speak freely? Did any third party answer on their behalf?\n— Are the instructions a radical departure from earlier wishes, or consistent with what the testator had previously expressed?\n— Was the appointment arranged by the benefiting party?\n\nA detailed solicitor's file — with careful attendance notes, capacity records, and clear records of who was present — is the most important contemporaneous evidence in a contested will action. A thin file (sparse notes, no record of who attended, no capacity assessment) leaves the will vulnerable to challenge.\n\nParker v Felgate principle: A will is valid if the testator had capacity when they gave instructions, even if capacity was reduced at execution — provided they intended to give effect to the prior instructions.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONTEMPORANEOUS EVIDENCE · ATTENDANCE NOTE · MEDICAL EVIDENCE · WHO PRESENT · PARKER v FELGATE · FILE CRITICAL",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-WTP-SCE-052",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "The client's son calls to say he wants to attend the will-drafting meeting with his father 'to help'. Should the solicitor agree?",
+            "answer": "The solicitor should decline the son attending the substantive part of the meeting, or at minimum ensure the father is seen alone for the instructions stage.\n\nThe son's presence creates a risk of:\n1. Undue influence: The father may feel unable to express wishes that differ from his son's expectations. Even without deliberate pressure, the son's presence may inhibit the father's free expression.\n2. Evidence problems: If the will is later challenged, a beneficiary's presence during instructions is a significant point for challengers — it raises the inference (whether justified or not) that the instructions were not independently given.\n\nThe solicitor should:\n— Explain to the son tactfully that professional standards require instructions to be taken directly from the testator alone — this actually protects the validity of the will.\n— Ask the father directly (when alone) whether he would like his son present for any part of the meeting.\n— If the father requests his son for practical support (e.g. hearing difficulties), administrative matters may be handled together, but the substantive instructions must be taken privately.\n— Record clearly in the attendance note that the father was seen alone and confirmed the instructions were his own.\n\nA well-drafted attendance note in this scenario is the best protection against a future undue influence challenge.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SON WANTS TO ATTEND · SEE CLIENT ALONE · UNDUE INFLUENCE RISK · DECLINE SON FOR INSTRUCTIONS · ATTENDANCE NOTE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-SCE-053",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A 92-year-old client attends to leave her entire estate to her live-in carer, excluding her four children. She appears lucid. Should the solicitor proceed?",
+            "answer": "The solicitor should not refuse on the ground that the proposed gift appears unusual — a competent adult may leave their estate to whomever they choose. However, this scenario contains multiple red flags requiring heightened caution before proceeding.\n\nRed flags:\n— Gift to a carer: The SRA and courts are alert to the risk of professional or live-in carers exerting influence over vulnerable clients. Some care providers prohibit carers from receiving gifts from residents.\n— Exclusion of all four children: A radical departure from conventional testamentary patterns.\n— Age (92): Increases the risk of both reduced capacity and vulnerability to influence.\n\nRequired steps before proceeding:\n1. Apply the golden rule: Arrange a contemporaneous medical capacity assessment — do not rely solely on the solicitor's impression.\n2. See the client entirely alone: The carer must not be present at any stage.\n3. Conduct a full Banks v Goodfellow assessment during the meeting.\n4. Ask about the children — does the client understand they are being excluded? What are the reasons?\n5. Ask about the carer's role — does the carer have power of attorney or control over finances?\n6. Ask specifically whether the client feels free to make this decision — and whether anyone has discussed it with them or put pressure on them.\n7. Record everything in detail.\n\nIf all precautions are taken and capacity and free intention are established, the solicitor may proceed. If doubt remains, the will should not be executed until capacity is confirmed.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CARER BENEFICIARY · 92 YEARS OLD · GOLDEN RULE MANDATORY · SEE ALONE · BANKS v GOODFELLOW · ALL CHILDREN EXCLUDED",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-WTP-TRAP-015",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor drafts a will including a substantial legacy to themselves personally. The testator appears to consent freely and insists on including the gift. The solicitor proceeds, reasoning: 'The client is an adult making an autonomous decision — it is not my place to refuse.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: A solicitor may accept a gift from a client in a will provided the client freely consents — the principle of client autonomy means the solicitor should respect the client's expressed wishes.",
+            "rule": "The Reality: A gift to a solicitor (or their associate) from a client's will raises an own interest conflict under Code para. 6.1 and potentially Code para. 8.8. The SRA Code requires a solicitor not to accept a gift from a client where the circumstances suggest the client may not be exercising independent judgment — and a gift to the solicitor drafting the will is one of the clearest such circumstances. The solicitor should strongly advise the client to seek independent legal advice, and should not draft the will in this form.",
+            "application": "Why the Distractor Fails: Client autonomy is subject to the solicitor's professional obligations. The own interest conflict is acute — the solicitor benefits financially from drafting a document in a particular way, which is precisely the situation the Code targets. The risk of undue influence, even unconscious, is inherent. The solicitor should decline to draft the will with a gift to themselves and should refer the client to an independent solicitor to receive the instructions. Proceeding exposes the solicitor to regulatory action and the will to challenge.",
+            "conclusion": "The Key Rule: A solicitor should not draft a will that includes a gift to themselves or a person connected to them. The own interest conflict is too acute. The client must be referred to independent legal advice, and the solicitor should decline to act in this form.",
+            "summary_line": "GIFT TO SOLICITOR · OWN INTEREST CONFLICT · PARA 6.1 · REFER TO INDEPENDENT SOLICITOR · CANNOT DRAFT OWN BENEFIT",
+            "is_deeper": 0
+          }
+        ]
       }
     }
   }

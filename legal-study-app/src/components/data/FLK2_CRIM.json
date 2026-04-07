@@ -3590,6 +3590,401 @@
             "is_deeper": 0
           }
         ]
+      },
+      "Advocate's Duty — Criminal Context": {
+        "Overriding duty and its limits": [
+          {
+            "card_code": "FLK2-CRIM-104",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What duties does a solicitor-advocate owe to the court in criminal proceedings, and how do they differ from the duty to the client?",
+            "answer": "A solicitor-advocate in criminal proceedings owes a paramount duty to the court that overrides the duty to the client wherever the two conflict. This mirrors the position in civil proceedings and is grounded in Principle 1 (uphold the rule of law and administration of justice) and Code paras. 2.1–2.7.\n\nSpecific duties in the criminal context:\n— Not to mislead the court (Code para. 2.1): The advocate cannot assert the client's innocence if they know the client is guilty, cannot rely on evidence they know to be false, and cannot advance positive factual assertions they know to be untrue.\n— Not to coach witnesses (Code para. 2.4): Cannot rehearse what a witness will say — only explain the process.\n— Not to make improper allegations: Cannot assert in cross-examination that a prosecution witness is lying unless there is a proper basis for the challenge.\n— Duty of candour applies: Although the criminal adversarial system does not require disclosure of the defence case except as required by the CPIA, the advocate cannot actively mislead the court about the law.\n— Not to waste the court's time (Code para. 2.6): Includes making hopeless submissions, raising spurious procedural points, or running an argument known to have no merit.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CRIMINAL ADVOCATE DUTY · COURT PARAMOUNT · NO MISLEAD · NO COACHING · NO IMPROPER ALLEGATIONS · NO WASTE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-105",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A criminal defence solicitor is instructed by a client who pleads not guilty to assault. During a conference, the client admits to the solicitor that they did assault the victim but claims the victim 'deserved it'. The solicitor continues to represent the client at trial. What can they do?",
+            "answer": "The admission creates the guilty-client-not-guilty-plea scenario. The solicitor can continue to represent the client — but only within the limits of the duty to the court.\n\nPermissible:\n— Put the prosecution to proof: require the prosecution to prove every element of the offence.\n— Cross-examine prosecution witnesses to test the reliability of their evidence — even though the solicitor knows the client committed the assault.\n— Raise any legal issues (e.g. self-defence, if the client has genuinely instructed this — but the solicitor cannot invent a defence).\n— Submit no case to answer at the close of the prosecution's case, if the evidence is insufficient.\n— Make submissions on sentence if the client is convicted.\n\nNot permissible:\n— Call the client to give evidence denying the assault — this would be presenting evidence the solicitor knows is false.\n— Assert in closing that the client did not commit the assault.\n— Advance a positive defence (e.g. alibi) that the solicitor knows is false.\n— Coach witnesses to give a particular account.\n\nIf the client insists on giving evidence or advancing a positive false case, the solicitor must withdraw.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GUILTY CLIENT NOT GUILTY PLEA · TEST PROSECUTION · CROSS-EXAMINE · CANNOT CALL CLIENT · CANNOT ASSERT INNOCENCE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-106",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A defence solicitor-advocate is cross-examining a prosecution witness. Their client instructs them to 'destroy' the witness by suggesting they are a racist who fabricated the evidence. The solicitor has no basis for this other than the client's assertion. What are the limits on the cross-examination?",
+            "answer": "A solicitor-advocate cannot make serious allegations against a witness in cross-examination unless there is a proper basis for doing so. This is a fundamental professional obligation.\n\nThe rule:\n— Allegations in cross-examination (e.g. that a witness is lying, racist, fabricating evidence) must be based on instructions or evidence that support the allegation — not merely the client's bare assertion.\n— Cross-examination is for testing evidence, not for making untested serious allegations that damage witnesses' reputations without foundation.\n— Code para. 2.1 and the general duty not to mislead apply — if the advocate implies a factual basis for the allegation that does not exist, this is misleading the court and the witness.\n\nPermissible basis for the allegation:\n— The client has given specific, credible instructions about the witness's conduct or motive.\n— There is documentary or other evidence that could support the allegation.\n— The allegation is a reasonable inference from the facts.\n\nIf the only basis is 'the client says so', that is not sufficient to make a serious allegation of racism or fabrication. The solicitor must advise the client that the cross-examination will test the evidence — not act as a vehicle for unsubstantiated attacks on witnesses.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CROSS-EXAMINATION LIMITS · PROPER BASIS REQUIRED · NOT BARE ASSERTION · NO UNSUBSTANTIATED ATTACKS · PARA 2.1",
+            "is_deeper": 0
+          }
+        ],
+        "Specific scenarios": [
+          {
+            "card_code": "FLK2-CRIM-107",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A solicitor-advocate mitigates on behalf of a client who has been convicted of theft. The client instructs the solicitor to say they have no previous convictions. The solicitor knows from their own records that the client has previous convictions. What must the solicitor do?",
+            "answer": "The solicitor cannot advance false mitigation — asserting the client has no previous convictions when the solicitor knows they do would be misleading the court (Code para. 2.1).\n\nThe solicitor must:\n1. Advise the client that the solicitor cannot assert they have no previous convictions.\n2. Explain that the court will have access to the client's criminal record and that false mitigation is likely to be discovered — making the position worse.\n3. Present truthful mitigation: genuine remorse, personal circumstances, employment, family, health, and any other real mitigating factors — but not false factual assertions.\n4. If the client insists on the solicitor asserting no previous convictions, the solicitor must refuse and, if necessary, withdraw from representing the client at the sentencing hearing.\n\nThe court's sentencing function depends on accurate information. A solicitor who knowingly advances false mitigation — however sympathetic the client — commits professional misconduct. The duty to the court on mitigation is as strict as the duty during the trial itself.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FALSE MITIGATION · PREVIOUS CONVICTIONS · CANNOT ASSERT FALSE · TRUTHFUL MITIGATION ONLY · WITHDRAW IF INSISTED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-108",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is the solicitor's obligation if they receive instructions from a client who intends to give evidence but whom the solicitor believes will lie? Can the solicitor remain on the record?",
+            "answer": "This is one of the most difficult scenarios in criminal practice. The analysis:\n\nThe solicitor can remain on the record and represent the client — provided the client does not actually give false evidence. Anticipation that the client will lie is not sufficient to require immediate withdrawal.\n\nThe solicitor should:\n1. Advise the client clearly of the consequences of perjury.\n2. Advise the client that they cannot assist in the presentation of false evidence.\n3. Take instructions afresh — the client may, on advice, decide not to give evidence or to give truthful evidence.\n\nIf the client then gives evidence:\n— If the evidence is truthful, no problem arises.\n— If the evidence is plainly false and the solicitor is satisfied it is false (not merely inconsistent with other evidence), the solicitor must cease to act and cannot continue to represent the client.\n\nThe solicitor cannot 'fire and forget' by withdrawing only after the false evidence has been given — at that point they may also be required to report the matter to the COLP. The solicitor must not assist in the presentation of the false evidence (e.g. by leading the client through it in examination-in-chief).\n\nWithdrawal should be before the false evidence is given if the solicitor is in a position to do so.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CLIENT TO LIE · ADVISE CONSEQUENCES · WITHDRAW BEFORE FALSE EVIDENCE · CANNOT ASSIST · ANTICIPATION NOT ENOUGH",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-109",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "Can a defence solicitor in criminal proceedings disclose to the prosecution or court information received from the client in confidence, where that information shows the client is guilty?",
+            "answer": "No — in virtually all circumstances, the answer is no. Legal professional privilege protects communications between a solicitor and client for the purpose of giving or receiving legal advice. This protection is near-absolute in criminal proceedings.\n\nThe duty of confidentiality means:\n— The solicitor cannot voluntarily disclose the client's admission of guilt to the prosecution or the court.\n— Disclosure would breach LPP, confidentiality, and the client's right to a fair trial.\n— The solicitor cannot even hint to the court why they are withdrawing — giving a reason that exposes the client's admission would be a breach of confidentiality.\n\nException — crime/fraud:\nLPP does not protect communications made for the purpose of facilitating a future crime or fraud. If the client is asking the solicitor to assist in an ongoing criminal scheme (not simply seeking advice on a past crime they have committed), LPP may not apply. But an admission of a past offence is fully protected.\n\nThe correct position: the solicitor's response to an admission of guilt is withdrawal, not disclosure. Withdrawal is the mechanism that allows the solicitor to comply with their duty to the court (not to mislead) without breaching confidentiality. The court is not told why the solicitor has withdrawn.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NO DISCLOSURE OF ADMISSION · LPP · WITHDRAWAL NOT DISCLOSURE · CRIME/FRAUD EXCEPTION NARROW · PAST CRIME PROTECTED",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-CRIM-SCE-041",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "In a Crown Court trial, the defendant in the dock passes a note to their solicitor saying: 'Tell the jury that prosecution witness X is lying about the car being red — I've just remembered the car was actually blue.' The solicitor had no previous instructions about the colour of the car. What should the solicitor do?",
+            "answer": "This is a new instruction received during trial. The defendant is now saying the car was blue, not red as the prosecution witness stated. This could be a genuine recollection or an attempt to manufacture a defence.\n\nThe solicitor should:\n1. Take a short adjournment if possible to take proper instructions from the client.\n2. Assess whether the new instruction is plausible, consistent with other evidence, and genuinely held by the client — or whether it appears to be a fabrication prompted by the prosecution evidence.\n3. If the instruction is plausible and the client is genuinely asserting the car was blue, the solicitor can challenge the prosecution witness on this point in cross-examination — putting the client's account to the witness.\n4. If the solicitor concludes the instruction is an attempt to introduce a false assertion (e.g. because earlier instructions consistently described the car as red and the client appears to be responding to the prosecution evidence to create a conflict), the solicitor must advise the client that they cannot advance this account without a proper basis.\n\nThe timing of the instruction (received in court during trial) is not per se suspicious — but the solicitor must apply professional judgment and cannot be a mere conduit for instructions that appear designed to mislead.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NEW INSTRUCTION IN TRIAL · TAKE ADJOURNMENT · ASSESS PLAUSIBILITY · CHALLENGE IF GENUINE · REFUSE IF FABRICATED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-042",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A defence solicitor is instructed to represent a client charged with benefit fraud. The client wants to plead not guilty. The solicitor has seen the prosecution evidence and it appears overwhelming — CCTV, bank records, and DWP records all confirm the fraud. The client insists on pleading not guilty. What is the solicitor's position?",
+            "answer": "The client is entitled to plead not guilty — that is their fundamental right, and the prosecution still bears the burden of proving the case. The strength of the prosecution evidence does not deprive the client of that right.\n\nThe solicitor's position:\n— They cannot compel the client to plead guilty.\n— They must advise the client clearly and honestly on the evidence and the likely outcome — including the 'guilty plea discount' on sentence that may be lost if the client contests the case.\n— They can continue to represent the client in a not guilty plea.\n\nConditions on representation:\n— The solicitor can put the prosecution to proof — require them to produce and prove each piece of evidence.\n— The solicitor can cross-examine prosecution witnesses.\n— The solicitor cannot call the client to give false evidence (if the client insists on denying the fraud the solicitor knows occurred).\n— If the client plans to give false evidence (denying the fraud), the solicitor must advise against it and, if the client insists, withdraw.\n\nHonest advice is the primary obligation. A client who continues to plead not guilty after clear advice does so with full information — and the consequences (likely conviction and worse sentence) are theirs to bear.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CLIENT RIGHT TO PLEAD NOT GUILTY · ADVISE HONESTLY · GUILTY PLEA DISCOUNT · TEST PROSECUTION · CANNOT CALL TO LIE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-043",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A solicitor represents a client in a magistrates' court trial. After the prosecution closes its case, the client tells the solicitor: 'I want to give evidence that I wasn't there at all — but I was there, just watching, not doing anything.' The solicitor believes the 'watching' account but not the 'wasn't there' account. What should the solicitor do?",
+            "answer": "The client has given two different accounts — 'wasn't there' (which the solicitor believes to be false) and 'I was there but just watching' (which the solicitor believes may be true).\n\nThe solicitor cannot assist the client in giving the 'wasn't there' account — that would be presenting evidence the solicitor knows is false (Code para. 2.1, 2.2).\n\nThe 'I was there but watching' account is different — if the solicitor believes this is genuinely what the client is saying, and it is not provably false, the client may give evidence on this basis. The 'watching but not participating' account is a legitimate defence to some charges (e.g. passive presence is not enough for secondary liability without the required mens rea).\n\nThe solicitor should:\n1. Advise the client that the 'wasn't there' account cannot be advanced — explain why.\n2. Take proper instructions on the 'watching' account — what was the client doing, where were they, what did they see?\n3. If the client adopts the 'watching' account and it is plausible, the client may give evidence on this basis.\n4. If the client insists on the 'wasn't there' account, the solicitor must withdraw from the case if the client is to give evidence.\n\nThe solicitor must exercise careful judgment about which account is being genuinely put forward before making any decisions.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TWO ACCOUNTS · CANNOT ADVANCE KNOWN FALSE · WATCHING ACCOUNT IF GENUINE · TAKE INSTRUCTIONS · WITHDRAW IF INSISTED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-044",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A solicitor-advocate is representing a defendant in sentencing. The pre-sentence report contains an error — it understates the number of previous convictions. The solicitor notices this before the judge reads the report. What must the solicitor do?",
+            "answer": "The solicitor must bring the error to the court's attention. Although the pre-sentence report is prepared by the Probation Service (not the solicitor), allowing the court to sentence on an inaccurate factual basis about previous convictions would mean the solicitor was complicit in misleading the court (Code para. 2.1 — misleading by omission/acquiescence).\n\nThe solicitor should:\n1. Inform the judge that there is an error in the pre-sentence report before sentencing proceeds.\n2. Identify the correct number of previous convictions (which the solicitor knows from the antecedents on the prosecution file).\n3. Allow the court to correct the report or adjourn for a corrected version.\n\nThis is a counter-intuitive situation — the solicitor is correcting an error that actually benefits the client (fewer convictions stated = potentially lighter sentence). But the duty to the court overrides the duty to maximise the client's position. The solicitor cannot allow the court to be misled in a way that produces a more favourable sentence for the client.\n\nThe solicitor should advise the client before raising the error — but the correction must be made regardless of the client's preference. ⚠️ Link — False mitigation (see FLK-PC-076).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PSR ERROR · FEWER CONVICTIONS · CORRECT COURT · COMPLICITY BY SILENCE · DUTY TO COURT OVERRIDES · ADVISE CLIENT",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-CRIM-TRAP-011",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor's client is convicted despite a vigorous defence. After the verdict, the client says: 'You should have told the jury I was innocent — you never said that.' The solicitor says: 'I put forward all the arguments I could.' Did the solicitor do anything wrong?",
+            "answer": null,
+            "issue": "The Trap: A defence advocate in a criminal trial must at all times advance the case that the client is innocent — this is the whole purpose of the defence, and failing to assert innocence is a failure to represent the client properly.",
+            "rule": "The Reality: A solicitor who knows their client is guilty cannot assert their innocence to the jury or court — to do so would be to mislead the court, in breach of Code para. 2.1 and Principle 1. The role of defence counsel is to put the prosecution to proof and test the evidence — not to assert a positive case of innocence that the solicitor knows to be false. Testing the prosecution's evidence is proper; asserting a false case of innocence is not.",
+            "application": "Why the Distractor Fails: The client's expectation — 'you should have said I was innocent' — reflects a misunderstanding of the advocate's role and the limits imposed by the duty to the court. If the solicitor knew the client was guilty, the correct conduct was exactly what the solicitor did: advancing all legitimate legal arguments and testing the prosecution evidence, without asserting innocence. The advocate acted properly. The issue is that the client was not adequately advised before trial about what the solicitor could and could not assert on their behalf.",
+            "conclusion": "The Key Rule: A defence advocate who knows the client is guilty may test the prosecution case but cannot assert the client's innocence. The duty to the court prevents assertion of a positive false case — even in a criminal trial where the stakes are high.",
+            "summary_line": "CANNOT ASSERT INNOCENCE IF KNOW GUILTY · TEST PROSECUTION ONLY · DUTY TO COURT · CLIENT EXPECTATION ≠ PROPER CONDUCT",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor prepares a client to give evidence by going through the prosecution case with them and saying: 'If you're asked about X, you might want to think about saying Y — it sounds better than what you told me before.' Is this acceptable witness preparation?",
+            "answer": null,
+            "issue": "The Trap: Preparing a client to give effective evidence is part of the advocate's role — coaching a client on how to present their evidence clearly and persuasively is legitimate trial preparation.",
+            "rule": "The Reality: What the solicitor is doing is witness coaching — influencing the substance of what the client will say in evidence by suggesting a different account ('saying Y rather than what you told me before'). This is expressly prohibited by Code para. 2.4, which prohibits tampering with evidence or coaching witnesses 'as to the substance of their evidence'. The prohibition applies to all witnesses, including the client.",
+            "application": "Why the Distractor Fails: The line between legitimate preparation (explaining procedures, discussing what questions to expect, advising on clarity and demeanour) and prohibited coaching (suggesting what to say, revising the account) is crossed the moment the solicitor suggests a different or improved version of the client's account. 'Sounds better than what you told me before' is a red flag — it indicates the solicitor is substituting a more favourable account for the client's actual recollection.",
+            "conclusion": "The Key Rule: Witness preparation is permissible; coaching the substance of evidence is not. A solicitor may help a client understand the process and present their evidence clearly — but must not suggest, revise, or improve the content of what the client will say.",
+            "summary_line": "WITNESS COACHING PROHIBITED · PARA 2.4 · SUBSTANCE OF EVIDENCE · PREPARATION ≠ COACHING · SOUNDS BETTER = COACHING",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "Co-Defendant Conflict of Interest": {
+        "When acting permitted": [
+          {
+            "card_code": "FLK2-CRIM-110",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "When can a solicitor's firm represent two co-defendants in criminal proceedings, and when must it decline?",
+            "answer": "A firm may represent two co-defendants only where there is no conflict, or no significant risk of conflict, between their interests (SRA Code para. 6.2).\n\nMay act for both:\n— Both plead not guilty on the same basis.\n— Neither's defence implicates or contradicts the other's.\n— Instructions from both are consistent.\n— No cut-throat defence is anticipated.\n— Both consent (SCI exception) and the solicitor is satisfied they can serve both clients' best interests.\n\nMust not act for both:\n— One defendant's defence blames the other (cut-throat defence).\n— Their instructions on the facts are inconsistent.\n— One may give evidence against the other.\n— Their interests in plea differ materially (e.g. one wants to plead guilty and implicate the other).\n— One has accepted a caution or plea arrangement that conflicts with the other's defence.\n— The firm holds information from one client that would benefit the other if disclosed.\n\nOnce a conflict emerges, the firm must cease to act for both — it cannot continue for one while the other is prejudiced. Both must be referred to independent solicitors. The firm cannot choose which one to keep.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CO-DEFENDANTS · MAY ACT IF NO CONFLICT · CANNOT ACT: CUT-THROAT · INCONSISTENT INSTRUCTIONS · CEASE BOTH",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-111",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "Two co-defendants are charged with robbery. Initially both deny any involvement. Midway through the trial, Client A tells the solicitor privately that Client B was the ringleader and A was coerced. What must the solicitor do?",
+            "answer": "Client A's revelation has created an acute, irreconcilable conflict. Client A is now implicating Client B — the two defendants' interests are directly opposed.\n\nThe solicitor must:\n1. Cease to act for both defendants immediately — not just Client B, but both. The firm cannot continue for Client A either, because:\n   — The firm holds confidential information from Client B (received throughout the joint retainer).\n   — Using that information — even unconsciously — in defending Client A would breach the duty of confidentiality to Client B.\n   — Client A's new instructions conflict directly with Client B's defence.\n\n2. Advise both clients to instruct independent solicitors urgently — given the trial is mid-course, this must be done with minimum delay.\n\n3. Not disclose Client A's revelation to Client B — confidentiality is maintained in both directions.\n\n4. Not disclose either client's confidential information to their new solicitors without consent.\n\nThe firm must withdraw from both sides. It cannot favour Client A (the one who made the revelation) over Client B. The conflict is symmetrical — both clients are now prejudiced if the firm continues to act for either.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONFLICT MID-TRIAL · CEASE BOTH · CONFIDENTIALITY BOTH DIRECTIONS · NEW SOLICITORS URGENTLY · CANNOT FAVOUR ONE",
+            "is_deeper": 0
+          }
+        ],
+        "Firm-wide conflict": [
+          {
+            "card_code": "FLK2-CRIM-112",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "Two co-defendants are represented by two different solicitors at the same firm. A conflict emerges between them. Can the firm continue to represent one defendant using a different solicitor within the firm?",
+            "answer": "No — the conflict is firm-wide, not just individual-solicitor-wide. For conflict of interest purposes, information received by any solicitor within a firm is treated as received by the firm. The individual solicitors' knowledge is attributed to the firm as a whole.\n\nWhen a conflict emerges between co-defendants represented by the same firm:\n— Both solicitors within the firm hold each other's client's confidential information (or are at risk of sharing it through the firm's systems).\n— An information barrier (Chinese wall) will not cure a concurrent conflict in an active criminal matter — the stakes are too high and the risk of information transfer too acute.\n— The firm must cease to act for both defendants.\n\nThis is particularly important in criminal practice where law firms sometimes have large criminal departments with multiple solicitors. The rule applies regardless of the physical or administrative separation between the solicitors.\n\nBoth defendants must seek representation from genuinely separate and independent firms. The original firm may have a duty to introduce them to other solicitors urgently given the mid-trial timing. ⚠️ Link — Conflict of interest (see FLK-PC-032, FLK-PC-TRAP-006).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FIRM-WIDE CONFLICT · INFORMATION ATTRIBUTED TO FIRM · NO BARRIER CURES CONCURRENT · BOTH MUST GO TO NEW FIRMS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-113",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A solicitor represents a defendant charged with conspiracy. The prosecution offers the defendant a significantly reduced sentence if they give evidence against their co-conspirators. The defendant is tempted. How does this affect the solicitor's position?",
+            "answer": "This is a scenario where the defendant's personal interests (reduced sentence) conflict directly with the co-defendants' interests (not to be implicated). If the same firm is representing any co-defendants, this creates an immediate and irreconcilable conflict.\n\nIf the firm represents co-defendants:\n— The solicitor representing this defendant cannot advise them to cooperate and give evidence against the co-defendants while the firm also represents those co-defendants — this is a direct conflict of interest.\n— The firm must cease to act for all defendants in the conspiracy.\n— This defendant needs independent advice on the cooperation offer from a different firm.\n\nIf the firm only represents this defendant:\n— No conflict arises from acting for co-defendants.\n— The solicitor can advise on the offer fully — the benefits, the process (in England and Wales this may involve a 'Queen's/King's evidence' arrangement), the risks (being cross-examined by co-defendants, the impact on sentencing).\n— The solicitor must advise independently and in the client's best interests — not be influenced by their views on the co-defendants.\n\nIn both cases, the solicitor cannot advise the client to give false evidence against the co-defendants — the duty to the court applies equally to prosecution evidence given by a cooperating defendant.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COOPERATION OFFER · CO-DEFENDANT CONFLICT IF SAME FIRM · INDEPENDENT ADVICE NEEDED · DUTY TO COURT ON EVIDENCE",
+            "is_deeper": 0
+          }
+        ],
+        "Complex scenarios": [],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-CRIM-SCE-045",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A solicitor initially represents two brothers charged with the same offence. Both deny involvement. At a pre-trial conference, one brother tells the solicitor: 'If this goes bad, my plan is to say my brother made me do it.' What must the solicitor do immediately?",
+            "answer": "The solicitor must cease to act for both defendants immediately on hearing this statement — before any further instructions are given, and before attending any court hearing.\n\nThe conflict has crystallised in anticipation. One client has revealed they intend to advance a cut-throat defence — blaming their brother. This is a direct and irreconcilable conflict between the brothers' interests.\n\nImmediate steps:\n1. Explain to both clients (separately) that the firm can no longer represent either of them.\n2. Advise both to seek independent legal representation urgently — and that they must instruct different firms.\n3. Not disclose what one brother said to the other — confidentiality applies to both clients.\n4. Do not continue to act even temporarily while new solicitors are arranged — the conflict is live.\n\nThe statement reveals a planned future conflict. The solicitor does not need to wait until the trial for the conflict to become actual — a credible, revealed intention to run a cut-throat defence is sufficient. Continuing even for one more hearing would risk using confidential information from one client to prejudice the other.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CUT-THROAT INTENDED · CEASE IMMEDIATELY · BEFORE FURTHER HEARINGS · ADVISE SEPARATE FIRMS · CONFIDENTIALITY BOTH",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-046",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A solicitor represents two co-accused on a joint shoplifting charge. Both plead not guilty. They give identical accounts. The solicitor has acted for both throughout — there is no conflict. Is the solicitor's conduct satisfactory?",
+            "answer": "On these facts, the solicitor's conduct appears satisfactory — but vigilance is required.\n\nActing for two co-accused with identical accounts and a shared not guilty plea falls within the SCI exception: there is a substantially common interest, the clients' instructions are consistent, and there is no conflict between their defences.\n\nFor the arrangement to remain compliant, the solicitor must have:\n— Explained the conflict risk to both clients at the outset and obtained informed written consent.\n— Confirmed that both clients understood that if a conflict emerged, the firm would have to cease to act for both.\n— Ensured that information from one client has not been shared with the other without consent.\n— Continued to monitor for any divergence in instructions.\n\nIf the accounts remain identical throughout and both clients are convicted or acquitted together, no professional conduct issue arises. However, the solicitor should be alive to the risk that the accounts diverge — e.g. during police interview, one client was interviewed before the other and gave a different account — and should check both clients' interview accounts carefully before any joint representation continues.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "JOINT SHOPLIFTING · IDENTICAL ACCOUNTS · SCI EXCEPTION · INFORMED CONSENT REQUIRED · MONITOR FOR DIVERGENCE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-047",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A firm represented two clients in a drug supply case. The firm withdrew due to a conflict that emerged. Three months later, one former client (Client A) approaches the firm to defend them in a new and unrelated drugs charge. The other former client (Client B) is the main prosecution witness in this new case. Can the firm act?",
+            "answer": "This is a successive conflict scenario — compounded by the fact that Client B is now a prosecution witness in Client A's new matter.\n\nThe key questions:\n1. Does the firm hold confidential information from Client B (received during the former joint retainer) that is relevant to the new case?\n2. Could that information give Client A an advantage in cross-examining Client B, or reveal vulnerabilities in Client B's evidence?\n\nIf yes to either — the firm cannot act for Client A in this new case. Using information from the former retainer with Client B (even information that is now in Client B's possession as a witness) would breach the duty of confidentiality to Client B.\n\nAdditionally: the firm holds information from the former joint retainer about both clients' conduct, instructions, and vulnerabilities. Cross-examining Client B (as a prosecution witness for Client A) using that information would be a direct breach of the former client's confidentiality.\n\nThe firm must decline Client A's instructions. Client A must instruct a firm that has no prior connection to Client B. This is a successive conflict with an acute confidentiality dimension.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SUCCESSIVE CONFLICT · FORMER CLIENT NOW WITNESS · CONFIDENTIAL INFORMATION · CANNOT CROSS-EXAMINE · DECLINE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-048",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "Two co-defendants in a fraud case are represented by the same firm. One defendant's solicitor accidentally sees a draft proof of evidence from the other defendant's file while working in a shared office. No information has been shared with the other client. What must the firm do?",
+            "answer": "The solicitor who saw the document has inadvertently received confidential information from another client of the firm. Even though no information was deliberately shared, there is now a risk that this solicitor's knowledge of the other defendant's case could influence (consciously or unconsciously) the advice given to their own client.\n\nThe firm must:\n1. Assess the significance of what was seen — is it material to the other defendant's case? Could it affect the advice given to the first solicitor's client?\n2. If the information is material: the solicitor who saw the document should cease to act for their client in this matter — the conflict risk is real.\n3. Consider whether an information barrier can be established: if the solicitor who saw the document is genuinely isolated from the rest of the case going forward and has not absorbed or transmitted the information, a barrier may manage the risk. But in an ongoing criminal case, this is difficult to establish convincingly.\n4. Consider whether the firm should cease to act for both — if the accidental disclosure creates a real risk that one client's confidentiality has been compromised, the safest approach is withdrawal from both.\n5. Report the incident internally to the COLP and review the firm's systems for preventing such accidental access.\n\nThe test: would a reasonable person consider it likely that the confidential information could affect the conduct of either client's case?",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ACCIDENTAL DISCLOSURE · MATERIAL INFORMATION · INFORMATION BARRIER · CONSIDER WITHDRAWAL BOTH · COLP REPORT",
+            "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-CRIM-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nTwo co-defendants represented by the same firm reach a conflict mid-trial. The firm ceases to act for the weaker defendant (who made the incriminating statement about the other) but continues to represent the stronger defendant. The firm reasons: 'The conflict was caused by Client A — we remain loyal to Client B.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: When a conflict emerges between two co-defendants, the firm can choose to retain the client who is in the stronger position and withdraw from the client who caused the conflict.",
+            "rule": "The Reality: When a conflict emerges in a joint retainer, the firm must cease to act for both defendants. It cannot choose which client to keep. The reason is that the firm holds confidential information from both clients — information received from Client A cannot be used to assist Client B, even if Client A caused the conflict. Continuing to represent Client B while the firm holds Client A's confidential information creates an acute risk of misuse of that information.",
+            "application": "Why the Distractor Fails: The 'fault' of causing the conflict does not determine who the firm can retain. What matters is the confidentiality position: the firm received information from Client A during the joint retainer that is now potentially relevant to Client B's defence. Using that information (even unconsciously) to defend Client B would breach Client A's confidentiality. The only safe course is for the firm to cease acting for both and for each to instruct independent new solicitors.",
+            "conclusion": "The Key Rule: When a conflict emerges in a joint criminal retainer, the firm must cease to act for both defendants — not just the one who 'caused' the conflict. The prohibition is driven by the confidentiality position, not by fault.",
+            "summary_line": "CONFLICT = CEASE BOTH · CANNOT CHOOSE SIDES · CONFIDENTIALITY DRIVES RULE · FAULT IRRELEVANT · INDEPENDENT SOLICITORS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-TRAP-014",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA firm has represented two co-defendants separately on the same matter — in separate meetings, with separate solicitors, and completely separate files. A conflict emerges. The firm argues: 'We ran completely separate retainers — there's no information sharing, so no firm-wide conflict.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: Where two clients are represented by different solicitors within the same firm on entirely separate files with no information sharing, a conflict between those clients does not prevent the firm from continuing to represent both — since the information separation is complete.",
+            "rule": "The Reality: For conflict of interest purposes, information received by any member of a firm is attributed to the whole firm — even where there is de facto separation. The SRA Code's conflict rules operate at the firm level, not the individual solicitor level. This is not merely a practical risk of information sharing — it is a legal attribution rule.",
+            "application": "Why the Distractor Fails: Physical separation of files and separate solicitors does not create the legal separation required to avoid the conflict. An information barrier (ethical screen) may manage the risk in some situations — but it does not cure a concurrent conflict in an active criminal case where the clients' interests are directly opposed. The standard is whether there is a conflict between the interests of two current clients — and there is, regardless of how the firm has organised its files. The firm must cease to act for both.",
+            "conclusion": "The Key Rule: Conflict of interest rules operate at the firm level. Information received by one solicitor in a firm is attributed to all. Physical or administrative separation between solicitors does not avoid a firm-wide concurrent conflict. An information barrier does not cure a concurrent conflict in an active matter.",
+            "summary_line": "FIRM-WIDE CONFLICT · ATTRIBUTION RULE · PHYSICAL SEPARATION INSUFFICIENT · BARRIER NOT A CURE · CEASE BOTH",
+            "is_deeper": 0
+          }
+        ]
+      },
+      "CPIA Disclosure": {
+        "Prosecution obligations": [
+          {
+            "card_code": "FLK2-CRIM-114",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the prosecution's disclosure obligation under the Criminal Procedure and Investigations Act 1996 (CPIA), and what are the two stages of disclosure?",
+            "answer": "The CPIA 1996 (as amended by the Criminal Justice Act 2003) establishes a statutory disclosure regime for criminal proceedings. Disclosure is the obligation to share material with the defence that might undermine the prosecution case or assist the defence.\n\nThe two stages:\n\n1. Initial (primary) disclosure: The prosecution must disclose to the accused any prosecution material that has not been used as evidence and which might reasonably be considered capable of undermining the prosecution case or assisting the defence case (CPIA s.3). This is a continuing duty. The officer in the case (OIC) and the reviewing prosecutor make the initial disclosure decisions.\n\n2. Secondary disclosure: After the defendant has served a defence statement (CPIA s.5/6), the prosecution must review the unused material again and disclose any further material that might be reasonably expected to assist the defence, having regard to the defence statement (CPIA s.7A).\n\nKey principles:\n— There is no obligation to disclose everything — only material meeting the statutory test.\n— Sensitive material (e.g. informant identity, ongoing operations) may be withheld with public interest immunity (PII) protection.\n— The duty is ongoing throughout the proceedings.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CPIA 1996 · PRIMARY DISCLOSURE · DEFENCE STATEMENT · SECONDARY DISCLOSURE · UNUSED MATERIAL · ONGOING DUTY",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-115",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is a defence statement under the CPIA, when must it be served, and what are the consequences of failing to serve one or serving an inadequate one?",
+            "answer": "A defence statement is a written document served by the defendant on the prosecution setting out the defence case (CPIA s.6A). It triggers the prosecution's secondary disclosure obligation.\n\nWhen required: Mandatory in Crown Court proceedings (s.5 CPIA). Optional in magistrates' court (s.6 CPIA) — though serving one may trigger further disclosure.\n\nTime limit: 28 days from initial disclosure in Crown Court proceedings (extendable by the court).\n\nContent required (s.6A):\n— The nature of the accused's defence.\n— The matters of fact on which the accused takes issue with the prosecution and why.\n— Any point of law (including any authority relied on).\n— Any alibi (with details of witnesses).\n\nConsequences of failure:\n— If no defence statement is served when required: The court or any other party may make such comment as appears appropriate, and the jury may draw an adverse inference (s.11 CPIA).\n— If an inadequate or inaccurate defence statement is served: Same consequences apply — adverse inference, comment.\n— If the defendant departs at trial from the defence statement: The jury may draw an adverse inference.\n\nThe defence statement is therefore a strategic document — it must be complete and accurate, but its content can be used against the defendant if they depart from it.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DEFENCE STATEMENT · S.6A CPIA · 28 DAYS · MANDATORY CROWN COURT · ALIBI · ADVERSE INFERENCE IF INADEQUATE",
+            "is_deeper": 0
+          }
+        ],
+        "Defence obligations": [
+          {
+            "card_code": "FLK2-CRIM-116",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is the defence's own disclosure obligation under the CPIA, and how does it interact with legal professional privilege?",
+            "answer": "Under the CPIA regime, the defence has limited active disclosure obligations — the primary duty lies on the prosecution. However:\n\nDefence disclosure obligations:\n1. Defence statement: Must be served (Crown Court) — this is the primary defence disclosure tool.\n2. Defence witness notices (s.6C): The defence must give notice of any witnesses they intend to call, other than the defendant.\n3. Expert witnesses (s.6D): If the defence instructs an expert and does not intend to use that expert's report, the prosecution does not have a right to see it under CPIA — but there are rules about the instruction of experts.\n\nLegal professional privilege interaction:\n— Instructions to defence experts and their reports are normally privileged — the prosecution cannot compel their disclosure.\n— However, once the defence gives notice of an expert witness, that expert's report may be subject to pre-trial requirements under the Criminal Procedure Rules.\n— Unused defence expert reports (reports the defence chose not to rely on) are generally protected by LPP and need not be disclosed.\n— The defence cannot assert LPP over material that was not brought into existence in a professional legal context.\n\nKey principle: The defence is not required to disclose their case strategy, legal advice, or confidential communications. Disclosure obligations are limited and carefully bounded by LPP.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DEFENCE DISCLOSURE · DEFENCE STATEMENT · WITNESS NOTICE S.6C · EXPERTS S.6D · LPP PROTECTS UNUSED REPORTS",
+            "is_deeper": 0
+          }
+        ],
+        "Specific disclosure and PII": [
+          {
+            "card_code": "FLK2-CRIM-117",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A defendant in Crown Court proceedings receives primary disclosure but believes the prosecution has failed to disclose CCTV footage that would support the defence. What steps can the defendant take?",
+            "answer": "The defendant has several routes to pursue non-disclosure:\n\n1. Formal request to the prosecution: Write to the prosecution identifying the specific material believed to exist and requesting its disclosure under CPIA s.8 (the defence can apply for specific disclosure after serving a defence statement).\n\n2. Application for specific disclosure (s.8 CPIA): After serving a defence statement, if the defendant believes the prosecution has failed to disclose material that might reasonably be expected to assist the defence (having regard to the defence statement), the defendant can apply to the court for an order requiring disclosure.\n\n3. Court hearing: The court may order the prosecution to disclose the CCTV footage or (if the prosecution asserts it no longer exists or never existed) to provide a statement to that effect.\n\n4. Public interest immunity (PII): If the prosecution claims the material is sensitive, they must apply for a PII certificate — the court then determines (in a hearing that the defence may or may not attend, depending on sensitivity) whether disclosure should be ordered.\n\n5. Abuse of process: If the CCTV footage has been deliberately destroyed or concealed, the defendant may apply for the proceedings to be stayed as an abuse of process.\n\nThe defence statement triggers the secondary disclosure duty — serving a clear and detailed defence statement is therefore a prerequisite for pursuing specific disclosure.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SPECIFIC DISCLOSURE · S.8 CPIA · DEFENCE STATEMENT FIRST · COURT ORDER · PII · ABUSE OF PROCESS IF DESTROYED",
+            "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-CRIM-SCE-049",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A defendant charged with assault is told by their solicitor to serve a defence statement claiming self-defence. The defendant is considering not mentioning a piece of evidence at trial that contradicts the prosecution's account, even though they know about it. The solicitor explains this is permissible. Is the solicitor right?",
+            "answer": "Yes — with important qualifications. The defendant has no general obligation to disclose evidence that assists their own case — the burden of proof lies on the prosecution, and the defence is not required to reveal its case in advance (beyond the defence statement).\n\nSpecific position:\n— The defendant does not have to tell the prosecution about the contradictory evidence in advance of trial.\n— The defence can rely on it at trial — producing it at the right moment is a legitimate tactical decision.\n— However, the defence statement must be accurate: if self-defence is claimed, the statement must correctly describe the nature of the defence. Relying on evidence inconsistent with the defence statement at trial risks an adverse inference under s.11 CPIA.\n\nWhat the solicitor means is: the defence is not obliged to hand over its evidence to the prosecution before trial. This is correct. The defence has no duty to disclose the CCTV footage / witness / document to the prosecution in advance.\n\nBut: if the evidence is an expert report or requires expert witnesses, s.6C/6D notice obligations apply. And the solicitor cannot mislead the court — if the evidence is introduced, the prosecution must be given the opportunity to respond.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NO DUTY TO DISCLOSE DEFENCE EVIDENCE PRE-TRIAL · PROSECUTION BEARS BURDEN · DEFENCE STATEMENT MUST BE ACCURATE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-050",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A defence solicitor receives primary disclosure from the prosecution. The material contains a police officer's notebook entry suggesting the arrest was procedurally unlawful. The prosecution has not highlighted this. Must the prosecution disclose it and what should the solicitor do?",
+            "answer": "This is a key document for the defence — it could form the basis of a submission of no case to answer, an application to exclude evidence under PACE s.78, or an abuse of process application.\n\nProsecution's obligation: The entry is almost certainly disclosable under primary disclosure (CPIA s.3) — it is material that might reasonably be considered capable of undermining the prosecution case (if the arrest was unlawful, evidence obtained as a result may be excluded). The prosecution's failure to highlight it may be an oversight.\n\nDefence solicitor's steps:\n1. Read all primary disclosure material carefully — this entry was in the disclosed material, so the prosecution has technically provided it (even if not highlighted).\n2. Assess the legal significance: does an unlawful arrest lead to exclusion of evidence under PACE s.78 / s.76? Probably yes if the entry indicates a clear procedural breach.\n3. Serve a defence statement identifying the procedural unlawfulness as a point of law to be taken — this triggers secondary disclosure on this issue.\n4. Consider applying under PACE s.78 to exclude evidence obtained as a result of the unlawful arrest.\n5. Consider an abuse of process application if the procedural breach is serious.\n\nThe solicitor has no obligation to tell the prosecution they have spotted this entry — but they should exploit it fully in the defendant's interests.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "UNLAWFUL ARREST ENTRY · PRIMARY DISCLOSURE · S.78 PACE EXCLUSION · DEFENCE STATEMENT · EXPLOIT FULLY",
+            "is_deeper": 0
+          }
+        ]
       }
     }
   }

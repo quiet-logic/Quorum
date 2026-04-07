@@ -7,7 +7,7 @@ Usage:
     python database.py     # create schema first
     python seed_data.py    # load cards
 
-Card files live in legal-study-app/src/components/ and follow the naming
+Card files live in legal-study-app/src/components/data/ and follow the naming
 pattern FLK1_CON.json, FLK2_CRIM.json, etc. Each file has the structure:
     { "FLK1": { "Subject Name": { "Topic": { "Subtopic": [cards] } } } }
 """
@@ -22,7 +22,7 @@ import database as db
 # Directory containing the per-subject JSON files
 DATA_DIR = os.path.join(
     os.path.dirname(__file__),
-    "legal-study-app", "src", "components"
+    "legal-study-app", "src", "components", "data"
 )
 
 # Map subject names → abbreviations (must match Home.jsx SUBJECTS)
