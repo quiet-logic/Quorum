@@ -19,6 +19,7 @@ except ImportError:
 
 import database as db
 import auth as auth_module
+import stripe_service
 from srs import sm2, next_review_date
 from flask_login import login_required, current_user
 
@@ -52,6 +53,16 @@ def _user_id() -> tuple[int | None, object | None]:
 @app.route("/")
 def serve_landing():
     return render_template("landing.html")
+
+
+@app.route("/privacy")
+def serve_privacy():
+    return render_template("privacy.html")
+
+
+@app.route("/terms")
+def serve_terms():
+    return render_template("terms.html")
 
 
 @app.route("/app")
@@ -138,6 +149,66 @@ def auth_reset_password():
     if not token or not new_password:
         return jsonify({"error": "token and new_password are required"}), 400
     result, status = auth_module.reset_password(token, new_password)
+    return jsonify(result), status
+
+
+@app.route("/api/auth/delete-account", methods=["DELETE"])
+@login_required
+def auth_delete_account():
+    result, status = auth_module.delete_account(current_user.id)
+    return jsonify(result), status
+
+
+# ── Billing (Stripe) ──────────────────────────────────────────────────────────
+
+@app.route("/api/billing/status", methods=["GET"])
+@login_required
+def billing_status():
+    account = db.get_account(current_user.id)
+    return jsonify({
+        "has_access":          stripe_service.has_access(account),
+        "invite_free_access":  bool(account.get("invite_free_access")),
+        "subscription_status": account.get("subscription_status"),
+        "trial_ends_at":       account.get("trial_ends_at"),
+        "has_stripe_customer": bool(account.get("stripe_customer_id")),
+    })
+
+
+@app.route("/api/billing/checkout", methods=["POST"])
+@login_required
+def billing_checkout():
+    account = db.get_account(current_user.id)
+    try:
+        url = stripe_service.create_checkout_session(
+            account_id=current_user.id,
+            email=current_user.email,
+            customer_id=account.get("stripe_customer_id"),
+        )
+        return jsonify({"url": url})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/billing/portal", methods=["POST"])
+@login_required
+def billing_portal():
+    account = db.get_account(current_user.id)
+    customer_id = account.get("stripe_customer_id")
+    if not customer_id:
+        return jsonify({"error": "No billing account found — subscribe first"}), 404
+    try:
+        url = stripe_service.create_portal_session(customer_id)
+        return jsonify({"url": url})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/stripe/webhook", methods=["POST"])
+def stripe_webhook():
+    """Receive Stripe webhook events. Must be excluded from CSRF protection."""
+    payload    = request.get_data()
+    sig_header = request.headers.get("Stripe-Signature", "")
+    result, status = stripe_service.handle_webhook(payload, sig_header)
     return jsonify(result), status
 
 

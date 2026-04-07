@@ -13,6 +13,8 @@ import ExamSimulator from './components/flashcards/ExamSimulator';
 import ExamResults from './components/flashcards/ExamResults';
 import SyllabusMap from './components/flashcards/SyllabusMap';
 import MCQPillar from './components/mcq/MCQPillar';
+import CookieBanner from './components/shared/CookieBanner';
+import Paywall from './components/shared/Paywall';
 import Login from './components/auth/Login';
 import Register from './components/auth/Register';
 import ForgotPassword from './components/auth/ForgotPassword';
@@ -20,6 +22,20 @@ import ResetPassword from './components/auth/ResetPassword';
 import './components/auth/AuthScreens.css';
 import { useUser } from './UserContext';
 import { useAuth } from './AuthContext';
+
+// ── Subscription access check ──────────────────────────────────────────────────
+
+function hasAccess(account) {
+  if (!account) return false;
+  if (account.invite_free_access) return true;
+  const status = account.subscription_status;
+  if (['active', 'past_due', 'trialing'].includes(status)) return true;
+  // Server-side 1-day trial (no Stripe subscription yet)
+  if (!status && account.trial_ends_at) {
+    return new Date(account.trial_ends_at) > new Date();
+  }
+  return false;
+}
 
 // Map home IDs → subject accent colours
 const SUBJECT_ACCENT = {
@@ -96,8 +112,20 @@ function VerifyEmailScreen({ token, onGoLogin }) {
 }
 
 function App() {
-  const { account } = useAuth();
+  const { account, setAccount } = useAuth();
   const { activeUser, apiFetch } = useUser();
+
+  // After Stripe Checkout redirect: refresh account data so subscription_status is current
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('subscribed') === '1' && account) {
+      window.history.replaceState(null, '', '/app');
+      fetch('/api/auth/me', { credentials: 'include' })
+        .then(r => r.ok ? r.json() : null)
+        .then(data => { if (data?.account) setAccount(data.account); })
+        .catch(() => {});
+    }
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Auth screen sub-navigation
   const [authView, setAuthView] = useState(() => {
@@ -271,6 +299,10 @@ function App() {
     setFlashView('examresults');
   };
 
+  // ── Subscription gate ──────────────────────────────────────────────────────
+
+  if (!hasAccess(account)) return <Paywall account={account} />;
+
   // ── Not logged in ──────────────────────────────────────────────────────────
 
   if (!activeUser) return <Landing />;
@@ -283,6 +315,7 @@ function App() {
 
   return (
     <div className="App">
+      <a href="#main-content" className="skip-nav">Skip to main content</a>
       {!hideMasthead && (
         <Masthead
           activePillar={activePillar}
@@ -292,6 +325,7 @@ function App() {
       )}
       <DisplayModeSelector />
 
+      <main id="main-content">
       {/* Cross-pillar home */}
       {activePillar === null && (
         <CrossPillarHome
@@ -378,6 +412,9 @@ function App() {
           Podcast — coming in Phase 3
         </div>
       )}
+      </main>
+
+      <CookieBanner />
     </div>
   );
 }

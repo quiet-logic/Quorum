@@ -31,12 +31,23 @@ login_manager = LoginManager()
 
 class AccountUser(UserMixin):
     def __init__(self, account: dict):
-        self.id            = account["id"]
-        self.email         = account["email"]
-        self.email_verified = bool(account.get("email_verified"))
+        self.id                  = account["id"]
+        self.email               = account["email"]
+        self.email_verified      = bool(account.get("email_verified"))
+        self.invite_free_access  = bool(account.get("invite_free_access"))
+        self.subscription_status = account.get("subscription_status")
+        self.trial_ends_at       = account.get("trial_ends_at")
+        self.stripe_customer_id  = account.get("stripe_customer_id")
 
     def to_dict(self):
-        return {"id": self.id, "email": self.email, "email_verified": self.email_verified}
+        return {
+            "id":                  self.id,
+            "email":               self.email,
+            "email_verified":      self.email_verified,
+            "invite_free_access":  self.invite_free_access,
+            "subscription_status": self.subscription_status,
+            "trial_ends_at":       self.trial_ends_at,
+        }
 
 
 @login_manager.user_loader
@@ -78,9 +89,16 @@ def register(email: str, password: str, invite_code: str) -> tuple[dict, int]:
     if db.get_account_by_email(email):
         return {"error": "An account with that email already exists"}, 409
 
-    # Create account
-    password_hash = generate_password_hash(password)
-    account = db.create_account(email, password_hash, invite_code)
+    # Create account — invite code users get free access forever;
+    # future public registrations (no invite) get a 1-day trial
+    password_hash      = generate_password_hash(password)
+    invite_free_access = 1
+    trial_ends_at      = None
+    account = db.create_account(
+        email, password_hash, invite_code,
+        invite_free_access=invite_free_access,
+        trial_ends_at=trial_ends_at,
+    )
     db.use_invite_code(invite_code)
 
     # Send verification email
@@ -155,6 +173,15 @@ def forgot_password(email: str) -> tuple[dict, int]:
         db.create_reset_token(account["id"], token, expires)
         email_service.send_password_reset_email(account["email"], token)
     return {"message": "If that email is registered, a reset link has been sent."}, 200
+
+
+def delete_account(account_id: int) -> tuple[dict, int]:
+    """Permanently delete account + all data. Logs the user out."""
+    success = db.delete_account(account_id)
+    if not success:
+        return {"error": "Account not found"}, 404
+    logout_user()
+    return {"message": "Account permanently deleted."}, 200
 
 
 def reset_password(token: str, new_password: str) -> tuple[dict, int]:

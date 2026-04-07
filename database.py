@@ -90,6 +90,29 @@ def _migrate_schema(conn):
     if 'is_conduct' not in existing_cards:
         conn.execute("ALTER TABLE cards ADD COLUMN is_conduct INTEGER NOT NULL DEFAULT 0")
 
+    # ── Stripe / billing columns on accounts ──
+    existing_accounts = {row[1] for row in conn.execute("PRAGMA table_info(accounts)").fetchall()}
+    if 'stripe_customer_id' not in existing_accounts:
+        conn.execute("ALTER TABLE accounts ADD COLUMN stripe_customer_id TEXT")
+    if 'subscription_status' not in existing_accounts:
+        conn.execute("ALTER TABLE accounts ADD COLUMN subscription_status TEXT")
+    if 'trial_ends_at' not in existing_accounts:
+        conn.execute("ALTER TABLE accounts ADD COLUMN trial_ends_at TEXT")
+    if 'invite_free_access' not in existing_accounts:
+        conn.execute("ALTER TABLE accounts ADD COLUMN invite_free_access INTEGER NOT NULL DEFAULT 0")
+        # Backfill: any existing account with an invite code gets free access
+        conn.execute(
+            "UPDATE accounts SET invite_free_access = 1 WHERE invite_code IS NOT NULL AND invite_code != ''"
+        )
+
+    # ── Stripe webhook deduplication ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS stripe_events (
+            event_id     TEXT PRIMARY KEY,
+            processed_at TEXT NOT NULL
+        )
+    """)
+
     # ── MCQ tables ──
     conn.execute("""
         CREATE TABLE IF NOT EXISTS mcq_questions (
@@ -225,10 +248,16 @@ def init_db():
 
 # ── Account management (auth layer) ─────────────────────────────────────────
 
+_ACCOUNT_COLS = """
+    id, email, password_hash, email_verified, auth0_sub, created_at,
+    stripe_customer_id, subscription_status, trial_ends_at, invite_free_access
+"""
+
+
 def get_account(account_id: int) -> dict | None:
     with get_db() as conn:
         row = conn.execute(
-            "SELECT id, email, password_hash, email_verified, auth0_sub, created_at FROM accounts WHERE id = ?",
+            f"SELECT {_ACCOUNT_COLS} FROM accounts WHERE id = ?",
             (account_id,)
         ).fetchone()
         return dict(row) if row else None
@@ -237,22 +266,43 @@ def get_account(account_id: int) -> dict | None:
 def get_account_by_email(email: str) -> dict | None:
     with get_db() as conn:
         row = conn.execute(
-            "SELECT id, email, password_hash, email_verified, auth0_sub, created_at FROM accounts WHERE email = ?",
+            f"SELECT {_ACCOUNT_COLS} FROM accounts WHERE email = ?",
             (email.strip().lower(),)
         ).fetchone()
         return dict(row) if row else None
 
 
-def create_account(email: str, password_hash: str, invite_code: str | None = None) -> dict:
+def get_account_by_customer_id(customer_id: str) -> dict | None:
+    with get_db() as conn:
+        row = conn.execute(
+            f"SELECT {_ACCOUNT_COLS} FROM accounts WHERE stripe_customer_id = ?",
+            (customer_id,)
+        ).fetchone()
+        return dict(row) if row else None
+
+
+def create_account(
+    email: str,
+    password_hash: str,
+    invite_code: str | None = None,
+    invite_free_access: int = 0,
+    trial_ends_at: str | None = None,
+) -> dict:
     from datetime import datetime
     created_at = datetime.utcnow().isoformat()
     with get_db() as conn:
         cur = conn.execute(
-            "INSERT INTO accounts (email, password_hash, invite_code, created_at) VALUES (?, ?, ?, ?)",
-            (email.strip().lower(), password_hash, invite_code, created_at)
+            """INSERT INTO accounts
+               (email, password_hash, invite_code, invite_free_access, trial_ends_at, created_at)
+               VALUES (?, ?, ?, ?, ?, ?)""",
+            (email.strip().lower(), password_hash, invite_code,
+             invite_free_access, trial_ends_at, created_at)
         )
-        return {"id": cur.lastrowid, "email": email.strip().lower(),
-                "email_verified": 0, "created_at": created_at}
+        return {
+            "id": cur.lastrowid, "email": email.strip().lower(),
+            "email_verified": 0, "invite_free_access": invite_free_access,
+            "trial_ends_at": trial_ends_at, "created_at": created_at,
+        }
 
 
 def set_email_verified(account_id: int):
@@ -475,9 +525,74 @@ def delete_user(user_id: int) -> bool:
         return cur.rowcount > 0
 
 
+def delete_account(account_id: int) -> bool:
+    """Permanently delete an account and all associated data (GDPR right to erasure)."""
+    with get_db() as conn:
+        # Get all profile IDs for this account
+        profiles = conn.execute(
+            "SELECT id FROM users WHERE account_id = ?", (account_id,)
+        ).fetchall()
+        user_ids = [p["id"] for p in profiles]
+
+        if user_ids:
+            placeholders = ",".join("?" * len(user_ids))
+            conn.execute(f"DELETE FROM progress WHERE user_id IN ({placeholders})", user_ids)
+            conn.execute(f"DELETE FROM reviews WHERE user_id IN ({placeholders})", user_ids)
+            conn.execute(f"DELETE FROM mcq_attempts WHERE user_id IN ({placeholders})", user_ids)
+            conn.execute(f"DELETE FROM users WHERE id IN ({placeholders})", user_ids)
+
+        conn.execute("DELETE FROM email_verification_tokens WHERE account_id = ?", (account_id,))
+        conn.execute("DELETE FROM password_reset_tokens WHERE account_id = ?", (account_id,))
+        cur = conn.execute("DELETE FROM accounts WHERE id = ?", (account_id,))
+        return cur.rowcount > 0
+
+
 def update_user_theme(user_id: int, theme: str):
     with get_db() as conn:
         conn.execute("UPDATE users SET theme = ? WHERE id = ?", (theme, user_id))
+
+
+# ── Stripe / billing ─────────────────────────────────────────────────────────
+
+def set_stripe_customer_id(account_id: int, customer_id: str):
+    with get_db() as conn:
+        conn.execute(
+            "UPDATE accounts SET stripe_customer_id = ? WHERE id = ?",
+            (customer_id, account_id)
+        )
+
+
+def set_subscription_status(account_id: int, status: str):
+    with get_db() as conn:
+        conn.execute(
+            "UPDATE accounts SET subscription_status = ? WHERE id = ?",
+            (status, account_id)
+        )
+
+
+def set_subscription_status_by_customer(customer_id: str, status: str):
+    with get_db() as conn:
+        conn.execute(
+            "UPDATE accounts SET subscription_status = ? WHERE stripe_customer_id = ?",
+            (status, customer_id)
+        )
+
+
+def has_stripe_event(event_id: str) -> bool:
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT 1 FROM stripe_events WHERE event_id = ?", (event_id,)
+        ).fetchone()
+        return row is not None
+
+
+def record_stripe_event(event_id: str):
+    from datetime import datetime
+    with get_db() as conn:
+        conn.execute(
+            "INSERT OR IGNORE INTO stripe_events (event_id, processed_at) VALUES (?, ?)",
+            (event_id, datetime.utcnow().isoformat())
+        )
 
 
 # ── Export / Import ──────────────────────────────────────────────────────────
