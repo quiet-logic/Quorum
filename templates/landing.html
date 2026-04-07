@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quorum — SQE1 Revision</title>
+  <meta name="description" content="Spaced repetition flashcards and MCQ practice for the SQE1. Built for candidates who want to pass first time." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Outfit:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #F5F2EC;
+      --surface:  #FFFFFF;
+      --text:     #1A1714;
+      --muted:    #8A847A;
+      --border:   #D8D3C8;
+      --faint:    #EAE6DE;
+      --gold:     #C8A96E;
+      --max-w:    1100px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Nav ── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+    }
+    .nav-inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 60px;
+    }
+    .wordmark {
+      font-family: 'Playfair Display', serif;
+      font-size: 24px;
+      font-weight: 400;
+      color: var(--text);
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+    .nav-link {
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+    .nav-link:hover { color: var(--text); }
+    .btn {
+      display: inline-block;
+      font-family: 'Outfit', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      padding: 10px 20px;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      transition: opacity 0.15s;
+    }
+    .btn:hover { opacity: 0.8; }
+    .btn-primary {
+      background: var(--text);
+      color: #fff;
+    }
+    .btn-outline {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+
+    /* ── Sections ── */
+    section { padding: 96px 24px; }
+    .inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+    }
+    .label {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--muted);
+      margin-bottom: 24px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      padding: 120px 24px 96px;
+      border-bottom: 1px solid var(--border);
+    }
+    .hero .inner { max-width: 720px; }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(40px, 6vw, 68px);
+      font-weight: 400;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 28px;
+    }
+    h1 em {
+      font-style: italic;
+      color: var(--muted);
+    }
+    .hero-sub {
+      font-size: 18px;
+      color: var(--muted);
+      max-width: 520px;
+      margin-bottom: 48px;
+      line-height: 1.65;
+    }
+    .hero-ctas {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    /* ── What ── */
+    .what { border-bottom: 1px solid var(--border); }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(28px, 4vw, 40px);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      margin-bottom: 20px;
+    }
+    .what-body {
+      font-size: 16px;
+      color: var(--muted);
+      max-width: 560px;
+      margin-bottom: 56px;
+      line-height: 1.7;
+    }
+    .subject-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border);
+    }
+    .subject-item {
+      background: var(--bg);
+      padding: 16px 20px;
+    }
+    .subject-name {
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .subject-tag {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    /* ── How it works ── */
+    .how { border-bottom: 1px solid var(--border); }
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 40px;
+      margin-top: 48px;
+    }
+    .step-num {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--gold);
+      letter-spacing: 0.08em;
+      margin-bottom: 12px;
+    }
+    .step-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+    .step-body {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    /* ── Podcast ── */
+    .podcast {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+    .podcast-inner {
+      display: flex;
+      align-items: flex-start;
+      gap: 64px;
+      flex-wrap: wrap;
+    }
+    .podcast-text { flex: 1; min-width: 260px; }
+    .podcast-badge {
+      flex-shrink: 0;
+      width: 180px;
+      height: 180px;
+      background: var(--faint);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+    .podcast-icon {
+      font-size: 36px;
+      line-height: 1;
+    }
+    .podcast-badge-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .coming-soon-pill {
+      display: inline-block;
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      border: 1px solid var(--gold);
+      padding: 4px 10px;
+      margin-bottom: 20px;
+    }
+
+    /* ── CTA ── */
+    .cta-section {
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+    .cta-section h2 { margin-bottom: 16px; }
+    .cta-section p {
+      font-size: 16px;
+      color: var(--muted);
+      margin-bottom: 40px;
+    }
+
+    /* ── Footer ── */
+    footer {
+      padding: 32px 24px;
+      border-top: 1px solid var(--border);
+    }
+    .footer-inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .footer-copy {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+      section { padding: 64px 20px; }
+      .hero { padding: 80px 20px 64px; }
+      .podcast-badge { display: none; }
+      nav { padding: 0 20px; }
+      .nav-links .nav-link { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Nav -->
+  <nav>
+    <div class="nav-inner">
+      <a href="/" class="wordmark">Quorum</a>
+      <div class="nav-links">
+        <a href="#how" class="nav-link">How it works</a>
+        <a href="#podcast" class="nav-link">Podcast</a>
+        <a href="/app" class="btn btn-outline">Sign in</a>
+        <a href="/app?register=1" class="btn btn-primary">Request access</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="inner">
+      <p class="label">SQE1 Revision</p>
+      <h1>Pass your SQE1.<br /><em>First time.</em></h1>
+      <p class="hero-sub">
+        Quorum is a spaced repetition study platform built specifically for the SQE1.
+        2,753 flashcards across all 14 subjects, scheduling the right cards at the right time.
+      </p>
+      <div class="hero-ctas">
+        <a href="/app?register=1" class="btn btn-primary">Request access</a>
+        <a href="/app" class="btn btn-outline">Sign in</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- What -->
+  <section class="what">
+    <div class="inner">
+      <p class="label">The card bank</p>
+      <h2>Every subject.<br />Every topic.</h2>
+      <p class="what-body">
+        2,753 cards spanning all 14 FLK1 and FLK2 subjects, plus Professional Conduct.
+        Five card types — Q&amp;A, IRAC, Scenario, Deeper, and Trap — cover the full range of
+        what the SQE1 will test.
+      </p>
+      <div class="subject-grid">
+        <div class="subject-item"><div class="subject-name">Business Law &amp; Practice</div><div class="subject-tag">FLK1 · BLP</div></div>
+        <div class="subject-item"><div class="subject-name">Dispute Resolution</div><div class="subject-tag">FLK1 · DR</div></div>
+        <div class="subject-item"><div class="subject-name">Contract Law</div><div class="subject-tag">FLK1 · CON</div></div>
+        <div class="subject-item"><div class="subject-name">Tort Law</div><div class="subject-tag">FLK1 · TORT</div></div>
+        <div class="subject-item"><div class="subject-name">Legal System of E&amp;W</div><div class="subject-tag">FLK1 · LSEW</div></div>
+        <div class="subject-item"><div class="subject-name">Legal Services</div><div class="subject-tag">FLK1 · LS</div></div>
+        <div class="subject-item"><div class="subject-name">Constitutional &amp; Admin Law</div><div class="subject-tag">FLK1 · CAL</div></div>
+        <div class="subject-item"><div class="subject-name">Property Law &amp; Practice</div><div class="subject-tag">FLK2 · PROP</div></div>
+        <div class="subject-item"><div class="subject-name">Wills, Trusts &amp; Probate</div><div class="subject-tag">FLK2 · WTP</div></div>
+        <div class="subject-item"><div class="subject-name">Solicitors Accounts</div><div class="subject-tag">FLK2 · SA</div></div>
+        <div class="subject-item"><div class="subject-name">Land Law</div><div class="subject-tag">FLK2 · LAND</div></div>
+        <div class="subject-item"><div class="subject-name">Trusts</div><div class="subject-tag">FLK2 · TRUST</div></div>
+        <div class="subject-item"><div class="subject-name">Criminal Law &amp; Practice</div><div class="subject-tag">FLK2 · CRIM</div></div>
+        <div class="subject-item"><div class="subject-name">Professional Conduct</div><div class="subject-tag">PC</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How it works -->
+  <section class="how" id="how">
+    <div class="inner">
+      <p class="label">How it works</p>
+      <h2>Study smarter,<br />not harder.</h2>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">01</div>
+          <div class="step-title">Flip the card</div>
+          <p class="step-body">Read the question. Recall the answer. Flip to check. Five card types cover every way the SQE1 tests your knowledge.</p>
+        </div>
+        <div class="step">
+          <div class="step-num">02</div>
+          <div class="step-title">Rate your recall</div>
+          <p class="step-body">Score yourself 0–5. The SM-2 algorithm uses your rating to calculate exactly when you need to see that card again.</p>
+        </div>
+        <div class="step">
+          <div class="step-num">03</div>
+          <div class="step-title">Review what matters</div>
+          <p class="step-body">Cards you struggle with come back sooner. Cards you know well are spaced further apart. No wasted time on what you already know.</p>
+        </div>
+        <div class="step">
+          <div class="step-num">04</div>
+          <div class="step-title">Sit the exam</div>
+          <p class="step-body">Simulate exam conditions with timed 90-question sessions. Track your weak spots across every subject and topic.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Podcast -->
+  <section class="podcast" id="podcast">
+    <div class="inner">
+      <div class="podcast-inner">
+        <div class="podcast-text">
+          <span class="coming-soon-pill">Coming soon</span>
+          <p class="label">The Quorum Podcast</p>
+          <h2>SQE1 revision,<br />on the go.</h2>
+          <p class="what-body" style="margin-bottom: 0">
+            A companion podcast walking through key topics, tricky areas, and exam technique.
+            Perfect for commutes, the gym, or whenever you can't be at your desk.
+            Stay tuned.
+          </p>
+        </div>
+        <div class="podcast-badge">
+          <div class="podcast-icon">🎙</div>
+          <div class="podcast-badge-label">Coming soon</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="inner">
+      <p class="label">Beta access</p>
+      <h2>Ready to start?</h2>
+      <p>Quorum is currently in private beta. Request access with an invite code.</p>
+      <a href="/app?register=1" class="btn btn-primary">Request access</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <span class="footer-copy">© 2026 Quorum. Built for SQE1 candidates.</span>
+      <a href="/app" class="footer-copy" style="text-decoration: none;">Sign in →</a>
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -14,24 +14,25 @@ export function UserProvider({ children }) {
     else localStorage.removeItem('quorum_active_user');
   };
 
-  // apiFetch: wraps fetch, injecting user_id into GET query strings or POST bodies
+  // apiFetch: wraps fetch, injecting user_id + session credentials
   const apiFetch = (url, options = {}) => {
+    const base = { credentials: 'include', ...options };
     const userId = activeUser?.id;
-    if (!userId) return fetch(url, options);
+    if (!userId) return fetch(url, base);
 
-    const method = (options.method || 'GET').toUpperCase();
+    const method = (base.method || 'GET').toUpperCase();
 
     if (method === 'GET') {
       const sep = url.includes('?') ? '&' : '?';
-      return fetch(`${url}${sep}user_id=${userId}`, options);
+      return fetch(`${url}${sep}user_id=${userId}`, base);
     }
 
-    if (options.body) {
-      const body = JSON.parse(options.body);
-      return fetch(url, { ...options, body: JSON.stringify({ ...body, user_id: userId }) });
+    if (base.body) {
+      const body = JSON.parse(base.body);
+      return fetch(url, { ...base, body: JSON.stringify({ ...body, user_id: userId }) });
     }
 
-    return fetch(url, options);
+    return fetch(url, base);
   };
 
   return (

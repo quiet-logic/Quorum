@@ -1,0 +1,317 @@
+/* ExamSimulator — shares masthead/session-container from StudySession.css */
+
+.exam-wrapper {
+  min-height: 100vh;
+  background-color: var(--bg-light);
+  color: var(--text-light);
+}
+
+/* ── Timer ── */
+.exam-timer {
+  font-size: 15px;
+  letter-spacing: 0.08em;
+  color: var(--text-light);
+}
+
+.exam-timer--warning {
+  color: #C47B7B;
+}
+
+/* ── Progress Strip ── */
+.exam-progress-strip {
+  display: flex;
+  gap: 3px;
+  width: 100%;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.exam-progress-seg {
+  height: 3px;
+  flex: 1;
+  background: var(--faint);
+}
+
+.exam-progress-seg.current {
+  background: var(--text-light);
+}
+
+.exam-progress-seg.correct {
+  background: #7EB8A4;
+}
+
+.exam-progress-seg.incorrect {
+  background: #C47B7B;
+}
+
+/* ── Question Card ── */
+.exam-card {
+  width: 100%;
+  min-height: 200px;
+  background: var(--surface-dark);
+  color: var(--text-dark);
+  border: 1px solid var(--border-dark);
+  border-top: 3px solid #C8A96E;
+  padding: 52px 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+/* ── Reveal button ── */
+.exam-actions {
+  margin-top: 16px;
+}
+
+.exam-reveal-btn {
+  width: 100%;
+  padding: 18px;
+  background: var(--text-light);
+  color: var(--bg-light);
+  border: none;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.exam-reveal-btn:hover {
+  opacity: 0.85;
+}
+
+/* ── Answer Block ── */
+.exam-answer {
+  margin-top: 16px;
+  border: 1px solid var(--border-light);
+  border-top: 3px solid var(--gold);
+  padding: 24px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.exam-answer-label {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.exam-answer-text {
+  font-size: 1rem;
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;
+  white-space: pre-line;
+}
+
+/* ── IRAC in exam mode ── */
+.exam-irac {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--border-light);
+}
+
+.exam-irac-row {
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.exam-irac-label {
+  font-size: 9px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.exam-irac-text {
+  font-size: 0.88rem;
+  line-height: 1.55;
+  text-align: justify;
+  hyphens: auto;
+  white-space: pre-line;
+}
+
+/* ── Summary line ── */
+.exam-summary {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  border-top: 1px solid var(--border-light);
+  padding-top: 12px;
+  text-align: center;
+}
+
+/* ── Judge buttons ── */
+.exam-judge-btns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--border-light);
+  margin-top: 16px;
+}
+
+.exam-judge-btn {
+  padding: 20px;
+  border: none;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: filter 0.15s;
+}
+
+.exam-judge-btn--correct {
+  background: rgba(126, 184, 164, 0.15);
+  color: #3D7A62;
+  box-shadow: inset 0 0 0 1px rgba(126, 184, 164, 0.5);
+}
+
+.exam-judge-btn--incorrect {
+  background: rgba(196, 123, 123, 0.15);
+  color: #8B3030;
+  box-shadow: inset 0 0 0 1px rgba(196, 123, 123, 0.5);
+}
+
+.exam-judge-btn:hover {
+  filter: brightness(0.9);
+}
+
+/* ── Config screen ── */
+.exam-config {
+  max-width: 560px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.exam-config-heading h1 {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  line-height: 1.2;
+  margin: 0;
+}
+
+.exam-config-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.exam-config-label {
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0;
+}
+
+.exam-config-options {
+  display: flex;
+  gap: 1px;
+  background: var(--border-light);
+  border: 1px solid var(--border-light);
+}
+
+.exam-config-opt {
+  flex: 1;
+  background: var(--surface-light);
+  border: none;
+  padding: 16px 12px;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
+  transition: background 0.15s, color 0.15s;
+}
+
+.exam-config-opt.active {
+  background: var(--text-light);
+  color: var(--bg-light);
+}
+
+.exam-config-opt:hover:not(.active) {
+  background: var(--faint);
+  color: var(--text-light);
+}
+
+.exam-config-opt-meta {
+  font-size: 9px;
+  text-transform: none;
+  letter-spacing: 0;
+  opacity: 0.7;
+}
+
+.exam-config-note {
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  line-height: 1.6;
+  border-left: 3px solid var(--faint);
+  padding-left: 16px;
+}
+
+.exam-start-btn {
+  padding: 18px 40px;
+  background: var(--text-light);
+  color: var(--bg-light);
+  border: none;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  align-self: flex-start;
+}
+
+.exam-start-btn:hover:not(:disabled) {
+  opacity: 0.8;
+}
+
+.exam-start-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .exam-card {
+    min-height: 160px;
+    padding: 44px 20px 20px;
+  }
+
+  .exam-irac {
+    grid-template-columns: 1fr;
+  }
+
+  .exam-judge-btns {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .exam-judge-btn {
+    padding: 20px 12px;
+    font-size: 10px;
+  }
+
+  .exam-config-options {
+    flex-direction: column;
+  }
+
+  .exam-start-btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .exam-answer {
+    padding: 16px;
+  }
+}

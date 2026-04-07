@@ -1,0 +1,126 @@
+/* ── Masthead v2 (integrated, 80px) ── */
+.masthead-v2 {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg-light);
+  border-bottom: 1px solid var(--border-light);
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* ── Top row ── */
+.masthead-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 36px;
+  height: 44px;
+  flex-shrink: 0;
+}
+
+.wordmark-btn {
+  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text-light);
+  letter-spacing: -0.02em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+}
+
+.wordmark-btn:hover {
+  opacity: 0.75;
+}
+
+/* ── Profile indicator ── */
+.profile-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 8px;
+  transition: opacity 0.15s ease;
+}
+
+.profile-indicator:hover {
+  opacity: 0.75;
+}
+
+.profile-avatar {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+}
+
+.profile-name {
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-light);
+}
+
+/* ── Pillar tabs ── */
+.masthead-tabs {
+  display: flex;
+  align-items: stretch;
+  padding: 0 36px;
+  gap: 24px;
+  height: 36px;
+  border-top: 1px solid var(--border-light);
+}
+
+.pillar-tab {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  padding: 0 2px;
+  margin-bottom: -1px; /* overlap the border-bottom of masthead-tabs */
+  transition: color 0.15s ease;
+  white-space: nowrap;
+}
+
+.pillar-tab:hover {
+  color: var(--text-light);
+}
+
+.pillar-tab.is-active {
+  color: var(--text-light);
+  border-bottom-color: #C8A96E;
+}
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .masthead-top {
+    padding: 0 16px;
+  }
+  .masthead-tabs {
+    padding: 0 16px;
+    gap: 16px;
+  }
+  .profile-name {
+    display: none;
+  }
+}

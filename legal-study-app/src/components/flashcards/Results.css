@@ -1,0 +1,230 @@
+/* Results page — inherits session layout classes from StudySession.css */
+
+.results-wrapper {
+  min-height: 100vh;
+  background-color: var(--bg-light);
+  color: var(--text-light);
+}
+
+.results-container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 56px 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+/* ── Heading ── */
+.results-heading h1 {
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  line-height: 1.2;
+  margin: 0 0 8px;
+}
+
+.results-subtitle {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* ── Stats strip ── */
+.results-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border: 1px solid var(--border-light);
+}
+
+.result-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 24px;
+  gap: 8px;
+  border-right: 1px solid var(--border-light);
+}
+
+.result-stat:last-child {
+  border-right: none;
+}
+
+.result-stat .stat-value {
+  font-size: 2.4rem;
+  font-weight: 500;
+  color: var(--stat-accent, var(--gold));
+  line-height: 1;
+}
+
+.result-stat .stat-label {
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* ── Score breakdown ── */
+.score-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border: 1px solid var(--border-light);
+}
+
+.breakdown-title {
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border-light);
+  margin: 0;
+}
+
+.score-row {
+  display: grid;
+  grid-template-columns: 24px 72px 1fr 36px;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.score-row:last-child {
+  border-bottom: none;
+}
+
+.score-num {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.score-label-text {
+  font-size: 12px;
+  letter-spacing: 0.04em;
+}
+
+.score-bar-track {
+  height: 3px;
+  background: var(--border-light);
+  width: 100%;
+}
+
+.score-bar-fill {
+  height: 100%;
+  transition: width 0.6s ease;
+}
+
+/* Reset scores (0–2) — red bar */
+.score-row--reset .score-num,
+.score-row--reset .score-label-text {
+  color: #C47B7B;
+}
+
+.score-row--reset .score-bar-fill {
+  background: #C47B7B;
+}
+
+/* Advancing scores (3–5) — teal bar */
+.score-row--advancing .score-num,
+.score-row--advancing .score-label-text {
+  color: #7EB8A4;
+}
+
+.score-row--advancing .score-bar-fill {
+  background: #7EB8A4;
+}
+
+.score-count {
+  font-size: 12px;
+  color: var(--muted);
+  text-align: right;
+}
+
+/* ── Actions ── */
+.results-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.results-btn {
+  padding: 14px 32px;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: 1px solid var(--border-light);
+}
+
+.results-btn--primary {
+  background: var(--text-light);
+  color: var(--bg-light);
+  border-color: var(--text-light);
+}
+
+.results-btn--primary:hover {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: var(--text-light);
+}
+
+.results-btn--deeper {
+  background: none;
+  color: #9B8EC4;
+  border-color: #9B8EC4;
+}
+
+.results-btn--deeper:hover {
+  background: #9B8EC4;
+  color: var(--bg-light);
+}
+
+.results-btn--ghost {
+  background: none;
+  color: var(--text-light);
+}
+
+.results-btn--ghost:hover {
+  background: var(--text-light);
+  color: var(--bg-light);
+}
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .results-container {
+    padding: 28px 16px 60px;
+    gap: 28px;
+  }
+
+  .results-stats {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .result-stat {
+    padding: 20px 12px;
+  }
+
+  .result-stat .stat-value {
+    font-size: 1.8rem;
+  }
+
+  .score-row {
+    grid-template-columns: 20px 60px 1fr 28px;
+    gap: 10px;
+    padding: 12px 14px;
+  }
+
+  .results-actions {
+    flex-direction: column;
+  }
+
+  .results-btn {
+    width: 100%;
+    text-align: center;
+    padding: 16px 24px;
+  }
+}

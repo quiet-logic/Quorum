@@ -1,0 +1,451 @@
+/* ── Study Card Container ── */
+.study-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* ── Progress Strip ── */
+.progress-strip {
+  display: flex;
+  gap: 3px;
+  width: 100%;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.progress-segment {
+  height: 3px;
+  flex: 1;
+  background: var(--color-faint);
+  transition: background 0.2s ease;
+}
+
+.progress-segment.completed {
+  opacity: 0.4;
+}
+
+.progress-segment.current {
+  /* background set inline via subjectAccent */
+}
+
+/* Focus mode: pulse the current segment while card is unflipped */
+@keyframes focusPulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.5; }
+}
+
+.progress-segment.focus-pulse {
+  animation: focusPulse 1.5s ease-in-out infinite;
+}
+
+.progress-count {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  margin-left: 10px;
+  white-space: nowrap;
+  letter-spacing: 0.05em;
+}
+
+/* ── Meta Row ── */
+.meta-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  font-size: 10px;
+  color: var(--color-text-muted);
+  margin-bottom: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.meta-tag {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  padding: 3px 8px;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+}
+
+/* ══════════════════════════════════════════════════════
+   FLIP CARD — two-phase collapse → expand animation
+   ══════════════════════════════════════════════════════ */
+
+.flip-card {
+  width: 100%;
+  cursor: pointer;
+  /* subject-accent passed as CSS var via inline style */
+}
+
+/* ── Card face (shared by front and back) ── */
+.card-face {
+  width: 100%;
+  background: var(--color-surface-card);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-top: 3px solid var(--subject-accent, var(--color-accent-gold));
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+/* ── Front face ── */
+.card-front {
+  min-height: 180px;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+  overflow: hidden;
+}
+
+/* Phase 1: collapse (front exits) */
+.flip-card--collapsing .card-front {
+  animation: cardCollapse 0.2s cubic-bezier(0.4, 0, 0.6, 1) forwards;
+  transform-origin: center top;
+}
+
+/* ── Back face ── */
+.card-back {
+  max-height: 66vh;
+  overflow: hidden;       /* scroll lives on the inner wrapper */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  cursor: default;
+  padding: 0;             /* padding delegated to .card-back-scroll */
+}
+
+/* Scrollable inner area */
+.card-back-scroll {
+  flex: 1;
+  min-height: 0;          /* critical: lets flex child shrink below natural height */
+  overflow-y: auto;
+  padding: 24px 48px 16px;
+}
+
+/* Phase 2: expand (back enters) */
+.flip-card--back .card-back {
+  animation: cardExpand 0.28s cubic-bezier(0.2, 0, 0.4, 1) forwards;
+  transform-origin: center top;
+}
+
+/* ── Keyframes ── */
+@keyframes cardCollapse {
+  0%   { transform: scaleY(1); opacity: 1; }
+  100% { transform: scaleY(0); opacity: 0; }
+}
+
+@keyframes cardExpand {
+  0%   { transform: scaleY(0); opacity: 0; }
+  100% { transform: scaleY(1); opacity: 1; }
+}
+
+/* ── Calm mode: crossfade only, no collapse ── */
+[data-mode="calm"] .flip-card--back .card-back {
+  animation: cardCrossFade 0.2s ease forwards;
+}
+
+[data-mode="calm"] .flip-card--collapsing .card-front {
+  animation: none;
+}
+
+/* ── prefers-reduced-motion: crossfade fallback ── */
+@media (prefers-reduced-motion: reduce) {
+  .flip-card--back .card-back {
+    animation: cardCrossFade 0.15s ease forwards;
+  }
+  .flip-card--collapsing .card-front {
+    animation: none;
+  }
+}
+
+@keyframes cardCrossFade {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* ── Custom scrollbar on back scroll area ── */
+.card-back-scroll::-webkit-scrollbar       { width: 3px; }
+.card-back-scroll::-webkit-scrollbar-track { background: var(--color-faint); }
+.card-back-scroll::-webkit-scrollbar-thumb { background: var(--subject-accent, var(--color-accent-gold)); }
+
+/* ── Card Slide Transition (card advance) ── */
+@keyframes slideOut {
+  from { opacity: 1; transform: translateX(0); }
+  to   { opacity: 0; transform: translateX(-40px); }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(40px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.flip-card.slide-out { animation: slideOut 0.22s ease forwards; }
+.flip-card.slide-in  { animation: slideIn  0.28s ease forwards; }
+
+/* ── Card Labels ── */
+.card-label {
+  position: absolute;
+  top: 20px;
+  left: 24px;
+  font-size: 10px;
+  color: var(--color-text-muted);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* Back label: pinned at top as a flex child, not absolutely positioned */
+.card-label--back {
+  position: static;
+  flex-shrink: 0;
+  width: 100%;
+  padding: 14px 24px 12px;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface-card);
+}
+
+/* ── Card Text ── */
+.card-text {
+  font-family: var(--font-ui);
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  line-height: var(--line-height-base);
+  text-align: center;
+  white-space: pre-line;
+  max-width: 60ch;  /* reading comfort line length */
+}
+
+/* Reading comfort: larger base, max 60ch enforced */
+[data-mode="reading"] .card-text {
+  font-size: clamp(1.15rem, 2vw, 1.5rem);
+}
+
+/* Back answer text: left-aligned */
+.card-back .card-text {
+  text-align: left;
+  hyphens: auto;
+  font-size: clamp(0.9rem, 1.6vw, 1.1rem);
+}
+
+/* ── IRAC Back Layout ── */
+.irac-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--color-border);
+  width: 100%;
+  margin-top: 32px; /* clear card-label */
+}
+
+.irac-section {
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.irac-label {
+  font-size: 9px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+}
+
+.irac-section.issue       { background: #FFF4EC; color: #7B3F00; }
+.irac-section.rule        { background: #EBF2FF; color: #004085; font-weight: 600; }
+.irac-section.application { background: var(--color-surface-card); }
+.irac-section.conclusion  { background: #EDFAF2; color: #155724; }
+
+/* Dark mode IRAC sections — warmer tints */
+[data-mode="dark"] .irac-section.issue       { background: #2E2318; color: #D4A87A; }
+[data-mode="dark"] .irac-section.rule        { background: #182030; color: #8BBED4; }
+[data-mode="dark"] .irac-section.application { background: var(--color-surface-card); }
+[data-mode="dark"] .irac-section.conclusion  { background: #182820; color: #80D4AB; }
+[data-mode="system"] .irac-section.issue       { background: #2E2318; color: #D4A87A; }
+[data-mode="system"] .irac-section.rule        { background: #182030; color: #8BBED4; }
+[data-mode="system"] .irac-section.conclusion  { background: #182820; color: #80D4AB; }
+
+.irac-text {
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  line-height: var(--line-height-base);
+  text-align: left;
+  hyphens: auto;
+  white-space: pre-line;
+}
+
+/* ── Summary Line — pinned to card bottom, never scrolls ── */
+.summary-line {
+  flex-shrink: 0;
+  background: var(--color-surface-card);
+  padding: 10px 48px 16px;
+  text-align: center;
+  font-size: 10px;
+  color: var(--color-text-muted);
+  border-top: 1px solid var(--color-border);
+  letter-spacing: 0.05em;
+}
+
+/* ── Rating Container ── */
+.rating-container {
+  width: 100%;
+  margin-top: 16px;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.35s ease, transform 0.35s ease;
+  pointer-events: none;
+}
+
+.rating-container.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.rating-title {
+  font-size: 11px;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+/* ── Rating Buttons ── */
+.rating-buttons {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1px;
+  background-color: var(--color-border);
+  border: 1px solid var(--color-border);
+}
+
+.rating-btn {
+  background: var(--color-surface);
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s ease;
+}
+
+/* Calm mode: no hover transform */
+[data-mode="calm"] .rating-btn {
+  transition: background 0.2s;
+}
+
+/* Score colour bands */
+.rating-btn:nth-child(1),
+.rating-btn:nth-child(2) {
+  color: #C47B7B;
+  background: rgba(196, 123, 123, 0.12);
+  box-shadow: inset 0 0 0 1px rgba(196, 123, 123, 0.4);
+}
+
+.rating-btn:nth-child(3),
+.rating-btn:nth-child(4) {
+  color: var(--color-accent-gold);
+  background: rgba(200, 169, 110, 0.12);
+  box-shadow: inset 0 0 0 1px rgba(200, 169, 110, 0.4);
+}
+
+.rating-btn:nth-child(5),
+.rating-btn:nth-child(6) {
+  color: #7EB8A4;
+  background: rgba(126, 184, 164, 0.12);
+  box-shadow: inset 0 0 0 1px rgba(126, 184, 164, 0.4);
+}
+
+.rating-btn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.1);
+}
+
+/* Focus mode micro-reward: ring flash on Perfect */
+@keyframes perfectFlash {
+  0%   { box-shadow: inset 0 0 0 1px rgba(126, 184, 164, 0.4); }
+  40%  { box-shadow: 0 0 0 3px #7EB8A4, inset 0 0 0 1px rgba(126, 184, 164, 0.6); }
+  100% { box-shadow: inset 0 0 0 1px rgba(126, 184, 164, 0.4); }
+}
+
+.rating-btn.perfect-flash {
+  animation: perfectFlash 0.35s ease forwards;
+}
+
+.score-num {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.score-label {
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 4px;
+  opacity: 0.8;
+}
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .card-front {
+    min-height: 140px;
+    padding: 44px 24px 24px;
+  }
+
+  .card-back {
+    max-height: 60vh;
+  }
+
+  .card-back-scroll {
+    padding: 16px 24px 12px;
+  }
+
+  .card-text {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .card-back .card-text {
+    font-size: 0.88rem;
+  }
+
+  .card-label {
+    top: 16px;
+    left: 16px;
+  }
+
+  .summary-line {
+    padding: 10px 16px 14px;
+    font-size: 9px;
+  }
+
+  .meta-row {
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+
+  .progress-strip {
+    margin-bottom: 12px;
+  }
+
+  .rating-container {
+    margin-top: 12px;
+  }
+
+  .rating-buttons {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  .rating-btn    { height: 72px; }
+  .score-num     { font-size: 18px; }
+  .score-label   { font-size: 10px; }
+}

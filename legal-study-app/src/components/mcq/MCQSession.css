@@ -1,0 +1,215 @@
+.mcq-session {
+  min-height: 100vh;
+  background: var(--color-bg);
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Nav ── */
+.mcq-session-nav {
+  height: 52px;
+  display: flex;
+  align-items: center;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+  flex-shrink: 0;
+}
+
+.mcq-nav-home {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--color-text-muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  padding: 0;
+  transition: color 0.15s;
+  width: 80px;
+}
+.mcq-nav-home:hover { color: var(--color-text); }
+
+.mcq-nav-centre {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+}
+
+.mcq-nav-subject {
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+.mcq-nav-count {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--color-text-muted);
+  letter-spacing: 0.06em;
+}
+
+.mcq-nav-spacer { width: 80px; }
+
+/* ── Progress ── */
+.mcq-progress-track {
+  height: 2px;
+  background: var(--color-faint);
+  flex-shrink: 0;
+}
+
+.mcq-progress-fill {
+  height: 100%;
+  background: var(--color-accent-gold);
+  transition: width 0.3s ease;
+}
+
+/* ── Content ── */
+.mcq-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 24px 80px;
+}
+
+.mcq-card {
+  width: 100%;
+  max-width: 680px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  padding: 36px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.mcq-code {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--color-text-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.mcq-stem {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+/* ── Options ── */
+.mcq-options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.mcq-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 14px 16px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.15s, background 0.15s;
+  width: 100%;
+}
+
+.mcq-option:hover:not(:disabled) {
+  border-color: var(--color-text);
+  background: var(--color-faint);
+}
+
+.mcq-option:disabled { cursor: default; }
+
+.mcq-option--correct {
+  border-color: #7EB8A4;
+  background: rgba(126, 184, 164, 0.08);
+}
+
+.mcq-option--wrong {
+  border-color: #C47B7B;
+  background: rgba(196, 123, 123, 0.08);
+}
+
+.mcq-option-key {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  letter-spacing: 0.06em;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.mcq-option--correct .mcq-option-key { color: #7EB8A4; }
+.mcq-option--wrong   .mcq-option-key { color: #C47B7B; }
+
+.mcq-option-text {
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+/* ── Explanation ── */
+.mcq-explanation {
+  border-left: 3px solid var(--color-border);
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.mcq-explanation--correct { border-left-color: #7EB8A4; }
+.mcq-explanation--wrong   { border-left-color: #C47B7B; }
+
+.mcq-explanation-verdict {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.mcq-explanation--correct .mcq-explanation-verdict { color: #7EB8A4; }
+.mcq-explanation--wrong   .mcq-explanation-verdict { color: #C47B7B; }
+
+.mcq-explanation-text {
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  color: var(--color-text-muted);
+  line-height: 1.65;
+}
+
+/* ── Next button ── */
+.mcq-next-btn {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #fff;
+  background: var(--color-text);
+  border: none;
+  padding: 14px 40px;
+  cursor: pointer;
+  margin-top: 16px;
+  width: 100%;
+  max-width: 680px;
+  transition: opacity 0.15s;
+}
+.mcq-next-btn:hover { opacity: 0.85; }
+
+@media (max-width: 640px) {
+  .mcq-card { padding: 24px 20px; }
+  .mcq-stem { font-size: 17px; }
+  .mcq-content { padding: 24px 16px 60px; }
+}

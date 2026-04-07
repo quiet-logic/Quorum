@@ -1,34 +1,275 @@
+/* ═══════════════════════════════════════════════════════════════════
+   Quorum — Design System Tokens
+   Architecture: canonical names in :root (light mode default)
+                 backward-compat aliases via var() — auto-cascade in dark mode
+                 [data-mode="X"] overrides only what changes
+   ═══════════════════════════════════════════════════════════════════ */
+
 :root {
-  /* Base palette — light mode */
-  --bg-light:      #F5F2EC;
-  --bg-dark:       #0E0E0E;
+  /* ── Canonical surface & text ── */
+  --color-bg:              #F5F2EC;
+  --color-surface:         #FFFFFF;
+  --color-surface-card:    #FFFFFF;
+  --color-surface-card-front: #FFFFFF;
+  --color-surface-card-back:  #FFFFFF;
+  --color-text:            #1A1714;
+  --color-text-muted:      #8A847A;
+  --color-border:          #D8D3C8;
+  --color-faint:           #EAE6DE;
 
-  --surface-light: #FFFFFF;
-  --surface-dark:  #161616;
+  /* ── Brand accent ── */
+  --color-accent-gold:     #C8A96E;
+  --color-accent-gold-dark:#8B6914;
 
-  --border-light:  #D8D3C8;
-  --border-dark:   #2A2A2A;
+  /* ── Subject accents ── */
+  --color-subject-blp:   #C8A96E;
+  --color-subject-dr:    #7BAED4;
+  --color-subject-con:   #7EC47B;
+  --color-subject-tort:  #7EB8A4;
+  --color-subject-lsew:  #C4C26B;
+  --color-subject-ls:    #C46BC4;
+  --color-subject-cal:   #6BB4C4;
+  --color-subject-pc:    #A4816B;
+  --color-subject-prop:  #9B8EC4;
+  --color-subject-wtp:   #C47B7B;
+  --color-subject-sa:    #6BC49B;
+  --color-subject-land:  #88B46B;
+  --color-subject-trust: #7B8EC4;
+  --color-subject-crim:  #C46B8E;
 
-  --text-light:    #1A1714;
-  --text-dark:     #E8E4DC;
+  /* ── Font stacks ── */
+  --font-display: 'Playfair Display', serif;
+  --font-ui:      'Outfit', sans-serif;
+  --font-mono:    'DM Mono', monospace;
 
-  --muted:         #8A847A;
-  --faint:         #EAE6DE;
+  /* ── Spacing & rhythm ── */
+  --line-height-base:     1.5;
+  --letter-spacing-body:  0em;
+  --word-spacing:         0em;
+  --font-style-accent:    italic;
 
-  /* Brand accent */
-  --gold:          #C8A96E;
-  --gold-dark:     #8B6914;
+  /* ── Shared session accent (set per-session via inline style) ── */
+  --subject-accent: var(--color-accent-gold);
 
-  /* Subject accents */
-  --accent-con:    #C8A96E;
-  --accent-tort:   #7EB8A4;
-  --accent-crim:   #C47B7B;
-  --accent-prop:   #9B8EC4;
-  --accent-dr:     #7BAED4;
+  /* ── Backward-compat aliases (auto-cascade with canonical overrides) ── */
+  --bg-light:      var(--color-bg);
+  --surface-light: var(--color-surface);
+  --border-light:  var(--color-border);
+  --text-light:    var(--color-text);
+  --muted:         var(--color-text-muted);
+  --faint:         var(--color-faint);
+  --gold:          var(--color-accent-gold);
+  --gold-dark:     var(--color-accent-gold-dark);
 
-  /* Subject accent — set per session via inline style */
-  --subject-accent: #C8A96E;
+  /* ── Old dark-card aliases → now point to canonical card surface ── */
+  --surface-dark: var(--color-surface-card);
+  --text-dark:    var(--color-text);
+  --border-dark:  var(--color-border);
+  --bg-dark:      var(--color-bg);  /* only used in index.css itself */
+
+  /* ── Old accent aliases ── */
+  --accent-con:   var(--color-subject-con);
+  --accent-tort:  var(--color-subject-tort);
+  --accent-crim:  var(--color-subject-crim);
+  --accent-prop:  var(--color-subject-prop);
+  --accent-dr:    var(--color-subject-dr);
+
+  /* ── Radius ── */
+  --radius: 0;
 }
+
+
+/* ══════════════════════════════════════════════════════════════════
+   DARK MODE  (smoked parchment — warm dark, not near-black)
+   ══════════════════════════════════════════════════════════════════ */
+
+[data-mode="dark"] {
+  --color-bg:              #1C1A18;
+  --color-surface:         #252220;
+  --color-surface-card:    #2C2A27;
+  --color-surface-card-front: #2C2A27;
+  --color-surface-card-back:  #2C2A27;
+  --color-text:            #E8E4DC;
+  --color-text-muted:      #9A9490;
+  --color-border:          #3A3632;
+  --color-faint:           #242220;
+  --color-accent-gold:     #C8A96E;
+  --color-accent-gold-dark:#D4B87A;
+
+  /* Subject accents: ~12% lightness boost for dark bg legibility */
+  --color-subject-blp:   #D4B87A;
+  --color-subject-dr:    #8BBED4;
+  --color-subject-con:   #91D494;
+  --color-subject-tort:  #8EC8B4;
+  --color-subject-lsew:  #D4D280;
+  --color-subject-ls:    #D48BD4;
+  --color-subject-cal:   #80C4D4;
+  --color-subject-pc:    #B8917B;
+  --color-subject-prop:  #AB9ED4;
+  --color-subject-wtp:   #D48B8B;
+  --color-subject-sa:    #80D4AB;
+  --color-subject-land:  #9CC47B;
+  --color-subject-trust: #8B9ED4;
+  --color-subject-crim:  #D48BA0;
+}
+
+/* System preference — applies when mode is 'system' */
+@media (prefers-color-scheme: dark) {
+  [data-mode="system"] {
+    --color-bg:              #1C1A18;
+    --color-surface:         #252220;
+    --color-surface-card:    #2C2A27;
+    --color-surface-card-front: #2C2A27;
+    --color-surface-card-back:  #2C2A27;
+    --color-text:            #E8E4DC;
+    --color-text-muted:      #9A9490;
+    --color-border:          #3A3632;
+    --color-faint:           #242220;
+    --color-accent-gold:     #C8A96E;
+    --color-accent-gold-dark:#D4B87A;
+
+    --color-subject-blp:   #D4B87A;
+    --color-subject-dr:    #8BBED4;
+    --color-subject-con:   #91D494;
+    --color-subject-tort:  #8EC8B4;
+    --color-subject-lsew:  #D4D280;
+    --color-subject-ls:    #D48BD4;
+    --color-subject-cal:   #80C4D4;
+    --color-subject-pc:    #B8917B;
+    --color-subject-prop:  #AB9ED4;
+    --color-subject-wtp:   #D48B8B;
+    --color-subject-sa:    #80D4AB;
+    --color-subject-land:  #9CC47B;
+    --color-subject-trust: #8B9ED4;
+    --color-subject-crim:  #D48BA0;
+  }
+}
+
+
+/* ══════════════════════════════════════════════════════════════════
+   HIGH FOCUS MODE  (ADHD-optimised — "focus")
+   ══════════════════════════════════════════════════════════════════ */
+
+[data-mode="focus"] {
+  --letter-spacing-body: 0.025em;
+  --line-height-base:    1.65;
+  --color-faint:         #F0EDE6;
+
+  /* Slightly desaturated accents */
+  --color-subject-crim:  #C98B8B;
+  --color-subject-prop:  #A89EC4;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════
+   READING COMFORT MODE  (dyslexia-optimised — "reading")
+   ══════════════════════════════════════════════════════════════════ */
+
+[data-mode="reading"] {
+  /* Replace serif display font with Outfit entirely */
+  --font-display:        'Outfit', sans-serif;
+
+  /* Spacing */
+  --letter-spacing-body: 0.04em;
+  --line-height-base:    1.75;
+  --word-spacing:        0.1em;
+
+  /* Warmer background */
+  --color-bg:            #FAF7EE;
+  --color-surface:       #FFFDF7;
+  --color-surface-card:  #FFFDF7;
+  --color-surface-card-front: #FFFDF7;
+  --color-surface-card-back:  #FFFDF7;
+
+  /* No italics */
+  --font-style-accent:   normal;
+}
+
+/* Suppress italics in reading mode */
+[data-mode="reading"] em,
+[data-mode="reading"] i,
+[data-mode="reading"] .italic {
+  font-style: normal;
+  font-weight: 600;
+}
+
+/* Heading font uses --font-display (now Outfit in reading mode) */
+[data-mode="reading"] .playfair {
+  font-family: var(--font-display);
+}
+
+
+/* ══════════════════════════════════════════════════════════════════
+   CALM MODE  (autism-optimised — "calm")
+   ══════════════════════════════════════════════════════════════════ */
+
+[data-mode="calm"] {
+  /* Desaturated subject accents */
+  --color-subject-blp:   #C9B585;
+  --color-subject-dr:    #8AAEC4;
+  --color-subject-con:   #8FBF8C;
+  --color-subject-tort:  #8DB8A8;
+  --color-subject-lsew:  #C4C27A;
+  --color-subject-ls:    #BF8EBF;
+  --color-subject-cal:   #7AB4C4;
+  --color-subject-pc:    #A49080;
+  --color-subject-prop:  #A09BB8;
+  --color-subject-wtp:   #BF8E8E;
+  --color-subject-sa:    #7AB8A0;
+  --color-subject-land:  #96B87A;
+  --color-subject-trust: #8A9BB8;
+  --color-subject-crim:  #BF8EA0;
+
+  --color-accent-gold:   #C4A96A;
+  --color-border:        #DDD8CE;
+}
+
+/* Calm: animations off */
+[data-mode="calm"] *,
+[data-mode="calm"] *::before,
+[data-mode="calm"] *::after {
+  animation-duration: 0.001ms !important;
+  transition-duration: 0.001ms !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   VISUAL MODE  (dyscalculia-optimised — "visual")
+   ══════════════════════════════════════════════════════════════════ */
+
+/* No colour changes — all changes are component-level */
+/* Rating button label/number swap is handled in FlipCard.css */
+
+[data-mode="visual"] .score-num {
+  font-size: 9px;
+  color: var(--color-text-muted);
+  font-weight: 400;
+}
+
+[data-mode="visual"] .score-label {
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 0;
+  opacity: 1;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════
+   prefers-reduced-motion  (system preference — always respected)
+   ══════════════════════════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.15s !important;
+    transition-duration: 0.15s !important;
+  }
+}
+
+
+/* ══════════════════════════════════════════════════════════════════
+   GLOBAL RESET & BASE STYLES
+   ══════════════════════════════════════════════════════════════════ */
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -36,26 +277,30 @@
   padding: 0;
 }
 
+html {
+  /* Mode attribute lives here */
+}
+
 body {
-  background-color: var(--bg-light);
-  color: var(--text-light);
-  font-family: 'Outfit', sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-ui);
+  line-height: var(--line-height-base);
+  letter-spacing: var(--letter-spacing-body);
+  word-spacing: var(--word-spacing);
   -webkit-font-smoothing: antialiased;
 }
 
 /* Typography helpers */
-.playfair { font-family: 'Playfair Display', serif; }
-.outfit   { font-family: 'Outfit', sans-serif; }
-.mono     { font-family: 'DM Mono', monospace; }
+.playfair { font-family: var(--font-display); }
+.outfit   { font-family: var(--font-ui); }
+.mono     { font-family: var(--font-mono); }
 
 .uppercase { text-transform: uppercase; }
-.muted     { color: var(--muted); }
-.italic    { font-style: italic; }
+.muted     { color: var(--color-text-muted); }
+.italic    { font-style: var(--font-style-accent); }
 
 button {
-  font-family: 'Outfit', sans-serif;
+  font-family: var(--font-ui);
   color: inherit;
 }
-
-/* ── Responsive helpers ── */
-/* Mobile-first breakpoint: anything <= 640px is "mobile" */

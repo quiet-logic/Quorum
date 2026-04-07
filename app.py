@@ -5,23 +5,32 @@ Routes only. All DB access goes through database.py.
 All routes prefixed /api/. Root / serves the React build in production.
 """
 
-from flask import Flask, jsonify, request, send_from_directory, Response
+from flask import Flask, jsonify, request, send_from_directory, Response, render_template
 from datetime import date
 import json
 import os
 import random
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 import database as db
+import auth as auth_module
 from srs import sm2, next_review_date
+from flask_login import login_required, current_user
 
 app = Flask(__name__, static_folder="legal-study-app/dist", static_url_path="")
+auth_module.init_app(app)
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def _user_id() -> tuple[int | None, object | None]:
-    """Extract user_id from query string (GET) or JSON body (POST/PATCH).
-    Returns (user_id, error_response) — one of which is None."""
+    """Extract user_id (profile id) from request and validate it belongs to
+    the authenticated account. Returns (user_id, error_response)."""
     if request.method == 'GET':
         uid = request.args.get('user_id', type=int)
     else:
@@ -29,41 +38,156 @@ def _user_id() -> tuple[int | None, object | None]:
         uid = body.get('user_id')
     if not uid:
         return None, (jsonify({"error": "user_id is required"}), 400)
+
+    # Validate profile ownership when authenticated
+    if current_user.is_authenticated:
+        if not db.profile_belongs_to_account(uid, current_user.id):
+            return None, (jsonify({"error": "Profile not found"}), 404)
+
     return uid, None
 
 
 # ── Production: serve React build ────────────────────────────────────────────
 
 @app.route("/")
-def serve_index():
+def serve_landing():
+    return render_template("landing.html")
+
+
+@app.route("/app")
+@app.route("/app/<path:path>")
+def serve_app(path=""):
     return send_from_directory(app.static_folder, "index.html")
 
 
-# ── User management ───────────────────────────────────────────────────────────
+# ── Auth routes ───────────────────────────────────────────────────────────────
+
+@app.route("/api/auth/register", methods=["POST"])
+def auth_register():
+    body = request.get_json(silent=True) or {}
+    email       = (body.get("email") or "").strip()
+    password    = body.get("password") or ""
+    invite_code = (body.get("invite_code") or "").strip()
+    if not email or not password or not invite_code:
+        return jsonify({"error": "email, password, and invite_code are required"}), 400
+    if len(password) < 8:
+        return jsonify({"error": "Password must be at least 8 characters"}), 400
+    result, status = auth_module.register(email, password, invite_code)
+    return jsonify(result), status
+
+
+@app.route("/api/auth/login", methods=["POST"])
+def auth_login():
+    body = request.get_json(silent=True) or {}
+    email    = (body.get("email") or "").strip()
+    password = body.get("password") or ""
+    if not email or not password:
+        return jsonify({"error": "email and password are required"}), 400
+    result, status = auth_module.login(email, password)
+    return jsonify(result), status
+
+
+@app.route("/api/auth/logout", methods=["POST"])
+def auth_logout():
+    result, status = auth_module.logout()
+    return jsonify(result), status
+
+
+@app.route("/api/auth/me", methods=["GET"])
+def auth_me():
+    if not current_user.is_authenticated:
+        return jsonify({"error": "Not authenticated"}), 401
+    return jsonify({"account": current_user.to_dict()})
+
+
+@app.route("/api/auth/verify-email", methods=["POST"])
+def auth_verify_email():
+    body = request.get_json(silent=True) or {}
+    token = (body.get("token") or "").strip()
+    if not token:
+        return jsonify({"error": "token is required"}), 400
+    result, status = auth_module.verify_email(token)
+    return jsonify(result), status
+
+
+@app.route("/api/auth/resend-verification", methods=["POST"])
+def auth_resend_verification():
+    body = request.get_json(silent=True) or {}
+    email = (body.get("email") or "").strip()
+    if not email:
+        return jsonify({"error": "email is required"}), 400
+    result, status = auth_module.resend_verification(email)
+    return jsonify(result), status
+
+
+@app.route("/api/auth/forgot-password", methods=["POST"])
+def auth_forgot_password():
+    body = request.get_json(silent=True) or {}
+    email = (body.get("email") or "").strip()
+    if not email:
+        return jsonify({"error": "email is required"}), 400
+    result, status = auth_module.forgot_password(email)
+    return jsonify(result), status
+
+
+@app.route("/api/auth/reset-password", methods=["POST"])
+def auth_reset_password():
+    body = request.get_json(silent=True) or {}
+    token        = (body.get("token") or "").strip()
+    new_password = body.get("new_password") or ""
+    if not token or not new_password:
+        return jsonify({"error": "token and new_password are required"}), 400
+    result, status = auth_module.reset_password(token, new_password)
+    return jsonify(result), status
+
+
+# ── User (profile) management ─────────────────────────────────────────────────
 
 @app.route("/api/users", methods=["GET"])
+@login_required
 def list_users():
-    """List all profiles."""
-    return jsonify(db.list_users())
+    """List all profiles for the authenticated account, with FLK progress."""
+    return jsonify(db.list_users_with_progress(account_id=current_user.id))
 
 
 @app.route("/api/users", methods=["POST"])
+@login_required
 def create_user():
-    """Create a new profile. Body: { name }"""
+    """Create a new profile under the authenticated account. Body: { name, avatar_seed? }"""
     body = request.get_json(silent=True) or {}
     name = (body.get("name") or "").strip()
     if not name:
         return jsonify({"error": "name is required"}), 400
     if len(name) > 40:
         return jsonify({"error": "name must be 40 characters or fewer"}), 400
+    avatar_seed = body.get("avatar_seed")
     try:
-        user = db.create_user(name)
+        user = db.create_user(name, avatar_seed, account_id=current_user.id)
         return jsonify(user), 201
     except Exception:
         return jsonify({"error": "A profile with that name already exists"}), 409
 
 
+@app.route("/api/users/<int:user_id>", methods=["PUT"])
+@login_required
+def update_user(user_id):
+    """Update a profile. Body: { name?, avatar_seed?, last_active? }"""
+    if not db.profile_belongs_to_account(user_id, current_user.id):
+        return jsonify({"error": "Profile not found"}), 404
+    body = request.get_json(silent=True) or {}
+    name        = (body.get("name") or "").strip() or None
+    avatar_seed = body.get("avatar_seed")
+    last_active = body.get("last_active")
+    if name and len(name) > 40:
+        return jsonify({"error": "name must be 40 characters or fewer"}), 400
+    user = db.update_user(user_id, name=name, avatar_seed=avatar_seed, last_active=last_active)
+    if not user:
+        return jsonify({"error": "Profile not found"}), 404
+    return jsonify(user)
+
+
 @app.route("/api/users/<int:user_id>", methods=["DELETE"])
+@login_required
 def delete_user(user_id):
     """Delete a profile and all its progress/reviews."""
     deleted = db.delete_user(user_id)
@@ -73,6 +197,7 @@ def delete_user(user_id):
 
 
 @app.route("/api/users/<int:user_id>/export", methods=["GET"])
+@login_required
 def export_user(user_id):
     """Download a JSON backup of a user's progress and reviews."""
     data = db.export_user_data(user_id)
@@ -87,6 +212,7 @@ def export_user(user_id):
 
 
 @app.route("/api/users/<int:user_id>/import", methods=["POST"])
+@login_required
 def import_user(user_id):
     """Restore a user's progress/reviews from a backup JSON body."""
     data = request.get_json(silent=True)
@@ -101,6 +227,7 @@ def import_user(user_id):
 # ── Subjects ──────────────────────────────────────────────────────────────────
 
 @app.route("/api/subjects", methods=["GET"])
+@login_required
 def subjects():
     user_id, err = _user_id()
     if err:
@@ -111,6 +238,7 @@ def subjects():
 # ── Study (due cards) ─────────────────────────────────────────────────────────
 
 @app.route("/api/study/subject/<int:subject_id>", methods=["GET"])
+@login_required
 def study_subject(subject_id):
     user_id, err = _user_id()
     if err:
@@ -122,6 +250,7 @@ def study_subject(subject_id):
 
 
 @app.route("/api/study/subtopic/<int:subtopic_id>", methods=["GET"])
+@login_required
 def study_subtopic(subtopic_id):
     user_id, err = _user_id()
     if err:
@@ -135,6 +264,7 @@ def study_subtopic(subtopic_id):
 # ── Review (submit SM-2 rating) ───────────────────────────────────────────────
 
 @app.route("/api/review", methods=["POST"])
+@login_required
 def review():
     body = request.get_json(silent=True)
     if not body:
@@ -192,6 +322,7 @@ def review():
 # ── Smart study session ───────────────────────────────────────────────────────
 
 @app.route("/api/study/session", methods=["GET"])
+@login_required
 def study_session():
     user_id, err = _user_id()
     if err:
@@ -223,6 +354,7 @@ def study_session():
 # ── Conduct Mode ─────────────────────────────────────────────────────────────
 
 @app.route("/api/study/conduct", methods=["GET"])
+@login_required
 def study_conduct():
     user_id, err = _user_id()
     if err:
@@ -237,6 +369,7 @@ def study_conduct():
 # ── Exam Simulator ────────────────────────────────────────────────────────────
 
 @app.route("/api/study/exam", methods=["GET"])
+@login_required
 def study_exam():
     user_id, err = _user_id()
     if err:
@@ -252,6 +385,7 @@ def study_exam():
 # ── Syllabus Map ──────────────────────────────────────────────────────────────
 
 @app.route("/api/syllabus", methods=["GET"])
+@login_required
 def syllabus():
     user_id, err = _user_id()
     if err:
@@ -262,6 +396,7 @@ def syllabus():
 # ── Card browser ─────────────────────────────────────────────────────────────
 
 @app.route("/api/cards", methods=["GET"])
+@login_required
 def cards():
     # Card browser doesn't depend on user progress, so no user_id required
     query      = request.args.get("q", "").strip() or None
@@ -274,6 +409,7 @@ def cards():
 # ── Topic map ────────────────────────────────────────────────────────────────
 
 @app.route("/api/subjects/<int:subject_id>/map", methods=["GET"])
+@login_required
 def subject_map(subject_id):
     user_id, err = _user_id()
     if err:
@@ -287,6 +423,7 @@ def subject_map(subject_id):
 # ── Dashboard stats ──────────────────────────────────────────────────────────
 
 @app.route("/api/stats", methods=["GET"])
+@login_required
 def stats():
     user_id, err = _user_id()
     if err:
@@ -297,6 +434,7 @@ def stats():
 # ── Progress overview ─────────────────────────────────────────────────────────
 
 @app.route("/api/progress", methods=["GET"])
+@login_required
 def progress():
     user_id, err = _user_id()
     if err:
@@ -307,11 +445,80 @@ def progress():
 # ── Analytics ─────────────────────────────────────────────────────────────────
 
 @app.route("/api/analytics", methods=["GET"])
+@login_required
 def analytics():
     user_id, err = _user_id()
     if err:
         return err
     return jsonify(db.get_analytics(user_id))
+
+
+# ── MCQ routes ───────────────────────────────────────────────────────────────
+
+@app.route("/api/mcq/subjects", methods=["GET"])
+@login_required
+def mcq_subjects():
+    user_id, err = _user_id()
+    if err:
+        return err
+    return jsonify(db.get_mcq_subjects_with_stats(user_id))
+
+
+@app.route("/api/mcq/subject/<int:subject_id>", methods=["GET"])
+@login_required
+def mcq_subject(subject_id):
+    user_id, err = _user_id()
+    if err:
+        return err
+    questions = db.get_mcqs_for_subject(subject_id, user_id)
+    return jsonify({"questions": questions, "total": len(questions)})
+
+
+@app.route("/api/mcq/random", methods=["GET"])
+@login_required
+def mcq_random():
+    user_id, err = _user_id()
+    if err:
+        return err
+    subject_id = request.args.get("subject_id", type=int)
+    flk        = request.args.get("flk")
+    limit      = request.args.get("limit", default=10, type=int)
+    questions  = db.get_random_mcqs(subject_id, flk, limit, user_id)
+    if not questions:
+        return jsonify({"questions": [], "message": "No MCQs available yet."})
+    return jsonify({"questions": questions, "total": len(questions)})
+
+
+@app.route("/api/mcq/attempt", methods=["POST"])
+@login_required
+def mcq_attempt():
+    body = request.get_json(silent=True) or {}
+    user_id, err = _user_id()
+    if err:
+        return err
+    question_id = body.get("question_id", "").strip()
+    selected    = body.get("selected", "").strip().upper()
+    if not question_id or selected not in ("A", "B", "C", "D"):
+        return jsonify({"error": "question_id and selected (A/B/C/D) are required"}), 400
+    with db.get_db() as conn:
+        q = conn.execute(
+            "SELECT correct FROM mcq_questions WHERE question_id = ?", (question_id,)
+        ).fetchone()
+    if not q:
+        return jsonify({"error": f"Question '{question_id}' not found"}), 404
+    correct = selected == q["correct"]
+    result = db.record_mcq_attempt(user_id, question_id, selected, correct)
+    result["correct_answer"] = q["correct"]
+    return jsonify(result)
+
+
+@app.route("/api/mcq/progress", methods=["GET"])
+@login_required
+def mcq_progress():
+    user_id, err = _user_id()
+    if err:
+        return err
+    return jsonify(db.get_mcq_progress(user_id))
 
 
 # ── Dev entrypoint ────────────────────────────────────────────────────────────

@@ -1,0 +1,173 @@
+/* ── Shared auth screen layout ── */
+.auth-wrapper {
+  min-height: 100vh;
+  background: var(--color-bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px;
+}
+
+.auth-brand {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.auth-wordmark {
+  font-family: 'Playfair Display', serif;
+  font-size: 42px;
+  font-weight: 400;
+  color: var(--color-text);
+  letter-spacing: -0.02em;
+  margin: 0;
+  line-height: 1;
+}
+
+.auth-tagline {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--color-text-muted);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 8px 0 0;
+}
+
+/* ── Card ── */
+.auth-card {
+  width: 100%;
+  max-width: 380px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.auth-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--color-text);
+  margin: 0 0 4px;
+}
+
+.auth-subtitle {
+  font-family: 'Outfit', sans-serif;
+  font-size: 13px;
+  color: var(--color-text-muted);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ── Form elements ── */
+.auth-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.auth-label {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.auth-input {
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  color: var(--color-text);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  padding: 10px 12px;
+  outline: none;
+  transition: border-color 0.15s ease;
+  width: 100%;
+}
+
+.auth-input:focus {
+  border-color: var(--color-text);
+}
+
+.auth-input::placeholder {
+  color: var(--color-text-muted);
+  opacity: 0.6;
+}
+
+/* ── Buttons ── */
+.auth-submit {
+  font-family: 'Outfit', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #fff;
+  background: var(--color-text);
+  border: 1px solid var(--color-text);
+  padding: 12px 24px;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 4px;
+  transition: opacity 0.15s ease;
+}
+
+.auth-submit:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.auth-submit:hover:not(:disabled) {
+  opacity: 0.85;
+}
+
+/* ── Error / success ── */
+.auth-error {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: #C47B7B;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.auth-success {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: #7EB8A4;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ── Links ── */
+.auth-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.auth-link {
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  text-align: center;
+  transition: color 0.15s ease;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.auth-link:hover {
+  color: var(--color-text);
+}
+
+/* ── Divider ── */
+.auth-divider {
+  height: 1px;
+  background: var(--color-border);
+  margin: 4px 0;
+}
