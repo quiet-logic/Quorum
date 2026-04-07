@@ -118,8 +118,8 @@ function App() {
   // After Stripe Checkout redirect: refresh account data so subscription_status is current
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
-    if (params.get('subscribed') === '1' && account) {
-      window.history.replaceState(null, '', '/app');
+    if (params.get('subscribed') === '1') {
+      window.history.replaceState(null, '', '/app/');
       fetch('/api/auth/me', { credentials: 'include' })
         .then(r => r.ok ? r.json() : null)
         .then(data => { if (data?.account) setAccount(data.account); })

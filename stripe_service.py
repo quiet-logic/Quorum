@@ -92,8 +92,9 @@ def handle_webhook(payload: bytes, sig_header: str) -> tuple[dict, int]:
     Verify webhook signature, deduplicate, and dispatch to handlers.
     Returns (response_dict, http_status).
     """
+    webhook_secret = os.environ.get("STRIPE_WEBHOOK_SECRET", WEBHOOK_SECRET)
     try:
-        event = stripe.Webhook.construct_event(payload, sig_header, WEBHOOK_SECRET)
+        event = stripe.Webhook.construct_event(payload, sig_header, webhook_secret)
     except stripe.error.SignatureVerificationError:
         return {"error": "Invalid signature"}, 400
     except Exception:
@@ -105,7 +106,8 @@ def handle_webhook(payload: bytes, sig_header: str) -> tuple[dict, int]:
     db.record_stripe_event(event_id)
 
     etype = event["type"]
-    data  = event["data"]["object"]
+    # Stripe v5+ returns StripeObject — convert to plain dict for safe .get() access
+    data  = event["data"]["object"].to_dict()
 
     if etype == "checkout.session.completed":
         _handle_checkout_completed(data)
@@ -126,7 +128,6 @@ def handle_webhook(payload: bytes, sig_header: str) -> tuple[dict, int]:
     elif etype == "invoice.payment_succeeded":
         customer_id = data.get("customer")
         if customer_id:
-            # Only flip back to active if currently past_due
             account = db.get_account_by_customer_id(customer_id)
             if account and account.get("subscription_status") == "past_due":
                 db.set_subscription_status_by_customer(customer_id, "active")
@@ -145,6 +146,6 @@ def _handle_checkout_completed(session: dict):
 def _handle_subscription_change(sub: dict):
     """Mirror Stripe subscription status onto the account."""
     customer_id = sub.get("customer")
-    status      = sub.get("status")  # active | trialing | past_due | canceled | ...
+    status      = sub.get("status")
     if customer_id and status:
         db.set_subscription_status_by_customer(customer_id, status)

@@ -250,6 +250,17 @@ const Landing = () => {
         </form>
       )}
 
+      {/* Sign out */}
+      <div className="landing-danger-zone">
+        <button
+          type="button"
+          className="landing-delete-link mono"
+          onClick={logout}
+        >
+          Sign out
+        </button>
+      </div>
+
       {/* Delete account */}
       <div className="landing-danger-zone">
         {!deleteConfirm ? (
