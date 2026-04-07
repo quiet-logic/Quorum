@@ -105,10 +105,9 @@ const CrossPillarHome = ({ onGoFlashcards, onGoMCQs, onGoPodcast }) => {
             <PillarCard
               icon="✦"
               title="MCQs"
-              meta="Coming soon"
+              meta="390 questions · 13 subjects"
               cta="Start a quiz"
               onCta={onGoMCQs}
-              disabled
             />
             <PillarCard
               icon="◎"
