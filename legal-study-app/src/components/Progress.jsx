@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useUser } from '../UserContext';
 import './Progress.css';
 import { subjectColor } from '../subjectColor';
 
@@ -9,14 +10,15 @@ const fmtDate = (iso) => {
 };
 
 const Progress = ({ onHome }) => {
+  const { apiFetch } = useUser();
   const [subjects,  setSubjects]  = useState([]);
   const [analytics, setAnalytics] = useState(null);
   const [loading,   setLoading]   = useState(true);
 
   useEffect(() => {
     Promise.all([
-      fetch('/api/subjects').then(r => r.json()),
-      fetch('/api/analytics').then(r => r.json()),
+      apiFetch('/api/subjects').then(r => r.json()),
+      apiFetch('/api/analytics').then(r => r.json()),
     ])
       .then(([subs, anal]) => {
         setSubjects(subs);

@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { useUser } from '../UserContext';
 import './ExamSimulator.css';
 
 const CONFIGS = [
@@ -82,6 +83,7 @@ const ExamConfig = ({ config, setConfig, flk, setFlk, onStart, onHome, loading }
 // ── Main component ────────────────────────────────────────────────────────────
 
 const ExamSimulator = ({ onHome, onComplete }) => {
+  const { apiFetch } = useUser();
   const [phase, setPhase]         = useState('config');   // config | running
   const [config, setConfig]       = useState(CONFIGS[0]);
   const [flk, setFlk]             = useState('both');
@@ -101,7 +103,7 @@ const ExamSimulator = ({ onHome, onComplete }) => {
     setLoading(true);
     const flkParam = flk === 'both' ? '' : `&flk=${flk}`;
     try {
-      const res  = await fetch(`/api/study/exam?limit=${config.cards}${flkParam}`);
+      const res  = await apiFetch(`/api/study/exam?limit=${config.cards}${flkParam}`);
       const data = await res.json();
       if (!data.cards?.length) {
         alert('No cards available for this configuration.');

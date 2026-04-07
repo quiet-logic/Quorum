@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useUser } from '../UserContext';
 import './Home.css';
 
 // Static per-subject metadata — colour and home-id never come from the API
@@ -30,6 +31,7 @@ const DEFAULT_STATS = { streak: 0, today: 0, accuracy: 0, all_time: 0 };
 // ── Component ────────────────────────────────────────────────────────────────
 
 const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress, onViewSyllabusMap, onStartConduct, onStartExam }) => {
+  const { activeUser, setUser, apiFetch }   = useUser();
   const [subjects, setSubjects]             = useState(DEFAULT_SUBJECTS);
   const [stats, setStats]                   = useState(DEFAULT_STATS);
   const [expandedSubjectId, setExpandedSubjectId] = useState(null);
@@ -39,8 +41,8 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress,
 
   useEffect(() => {
     Promise.all([
-      fetch('/api/subjects').then(r => r.json()),
-      fetch('/api/stats').then(r => r.json()),
+      apiFetch('/api/subjects').then(r => r.json()),
+      apiFetch('/api/stats').then(r => r.json()),
     ])
       .then(([apiSubjects, apiStats]) => {
         const enriched = apiSubjects
@@ -107,9 +109,14 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress,
             <span className="nav-link" onClick={onViewSyllabusMap}>Syllabus</span>
           </div>
         </div>
-        <div className="flk-btns">
-          <button className="flk-btn mono" onClick={() => onStartStudy(null, null, 'FLK1')}>FLK 1</button>
-          <button className="flk-btn mono" onClick={() => onStartStudy(null, null, 'FLK2')}>FLK 2</button>
+        <div className="masthead-right">
+          <div className="flk-btns">
+            <button className="flk-btn mono" onClick={() => onStartStudy(null, null, 'FLK1')}>FLK 1</button>
+            <button className="flk-btn mono" onClick={() => onStartStudy(null, null, 'FLK2')}>FLK 2</button>
+          </div>
+          <button className="profile-btn mono" onClick={() => setUser(null)} title="Switch profile">
+            {activeUser.name}
+          </button>
         </div>
       </nav>
 
@@ -232,11 +239,12 @@ const SubjectRow = ({ sub, expanded, onToggle, onMap }) => (
 // ── SubjectPanel ──────────────────────────────────────────────────────────────
 
 const SubjectPanel = ({ sub, onStudyAll, onStudyTopic }) => {
+  const { apiFetch } = useUser();
   const [topics, setTopics] = useState(null);
 
   useEffect(() => {
     if (!sub.dbId) return;
-    fetch(`/api/subjects/${sub.dbId}/map`)
+    apiFetch(`/api/subjects/${sub.dbId}/map`)
       .then(r => r.json())
       .then(data => setTopics(Array.isArray(data) ? data : []))
       .catch(() => setTopics([]));

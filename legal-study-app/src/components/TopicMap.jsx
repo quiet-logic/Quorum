@@ -1,17 +1,9 @@
 import { useState, useEffect } from 'react';
+import { useUser } from '../UserContext';
 import './TopicMap.css';
 
-// Resolve a subject name → DB subject id via /api/subjects
-async function resolveSubjectId(subjectName) {
-  const res = await fetch('/api/subjects');
-  if (!res.ok) throw new Error('Failed to load subjects');
-  const subjects = await res.json();
-  const match = subjects.find(s => s.name === subjectName);
-  if (!match) throw new Error(`Subject "${subjectName}" not found in database`);
-  return match.id;
-}
-
 const TopicMap = ({ subject, onHome, onStartStudy, onStudySubtopic }) => {
+  const { apiFetch } = useUser();
   const [topics, setTopics]     = useState([]);
   const [loading, setLoading]   = useState(true);
   const [error, setError]       = useState(null);
@@ -22,8 +14,8 @@ const TopicMap = ({ subject, onHome, onStartStudy, onStudySubtopic }) => {
     setLoading(true);
     setError(null);
 
-    resolveSubjectId(subject.name)
-      .then(dbId => fetch(`/api/subjects/${dbId}/map`))
+    const dbId = subject.dbId ?? subject.id;
+    apiFetch(`/api/subjects/${dbId}/map`)
       .then(res => {
         if (!res.ok) throw new Error(`Server error ${res.status}`);
         return res.json();

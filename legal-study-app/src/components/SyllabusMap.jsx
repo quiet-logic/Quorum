@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { useUser } from '../UserContext';
 import './SyllabusMap.css';
 
 // Colour based on progress %
@@ -33,6 +34,7 @@ const ProgressDot = ({ reviewed, total, size = 'md' }) => {
 // ── Component ─────────────────────────────────────────────────────────────────
 
 const SyllabusMap = ({ onHome, onStudySubtopic }) => {
+  const { apiFetch } = useUser();
   const [data, setData]                     = useState([]);
   const [loading, setLoading]               = useState(true);
   const [flkFilter, setFlkFilter]           = useState('all');
@@ -40,7 +42,7 @@ const SyllabusMap = ({ onHome, onStudySubtopic }) => {
   const [expandedTopics, setExpandedTopics]     = useState({});
 
   useEffect(() => {
-    fetch('/api/syllabus')
+    apiFetch('/api/syllabus')
       .then(r => r.json())
       .then(d => {
         setData(d);

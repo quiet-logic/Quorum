@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { useUser } from '../UserContext';
 import './CardBrowser.css';
 import { subjectColor } from '../subjectColor';
 
@@ -12,6 +13,7 @@ const IRAC_LABELS = {
 };
 
 const CardBrowser = ({ onHome }) => {
+  const { apiFetch } = useUser();
   const [query, setQuery]               = useState('');
   const [subjectFilter, setSubjectFilter] = useState('');
   const [typeFilter, setTypeFilter]     = useState('');
@@ -24,7 +26,7 @@ const CardBrowser = ({ onHome }) => {
 
   // Load subjects for the filter dropdown
   useEffect(() => {
-    fetch('/api/subjects')
+    apiFetch('/api/subjects')
       .then(r => r.json())
       .then(data => setSubjects(data))
       .catch(() => {});

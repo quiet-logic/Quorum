@@ -53,6 +53,32 @@
   color: var(--text-light);
 }
 
+.masthead-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.profile-btn {
+  font-size: 11px;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border-light);
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.profile-btn:hover {
+  color: var(--text-light);
+  border-color: var(--muted);
+}
+
 .flk-btns {
   display: flex;
   gap: 1px;

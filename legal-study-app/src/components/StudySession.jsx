@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import FlipCard from './FlipCard';
+import { useUser } from '../UserContext';
 import './StudySession.css';
 
 const StudySession = ({ onHome, onComplete, deckOverride, subjectAccent = '#C8A96E' }) => {
+  const { apiFetch } = useUser();
   const [currentIndex, setCurrentIndex] = useState(0);
   const [results, setResults] = useState([]);
 
@@ -12,7 +14,7 @@ const StudySession = ({ onHome, onComplete, deckOverride, subjectAccent = '#C8A9
 
   const handleRate = (score) => {
     // Fire-and-forget to backend — don't block UI on the response
-    fetch('/api/review', {
+    apiFetch('/api/review', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ card_code: card.card_code, score }),

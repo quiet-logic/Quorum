@@ -8,6 +8,8 @@ import Progress from './components/Progress';
 import ExamSimulator from './components/ExamSimulator';
 import ExamResults from './components/ExamResults';
 import SyllabusMap from './components/SyllabusMap';
+import ProfilePicker from './components/ProfilePicker';
+import { useUser } from './UserContext';
 
 // Map home IDs → subject accent colours
 const SUBJECT_ACCENT = {
@@ -28,6 +30,7 @@ const SUBJECT_ACCENT = {
 };
 
 function App() {
+  const { activeUser, apiFetch } = useUser();
   const [view, setView]                   = useState('home');
   const [activeDeck, setActiveDeck]       = useState([]);
   const [activeAccent, setActiveAccent]   = useState('#C8A96E');
@@ -74,7 +77,7 @@ function App() {
     if (flk)            url += `&flk=${flk}`;
 
     try {
-      const res  = await fetch(url);
+      const res  = await apiFetch(url);
       const data = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No cards due — check back tomorrow.'); return; }
@@ -89,7 +92,7 @@ function App() {
     let url = '/api/study/session?limit=15&include_deeper=true';
     if (sub?.dbId) url += `&subject_id=${sub.dbId}`;
     try {
-      const res  = await fetch(url);
+      const res  = await apiFetch(url);
       const data = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No deeper cards due right now.'); return; }
@@ -101,7 +104,7 @@ function App() {
 
   const startSubtopicStudy = async (sub, subtopicId) => {
     try {
-      const res  = await fetch(`/api/study/subtopic/${subtopicId}`);
+      const res  = await apiFetch(`/api/study/subtopic/${subtopicId}`);
       const data = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No cards due for this subtopic.'); return; }
@@ -113,7 +116,7 @@ function App() {
 
   const startConductSession = async () => {
     try {
-      const res  = await fetch('/api/study/conduct?limit=20');
+      const res  = await apiFetch('/api/study/conduct?limit=20');
       const data = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No conduct cards due — check back tomorrow.'); return; }
@@ -141,6 +144,8 @@ function App() {
     setExamConfig(cfg);
     setView('examresults');
   };
+
+  if (!activeUser) return <ProfilePicker />;
 
   return (
     <div className="App">
