@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { useUser } from '../../UserContext';
+import { useAuth } from '../../AuthContext';
 import './Landing.css';
 
 // Five avatar colours — drawn from the subject accent palette
@@ -95,12 +96,16 @@ function ColourPicker({ value, onChange }) {
 
 const Landing = () => {
   const { setUser } = useUser();
-  const [profiles, setProfiles]     = useState([]);
-  const [creating, setCreating]     = useState(false);
-  const [newName, setNewName]       = useState('');
-  const [newColour, setNewColour]   = useState(DEFAULT_COLOUR);
-  const [submitting, setSubmitting] = useState(false);
-  const [error, setError]           = useState('');
+  const { logout }  = useAuth();
+  const [profiles, setProfiles]           = useState([]);
+  const [creating, setCreating]           = useState(false);
+  const [newName, setNewName]             = useState('');
+  const [newColour, setNewColour]         = useState(DEFAULT_COLOUR);
+  const [submitting, setSubmitting]       = useState(false);
+  const [error, setError]                 = useState('');
+  const [deleteConfirm, setDeleteConfirm] = useState(false);
+  const [deleting, setDeleting]           = useState(false);
+  const [deleteError, setDeleteError]     = useState('');
   const autoTimer = useRef(null);
 
   useEffect(() => {
@@ -149,6 +154,24 @@ const Landing = () => {
     }
   };
 
+  const handleDeleteAccount = async () => {
+    setDeleting(true);
+    setDeleteError('');
+    try {
+      const res = await fetch('/api/auth/delete-account', { method: 'DELETE' });
+      if (res.ok) {
+        logout();
+      } else {
+        const d = await res.json();
+        setDeleteError(d.error || 'Failed to delete account.');
+        setDeleting(false);
+      }
+    } catch {
+      setDeleteError('Could not connect to server.');
+      setDeleting(false);
+    }
+  };
+
   // Show create form directly if no profiles
   const showCreateForm = creating || profiles.length === 0;
 
@@ -182,8 +205,9 @@ const Landing = () => {
             {profiles.length === 0 ? 'Create your profile' : 'New profile'}
           </h2>
 
-          <label className="create-label outfit">Name</label>
+          <label className="create-label outfit" htmlFor="create-name">Name</label>
           <input
+            id="create-name"
             className="create-input outfit"
             type="text"
             placeholder="Your name"
@@ -225,6 +249,44 @@ const Landing = () => {
           </div>
         </form>
       )}
+
+      {/* Delete account */}
+      <div className="landing-danger-zone">
+        {!deleteConfirm ? (
+          <button
+            type="button"
+            className="landing-delete-link mono"
+            onClick={() => setDeleteConfirm(true)}
+          >
+            Delete my account
+          </button>
+        ) : (
+          <div className="landing-delete-confirm">
+            <p className="landing-delete-warning mono">
+              This will permanently delete your account and all progress. This cannot be undone.
+            </p>
+            {deleteError && <p className="landing-delete-error mono">{deleteError}</p>}
+            <div className="landing-delete-actions">
+              <button
+                type="button"
+                className="landing-delete-cancel mono"
+                onClick={() => { setDeleteConfirm(false); setDeleteError(''); }}
+                disabled={deleting}
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                className="landing-delete-confirm-btn mono"
+                onClick={handleDeleteAccount}
+                disabled={deleting}
+              >
+                {deleting ? 'Deleting…' : 'Yes, delete everything'}
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
     </div>
   );
 };

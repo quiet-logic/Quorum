@@ -60,8 +60,9 @@ const Register = ({ onGoLogin }) => {
         <p className="auth-subtitle">You need an invite code to register during the beta.</p>
 
         <div className="auth-field">
-          <label className="auth-label">Invite code</label>
+          <label className="auth-label" htmlFor="reg-invite">Invite code</label>
           <input
+            id="reg-invite"
             className="auth-input"
             type="text"
             placeholder="XXXX-XXXX"
@@ -73,8 +74,9 @@ const Register = ({ onGoLogin }) => {
         </div>
 
         <div className="auth-field">
-          <label className="auth-label">Email</label>
+          <label className="auth-label" htmlFor="reg-email">Email</label>
           <input
+            id="reg-email"
             className="auth-input"
             type="email"
             autoComplete="email"
@@ -86,8 +88,9 @@ const Register = ({ onGoLogin }) => {
         </div>
 
         <div className="auth-field">
-          <label className="auth-label">Password</label>
+          <label className="auth-label" htmlFor="reg-password">Password</label>
           <input
+            id="reg-password"
             className="auth-input"
             type="password"
             autoComplete="new-password"
@@ -100,8 +103,9 @@ const Register = ({ onGoLogin }) => {
         </div>
 
         <div className="auth-field">
-          <label className="auth-label">Confirm password</label>
+          <label className="auth-label" htmlFor="reg-confirm">Confirm password</label>
           <input
+            id="reg-confirm"
             className="auth-input"
             type="password"
             autoComplete="new-password"

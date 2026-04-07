@@ -79,6 +79,7 @@ const CardBrowser = ({ onHome }) => {
             placeholder="Search cards — rules, cases, concepts…"
             value={query}
             onChange={e => setQuery(e.target.value)}
+            aria-label="Search cards"
             autoFocus
           />
           <div className="cb-filters">

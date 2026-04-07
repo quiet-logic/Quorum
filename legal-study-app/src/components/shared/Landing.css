@@ -323,3 +323,78 @@
   from { opacity: 0; transform: translateY(4px); }
   to   { opacity: 1; transform: translateY(0); }
 }
+
+/* ── Delete account ── */
+.landing-danger-zone {
+  margin-top: -24px;
+  text-align: center;
+}
+
+.landing-delete-link {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 11px;
+  color: var(--color-text-muted);
+  letter-spacing: 0.04em;
+  padding: 4px 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  opacity: 0.6;
+  transition: opacity 0.15s;
+}
+.landing-delete-link:hover { opacity: 1; }
+
+.landing-delete-confirm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  max-width: 360px;
+}
+
+.landing-delete-warning {
+  font-size: 11px;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.landing-delete-error {
+  font-size: 11px;
+  color: #DC3545;
+  margin: 0;
+}
+
+.landing-delete-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.landing-delete-cancel {
+  background: none;
+  border: 1px solid var(--color-border);
+  cursor: pointer;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  color: var(--color-text-muted);
+  transition: opacity 0.15s;
+}
+.landing-delete-cancel:hover { opacity: 0.7; }
+
+.landing-delete-confirm-btn {
+  background: #8B0000;
+  border: none;
+  cursor: pointer;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  color: #fff;
+  transition: opacity 0.15s;
+}
+.landing-delete-confirm-btn:hover { opacity: 0.85; }
+.landing-delete-confirm-btn:disabled,
+.landing-delete-cancel:disabled { opacity: 0.4; cursor: default; }
