@@ -33,10 +33,93 @@ def get_db():
 
 def _migrate_schema(conn):
     """Add columns/tables introduced after the initial schema — safe to re-run."""
+    # ── accounts table (auth layer, separate from profiles/users) ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS accounts (
+            id              INTEGER PRIMARY KEY AUTOINCREMENT,
+            email           TEXT    NOT NULL UNIQUE,
+            password_hash   TEXT,
+            email_verified  INTEGER NOT NULL DEFAULT 0,
+            invite_code     TEXT,
+            auth0_sub       TEXT    UNIQUE,
+            created_at      TEXT    NOT NULL
+        )
+    """)
+
+    # ── invite codes ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS invite_codes (
+            code        TEXT    PRIMARY KEY,
+            max_uses    INTEGER NOT NULL DEFAULT 1,
+            used_count  INTEGER NOT NULL DEFAULT 0,
+            created_at  TEXT    NOT NULL,
+            expires_at  TEXT
+        )
+    """)
+
+    # ── password reset tokens ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS password_reset_tokens (
+            token       TEXT    PRIMARY KEY,
+            account_id  INTEGER NOT NULL REFERENCES accounts(id) ON DELETE CASCADE,
+            expires_at  TEXT    NOT NULL,
+            used        INTEGER NOT NULL DEFAULT 0
+        )
+    """)
+
+    # ── email verification tokens ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS email_verification_tokens (
+            token       TEXT    PRIMARY KEY,
+            account_id  INTEGER NOT NULL REFERENCES accounts(id) ON DELETE CASCADE,
+            expires_at  TEXT    NOT NULL
+        )
+    """)
+
+    # ── account_id on users (profiles) ──
+    existing_users = {row[1] for row in conn.execute("PRAGMA table_info(users)").fetchall()}
+    if 'account_id' not in existing_users:
+        conn.execute("ALTER TABLE users ADD COLUMN account_id INTEGER REFERENCES accounts(id) ON DELETE CASCADE")
+    if 'avatar_seed' not in existing_users:
+        conn.execute("ALTER TABLE users ADD COLUMN avatar_seed TEXT")
+    if 'last_active' not in existing_users:
+        conn.execute("ALTER TABLE users ADD COLUMN last_active TEXT")
+
     # is_conduct on cards
     existing_cards = {row[1] for row in conn.execute("PRAGMA table_info(cards)").fetchall()}
     if 'is_conduct' not in existing_cards:
         conn.execute("ALTER TABLE cards ADD COLUMN is_conduct INTEGER NOT NULL DEFAULT 0")
+
+    # ── MCQ tables ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS mcq_questions (
+            id          INTEGER PRIMARY KEY AUTOINCREMENT,
+            question_id TEXT    NOT NULL UNIQUE,
+            subtopic_id INTEGER REFERENCES subtopics(id),
+            flk         TEXT    NOT NULL,
+            difficulty  TEXT,
+            stem        TEXT    NOT NULL,
+            option_a    TEXT    NOT NULL,
+            option_b    TEXT    NOT NULL,
+            option_c    TEXT    NOT NULL,
+            option_d    TEXT    NOT NULL,
+            correct     TEXT    NOT NULL,
+            explanation TEXT    NOT NULL,
+            card_refs   TEXT,
+            flag        INTEGER NOT NULL DEFAULT 0,
+            generated_by TEXT   NOT NULL DEFAULT 'human'
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS mcq_attempts (
+            id          INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id     INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+            question_id TEXT    NOT NULL REFERENCES mcq_questions(question_id),
+            selected    TEXT    NOT NULL,
+            correct     INTEGER NOT NULL,
+            attempted_at TEXT   NOT NULL
+        )
+    """)
 
     # user_id on progress/reviews — drop and recreate if missing (data not preserved by design)
     existing_prog = {row[1] for row in conn.execute("PRAGMA table_info(progress)").fetchall()}
@@ -140,14 +223,194 @@ def init_db():
         _migrate_schema(conn)
 
 
-# ── User management ──────────────────────────────────────────────────────────
+# ── Account management (auth layer) ─────────────────────────────────────────
 
-def list_users() -> list[dict]:
+def get_account(account_id: int) -> dict | None:
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT id, email, password_hash, email_verified, auth0_sub, created_at FROM accounts WHERE id = ?",
+            (account_id,)
+        ).fetchone()
+        return dict(row) if row else None
+
+
+def get_account_by_email(email: str) -> dict | None:
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT id, email, password_hash, email_verified, auth0_sub, created_at FROM accounts WHERE email = ?",
+            (email.strip().lower(),)
+        ).fetchone()
+        return dict(row) if row else None
+
+
+def create_account(email: str, password_hash: str, invite_code: str | None = None) -> dict:
+    from datetime import datetime
+    created_at = datetime.utcnow().isoformat()
+    with get_db() as conn:
+        cur = conn.execute(
+            "INSERT INTO accounts (email, password_hash, invite_code, created_at) VALUES (?, ?, ?, ?)",
+            (email.strip().lower(), password_hash, invite_code, created_at)
+        )
+        return {"id": cur.lastrowid, "email": email.strip().lower(),
+                "email_verified": 0, "created_at": created_at}
+
+
+def set_email_verified(account_id: int):
+    with get_db() as conn:
+        conn.execute("UPDATE accounts SET email_verified = 1 WHERE id = ?", (account_id,))
+
+
+def update_account_password(account_id: int, password_hash: str):
+    with get_db() as conn:
+        conn.execute("UPDATE accounts SET password_hash = ? WHERE id = ?", (password_hash, account_id))
+
+
+# ── Invite codes ──────────────────────────────────────────────────────────────
+
+def get_invite_code(code: str) -> dict | None:
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT code, max_uses, used_count, expires_at FROM invite_codes WHERE code = ?",
+            (code,)
+        ).fetchone()
+        return dict(row) if row else None
+
+
+def use_invite_code(code: str):
+    with get_db() as conn:
+        conn.execute("UPDATE invite_codes SET used_count = used_count + 1 WHERE code = ?", (code,))
+
+
+def create_invite_codes(codes: list[str], max_uses: int = 1, expires_at: str | None = None):
+    from datetime import datetime
+    created_at = datetime.utcnow().isoformat()
+    with get_db() as conn:
+        conn.executemany(
+            "INSERT OR IGNORE INTO invite_codes (code, max_uses, used_count, created_at, expires_at) VALUES (?, ?, 0, ?, ?)",
+            [(c, max_uses, created_at, expires_at) for c in codes]
+        )
+
+
+def list_invite_codes() -> list[dict]:
     with get_db() as conn:
         rows = conn.execute(
-            "SELECT id, name, theme, created_at FROM users ORDER BY created_at"
+            "SELECT code, max_uses, used_count, created_at, expires_at FROM invite_codes ORDER BY created_at DESC"
         ).fetchall()
         return [dict(r) for r in rows]
+
+
+# ── Auth tokens ───────────────────────────────────────────────────────────────
+
+def create_verification_token(account_id: int, token: str, expires_at: str):
+    with get_db() as conn:
+        conn.execute("DELETE FROM email_verification_tokens WHERE account_id = ?", (account_id,))
+        conn.execute(
+            "INSERT INTO email_verification_tokens (token, account_id, expires_at) VALUES (?, ?, ?)",
+            (token, account_id, expires_at)
+        )
+
+
+def consume_verification_token(token: str) -> int | None:
+    """Return account_id if token is valid and unexpired, else None. Deletes on success."""
+    from datetime import datetime
+    now = datetime.utcnow().isoformat()
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT account_id, expires_at FROM email_verification_tokens WHERE token = ?",
+            (token,)
+        ).fetchone()
+        if not row or row["expires_at"] < now:
+            return None
+        conn.execute("DELETE FROM email_verification_tokens WHERE token = ?", (token,))
+        return row["account_id"]
+
+
+def create_reset_token(account_id: int, token: str, expires_at: str):
+    with get_db() as conn:
+        conn.execute("DELETE FROM password_reset_tokens WHERE account_id = ?", (account_id,))
+        conn.execute(
+            "INSERT INTO password_reset_tokens (token, account_id, expires_at) VALUES (?, ?, ?)",
+            (token, account_id, expires_at)
+        )
+
+
+def consume_reset_token(token: str) -> int | None:
+    """Return account_id if token is valid, unexpired, and unused. Marks used."""
+    from datetime import datetime
+    now = datetime.utcnow().isoformat()
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT account_id, expires_at, used FROM password_reset_tokens WHERE token = ?",
+            (token,)
+        ).fetchone()
+        if not row or row["used"] or row["expires_at"] < now:
+            return None
+        conn.execute("UPDATE password_reset_tokens SET used = 1 WHERE token = ?", (token,))
+        return row["account_id"]
+
+
+# ── User management ──────────────────────────────────────────────────────────
+
+def list_users(account_id: int | None = None) -> list[dict]:
+    with get_db() as conn:
+        if account_id is not None:
+            rows = conn.execute(
+                "SELECT id, name, theme, avatar_seed, last_active, created_at FROM users WHERE account_id = ? ORDER BY created_at",
+                (account_id,)
+            ).fetchall()
+        else:
+            rows = conn.execute(
+                "SELECT id, name, theme, avatar_seed, last_active, created_at FROM users ORDER BY created_at"
+            ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def list_users_with_progress(account_id: int | None = None) -> list[dict]:
+    """Return all users with FLK1/FLK2 progress percentages for the landing page."""
+    with get_db() as conn:
+        if account_id is not None:
+            users = conn.execute(
+                "SELECT id, name, avatar_seed, last_active, created_at FROM users WHERE account_id = ? ORDER BY created_at",
+                (account_id,)
+            ).fetchall()
+        else:
+            users = conn.execute(
+                "SELECT id, name, avatar_seed, last_active, created_at FROM users ORDER BY created_at"
+            ).fetchall()
+
+        # Total cards per FLK (shared across all users — computed once)
+        totals = {}
+        for flk in ('FLK1', 'FLK2'):
+            row = conn.execute(
+                "SELECT COUNT(*) as n FROM cards WHERE flk = ? AND is_deeper = 0", (flk,)
+            ).fetchone()
+            totals[flk] = row["n"] or 1  # avoid division by zero
+
+        result = []
+        for u in users:
+            flk1_reviewed = conn.execute(
+                """SELECT COUNT(*) as n FROM progress p
+                   JOIN cards c ON c.id = p.card_id
+                   WHERE p.user_id = ? AND c.flk = 'FLK1' AND c.is_deeper = 0
+                     AND p.repetitions > 0""",
+                (u["id"],)
+            ).fetchone()["n"]
+
+            flk2_reviewed = conn.execute(
+                """SELECT COUNT(*) as n FROM progress p
+                   JOIN cards c ON c.id = p.card_id
+                   WHERE p.user_id = ? AND c.flk = 'FLK2' AND c.is_deeper = 0
+                     AND p.repetitions > 0""",
+                (u["id"],)
+            ).fetchone()["n"]
+
+            result.append({
+                **dict(u),
+                "flk1_pct": round(100 * flk1_reviewed / totals['FLK1']),
+                "flk2_pct": round(100 * flk2_reviewed / totals['FLK2']),
+            })
+
+        return result
 
 
 def get_user(user_id: int) -> dict | None:
@@ -158,15 +421,52 @@ def get_user(user_id: int) -> dict | None:
         return dict(row) if row else None
 
 
-def create_user(name: str) -> dict:
+def create_user(name: str, avatar_seed: str | None = None, account_id: int | None = None) -> dict:
     from datetime import datetime
     created_at = datetime.utcnow().isoformat()
+    today = date.today().isoformat()
     with get_db() as conn:
         cur = conn.execute(
-            "INSERT INTO users (name, theme, created_at) VALUES (?, 'default', ?)",
-            (name.strip(), created_at)
+            "INSERT INTO users (name, theme, avatar_seed, last_active, created_at, account_id) VALUES (?, 'default', ?, ?, ?, ?)",
+            (name.strip(), avatar_seed, today, created_at, account_id)
         )
-        return {"id": cur.lastrowid, "name": name.strip(), "theme": "default", "created_at": created_at}
+        return {"id": cur.lastrowid, "name": name.strip(), "theme": "default",
+                "avatar_seed": avatar_seed, "last_active": today, "created_at": created_at,
+                "account_id": account_id}
+
+
+def profile_belongs_to_account(user_id: int, account_id: int) -> bool:
+    """Security check — confirm a profile belongs to the authenticated account."""
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT id FROM users WHERE id = ? AND account_id = ?", (user_id, account_id)
+        ).fetchone()
+        return row is not None
+
+
+def update_user(user_id: int, name: str | None = None, avatar_seed: str | None = None,
+                last_active: str | None = None) -> dict | None:
+    with get_db() as conn:
+        fields, values = [], []
+        if name is not None:
+            fields.append("name = ?"); values.append(name.strip())
+        if avatar_seed is not None:
+            fields.append("avatar_seed = ?"); values.append(avatar_seed)
+        if last_active is not None:
+            fields.append("last_active = ?"); values.append(last_active)
+        if not fields:
+            row = conn.execute(
+                "SELECT id, name, avatar_seed, last_active, created_at FROM users WHERE id = ?",
+                (user_id,)
+            ).fetchone()
+            return dict(row) if row else None
+        values.append(user_id)
+        conn.execute(f"UPDATE users SET {', '.join(fields)} WHERE id = ?", values)
+        row = conn.execute(
+            "SELECT id, name, avatar_seed, last_active, created_at FROM users WHERE id = ?",
+            (user_id,)
+        ).fetchone()
+        return dict(row) if row else None
 
 
 def delete_user(user_id: int) -> bool:
@@ -938,3 +1238,179 @@ def get_analytics(user_id: int) -> dict:
         "forecast":    forecast,
         "weak_topics": weak_topics,
     }
+
+
+# ── MCQ queries ───────────────────────────────────────────────────────────────
+
+def get_mcq_subjects_with_stats(user_id: int) -> list[dict]:
+    """All subjects that have MCQs, with attempt counts and accuracy for the user."""
+    with get_db() as conn:
+        rows = conn.execute(
+            """SELECT s.id, s.name, s.abbr, s.flk,
+                      COUNT(DISTINCT q.id)            AS total,
+                      COUNT(DISTINCT a.id)            AS attempted,
+                      SUM(CASE WHEN a.correct = 1 THEN 1 ELSE 0 END) AS correct_count
+                 FROM mcq_questions q
+                 JOIN subtopics st  ON st.id = q.subtopic_id
+                 JOIN topics t      ON t.id  = st.topic_id
+                 JOIN subjects s    ON s.id  = t.subject_id
+                 LEFT JOIN mcq_attempts a
+                        ON a.question_id = q.question_id AND a.user_id = ?
+                GROUP BY s.id
+                ORDER BY s.flk, s.name""",
+            (user_id,),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def get_mcqs_for_subject(subject_id: int, user_id: int, limit: int = 0) -> list[dict]:
+    """MCQs for a subject with last-attempt info for the user."""
+    with get_db() as conn:
+        rows = conn.execute(
+            """SELECT q.*,
+                      la.selected     AS last_selected,
+                      la.correct      AS last_correct,
+                      la.attempted_at AS last_attempted_at
+                 FROM mcq_questions q
+                 JOIN subtopics st ON st.id = q.subtopic_id
+                 JOIN topics t     ON t.id  = st.topic_id
+                 LEFT JOIN (
+                     SELECT question_id,
+                            selected,
+                            correct,
+                            attempted_at,
+                            ROW_NUMBER() OVER (PARTITION BY question_id ORDER BY id DESC) AS rn
+                       FROM mcq_attempts WHERE user_id = ?
+                 ) la ON la.question_id = q.question_id AND la.rn = 1
+                WHERE t.subject_id = ?
+                ORDER BY q.question_id""" + (" LIMIT ?" if limit else ""),
+            (user_id, subject_id, limit) if limit else (user_id, subject_id),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def get_random_mcqs(subject_id: int | None, flk: str | None, limit: int, user_id: int) -> list[dict]:
+    """Random MCQs, optionally scoped to a subject or FLK."""
+    with get_db() as conn:
+        params: list = [user_id]
+        where = ""
+        if subject_id:
+            where += " AND t.subject_id = ?"
+            params.append(subject_id)
+        elif flk:
+            where += " AND q.flk = ?"
+            params.append(flk)
+        params.append(limit)
+        rows = conn.execute(
+            f"""SELECT q.*,
+                       la.selected     AS last_selected,
+                       la.correct      AS last_correct,
+                       la.attempted_at AS last_attempted_at
+                  FROM mcq_questions q
+                  JOIN subtopics st ON st.id = q.subtopic_id
+                  JOIN topics t     ON t.id  = st.topic_id
+                  LEFT JOIN (
+                      SELECT question_id, selected, correct, attempted_at,
+                             ROW_NUMBER() OVER (PARTITION BY question_id ORDER BY id DESC) AS rn
+                        FROM mcq_attempts WHERE user_id = ?
+                  ) la ON la.question_id = q.question_id AND la.rn = 1
+                 WHERE 1=1 {where}
+                 ORDER BY RANDOM()
+                 LIMIT ?""",
+            params,
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def record_mcq_attempt(user_id: int, question_id: str, selected: str, correct: bool) -> dict:
+    """Save an MCQ attempt and return updated stats for that question."""
+    from datetime import datetime
+    attempted_at = datetime.utcnow().isoformat()
+    with get_db() as conn:
+        conn.execute(
+            "INSERT INTO mcq_attempts (user_id, question_id, selected, correct, attempted_at) VALUES (?,?,?,?,?)",
+            (user_id, question_id, selected, 1 if correct else 0, attempted_at),
+        )
+        stats = conn.execute(
+            """SELECT COUNT(*) AS attempts,
+                      SUM(correct) AS correct_count
+                 FROM mcq_attempts WHERE user_id = ? AND question_id = ?""",
+            (user_id, question_id),
+        ).fetchone()
+    return {
+        "question_id":   question_id,
+        "selected":      selected,
+        "correct":       correct,
+        "attempts":      stats["attempts"],
+        "correct_count": stats["correct_count"],
+    }
+
+
+def get_mcq_progress(user_id: int) -> list[dict]:
+    """Per-subject MCQ accuracy summary for the user."""
+    with get_db() as conn:
+        rows = conn.execute(
+            """SELECT s.id, s.name, s.abbr, s.flk,
+                      COUNT(DISTINCT q.id)              AS total_questions,
+                      COUNT(DISTINCT a.question_id)     AS attempted,
+                      COALESCE(SUM(a.correct), 0)       AS correct_count,
+                      COALESCE(COUNT(a.id), 0)          AS total_attempts
+                 FROM subjects s
+                 JOIN topics t      ON t.subject_id  = s.id
+                 JOIN subtopics st  ON st.topic_id   = t.id
+                 JOIN mcq_questions q ON q.subtopic_id = st.id
+                 LEFT JOIN mcq_attempts a
+                        ON a.question_id = q.question_id AND a.user_id = ?
+                GROUP BY s.id
+                ORDER BY s.flk, s.name""",
+            (user_id,),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def seed_mcqs(questions: list[dict]) -> tuple[int, int]:
+    """
+    Upsert MCQ questions from mcq_master.json.
+    Returns (inserted, skipped) counts.
+    question_id is the unique key — re-running is safe.
+    """
+    inserted = skipped = 0
+    with get_db() as conn:
+        for q in questions:
+            subtopic_id = conn.execute(
+                """SELECT st.id FROM subtopics st
+                     JOIN topics t ON t.id = st.topic_id
+                     JOIN subjects s ON s.id = t.subject_id
+                    WHERE s.name = ? AND t.name = ? AND st.name = ?""",
+                (q.get("subject"), q.get("topic"), q.get("subtopic")),
+            ).fetchone()
+            sid = subtopic_id["id"] if subtopic_id else None
+
+            opts = q.get("options", {})
+            existing = conn.execute(
+                "SELECT question_id FROM mcq_questions WHERE question_id = ?",
+                (q["question_id"],),
+            ).fetchone()
+            if existing:
+                skipped += 1
+                continue
+
+            import json as _json
+            conn.execute(
+                """INSERT INTO mcq_questions
+                   (question_id, subtopic_id, flk, difficulty, stem,
+                    option_a, option_b, option_c, option_d,
+                    correct, explanation, card_refs, flag, generated_by)
+                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                (
+                    q["question_id"], sid, q.get("flk", ""), q.get("difficulty"),
+                    q["stem"],
+                    opts.get("A", ""), opts.get("B", ""), opts.get("C", ""), opts.get("D", ""),
+                    q["correct"], q["explanation"],
+                    _json.dumps(q.get("card_refs", [])),
+                    1 if q.get("flag") else 0,
+                    q.get("generated_by", "human"),
+                ),
+            )
+            inserted += 1
+    return inserted, skipped

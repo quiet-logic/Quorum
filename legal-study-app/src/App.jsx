@@ -1,4 +1,8 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import Landing from './components/Landing';
+import Masthead from './components/Masthead';
+import DisplayModeSelector from './components/DisplayModeSelector';
+import CrossPillarHome from './components/CrossPillarHome';
 import Home from './components/Home';
 import StudySession from './components/StudySession';
 import Results from './components/Results';
@@ -8,8 +12,14 @@ import Progress from './components/Progress';
 import ExamSimulator from './components/ExamSimulator';
 import ExamResults from './components/ExamResults';
 import SyllabusMap from './components/SyllabusMap';
-import ProfilePicker from './components/ProfilePicker';
+import MCQPillar from './components/MCQPillar';
+import Login from './components/Login';
+import Register from './components/Register';
+import ForgotPassword from './components/ForgotPassword';
+import ResetPassword from './components/ResetPassword';
+import './components/AuthScreens.css';
 import { useUser } from './UserContext';
+import { useAuth } from './AuthContext';
 
 // Map home IDs → subject accent colours
 const SUBJECT_ACCENT = {
@@ -29,17 +39,131 @@ const SUBJECT_ACCENT = {
   '14': '#C46B8E', // CRIM
 };
 
-function App() {
-  const { activeUser, apiFetch } = useUser();
-  const [view, setView]                   = useState('home');
-  const [activeDeck, setActiveDeck]       = useState([]);
-  const [activeAccent, setActiveAccent]   = useState('#C8A96E');
-  const [activeSubject, setActiveSubject] = useState(null);
-  const [sessionResults, setSessionResults] = useState([]);
-  const [examAnswers, setExamAnswers]     = useState([]);
-  const [examConfig, setExamConfig]       = useState(null);
+// ── URL-based route detection (no React Router needed) ────────────────────────
 
-  // ── Shared deck launcher ─────────────────────────────────────────────────
+function detectUrlRoute() {
+  const path   = window.location.pathname;
+  const params = new URLSearchParams(window.location.search);
+  if (path === '/reset-password') return { view: 'reset',  token: params.get('token') };
+  if (path === '/verify-email')   return { view: 'verify', token: params.get('token') };
+  return null;
+}
+
+// ── Email verification splash (auto-submits on mount) ─────────────────────────
+
+function VerifyEmailScreen({ token, onGoLogin }) {
+  const [status, setStatus] = useState('loading'); // 'loading' | 'ok' | 'error'
+  const [msg, setMsg]       = useState('');
+
+  useEffect(() => {
+    if (!token) { setStatus('error'); setMsg('Missing token.'); return; }
+    fetch('/api/auth/verify-email', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ token }),
+    })
+      .then(r => r.json().then(d => ({ ok: r.ok, d })))
+      .then(({ ok, d }) => {
+        if (ok) { setStatus('ok');    setMsg(d.message || 'Email verified — you can now sign in.'); }
+        else    { setStatus('error'); setMsg(d.error   || 'Verification failed. The link may have expired.'); }
+      })
+      .catch(() => { setStatus('error'); setMsg('Something went wrong.'); });
+  }, [token]);
+
+  return (
+    <div className="auth-wrapper">
+      <div className="auth-brand">
+        <h1 className="auth-wordmark">Quorum</h1>
+        <p className="auth-tagline">For the SQE</p>
+      </div>
+      <div className="auth-card">
+        {status === 'loading' && <p className="auth-subtitle">Verifying…</p>}
+        {status === 'ok'      && <>
+          <h2 className="auth-title">Email verified</h2>
+          <p className="auth-subtitle">{msg}</p>
+          <div className="auth-divider" />
+          <button type="button" className="auth-submit" onClick={onGoLogin}>Sign in</button>
+        </>}
+        {status === 'error'   && <>
+          <h2 className="auth-title">Verification failed</h2>
+          <p className="auth-error">{msg}</p>
+          <div className="auth-divider" />
+          <button type="button" className="auth-link" onClick={onGoLogin}>Back to sign in</button>
+        </>}
+      </div>
+    </div>
+  );
+}
+
+function App() {
+  const { account } = useAuth();
+  const { activeUser, apiFetch } = useUser();
+
+  // Auth screen sub-navigation
+  const [authView, setAuthView] = useState(() => {
+    const route  = detectUrlRoute();
+    const params = new URLSearchParams(window.location.search);
+    if (route?.view === 'reset')  return 'reset';
+    if (route?.view === 'verify') return 'verify';
+    if (params.get('register'))   return 'register';
+    return 'login';
+  });
+
+  // Top-level navigation: null = cross-pillar home, or 'flashcards' | 'mcqs' | 'podcast'
+  const [activePillar, setActivePillar] = useState(null);
+
+  // Flashcards sub-navigation — all hooks must be declared before any early returns
+  const [flashView, setFlashView]           = useState('home');
+  const [activeDeck, setActiveDeck]         = useState([]);
+  const [activeAccent, setActiveAccent]     = useState('#C8A96E');
+  const [activeSubject, setActiveSubject]   = useState(null);
+  const [sessionResults, setSessionResults] = useState([]);
+  const [examAnswers, setExamAnswers]       = useState([]);
+  const [examConfig, setExamConfig]         = useState(null);
+  const [mcqView, setMcqView]               = useState('home'); // 'home' | 'session' | 'results'
+
+  // Derived from URL — computed once, stable across renders
+  const urlRoute   = detectUrlRoute();
+  const resetToken = urlRoute?.view === 'reset'  ? urlRoute.token : null;
+  const verifyToken= urlRoute?.view === 'verify' ? urlRoute.token : null;
+
+  // ── Auth loading ──────────────────────────────────────────────────────────────
+  if (account === null) {
+    return (
+      <div style={{ minHeight: '100vh', background: 'var(--color-bg)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        <p style={{ fontFamily: 'DM Mono, monospace', fontSize: '12px', color: 'var(--color-text-muted)', letterSpacing: '0.08em' }}>
+          LOADING…
+        </p>
+      </div>
+    );
+  }
+
+  // ── Unauthenticated ───────────────────────────────────────────────────────────
+  if (!account) {
+    const goLogin = () => { window.history.replaceState(null, '', '/'); setAuthView('login'); };
+    if (authView === 'verify')   return <VerifyEmailScreen token={verifyToken} onGoLogin={goLogin} />;
+    if (authView === 'reset')    return <ResetPassword token={resetToken} onGoLogin={goLogin} />;
+    if (authView === 'register') return <Register onGoLogin={() => setAuthView('login')} />;
+    if (authView === 'forgot')   return <ForgotPassword onGoLogin={() => setAuthView('login')} />;
+    return (
+      <Login
+        onGoRegister={() => setAuthView('register')}
+        onGoForgotPassword={() => setAuthView('forgot')}
+      />
+    );
+  }
+
+  // ── Pillar navigation ──────────────────────────────────────────────────────
+
+  const goToPillar = (pillar) => {
+    setActivePillar(pillar);
+    // Reset flashcard sub-view when re-entering
+    if (pillar === 'flashcards') setFlashView('home');
+  };
+
+  const goHome = () => setActivePillar(null);
+
+  // ── Shared deck launcher ───────────────────────────────────────────────────
 
   const launchDeck = (cards, sub, accent = '#C8A96E') => {
     const deck = cards.map(c => ({
@@ -51,10 +175,10 @@ function App() {
     setActiveAccent(sub ? (SUBJECT_ACCENT[sub.id] ?? '#C8A96E') : accent);
     setActiveSubject(sub ?? null);
     setSessionResults([]);
-    setView('study');
+    setActivePillar('flashcards');
+    setFlashView('study');
   };
 
-  // Launch an arbitrary card array (e.g. missed exam cards)
   const launchCustomDeck = (cards, accent = '#C8A96E') => {
     const deck = cards.map(c => ({
       ...c,
@@ -65,10 +189,11 @@ function App() {
     setActiveAccent(accent);
     setActiveSubject(null);
     setSessionResults([]);
-    setView('study');
+    setActivePillar('flashcards');
+    setFlashView('study');
   };
 
-  // ── Session starters ─────────────────────────────────────────────────────
+  // ── Session starters ───────────────────────────────────────────────────────
 
   const startStudySession = async (sub = null, topicId = null, flk = null) => {
     let url = '/api/study/session?limit=15';
@@ -77,8 +202,8 @@ function App() {
     if (flk)            url += `&flk=${flk}`;
 
     try {
-      const res  = await apiFetch(url);
-      const data = await res.json();
+      const res   = await apiFetch(url);
+      const data  = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No cards due — check back tomorrow.'); return; }
       const accent = flk === 'FLK2' ? '#9B8EC4' : '#C8A96E';
@@ -92,8 +217,8 @@ function App() {
     let url = '/api/study/session?limit=15&include_deeper=true';
     if (sub?.dbId) url += `&subject_id=${sub.dbId}`;
     try {
-      const res  = await apiFetch(url);
-      const data = await res.json();
+      const res   = await apiFetch(url);
+      const data  = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No deeper cards due right now.'); return; }
       launchDeck(cards, sub, sub ? (SUBJECT_ACCENT[sub.id] ?? '#C8A96E') : '#C8A96E');
@@ -104,8 +229,8 @@ function App() {
 
   const startSubtopicStudy = async (sub, subtopicId) => {
     try {
-      const res  = await apiFetch(`/api/study/subtopic/${subtopicId}`);
-      const data = await res.json();
+      const res   = await apiFetch(`/api/study/subtopic/${subtopicId}`);
+      const data  = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No cards due for this subtopic.'); return; }
       launchDeck(cards, sub);
@@ -116,8 +241,8 @@ function App() {
 
   const startConductSession = async () => {
     try {
-      const res  = await apiFetch('/api/study/conduct?limit=20');
-      const data = await res.json();
+      const res   = await apiFetch('/api/study/conduct?limit=20');
+      const data  = await res.json();
       const cards = data.cards ?? [];
       if (!cards.length) { alert('No conduct cards due — check back tomorrow.'); return; }
       launchDeck(cards, null, '#7EB8A4');
@@ -126,30 +251,58 @@ function App() {
     }
   };
 
-  // ── Navigation ────────────────────────────────────────────────────────────
+  // ── Flashcard sub-nav helpers ──────────────────────────────────────────────
 
-  const viewTopicMap    = (subject) => { setActiveSubject(subject); setView('topicmap'); };
-  const viewCardBrowser = () => setView('cardbrowser');
-  const viewProgress    = () => setView('progress');
-  const viewSyllabusMap = () => setView('syllabusmap');
-  const viewExam        = () => setView('exam');
+  const viewTopicMap    = (subject) => { setActiveSubject(subject); setFlashView('topicmap'); };
+  const viewCardBrowser = () => setFlashView('cardbrowser');
+  const viewProgress    = () => setFlashView('progress');
+  const viewSyllabusMap = () => setFlashView('syllabusmap');
+  const viewExam        = () => setFlashView('exam');
+  const backToFlash     = () => setFlashView('home');
 
   const handleSessionComplete = (results) => {
     setSessionResults(results);
-    setView('results');
+    setFlashView('results');
   };
 
   const handleExamComplete = (answers, cfg) => {
     setExamAnswers(answers);
     setExamConfig(cfg);
-    setView('examresults');
+    setFlashView('examresults');
   };
 
-  if (!activeUser) return <ProfilePicker />;
+  // ── Not logged in ──────────────────────────────────────────────────────────
+
+  if (!activeUser) return <Landing />;
+
+  // Full-screen views have their own session-nav; hide the shared masthead
+  const hideMasthead = (activePillar === 'flashcards' && (flashView === 'study' || flashView === 'exam'))
+                    || (activePillar === 'mcqs' && mcqView === 'session');
+
+  // ── Logged in ──────────────────────────────────────────────────────────────
 
   return (
     <div className="App">
-      {view === 'home' && (
+      {!hideMasthead && (
+        <Masthead
+          activePillar={activePillar}
+          onPillarChange={goToPillar}
+          onHome={goHome}
+        />
+      )}
+      <DisplayModeSelector />
+
+      {/* Cross-pillar home */}
+      {activePillar === null && (
+        <CrossPillarHome
+          onGoFlashcards={() => goToPillar('flashcards')}
+          onGoMCQs={() => goToPillar('mcqs')}
+          onGoPodcast={() => goToPillar('podcast')}
+        />
+      )}
+
+      {/* Flashcards pillar */}
+      {activePillar === 'flashcards' && flashView === 'home' && (
         <Home
           onStartStudy={startStudySession}
           onViewTopicMap={viewTopicMap}
@@ -160,60 +313,70 @@ function App() {
           onStartExam={viewExam}
         />
       )}
-      {view === 'cardbrowser' && (
-        <CardBrowser onHome={() => setView('home')} />
+      {activePillar === 'flashcards' && flashView === 'cardbrowser' && (
+        <CardBrowser onHome={backToFlash} />
       )}
-      {view === 'topicmap' && (
+      {activePillar === 'flashcards' && flashView === 'topicmap' && (
         <TopicMap
           subject={activeSubject}
-          onHome={() => setView('home')}
+          onHome={backToFlash}
           onStartStudy={() => startStudySession(activeSubject)}
           onStudySubtopic={(subtopicId) => startSubtopicStudy(activeSubject, subtopicId)}
         />
       )}
-      {view === 'study' && (
+      {activePillar === 'flashcards' && flashView === 'study' && (
         <StudySession
           deckOverride={activeDeck}
           subjectAccent={activeAccent}
-          onHome={() => setView('home')}
+          onHome={backToFlash}
           onComplete={handleSessionComplete}
         />
       )}
-      {view === 'results' && (
+      {activePillar === 'flashcards' && flashView === 'results' && (
         <Results
           results={sessionResults}
           subjectAccent={activeAccent}
-          onHome={() => setView('home')}
+          onHome={backToFlash}
           onStudyAgain={() => startStudySession(activeSubject)}
           onGoDeeper={() => startDeeperSession(activeSubject)}
         />
       )}
-      {view === 'progress' && (
-        <Progress onHome={() => setView('home')} />
+      {activePillar === 'flashcards' && flashView === 'progress' && (
+        <Progress onHome={backToFlash} />
       )}
-      {view === 'exam' && (
+      {activePillar === 'flashcards' && flashView === 'exam' && (
         <ExamSimulator
-          onHome={() => setView('home')}
+          onHome={backToFlash}
           onComplete={handleExamComplete}
         />
       )}
-      {view === 'examresults' && (
+      {activePillar === 'flashcards' && flashView === 'examresults' && (
         <ExamResults
           answers={examAnswers}
           config={examConfig}
           subjectAccent={activeAccent}
-          onHome={() => setView('home')}
+          onHome={backToFlash}
           onStudyMissed={(cards) => launchCustomDeck(cards, '#C47B7B')}
         />
       )}
-      {view === 'syllabusmap' && (
+      {activePillar === 'flashcards' && flashView === 'syllabusmap' && (
         <SyllabusMap
-          onHome={() => setView('home')}
+          onHome={backToFlash}
           onStudySubtopic={(subtopicId, subject) => startSubtopicStudy(
             { id: subject.id, dbId: subject.id, name: subject.name },
             subtopicId,
           )}
         />
+      )}
+
+      {/* MCQs pillar */}
+      {activePillar === 'mcqs' && <MCQPillar onViewChange={setMcqView} />}
+
+      {/* Podcast pillar — Phase 3 stub */}
+      {activePillar === 'podcast' && (
+        <div style={{ padding: '80px 36px', textAlign: 'center', color: 'var(--muted)', fontFamily: 'DM Mono, monospace', fontSize: '13px' }}>
+          Podcast — coming in Phase 3
+        </div>
       )}
     </div>
   );
