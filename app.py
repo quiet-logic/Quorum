@@ -8,6 +8,7 @@ All routes prefixed /api/. Root / serves the React build in production.
 from flask import Flask, jsonify, request, send_from_directory
 from datetime import date
 import os
+import random
 
 import database as db
 from srs import sm2, next_review_date
@@ -137,7 +138,60 @@ def study_session():
         subject_id=subject_id, topic_id=topic_id, flk=flk,
         limit=limit, include_deeper=include_deeper,
     )
+
+    # Scatter Professional Conduct cards into non-PC, non-deeper sessions
+    if cards and not include_deeper:
+        is_pc_session = any(c.get("subject_name") == "Professional Conduct" for c in cards[:1])
+        if not is_pc_session:
+            pc_count = max(1, len(cards) // 7)  # ~1 PC card per 7 cards
+            pc_cards = db.get_due_pc_cards(limit=pc_count)
+            for pc_card in pc_cards:
+                pos = random.randint(1, len(cards))  # never first card
+                cards.insert(pos, pc_card)
+
     return jsonify({"cards": cards, "total": len(cards)})
+
+
+# ── Conduct Mode ─────────────────────────────────────────────────────────────
+
+@app.route("/api/study/conduct", methods=["GET"])
+def study_conduct():
+    """
+    Cross-subject conduct session.
+    Returns due conduct-tagged cards drawn round-robin from all subjects.
+    """
+    limit = request.args.get("limit", default=20, type=int)
+    cards = db.get_conduct_session_cards(limit=limit)
+    if not cards:
+        return jsonify({"cards": [], "message": "No conduct cards due."})
+    return jsonify({"cards": cards, "total": len(cards)})
+
+
+# ── Exam Simulator ────────────────────────────────────────────────────────────
+
+@app.route("/api/study/exam", methods=["GET"])
+def study_exam():
+    """
+    Proportional cross-subject draw for exam simulation.
+
+    Query params:
+        limit — number of questions (default 90)
+        flk   — 'FLK1' or 'FLK2'; omit for both
+    """
+    limit = request.args.get("limit", default=90, type=int)
+    flk   = request.args.get("flk")
+    cards = db.get_exam_cards(limit=limit, flk=flk or None)
+    if not cards:
+        return jsonify({"cards": [], "message": "No cards available."})
+    return jsonify({"cards": cards, "total": len(cards)})
+
+
+# ── Syllabus Map ──────────────────────────────────────────────────────────────
+
+@app.route("/api/syllabus", methods=["GET"])
+def syllabus():
+    """Full topic/subtopic tree for all subjects with progress data."""
+    return jsonify(db.get_full_syllabus())
 
 
 # ── Card browser ─────────────────────────────────────────────────────────────

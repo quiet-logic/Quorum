@@ -37,6 +37,21 @@ const FlipCard = ({
     setShowRating(false);
   }, [question]);
 
+  // Keyboard shortcuts: Space/Enter = flip, 0–5 = rate
+  useEffect(() => {
+    const handler = (e) => {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      if (e.code === 'Space' || e.code === 'Enter') {
+        e.preventDefault();
+        setIsFlipped(prev => !prev);
+      } else if (showRating && e.key >= '0' && e.key <= '5') {
+        handleRate({ stopPropagation: () => {} }, parseInt(e.key, 10));
+      }
+    };
+    window.addEventListener('keydown', handler);
+    return () => window.removeEventListener('keydown', handler);
+  }, [showRating]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // Show rating buttons after flip, with slight delay
   useEffect(() => {
     let timer;
@@ -217,7 +232,7 @@ const FlipCard = ({
           </span>
         )}
         <span style={{ fontSize: '10px', color: 'var(--muted)' }}>
-          {isFlipped ? 'Click to flip back' : 'Click to flip'}
+          {isFlipped ? 'Space · click to flip back' : 'Space · click to flip'}
         </span>
       </div>
 
@@ -249,7 +264,7 @@ const FlipCard = ({
 
       {/* Rating Buttons — appear after flip */}
       <div className={`rating-container ${showRating ? 'visible' : ''}`}>
-        <p className="rating-title mono">How well did you know this?</p>
+        <p className="rating-title mono">How well did you know this? <span style={{ opacity: 0.45 }}>· press 0–5</span></p>
         <div className="rating-buttons">
           {ratings.map((r) => (
             <button

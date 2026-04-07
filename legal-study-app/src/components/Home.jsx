@@ -3,18 +3,20 @@ import './Home.css';
 
 // Static per-subject metadata — colour and home-id never come from the API
 const SUBJECT_META = {
-  'Business Law & Practice':          { homeId: '01', abbr: 'BLP',   flk: 1, color: '#C8A96E' },
-  'Dispute Resolution':               { homeId: '02', abbr: 'DR',    flk: 1, color: '#7BAED4' },
-  'Contract Law':                     { homeId: '03', abbr: 'CON',   flk: 1, color: '#C8A96E' },
-  'Tort Law':                         { homeId: '04', abbr: 'TORT',  flk: 1, color: '#7EB8A4' },
-  'Legal System of England & Wales':  { homeId: '05', abbr: 'LSEW',  flk: 1, color: '#7BAED4' },
-  'Legal Services':                   { homeId: '06', abbr: 'LS',    flk: 1, color: '#7BAED4' },
-  'Property Practice':                { homeId: '07', abbr: 'PROP',  flk: 2, color: '#9B8EC4' },
-  'Wills & Administration':           { homeId: '08', abbr: 'WTP',   flk: 2, color: '#C47B7B' },
-  "Solicitors' Accounts":             { homeId: '09', abbr: 'SA',    flk: 2, color: '#7BAED4' },
-  'Land Law':                         { homeId: '10', abbr: 'LAND',  flk: 2, color: '#9B8EC4' },
-  'Trusts':                           { homeId: '11', abbr: 'TRUST', flk: 2, color: '#9B8EC4' },
-  'Criminal Law & Practice':          { homeId: '12', abbr: 'CRIM',  flk: 2, color: '#C47B7B' },
+  'Business Law & Practice':              { homeId: '01', abbr: 'BLP',   flk: 1,    color: '#C8A96E' },
+  'Dispute Resolution':                   { homeId: '02', abbr: 'DR',    flk: 1,    color: '#7BAED4' },
+  'Contract Law':                         { homeId: '03', abbr: 'CON',   flk: 1,    color: '#7EC47B' },
+  'Tort Law':                             { homeId: '04', abbr: 'TORT',  flk: 1,    color: '#7EB8A4' },
+  'Legal System of England & Wales':      { homeId: '05', abbr: 'LSEW',  flk: 1,    color: '#C4C26B' },
+  'Legal Services':                       { homeId: '06', abbr: 'LS',    flk: 1,    color: '#C46BC4' },
+  'Constitutional & Administrative Law':  { homeId: '07', abbr: 'CAL',   flk: 1,    color: '#6BB4C4' },
+  'Professional Conduct':                 { homeId: '08', abbr: 'PC',    flk: 'pc', color: '#A4816B' },
+  'Property Practice':                    { homeId: '09', abbr: 'PROP',  flk: 2,    color: '#9B8EC4' },
+  'Wills & Administration':               { homeId: '10', abbr: 'WTP',   flk: 2,    color: '#C47B7B' },
+  "Solicitors' Accounts":                 { homeId: '11', abbr: 'SA',    flk: 2,    color: '#6BC49B' },
+  'Land Law':                             { homeId: '12', abbr: 'LAND',  flk: 2,    color: '#88B46B' },
+  'Trusts':                               { homeId: '13', abbr: 'TRUST', flk: 2,    color: '#7B8EC4' },
+  'Criminal Law & Practice':              { homeId: '14', abbr: 'CRIM',  flk: 2,    color: '#C46B8E' },
 };
 
 // Render immediately with zeros; API data fills in on load
@@ -27,12 +29,13 @@ const DEFAULT_STATS = { streak: 0, today: 0, accuracy: 0, all_time: 0 };
 
 // ── Component ────────────────────────────────────────────────────────────────
 
-const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress }) => {
+const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress, onViewSyllabusMap, onStartConduct, onStartExam }) => {
   const [subjects, setSubjects]             = useState(DEFAULT_SUBJECTS);
   const [stats, setStats]                   = useState(DEFAULT_STATS);
   const [expandedSubjectId, setExpandedSubjectId] = useState(null);
   const [flk1Open, setFlk1Open]             = useState(true);
   const [flk2Open, setFlk2Open]             = useState(true);
+  const [flkPcOpen, setFlkPcOpen]           = useState(true);
 
   useEffect(() => {
     Promise.all([
@@ -49,7 +52,7 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress 
               dbId:     s.id,          // DB integer id for API calls
               name:     s.name,
               abbr:     s.abbr || meta.abbr,
-              flk:      s.flk === 'FLK1' ? 1 : 2,
+              flk:      s.flk === 'FLK1' ? 1 : s.flk === 'FLK2' ? 2 : 'pc',
               color:    meta.color,
               progress: s.progress_pct,
               due:      s.due_cards,
@@ -71,6 +74,7 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress 
 
   const flk1 = subjects.filter(s => s.flk === 1);
   const flk2 = subjects.filter(s => s.flk === 2);
+  const flkPc = subjects.filter(s => s.flk === 'pc');
 
   const renderSubjectList = (list) => list.map(sub => (
     <div key={sub.id} className="subject-row-group">
@@ -100,6 +104,7 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress 
             <span className="nav-link active">Dashboard</span>
             <span className="nav-link" onClick={onViewCardBrowser}>Browse Cards</span>
             <span className="nav-link" onClick={onViewProgress}>Progress</span>
+            <span className="nav-link" onClick={onViewSyllabusMap}>Syllabus</span>
           </div>
         </div>
         <div className="flk-btns">
@@ -141,26 +146,62 @@ const Home = ({ onStartStudy, onViewTopicMap, onViewCardBrowser, onViewProgress 
               <span className="flk-section-chevron mono">{flk2Open ? '−' : '+'}</span>
             </div>
             {flk2Open && <div className="subject-list">{renderSubjectList(flk2)}</div>}
+
+            {flkPc.length > 0 && (
+              <>
+                <div className="flk-section-header" style={{ marginTop: '40px' }} onClick={() => setFlkPcOpen(o => !o)}>
+                  <h2 className="playfair">Professional Conduct</h2>
+                  <span className="flk-section-chevron mono">{flkPcOpen ? '−' : '+'}</span>
+                </div>
+                {flkPcOpen && <div className="subject-list">{renderSubjectList(flkPc)}</div>}
+              </>
+            )}
           </div>
 
           <aside className="sidebar">
             <div className="section-header"><h2 className="playfair">Quick Study</h2></div>
-            <div className="quick-study-grid">
+            <div className="quick-study-list">
               {subjects.filter(s => s.due > 0).map(sub => (
                 <button
                   key={sub.id}
-                  className="quick-btn"
-                  style={{ '--subject-accent': sub.color }}
+                  className="quick-row"
                   onClick={() => onStartStudy(sub, null)}
                 >
-                  <span className="mono" style={{ color: sub.color }}>{sub.abbr}</span>
+                  <span className="quick-row-abbr mono" style={{ color: sub.color }}>{sub.abbr}</span>
+                  <div className="quick-row-body">
+                    <div className="quick-row-top">
+                      <span className="quick-row-name outfit">{sub.name}</span>
+                      <span className="quick-row-due mono" style={{ color: sub.color }}>{sub.due} due</span>
+                    </div>
+                    <div className="quick-row-bar-track">
+                      <div className="quick-row-bar-fill" style={{ width: `${sub.progress}%`, background: sub.color }} />
+                    </div>
+                  </div>
                 </button>
               ))}
               {subjects.every(s => s.due === 0) && (
-                <p className="mono" style={{ fontSize: '11px', color: 'var(--muted)', gridColumn: '1/-1' }}>
+                <p className="mono" style={{ fontSize: '11px', color: 'var(--muted)' }}>
                   No cards due — check back tomorrow.
                 </p>
               )}
+            </div>
+
+            <div>
+              <div className="section-header"><h2 className="playfair">Modes</h2></div>
+              <div className="mode-list">
+                <button className="mode-btn" onClick={onStartConduct}>
+                  <span className="mode-btn-title outfit">Conduct Mode</span>
+                  <span className="mode-btn-desc outfit">Cross-subject conduct cards in rotation</span>
+                </button>
+                <button className="mode-btn" onClick={onStartExam}>
+                  <span className="mode-btn-title outfit">Exam Simulator</span>
+                  <span className="mode-btn-desc outfit">Timed paper with proportional subject draw</span>
+                </button>
+                <button className="mode-btn" onClick={onViewSyllabusMap}>
+                  <span className="mode-btn-title outfit">Syllabus Map</span>
+                  <span className="mode-btn-desc outfit">Full topic tree colour-coded by progress</span>
+                </button>
+              </div>
             </div>
           </aside>
         </div>
@@ -205,7 +246,7 @@ const SubjectPanel = ({ sub, onStudyAll, onStudyTopic }) => {
     <div className="subject-panel">
       <div className="subject-panel-inner" style={{ '--panel-accent': sub.color }}>
 
-        <button className="panel-study-all mono" onClick={onStudyAll}>
+        <button className="panel-study-all outfit" onClick={onStudyAll}>
           <span>Study All</span>
           <span className="panel-study-meta">15 cards · difficulty scaled</span>
         </button>

@@ -27,18 +27,20 @@ DATA_DIR = os.path.join(
 
 # Map subject names → abbreviations (must match Home.jsx SUBJECTS)
 SUBJECT_ABBR = {
-    "Business Law & Practice":          "BLP",
-    "Dispute Resolution":               "DR",
-    "Contract Law":                     "CON",
-    "Tort Law":                         "TORT",
-    "Legal System of England & Wales":  "LSEW",
-    "Legal Services":                   "LS",
-    "Property Practice":                "PROP",
-    "Wills & Administration":           "WTP",
-    "Solicitors' Accounts":             "SA",
-    "Land Law":                         "LAND",
-    "Trusts":                           "TRUST",
-    "Criminal Law & Practice":          "CRIM",
+    "Business Law & Practice":              "BLP",
+    "Dispute Resolution":                   "DR",
+    "Contract Law":                         "CON",
+    "Tort Law":                             "TORT",
+    "Legal System of England & Wales":      "LSEW",
+    "Legal Services":                       "LS",
+    "Constitutional & Administrative Law":  "CAL",
+    "Property Practice":                    "PROP",
+    "Wills & Administration":               "WTP",
+    "Solicitors' Accounts":                 "SA",
+    "Land Law":                             "LAND",
+    "Trusts":                               "TRUST",
+    "Criminal Law & Practice":              "CRIM",
+    "Professional Conduct":                 "PC",
 }
 
 
@@ -120,6 +122,7 @@ def seed():
                                     conclusion   = card.get("conclusion"),
                                     summary_line = card.get("summary_line"),
                                     is_deeper    = int(card.get("is_deeper", 0)),
+                                    is_conduct   = int(card.get("is_conduct", 0)),
                                 )
                                 if new_id:
                                     inserted += 1

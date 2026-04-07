@@ -31,6 +31,15 @@ def get_db():
 
 # ── Schema ───────────────────────────────────────────────────────────────────
 
+def _migrate_schema(conn):
+    """Add columns introduced after the initial schema — safe to re-run."""
+    existing = {row[1] for row in conn.execute("PRAGMA table_info(cards)").fetchall()}
+    if 'is_conduct' not in existing:
+        conn.execute(
+            "ALTER TABLE cards ADD COLUMN is_conduct INTEGER NOT NULL DEFAULT 0"
+        )
+
+
 def init_db():
     """Create all tables if they don't already exist."""
     with get_db() as conn:
@@ -70,7 +79,8 @@ def init_db():
                 application  TEXT,
                 conclusion   TEXT,
                 summary_line TEXT,
-                is_deeper    INTEGER NOT NULL DEFAULT 0
+                is_deeper    INTEGER NOT NULL DEFAULT 0,
+                is_conduct   INTEGER NOT NULL DEFAULT 0
             );
 
             CREATE TABLE IF NOT EXISTS progress (
@@ -90,6 +100,7 @@ def init_db():
                 reviewed_at TEXT    NOT NULL
             );
         """)
+        _migrate_schema(conn)
 
 
 # ── Seed helpers (used by seed_data.py) ─────────────────────────────────────
@@ -137,7 +148,7 @@ def get_or_create_subtopic(conn, name: str, topic_id: int) -> int:
 
 def insert_card(conn, card_code, subtopic_id, card_type, difficulty, flk,
                 front, answer, issue, rule, application, conclusion,
-                summary_line, is_deeper) -> int | None:
+                summary_line, is_deeper, is_conduct=0) -> int | None:
     """Insert a card, skipping if card_code already exists. Returns new id or None."""
     existing = conn.execute(
         "SELECT id FROM cards WHERE card_code = ?", (card_code,)
@@ -147,10 +158,10 @@ def insert_card(conn, card_code, subtopic_id, card_type, difficulty, flk,
     cur = conn.execute(
         """INSERT INTO cards
            (card_code, subtopic_id, card_type, difficulty, flk, front, answer,
-            issue, rule, application, conclusion, summary_line, is_deeper)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            issue, rule, application, conclusion, summary_line, is_deeper, is_conduct)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         (card_code, subtopic_id, card_type, difficulty, flk, front, answer,
-         issue, rule, application, conclusion, summary_line, is_deeper)
+         issue, rule, application, conclusion, summary_line, is_deeper, is_conduct)
     )
     return cur.lastrowid
 
@@ -521,6 +532,140 @@ def get_session_cards(subject_id=None, topic_id=None, flk=None, limit=15, includ
         ).fetchall()
 
         return [dict(r) for r in rows]
+
+
+def get_due_pc_cards(limit: int = 2) -> list[dict]:
+    """
+    Return a random selection of due Professional Conduct cards for scattering
+    into other subject sessions. Returns [] if PC subject not yet seeded.
+    """
+    today = date.today().isoformat()
+    with get_db() as conn:
+        pc = conn.execute(
+            "SELECT id FROM subjects WHERE abbr = 'PC'"
+        ).fetchone()
+        if not pc:
+            return []
+        rows = conn.execute(
+            """SELECT c.*,
+                      st.name AS subtopic_name,
+                      t.name  AS topic_name,
+                      s.name  AS subject_name,
+                      p.easiness, p.interval, p.repetitions, p.next_review
+               FROM cards c
+               JOIN subtopics st ON c.subtopic_id = st.id
+               JOIN topics    t  ON st.topic_id   = t.id
+               JOIN subjects  s  ON t.subject_id  = s.id
+               LEFT JOIN progress p ON p.card_id  = c.id
+               WHERE s.id = ? AND c.is_deeper = 0
+                 AND (p.id IS NULL OR p.next_review <= ?)
+               ORDER BY RANDOM()
+               LIMIT ?""",
+            (pc["id"], today, limit),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def get_conduct_session_cards(limit: int = 20) -> list[dict]:
+    """
+    Return due Professional Conduct cards for Conduct Mode.
+    Queries by subject abbr='PC' so no is_conduct flag is required on cards.
+    """
+    today = date.today().isoformat()
+    with get_db() as conn:
+        pc = conn.execute(
+            "SELECT id FROM subjects WHERE abbr = 'PC'"
+        ).fetchone()
+        if not pc:
+            return []
+        rows = conn.execute(
+            """SELECT c.*,
+                      st.name AS subtopic_name,
+                      t.name  AS topic_name,
+                      s.name  AS subject_name,
+                      p.easiness, p.interval, p.repetitions, p.next_review
+               FROM cards c
+               JOIN subtopics st ON c.subtopic_id = st.id
+               JOIN topics    t  ON st.topic_id   = t.id
+               JOIN subjects  s  ON t.subject_id  = s.id
+               LEFT JOIN progress p ON p.card_id  = c.id
+               WHERE s.id = ? AND c.is_deeper = 0
+                 AND (p.id IS NULL OR p.next_review <= ?)
+               ORDER BY COALESCE(p.next_review, '0000-00-00') ASC
+               LIMIT ?""",
+            (pc["id"], today, limit),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
+def get_exam_cards(limit: int = 90, flk: str | None = None) -> list[dict]:
+    """
+    Draw cards proportionally by subject size for exam simulation.
+    Samples from ALL cards (not just due) to replicate full-syllabus coverage.
+    Excludes is_deeper cards. Shuffles the final set.
+    """
+    import random as _random
+
+    with get_db() as conn:
+        flk_clause = "AND c.flk = ?" if flk else ""
+        params_base = [flk] if flk else []
+
+        subjects = conn.execute(
+            f"""SELECT s.id, COUNT(c.id) AS card_count
+                  FROM cards c
+                  JOIN subtopics st ON c.subtopic_id = st.id
+                  JOIN topics    t  ON st.topic_id   = t.id
+                  JOIN subjects  s  ON t.subject_id  = s.id
+                 WHERE c.is_deeper = 0 {flk_clause}
+                 GROUP BY s.id""",
+            params_base,
+        ).fetchall()
+
+        total_pool = sum(s["card_count"] for s in subjects)
+        if not total_pool:
+            return []
+
+        result = []
+        remaining = limit
+
+        for i, s in enumerate(subjects):
+            n = remaining if i == len(subjects) - 1 else round(s["card_count"] / total_pool * limit)
+            remaining -= n
+            if n <= 0:
+                continue
+            rows = conn.execute(
+                """SELECT c.*,
+                          st.name AS subtopic_name,
+                          t.name  AS topic_name,
+                          s.name  AS subject_name,
+                          p.easiness, p.interval, p.repetitions, p.next_review
+                     FROM cards c
+                     JOIN subtopics st ON c.subtopic_id = st.id
+                     JOIN topics    t  ON st.topic_id   = t.id
+                     JOIN subjects  s  ON t.subject_id  = s.id
+                     LEFT JOIN progress p ON p.card_id  = c.id
+                    WHERE s.id = ? AND c.is_deeper = 0
+                    ORDER BY RANDOM()
+                    LIMIT ?""",
+                (s["id"], n),
+            ).fetchall()
+            result.extend([dict(r) for r in rows])
+
+        _random.shuffle(result)
+        return result
+
+
+def get_full_syllabus() -> list[dict]:
+    """
+    Full topic/subtopic tree for every subject with progress data.
+    Used by the Syllabus Map page.
+    """
+    subjects = get_subjects_with_progress()
+    result = []
+    for s in subjects:
+        topics = get_subject_map(s["id"])
+        result.append({**s, "topics": topics})
+    return result
 
 
 def search_cards(query: str | None, subject_id: int | None, card_type: int | None) -> list[dict]:

@@ -43,10 +43,10 @@
 }
 
 .prog-section-title {
-  font-size: 10px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--muted);
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--text-light);
   margin: 0;
 }
 

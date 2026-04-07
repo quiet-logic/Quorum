@@ -458,42 +458,126 @@
   text-transform: uppercase;
 }
 
-/* ── Quick Study Buttons ── */
-.quick-study-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
+/* ── Quick Study List ── */
+.quick-study-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
 }
 
-.quick-btn {
-  background: var(--surface-light);
-  border: 1px solid var(--border-light);
-  border-left: 3px solid var(--subject-accent);
-  padding: 24px 16px;
+.quick-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 0;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--border-light);
+  width: 100%;
+  cursor: pointer;
+  text-align: left;
+  transition: padding 0.15s ease;
+}
+
+.quick-row:first-child {
+  border-top: 1px solid var(--border-light);
+}
+
+.quick-row:hover {
+  padding-left: 6px;
+}
+
+.quick-row-abbr {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  width: 36px;
+  flex-shrink: 0;
+  text-align: right;
+}
+
+.quick-row-body {
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 6px;
-  cursor: pointer;
-  transition: all 0.2s ease;
+  min-width: 0;
 }
 
-.quick-btn:hover {
-  background: var(--faint);
-  transform: translateX(4px);
+.quick-row-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
 }
 
-.quick-btn-name {
-  font-family: 'DM Mono', monospace;
-  font-size: 14px;
-  font-weight: 700;
+.quick-row-name {
+  font-family: 'Outfit', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-light);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.quick-btn-count {
+.quick-row-due {
   font-family: 'DM Mono', monospace;
   font-size: 10px;
-  color: var(--muted);
-  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  flex-shrink: 0;
 }
+
+.quick-row-bar-track {
+  height: 1px;
+  background: var(--faint);
+  width: 100%;
+}
+
+.quick-row-bar-fill {
+  height: 100%;
+  transition: width 0.4s ease;
+}
+/* ── Mode Buttons ── */
+.mode-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background: var(--border-light);
+  border: 1px solid var(--border-light);
+}
+
+.mode-btn {
+  background: var(--surface-light);
+  border: none;
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s;
+}
+
+.mode-btn:hover {
+  background: var(--faint);
+}
+
+.mode-btn-title {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-light);
+}
+
+.mode-btn-desc {
+  font-size: 12px;
+  color: var(--muted);
+}
+
 /* ── Mobile ── */
 @media (max-width: 640px) {
   .masthead {
@@ -529,13 +613,6 @@
   }
 
   .sidebar { order: -1; }
-
-  .quick-study-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 8px;
-  }
-
-  .quick-btn { padding: 16px 10px; }
 
   .subject-row { gap: 12px; padding: 18px 0; }
 

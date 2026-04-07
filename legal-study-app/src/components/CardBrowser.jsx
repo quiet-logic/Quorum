@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import './CardBrowser.css';
+import { subjectColor } from '../subjectColor';
 
 const TYPE_LABEL = { 1: 'Q&A', 2: 'IRAC', 3: 'Scenario', 4: 'Deeper', 5: 'Trap' };
 const TYPES = [1, 2, 3, 4, 5];
@@ -219,24 +220,6 @@ const CardDetail = ({ card }) => {
   );
 };
 
-
-// Map subject abbr → accent colour (mirrors SUBJECT_ACCENT in App.jsx)
-function subjectColor(abbr) {
-  return {
-    CON:   '#C8A96E',
-    BLP:   '#C8A96E',
-    TORT:  '#7EB8A4',
-    CRIM:  '#C47B7B',
-    WTP:   '#C47B7B',
-    PROP:  '#9B8EC4',
-    LAND:  '#9B8EC4',
-    TRUST: '#9B8EC4',
-    DR:    '#7BAED4',
-    LSEW:  '#7BAED4',
-    LS:    '#7BAED4',
-    SA:    '#7BAED4',
-  }[abbr] ?? '#8A847A';
-}
 
 
 export default CardBrowser;

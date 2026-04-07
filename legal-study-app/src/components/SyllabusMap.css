@@ -1,0 +1,251 @@
+/* SyllabusMap */
+
+.syllabus-wrapper {
+  min-height: 100vh;
+  background-color: var(--bg-light);
+  color: var(--text-light);
+  padding-bottom: 80px;
+}
+
+.syllabus-container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 56px 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+/* ── Heading ── */
+.syllabus-heading h1 {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  line-height: 1.2;
+  margin: 0 0 8px;
+}
+
+.syllabus-subtitle {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* ── Legend ── */
+.syllabus-legend {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.syllabus-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ── Progress Dots ── */
+.syllabus-dot {
+  flex-shrink: 0;
+}
+
+.syllabus-dot--md {
+  width: 10px;
+  height: 10px;
+}
+
+.syllabus-dot--sm {
+  width: 8px;
+  height: 8px;
+}
+
+.syllabus-dot--xs {
+  width: 6px;
+  height: 6px;
+}
+
+/* ── Subject ── */
+.syllabus-subject {
+  border-bottom: 1px solid var(--border-light);
+}
+
+.syllabus-subject:last-child {
+  border-bottom: none;
+}
+
+.syllabus-subject-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 20px 0;
+  cursor: pointer;
+  user-select: none;
+}
+
+.syllabus-subject-header:hover .syllabus-subject-name {
+  color: var(--gold);
+}
+
+.syllabus-subject-name {
+  flex: 1;
+  font-size: 15px;
+  font-weight: 600;
+  transition: color 0.15s;
+}
+
+.syllabus-pct {
+  font-size: 13px;
+  width: 40px;
+  text-align: right;
+}
+
+.syllabus-meta-count {
+  font-size: 10px;
+  color: var(--muted);
+  width: 60px;
+  text-align: right;
+}
+
+.syllabus-chevron {
+  font-size: 14px;
+  color: var(--muted);
+  width: 18px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+/* ── Topics ── */
+.syllabus-topics {
+  padding: 0 0 16px 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.syllabus-topic {
+  border-bottom: 1px solid rgba(216, 211, 200, 0.35);
+}
+
+.syllabus-topic:last-child {
+  border-bottom: none;
+}
+
+.syllabus-topic-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 0;
+  cursor: pointer;
+  user-select: none;
+}
+
+.syllabus-topic-name {
+  flex: 1;
+  font-size: 13px;
+  color: var(--text-light);
+}
+
+.syllabus-topic-meta {
+  font-size: 10px;
+  width: 52px;
+  text-align: right;
+}
+
+.syllabus-chevron-sm {
+  font-size: 12px;
+  color: var(--muted);
+  width: 16px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+/* ── Subtopics ── */
+.syllabus-subtopics {
+  padding: 0 0 8px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.syllabus-subtopic {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 0;
+  border-bottom: 1px solid rgba(216, 211, 200, 0.2);
+}
+
+.syllabus-subtopic:last-child {
+  border-bottom: none;
+}
+
+.syllabus-subtopic-name {
+  flex: 1;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.syllabus-subtopic-meta {
+  font-size: 10px;
+  width: 44px;
+  text-align: right;
+}
+
+.syllabus-study-btn {
+  background: none;
+  border: 1px solid var(--border-light);
+  padding: 3px 8px;
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: var(--gold);
+  border-color: var(--gold);
+  transition: all 0.15s;
+  flex-shrink: 0;
+}
+
+.syllabus-study-btn:hover {
+  background: var(--gold);
+  color: var(--bg-light);
+}
+
+/* ── Mobile ── */
+@media (max-width: 640px) {
+  .syllabus-container {
+    padding: 24px 16px 60px;
+    gap: 24px;
+  }
+
+  .syllabus-legend {
+    gap: 12px;
+  }
+
+  .syllabus-subject-header {
+    padding: 16px 0;
+    gap: 10px;
+  }
+
+  .syllabus-subject-name {
+    font-size: 13px;
+  }
+
+  .syllabus-meta-count {
+    display: none;
+  }
+
+  .syllabus-topics {
+    padding-left: 16px;
+  }
+
+  .syllabus-subtopics {
+    padding-left: 14px;
+  }
+
+  .syllabus-subtopic-name {
+    font-size: 11px;
+  }
+}

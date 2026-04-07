@@ -1,13 +1,6 @@
 import { useState, useEffect } from 'react';
 import './Progress.css';
-
-const SUBJECT_COLOR = {
-  BLP: '#C8A96E', DR: '#7BAED4', CON: '#C8A96E', TORT: '#7EB8A4',
-  LSEW: '#7BAED4', LS: '#7BAED4', PROP: '#9B8EC4', WTP: '#C47B7B',
-  SA: '#7BAED4', LAND: '#9B8EC4', TRUST: '#9B8EC4', CRIM: '#C47B7B',
-};
-
-const subjectColor = (abbr) => SUBJECT_COLOR[abbr] ?? '#8A847A';
+import { subjectColor } from '../subjectColor';
 
 // Format YYYY-MM-DD → "Apr 6"
 const fmtDate = (iso) => {
@@ -68,7 +61,7 @@ const Progress = ({ onHome }) => {
 
 const SubjectOverview = ({ subjects }) => (
   <section className="prog-section">
-    <h2 className="prog-section-title mono">Subject Progress</h2>
+    <h2 className="prog-section-title playfair">Subject Progress</h2>
     <div className="prog-subject-grid">
       {subjects.map(s => (
         <div key={s.id} className="prog-subject-card">
@@ -111,7 +104,7 @@ const Heatmap = ({ data }) => {
 
   return (
     <section className="prog-section">
-      <h2 className="prog-section-title mono">Activity — Last 60 Days</h2>
+      <h2 className="prog-section-title playfair">Activity — Last 60 Days</h2>
       <div className="heatmap-grid">
         {days.map(({ date, count }) => {
           const intensity = count === 0 ? 0 : Math.ceil((count / max) * 4);
@@ -140,7 +133,7 @@ const Forecast = ({ data }) => {
   const max = Math.max(...data.map(d => d.due), 1);
   return (
     <section className="prog-section prog-section--half">
-      <h2 className="prog-section-title mono">Due This Week</h2>
+      <h2 className="prog-section-title playfair">Due This Week</h2>
       <div className="forecast-bars">
         {data.map(({ date, due }) => (
           <div key={date} className="forecast-col">
@@ -166,7 +159,7 @@ const Retention = ({ data }) => {
   if (!data.length) {
     return (
       <section className="prog-section prog-section--half">
-        <h2 className="prog-section-title mono">Daily Accuracy</h2>
+        <h2 className="prog-section-title playfair">Daily Accuracy</h2>
         <p className="mono tm-status" style={{ padding: '20px 0' }}>No data yet.</p>
       </section>
     );
@@ -184,7 +177,7 @@ const Retention = ({ data }) => {
 
   return (
     <section className="prog-section prog-section--half">
-      <h2 className="prog-section-title mono">Daily Accuracy (30 days)</h2>
+      <h2 className="prog-section-title playfair">Daily Accuracy (30 days)</h2>
       <div className="retention-chart">
         <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="none" className="retention-svg">
           <polygon points={area} className="retention-area" />
@@ -207,7 +200,7 @@ const Retention = ({ data }) => {
 
 const WeakTopics = ({ data }) => (
   <section className="prog-section">
-    <h2 className="prog-section-title mono">Weak Spots</h2>
+    <h2 className="prog-section-title playfair">Weak Spots</h2>
     {data.length === 0 ? (
       <p className="mono" style={{ fontSize: '12px', color: 'var(--muted)', padding: '20px 0' }}>
         Keep studying — weak spots appear after 3+ reviews per topic.
