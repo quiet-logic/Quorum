@@ -26,21 +26,8 @@ from flask_login import login_required, current_user
 app = Flask(__name__, static_folder="legal-study-app/dist", static_url_path="")
 auth_module.init_app(app)
 
-# ── DB init + seeding (runs on every startup) ─────────────────────────────────
+# ── DB init (seeding happens in Procfile before gunicorn starts) ──────────────
 db.init_db()
-try:
-    import seed_data
-    seed_data.seed()
-except Exception as e:
-    print(f"[startup] seed_data failed: {e}", flush=True)
-try:
-    import seed_mcq
-    questions = seed_mcq.load_questions(seed_mcq.DEFAULT_DIR)
-    if questions:
-        inserted, skipped = db.seed_mcqs(questions)
-        print(f"[startup] seed_mcq: {inserted} inserted, {skipped} skipped", flush=True)
-except Exception as e:
-    print(f"[startup] seed_mcq failed: {e}", flush=True)
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
