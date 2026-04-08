@@ -214,7 +214,7 @@ const FlipCard = ({
 
       {/* Progress Strip */}
       {totalCards > 0 && (
-        <div className="progress-strip">
+        <div className="progress-strip" role="progressbar" aria-valuenow={currentCard} aria-valuemin={1} aria-valuemax={totalCards} aria-label={`Card ${currentCard} of ${totalCards}`}>
           {Array.from({ length: totalCards }).map((_, i) => (
             <div
               key={i}
@@ -257,6 +257,9 @@ const FlipCard = ({
           '--subject-accent': subjectAccent,
           minHeight: phase === 'front' && frontHeight ? `${frontHeight}px` : undefined,
         }}
+        role={phase === 'front' ? 'button' : undefined}
+        tabIndex={phase === 'front' ? 0 : undefined}
+        aria-label={phase === 'front' ? 'Flip card to reveal answer' : undefined}
         onClick={phase === 'front' ? handleFlip : undefined}
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
@@ -291,6 +294,7 @@ const FlipCard = ({
               key={r.score}
               className={`rating-btn${perfectFlash && r.score === 5 ? ' perfect-flash' : ''}`}
               onClick={(e) => handleRate(e, r.score)}
+              aria-label={`Rate ${r.score} — ${r.label}`}
             >
               <span className="score-num mono">{r.score}</span>
               <span className="score-label outfit">{r.label}</span>

@@ -304,3 +304,23 @@ button {
   font-family: var(--font-ui);
   color: inherit;
 }
+
+/* ── Skip nav (accessibility) ── */
+.skip-nav {
+  position: absolute;
+  top: -100%;
+  left: 8px;
+  z-index: 9999;
+  background: var(--color-text);
+  color: var(--color-bg);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 10px 16px;
+  text-decoration: none;
+  transition: top 0s;
+}
+.skip-nav:focus {
+  top: 8px;
+}

@@ -24,19 +24,20 @@ const Masthead = ({ activePillar, onPillarChange, onHome }) => {
   const colour = activeUser?.avatar_seed || DEFAULT_COLOUR;
 
   return (
-    <nav className="masthead-v2">
+    <nav className="masthead-v2" aria-label="Main navigation">
       {/* Top row: wordmark + profile */}
       <div className="masthead-top">
-        <button className="wordmark-btn playfair" onClick={onHome}>
+        <button className="wordmark-btn playfair" onClick={onHome} aria-label="Go to home">
           Quorum
         </button>
         <button
           className="profile-indicator"
           onClick={() => setUser(null)}
-          title="Switch profile"
+          aria-label={`Switch profile (currently ${activeUser?.name ?? ''})`}
         >
           <span
             className="profile-avatar"
+            aria-hidden="true"
             style={{ background: colour }}
           >
             {initials(activeUser?.name ?? '?')}
@@ -46,12 +47,14 @@ const Masthead = ({ activePillar, onPillarChange, onHome }) => {
       </div>
 
       {/* Bottom row: pillar tabs */}
-      <div className="masthead-tabs">
+      <div className="masthead-tabs" role="tablist" aria-label="Study pillars">
         {PILLARS.map(p => (
           <button
             key={p.id}
+            role="tab"
             className={`pillar-tab mono${activePillar === p.id ? ' is-active' : ''}`}
             onClick={() => onPillarChange(p.id)}
+            aria-selected={activePillar === p.id}
           >
             {p.label}
           </button>

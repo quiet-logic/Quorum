@@ -36,8 +36,9 @@ const Login = ({ onGoRegister, onGoForgotPassword }) => {
         <h2 className="auth-title">Sign in</h2>
 
         <div className="auth-field">
-          <label className="auth-label">Email</label>
+          <label className="auth-label" htmlFor="login-email">Email</label>
           <input
+            id="login-email"
             className="auth-input"
             type="email"
             autoComplete="email"
@@ -50,8 +51,9 @@ const Login = ({ onGoRegister, onGoForgotPassword }) => {
         </div>
 
         <div className="auth-field">
-          <label className="auth-label">Password</label>
+          <label className="auth-label" htmlFor="login-password">Password</label>
           <input
+            id="login-password"
             className="auth-input"
             type="password"
             autoComplete="current-password"
