@@ -161,7 +161,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "SALOMON · PREST v PETRODEL · EVASION PRINCIPLE · ADAMS v CAPE · OTTOLENGHI · CERTAINTY vs JUSTICE · COMPARATIVE LAW · EFFECTIVELY DEAD?",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -669,7 +669,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "SHAREHOLDERS' AGREEMENT · ARTICLES DISTINCTION · RUSSELL v NORTHERN BANK [1992] · PRIVACY · INCONSISTENCY RISK · THIRD PARTIES · LAW COMMISSION 1996 · DELAWARE LLC",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -773,7 +773,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "REGAL (HASTINGS) · STRICT NO-PROFIT RULE · S.175 CA 2006 · IDC v COOLEY · CONAGLEN · PESO SILVER MINES · CANADIAN/AUSTRALIAN FLEXIBILITY · AUTHORISATION MECHANISM",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -807,7 +807,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "S.214 WRONGFUL TRADING · CORK REPORT · CHILLING EFFECT · SEQUANA SLIDING SCALE · LOW USAGE IN PRACTICE · CIGA 2020 · GERMAN COMPARISON · FINCH",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -1153,7 +1153,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "S.172 · ENLIGHTENED SHAREHOLDER VALUE · STAKEHOLDER INTERESTS · ENFORCEMENT GAP · SEQUANA [2022] · ESG · REFORM DEBATE · KEAY · MILLON",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -1439,7 +1439,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "S.994 · FOSS v HARBOTTLE · O'NEILL v PHILLIPS · LEGITIMATE EXPECTATION · CATCH-ALL CRITIQUE · LAW COMMISSION 1997 · BUY-OUT ORDER · REISBERG",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -1875,7 +1875,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "RE SPECTRUM PLUS · SIEBE GORMAN OVERRULED · BLOCKED ACCOUNT · RETROSPECTIVE · PRESCRIBED PART · GOODE · WORTHINGTON · LAW COMMISSION 2002 · UCC COMPARISON",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -2523,7 +2523,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "S.176A · PRESCRIBED PART · ENTERPRISE ACT 2002 · CROWN PREFERENCE ABOLISHED · HMRC SECONDARY PREFERENCE · GOODE · MOKAL · ARMOUR · REFORM DEBATE",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -2675,7 +2675,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "TRIPARTITE STATUS · UBER v ASLAM [2021] · AUTOCLENZ · TAYLOR REVIEW 2017 · FREEDLAND/KOUNTOURIS · GIG ECONOMY · EU PLATFORM DIRECTIVE · REFORM",
+            "summary_line": null,
             "is_deeper": 1,
             "flk": "FLK1"
           }
@@ -2710,24 +2710,6 @@
             "application": null,
             "conclusion": null,
             "summary_line": "COLLECTIVE CONSULTATION ≥20 REDUNDANCIES · STATUTORY NOTICE S.86 · 1 WEEK PER YEAR · REDUNDANCY PAY CAPPED 20 YEARS · WRONGFUL DISMISSAL",
-            "is_deeper": 0,
-            "flk": "FLK1"
-          }
-        ],
-        "TUPE": [
-          {
-            "card_code": "FLK1-BLP-SCE-047",
-            "card_type": 3,
-            "difficulty": "Application",
-            "topic": "Employment Law",
-            "subtopic": "TUPE",
-            "front": "Westgate Cleaning Ltd has a contract to clean a chain of hotels. The hotel chain decides to bring cleaning in-house, terminating Westgate's contract. Westgate employs 15 cleaners assigned to that contract. The hotel chain does not want to take on any of the cleaners.\n\nDoes TUPE apply and what are the consequences if the hotel chain dismisses the cleaners?",
-            "answer": "TUPE is likely to apply under the 'service provision change' category.\n\nTUPE 2006 applies not only to traditional business transfers but also to service provision changes — where activities carried out by a contractor are brought back in-house by the client. The hotel chain bringing cleaning in-house from Westgate is a paradigm service provision change, provided: the activities are essentially the same (cleaning — yes); and the employees are organised into a grouping assigned to the contract (yes — 15 cleaners assigned to this contract).\n\nEffect of TUPE: If TUPE applies, the 15 cleaners automatically transfer to the hotel chain on their existing terms and conditions. The hotel chain cannot simply refuse to take them on.\n\nDismissal: If the hotel chain dismisses the cleaners, or if Westgate dismisses them in connection with the transfer, those dismissals are automatically unfair under TUPE reg. 7 — unless there is an 'economic, technical or organisational' (ETO) reason entailing changes in the workforce. The hotel chain's wish not to employ cleaners is not an ETO reason.\n\nLiability: Claims for automatically unfair dismissal run against the hotel chain (as the transferee). Westgate may also face claims if it dismissed before transfer.\n\nAdvice: The hotel chain must accept the transferring employees or face significant Employment Tribunal liability.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "TUPE 2006 · SERVICE PROVISION CHANGE · AUTO TRANSFER · EXISTING TERMS · AUTO UNFAIR DISMISSAL · ETO DEFENCE · TRANSFEREE LIABLE",
             "is_deeper": 0,
             "flk": "FLK1"
           }
@@ -2780,6 +2762,134 @@
             "summary_line": "ERA 1996 · UNFAIR DISMISSAL · 2 YEARS' SERVICE · CONDUCT REASON · ACAS CODE · NO INVESTIGATION OR HEARING · UNFAIR PROCEDURE · 3-MONTH LIMIT",
             "is_deeper": 0,
             "flk": "FLK1"
+          }
+        ],
+        "TUPE": [
+          {
+            "card_code": "FLK1-BLP-SCE-047",
+            "card_type": 3,
+            "difficulty": "Application",
+            "topic": "Employment Law",
+            "subtopic": "TUPE",
+            "front": "Westgate Cleaning Ltd has a contract to clean a chain of hotels. The hotel chain decides to bring cleaning in-house, terminating Westgate's contract. Westgate employs 15 cleaners assigned to that contract. The hotel chain does not want to take on any of the cleaners.\n\nDoes TUPE apply and what are the consequences if the hotel chain dismisses the cleaners?",
+            "answer": "TUPE is likely to apply under the 'service provision change' category.\n\nTUPE 2006 applies not only to traditional business transfers but also to service provision changes — where activities carried out by a contractor are brought back in-house by the client. The hotel chain bringing cleaning in-house from Westgate is a paradigm service provision change, provided: the activities are essentially the same (cleaning — yes); and the employees are organised into a grouping assigned to the contract (yes — 15 cleaners assigned to this contract).\n\nEffect of TUPE: If TUPE applies, the 15 cleaners automatically transfer to the hotel chain on their existing terms and conditions. The hotel chain cannot simply refuse to take them on.\n\nDismissal: If the hotel chain dismisses the cleaners, or if Westgate dismisses them in connection with the transfer, those dismissals are automatically unfair under TUPE reg. 7 — unless there is an 'economic, technical or organisational' (ETO) reason entailing changes in the workforce. The hotel chain's wish not to employ cleaners is not an ETO reason.\n\nLiability: Claims for automatically unfair dismissal run against the hotel chain (as the transferee). Westgate may also face claims if it dismissed before transfer.\n\nAdvice: The hotel chain must accept the transferring employees or face significant Employment Tribunal liability.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TUPE 2006 · SERVICE PROVISION CHANGE · AUTO TRANSFER · EXISTING TERMS · AUTO UNFAIR DISMISSAL · ETO DEFENCE · TRANSFEREE LIABLE",
+            "is_deeper": 0,
+            "flk": "FLK1"
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-050",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "topic": "Sale and Purchase of a Business",
+            "subtopic": "TUPE and Business Transfers",
+            "front": "Dex Ltd is acquiring the catering division of Emu Group plc by way of asset purchase. The catering division has 40 employees. Dex wants to renegotiate all employment terms post-transfer (higher hours, lower pay) as a condition of the acquisition.\n\nAdvise Dex on the TUPE implications.",
+            "answer": "TUPE 2006 applies to this asset purchase as a relevant transfer — the catering division is an organised grouping of employees dedicated to catering activities, and the business retains its identity.\n\nAutomatic transfer: All 40 employees transfer automatically to Dex on their existing terms and conditions. Dex cannot select which employees to take.\n\nVariation of terms: TUPE reg. 4(4) provides that any purported variation of the terms of employment is void if the sole or principal reason for the variation is the transfer itself. Dex's proposed changes — lower pay, higher hours — are clearly transfer-connected. They are therefore void under TUPE, and Dex cannot lawfully implement them simply because it acquired the business.\n\nException — ETO reason: Dex can vary terms if there is an economic, technical or organisational (ETO) reason entailing changes in the workforce — but this requires genuine workforce changes (e.g. redundancies, changes to job functions), not just a desire to cut employment costs. Cost-saving alone is not an ETO reason.\n\nIf Dex dismisses employees who refuse the new terms, those dismissals will be automatically unfair (TUPE reg. 7) unless an ETO reason exists.\n\nPractical advice: Dex should negotiate the price to reflect the employment terms it is inheriting, and consider whether any genuine restructuring (which might qualify as an ETO reason) is planned. Changes should only be made after proper legal advice and, ideally, through collective agreement with employee representatives.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TUPE 2006 · RELEVANT TRANSFER · AUTO TRANSFER ON EXISTING TERMS · VARIATION VOID REG.4(4) · ETO REASON EXCEPTION · AUTO UNFAIR DISMISSAL",
+            "is_deeper": 0,
+            "flk": "FLK1"
+          },
+          {
+            "card_code": "FLK1-BLP-DEEP-009",
+            "card_type": 4,
+            "difficulty": null,
+            "topic": "Sale and Purchase of a Business",
+            "subtopic": "TUPE and Business Transfers",
+            "front": "Going deeper: Does TUPE 2006 strike the right balance between protecting employees on business transfers and facilitating efficient commercial restructuring? Is the prohibition on harmonising terms post-transfer too restrictive?",
+            "answer": "THE TUPE FRAMEWORK\nTUPE 2006 implements the EU Acquired Rights Directive (2001/23/EC). It provides that on a relevant transfer, employees automatically transfer on their existing terms and conditions, and dismissals connected to the transfer are automatically unfair (reg. 7) unless there is an ETO reason. Reg. 4(4) voids any variation of terms connected to the transfer, even if agreed by the employee.\n\nTHE HARMONISATION PROBLEM\nA persistent commercial problem is the prohibition on post-transfer harmonisation. Transferee employers frequently wish to integrate transferred employees into a common employment framework — equalising terms across a workforce is commercially rational and often in employees' interests (where existing terms are inferior). However, reg. 4(4) makes any variation void if the reason is 'the transfer'. In Capita Hartshead [2012], the EAT held that even variations agreed years after a transfer can be void if the transfer was still a reason for the change. This creates a potentially indefinite constraint on employer flexibility.\n\nTHE ACADEMIC AND PRACTITIONER DEBATE\nMcMullen ('TUPE 2006: The New Regime' [2006]) and Millward argue that the prohibition on harmonisation frustrates sensible workforce integration and increases the cost of acquisitions — potentially deterring beneficial business transfers. Hepple and others counter that the prohibition is essential: without it, employers would simply harmonise down to the lowest common denominator, eliminating the protection the Directive was designed to provide.\n\nPOST-BREXIT POSITION\nPost-Brexit, the UK is no longer bound to implement the Acquired Rights Directive. The Government's 2023 consultation on TUPE proposed allowing smaller employers to consult directly with employees rather than through elected representatives.\n\n⚠️ Verify whether any amendments to TUPE have been made since 2023. The Employment Rights Bill (\n\n⚠️ verify current status) may further modify the regime.\n\nCOMPARATIVE NOTE\nGerman law (Betriebsübergang — s.613a BGB) has similar protections but allows harmonisation after one year where a collective agreement applies. French law goes further, treating transferred employees as if they were employed under the transferee's collective agreement from day one. The English absolute prohibition on connected variations may be uniquely strict.\n\nOPEN QUESTION\nShould English law introduce a 'sunset clause' — allowing harmonisation of transferred terms after a defined period (e.g. two or three years), subject to individual employee consent? This would balance continuity of protection with commercial flexibility.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1,
+            "flk": "FLK1"
+          },
+          {
+            "card_code": "FLK1-BLP-112",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a 'service provision change' under TUPE 2006, and how does it differ from a business transfer?",
+            "answer": "The Transfer of Undertakings (Protection of Employment) Regulations 2006 (TUPE) apply in two situations:\n\n1. Business transfer: A transfer of an economic entity that retains its identity — the classic TUPE scenario, established under the Acquired Rights Directive.\n\n2. Service provision change (SPC): A situation where:\n   (a) activities cease to be carried out by a client on their own behalf and are carried out instead by a contractor (outsourcing);\n   (b) activities cease to be carried out by a contractor on a client's behalf and are carried out instead by a new contractor (re-tendering); or\n   (c) activities cease to be carried out by a contractor on a client's behalf and are carried out instead by the client (insourcing).\n\nKey difference: A business transfer requires an economic entity retaining its identity — employees, assets, goodwill. A service provision change requires only that an organised grouping of employees is principally dedicated to the activities being transferred. No transfer of assets is necessary.\n\nThe SPC category was introduced by TUPE 2006 (it did not exist under the earlier 1981 regulations) to capture outsourcing and re-tendering situations that might not satisfy the economic entity test.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SERVICE PROVISION CHANGE · TUPE 2006 · OUTSOURCING · RE-TENDERING · INSOURCING · NO ASSETS NEEDED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-113",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A company outsources its IT helpdesk function to a service provider. The helpdesk team of 8 employees has always worked exclusively on this function. Does TUPE apply?",
+            "answer": "Yes — this is a service provision change under reg.3(1)(b) TUPE 2006. The conditions for an SPC are:\n\n1. Immediately before the change, there was an organised grouping of employees situated in Great Britain: ✓ — the 8 employees constitute an organised grouping.\n2. The grouping was principally dedicated to carrying out the activities: ✓ — they worked exclusively on the IT helpdesk function.\n3. The client intended that the activities would be carried out by the transferee (the service provider): ✓ — the outsourcing contract confirms this.\n4. The activities must not be a single specific event or short-term duration (reg.3(3)): ✓ — assumed to be an ongoing service.\n\nEffect of TUPE applying:\n— All 8 employees transfer automatically to the service provider on their existing terms and conditions.\n— Continuity of employment is preserved.\n— Dismissal in connection with the transfer is automatically unfair.\n— The service provider inherits all existing employment liabilities (including accrued holiday pay, potential claims etc.).\n— The company must provide employee liability information to the service provider at least 28 days before the transfer.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SPC OUTSOURCING · ORGANISED GROUPING · PRINCIPALLY DEDICATED · TRANSFERS AUTOMATICALLY · ELI 28 DAYS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-114",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A service contract for office cleaning is re-tendered and awarded to a new provider. The old provider's 5 cleaning staff are not offered employment by the new provider. What is the legal position?",
+            "answer": "This is a service provision change — the re-tendering scenario under reg.3(1)(b)(ii) TUPE 2006.\n\nIf TUPE applies:\n— The 5 cleaning staff transfer automatically to the new provider on their existing terms and conditions.\n— The new provider cannot simply refuse to take them — the transfer is automatic by operation of law.\n— If the new provider refuses to employ them, this is equivalent to dismissal in connection with the transfer — automatically unfair under reg.7 TUPE.\n— The employees have claims for automatic unfair dismissal against the new provider (the transferee).\n\nConditions check:\n— Organised grouping of employees: 5 cleaning staff dedicated to this contract — likely ✓.\n— Principally dedicated: if they clean exclusively for this client — ✓. If they clean multiple clients' premises, the 'principally dedicated' test may not be satisfied — the grouping must be principally dedicated to the activities, not incidentally involved.\n\nThe new provider's solicitor should advise them of the TUPE risk at the tendering stage — before the contract is awarded — so they can price in the inherited employment costs.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "RE-TENDERING SPC · AUTOMATIC TRANSFER · CANNOT REFUSE · AUTOMATIC UNFAIR DISMISSAL · PRINCIPALLY DEDICATED",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-115",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is 'employee liability information' under TUPE and what happens if the transferor fails to provide it?",
+            "answer": "Employee liability information (ELI) is information that the transferor (outgoing employer) must provide to the transferee (incoming employer) about the employees who will transfer under TUPE.\n\nRequired information (reg.11 TUPE 2006):\n— Identity and age of transferring employees.\n— Employment particulars (as would appear in a s.1 ERA 1996 statement).\n— Information about any disciplinary action taken or grievances raised in the past 2 years.\n— Any court or tribunal proceedings in the past 2 years and any anticipated claims.\n— Information about collective agreements.\n\nTimescale: ELI must be provided at least 28 days before the transfer.\n\nConsequence of failure: If the transferor fails to provide ELI (or provides inaccurate/incomplete information), the transferee may bring a claim in the Employment Tribunal. The Tribunal may award compensation as it considers just and equitable — there is a minimum award of £500 per employee but no maximum.\n\nWhy it matters: The transferee inherits all employment liabilities. ELI allows them to assess the risk and price it into the deal. A transferee who receives late or incomplete ELI is prejudiced and the remedy is compensation from the transferor.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ELI · REG 11 TUPE · 28 DAYS BEFORE TRANSFER · DISCIPLINARY GRIEVANCES CLAIMS · £500 MIN PER EMPLOYEE",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-058",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A law firm outsources its photocopying and printing function to an external reprographics company. The three members of the firm's internal print room have always handled all printing for the firm. Does TUPE apply?",
+            "answer": "This is an SPC outsourcing scenario. The key question is whether the three print room employees form an 'organised grouping principally dedicated' to the outsourced activities.\n\nOn these facts:\n— The three employees form an organised grouping: they operate as a distinct unit within the firm. ✓\n— They are principally dedicated to the activities: they handle all printing for the firm and nothing else. ✓\n— The activities are being transferred from the client (law firm) to a contractor (reprographics company): ✓\n— The activities appear ongoing (not a single event or short-term task): ✓\n\nTUPE likely applies. The three employees would transfer automatically to the reprographics company.\n\nPractical advice to the law firm:\n— Inform and consult with the affected employees before the transfer (reg.13 TUPE — 'inform and consult' obligation).\n— Provide ELI to the reprographics company at least 28 days before the transfer.\n— The reprographics company must take on the employees on their existing terms and conditions.\n— Any attempt to dismiss the employees to avoid the TUPE transfer is likely to be automatically unfair.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "OUTSOURCING SPC · PRINT ROOM · ORGANISED GROUPING · PRINCIPALLY DEDICATED · INFORM CONSULT · ELI 28 DAYS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-059",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A company re-tenders its security guarding contract. The new contractor proposes to use a completely different workforce — none of the old contractor's guards. The old contractor's guards each split their time between three different client sites. Does TUPE apply?",
+            "answer": "The critical issue is whether the guards form an 'organised grouping principally dedicated' to the activities being transferred.\n\n'Principally dedicated' means the principal purpose of the grouping is to carry out the activities for this particular client. If each guard spends, say, one-third of their time at this client's site and two-thirds at other clients' sites, their principal dedication is not to this specific client — and the SPC condition may not be satisfied.\n\nThe analysis:\n— If no guard is principally dedicated to this client (each splits time across three sites), there is no organised grouping principally dedicated to the transferring activities.\n— TUPE may not apply — the guards do not transfer.\n— The old contractor retains its obligations to the guards; the new contractor is free to engage its own workforce.\n\nThis is a common scenario in multi-site service contracts. The 'principally dedicated' test is a safeguard against TUPE being used to transfer workers who have only an incidental connection to the client's contract. The outcome turns on the factual analysis of where each employee spends most of their working time.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PRINCIPALLY DEDICATED TEST · SPLIT ACROSS SITES · NOT PRINCIPALLY DEDICATED · SPC MAY NOT APPLY",
+            "is_deeper": 0
           }
         ]
       },
@@ -2848,40 +2958,66 @@
             "summary_line": "ASSET PURCHASE · CHOSEN ASSETS/LIABILITIES · HISTORIC LIABILITIES STAY WITH COMPANY · TUPE APPLIES · TOGC VAT EXEMPTION · SHARE SALE TAX POSITION",
             "is_deeper": 0,
             "flk": "FLK1"
-          }
-        ],
-        "TUPE and Business Transfers": [
-          {
-            "card_code": "FLK1-BLP-SCE-050",
-            "card_type": 3,
-            "difficulty": "Complex",
-            "topic": "Sale and Purchase of a Business",
-            "subtopic": "TUPE and Business Transfers",
-            "front": "Dex Ltd is acquiring the catering division of Emu Group plc by way of asset purchase. The catering division has 40 employees. Dex wants to renegotiate all employment terms post-transfer (higher hours, lower pay) as a condition of the acquisition.\n\nAdvise Dex on the TUPE implications.",
-            "answer": "TUPE 2006 applies to this asset purchase as a relevant transfer — the catering division is an organised grouping of employees dedicated to catering activities, and the business retains its identity.\n\nAutomatic transfer: All 40 employees transfer automatically to Dex on their existing terms and conditions. Dex cannot select which employees to take.\n\nVariation of terms: TUPE reg. 4(4) provides that any purported variation of the terms of employment is void if the sole or principal reason for the variation is the transfer itself. Dex's proposed changes — lower pay, higher hours — are clearly transfer-connected. They are therefore void under TUPE, and Dex cannot lawfully implement them simply because it acquired the business.\n\nException — ETO reason: Dex can vary terms if there is an economic, technical or organisational (ETO) reason entailing changes in the workforce — but this requires genuine workforce changes (e.g. redundancies, changes to job functions), not just a desire to cut employment costs. Cost-saving alone is not an ETO reason.\n\nIf Dex dismisses employees who refuse the new terms, those dismissals will be automatically unfair (TUPE reg. 7) unless an ETO reason exists.\n\nPractical advice: Dex should negotiate the price to reflect the employment terms it is inheriting, and consider whether any genuine restructuring (which might qualify as an ETO reason) is planned. Changes should only be made after proper legal advice and, ideally, through collective agreement with employee representatives.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "TUPE 2006 · RELEVANT TRANSFER · AUTO TRANSFER ON EXISTING TERMS · VARIATION VOID REG.4(4) · ETO REASON EXCEPTION · AUTO UNFAIR DISMISSAL",
-            "is_deeper": 0,
-            "flk": "FLK1"
           },
           {
-            "card_code": "FLK1-BLP-DEEP-009",
-            "card_type": 4,
-            "difficulty": null,
-            "topic": "Sale and Purchase of a Business",
-            "subtopic": "TUPE and Business Transfers",
-            "front": "Going deeper: Does TUPE 2006 strike the right balance between protecting employees on business transfers and facilitating efficient commercial restructuring? Is the prohibition on harmonising terms post-transfer too restrictive?",
-            "answer": "THE TUPE FRAMEWORK\nTUPE 2006 implements the EU Acquired Rights Directive (2001/23/EC). It provides that on a relevant transfer, employees automatically transfer on their existing terms and conditions, and dismissals connected to the transfer are automatically unfair (reg. 7) unless there is an ETO reason. Reg. 4(4) voids any variation of terms connected to the transfer, even if agreed by the employee.\n\nTHE HARMONISATION PROBLEM\nA persistent commercial problem is the prohibition on post-transfer harmonisation. Transferee employers frequently wish to integrate transferred employees into a common employment framework — equalising terms across a workforce is commercially rational and often in employees' interests (where existing terms are inferior). However, reg. 4(4) makes any variation void if the reason is 'the transfer'. In Capita Hartshead [2012], the EAT held that even variations agreed years after a transfer can be void if the transfer was still a reason for the change. This creates a potentially indefinite constraint on employer flexibility.\n\nTHE ACADEMIC AND PRACTITIONER DEBATE\nMcMullen ('TUPE 2006: The New Regime' [2006]) and Millward argue that the prohibition on harmonisation frustrates sensible workforce integration and increases the cost of acquisitions — potentially deterring beneficial business transfers. Hepple and others counter that the prohibition is essential: without it, employers would simply harmonise down to the lowest common denominator, eliminating the protection the Directive was designed to provide.\n\nPOST-BREXIT POSITION\nPost-Brexit, the UK is no longer bound to implement the Acquired Rights Directive. The Government's 2023 consultation on TUPE proposed allowing smaller employers to consult directly with employees rather than through elected representatives.\n\n⚠️ Verify whether any amendments to TUPE have been made since 2023. The Employment Rights Bill (\n\n⚠️ verify current status) may further modify the regime.\n\nCOMPARATIVE NOTE\nGerman law (Betriebsübergang — s.613a BGB) has similar protections but allows harmonisation after one year where a collective agreement applies. French law goes further, treating transferred employees as if they were employed under the transferee's collective agreement from day one. The English absolute prohibition on connected variations may be uniquely strict.\n\nOPEN QUESTION\nShould English law introduce a 'sunset clause' — allowing harmonisation of transferred terms after a defined period (e.g. two or three years), subject to individual employee consent? This would balance continuity of protection with commercial flexibility.",
+            "card_code": "FLK1-BLP-116",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the key tax differences between an asset purchase and a share purchase in a business sale?",
+            "answer": "**Asset purchase:**\n- **SDLT** applies to any land or buildings included in the assets.\n- **CGT** payable by the seller on any gain made on the sale of assets.\n- **VAT:** Transfer of Going Concern (TOGC) exemption may apply if conditions met (VATA 1994 s.49) — the transfer is treated as neither a supply of goods nor a supply of services, so no VAT charged.\n- **SDRT:** Not applicable — no shares are transferred.\n\n**Share purchase:**\n- **SDRT** (Stamp Duty Reserve Tax) at **0.5%** of the share consideration, charged to the buyer.\n- **SDLT:** Generally not applicable unless the target company has land (and a land transaction occurs separately).\n- **CGT:** Seller pays CGT on shares sold. Substantial shareholding exemption (SSE) may be available to corporate sellers.\n- **VAT:** Not applicable to share transfers (exempt from VAT under VAT Act 1994 Sch.9).",
             "issue": null,
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "TUPE 2006 · REG.4(4) VARIATION VOID · HARMONISATION PROBLEM · CAPITA HARTSHEAD · POST-BREXIT · MCMULLEN · GERMAN BGB · SUNSET CLAUSE PROPOSAL",
-            "is_deeper": 1,
-            "flk": "FLK1"
+            "summary_line": "ASSET PURCHASE · SDLT ON LAND · CGT ON SELLER · TOGC EXEMPTION · SHARE PURCHASE · SDRT 0.5% · CGT ON SHARES · NO VAT ON SHARES"
+          },
+          {
+            "card_code": "FLK1-BLP-120",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When does TUPE apply on a business sale and what are the seller's and buyer's key obligations?",
+            "answer": "The Transfer of Undertakings (Protection of Employment) Regulations 2006 (TUPE) applies to:\n1. A **business transfer** — where an 'economic entity' retains its identity after the transfer (reg.3(1)(a)). This covers **asset purchases** of a going concern.\n2. A **service provision change** — e.g. outsourcing, insourcing, or change of service contractor (reg.3(1)(b)).\n\n**TUPE does NOT apply to a share purchase** — employees already employed by the company continue on the same terms; there is no transfer of the undertaking.\n\n**Effect of TUPE:** All employees employed in the transferring undertaking transfer automatically to the buyer (new employer) on their **existing terms and conditions**. The buyer inherits all liabilities for those employees.\n\n**Key obligations:**\n- **Seller:** Must inform and (where proposing to 'measures') consult employee representatives before the transfer. Must provide employee liability information to the buyer (reg.11).\n- **Buyer:** Must inform and consult employee representatives about any proposed post-transfer measures. Cannot dismiss employees for a reason connected to the transfer unless ETO reason exists (see *Litster*).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TUPE 2006 · ASSET PURCHASE AND SPC ONLY · NOT SHARE PURCHASE · EMPLOYEES TRANSFER AUTOMATICALLY · INFORM AND CONSULT · ETO EXCEPTION"
+          },
+          {
+            "card_code": "FLK1-BLP-CASE-019",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Litster v Forth Dry Dock & Engineering Co Ltd [1989] ICR 341 (HL)",
+            "answer": null,
+            "issue": "Whether an employer can defeat TUPE protection by dismissing employees in advance of a business transfer, and what remedies are available to dismissed employees.",
+            "rule": "A dismissal that is connected with a TUPE transfer and designed to avoid TUPE obligations is void — it is treated as automatically unfair. TUPE is not defeated merely by dismissing employees before legal completion of the transfer. The ETO (economic, technical or organisational) reason exception applies only where there is a genuine reason entailing a change in the workforce, unconnected with the avoidance of TUPE.",
+            "application": "In Litster, the transferee (new business) required the dismissal of all employees before the transfer took place, to avoid assuming their employment. The House of Lords held that TUPE must be construed purposively to give effect to the EC Acquired Rights Directive. Dismissals at the instigation of the transferee (or to avoid TUPE) are automatically unfair; the employees are treated as transferring despite having been dismissed.",
+            "conclusion": "Employers cannot defeat TUPE protection by timing dismissals to occur before completion. Dismissals connected with the transfer are automatically unfair. The ETO exception is narrow and requires genuine economic, technical, or organisational justification — not mere cost avoidance.",
+            "summary_line": "LITSTER · DISMISSAL BEFORE TRANSFER · TUPE NOT DEFEATED · AUTOMATICALLY UNFAIR · ETO EXCEPTION NARROW · PURPOSIVE CONSTRUCTION"
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-060",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A buyer is purchasing the trade and assets (not the shares) of a plumbing business which employs 12 people. The seller wants to dismiss three employees before the sale completes to reduce the headcount. Advise.",
+            "answer": "**TUPE applies** because this is an asset purchase of a going concern — an 'economic entity' (the plumbing business) is transferring and retaining its identity.\n\n**Effect:**\n1. All 12 employees who are employed in the transferring undertaking immediately before completion transfer automatically to the buyer on their existing terms and conditions.\n2. The buyer inherits all employment liabilities for those 12 employees.\n\n**Seller's proposed dismissals:**\n- If the seller dismisses three employees **in connection with the transfer** (at the instigation of the buyer, or to reduce headcount for the sale), those dismissals are **void and automatically unfair** (*Litster v Forth Dry Dock*).\n- The dismissed employees will be treated as having transferred to the buyer, who becomes liable for the unfair dismissal claims.\n\n**ETO exception:** The dismissals might be saved if there is a genuine economic, technical, or organisational reason entailing a change in the workforce — but a simple desire to reduce headcount for the sale does not qualify.\n\n**Advice to seller:** Do not dismiss to reduce headcount in anticipation of the sale. If redundancies are genuinely needed for business reasons, undertake a proper redundancy consultation process with collective consultation obligations (TULRCA 1992 s.188 if 20+ employees).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TUPE APPLIES · ASSET PURCHASE · DISMISSALS VOID · LITSTER · BUYER INHERITS LIABILITY · ETO EXCEPTION NARROW · PROPER CONSULTATION REQUIRED"
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-061",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A buyer has exchanged contracts to acquire the business of a logistics company. Post-exchange but pre-completion, the seller's solicitor discovers that the company's largest single contract (30% of revenue) has been cancelled. What are the buyer's options?",
+            "answer": "**The buyer's analysis turns on the contractual position post-exchange:**\n\n**1. Material Adverse Change (MAC) clause:**\nIf the sale and purchase agreement (SPA) contains a MAC clause entitling the buyer to withdraw if there is a material adverse change in the business before completion, the loss of 30% revenue may trigger this. The buyer should review the SPA carefully for any MAC provision.\n\n**2. Warranty breach:**\nIf the SPA contains warranties as to the accuracy of management accounts and the absence of material adverse changes since the accounts date, the seller may be in breach if the contract cancellation renders those warranties false. Post-completion, the buyer could claim damages for the difference in value.\n\n**3. Specific disclosure:**\nIf the event was not disclosed in the disclosure letter (and the seller had knowledge of it), the buyer may have a misrepresentation claim.\n\n**4. Pre-completion remedy — refusal to complete:**\nIn the absence of a MAC clause, the buyer may have limited grounds to refuse to complete. Unless there is a condition in the SPA requiring the business to continue trading in the ordinary course, completion may be obligatory. However, if the seller is in breach of warranty, the buyer might seek an injunction to delay completion.\n\n**Conclusion:** The strongest position is a MAC clause; absent that, breach of warranty is the best post-completion remedy. The buyer should seek legal advice urgently and consider renegotiating the purchase price before completion.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MAC CLAUSE · MATERIAL ADVERSE CHANGE · WARRANTY BREACH · DISCLOSURE LETTER · RENEGOTIATE PRICE · URGENT POST-EXCHANGE ADVICE"
           }
         ],
         "Warranties and Indemnities": [
@@ -2900,6 +3036,42 @@
             "summary_line": "BREACH OF WARRANTY · DAMAGES REMEDY · PROVE LOSS · DISCLOSURE LETTER DEFENCE · INDEMNITY CLAIM · CAP AND TIME LIMITS IN SPA",
             "is_deeper": 0,
             "flk": "FLK1"
+          },
+          {
+            "card_code": "FLK1-BLP-117",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the purpose of warranties in a business sale agreement and how do they protect the buyer?",
+            "answer": "**Warranties** are contractual statements of fact made by the seller about the state of the target business at (or as at) completion. Common warranty categories: accounts warranties, tax warranties, employment, litigation, intellectual property, environmental, and regulatory compliance.\n\n**Purpose:** To allocate risk between buyer and seller. If a warranted fact turns out to be untrue, the buyer has a claim in **breach of contract** — damages assessed as the difference between the price paid and the true value of the business.\n\n**How they protect the buyer:**\n1. They incentivise the seller to disclose problems through a **disclosure letter** (matters disclosed against warranties are carved out of any claim).\n2. If the seller does not disclose and a warranty proves untrue, the buyer can claim damages.\n3. They provide a mechanism for price adjustment or compensation post-completion.\n\n**Limitations:** Standard limitation clauses typically cap the seller's liability (e.g. at the purchase price), set a minimum claim threshold (basket/de minimis), and impose time limits for bringing claims (typically 12–18 months for general warranties, 6–7 years for tax warranties).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "WARRANTIES · STATEMENTS OF FACT AT COMPLETION · BREACH = DAMAGES · DISCLOSURE LETTER · INCENTIVISES DISCLOSURE · LIMITATION CLAUSES"
+          },
+          {
+            "card_code": "FLK1-BLP-118",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How do indemnities differ from warranties in a business sale agreement, and when are they typically used?",
+            "answer": "**Indemnities** are promises to pay pound-for-pound compensation for a specific identified risk, regardless of whether it affects the value of the business as a whole.\n\n**Key differences from warranties:**\n\n| Feature | Warranty | Indemnity |\n|---|---|---|\n| What triggers it | Statement of fact untrue | Specified event/liability occurs |\n| Proof required | Buyer must prove loss caused by breach | No need to prove loss — payment triggered by the event |\n| Measure of compensation | Diminution in value of business | Pound-for-pound payment for the specific loss |\n| Disclosure | Disclosure can defeat warranty claim | Disclosure does not defeat indemnity |\n\n**When indemnities are used:** For **known specific risks** — e.g. a pending tax assessment, an ongoing dispute, an environmental contamination, or a specific identified liability that the parties want to ring-fence. If the risk materialises, the seller compensates the buyer in full regardless of the effect on overall value.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "INDEMNITIES · POUND-FOR-POUND · KNOWN SPECIFIC RISKS · NO PROOF OF LOSS · DISCLOSURE DOES NOT DEFEAT · CONTRAST WARRANTIES"
+          },
+          {
+            "card_code": "FLK1-BLP-119",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the purpose of restrictive covenants in a business sale agreement and what is the test for their enforceability?",
+            "answer": "**Purpose:** Post-completion restrictions prevent the seller from undermining the goodwill and value being transferred to the buyer. Typical covenants:\n- **Non-compete:** seller does not carry on a competing business within a specified area and period.\n- **Non-solicitation of clients/customers:** seller does not solicit or deal with customers of the business.\n- **Non-solicitation of staff:** seller does not poach key employees.\n- **Confidentiality:** seller does not use or disclose confidential information about the business.\n\n**Enforceability test** (*Nordenfelt v Maxim Nordenfelt Guns & Ammunition Co* [1894]):\nA restrictive covenant is enforceable only if it is **reasonable** in terms of:\n1. **Subject matter** — the type of restriction must protect a legitimate business interest.\n2. **Geographical scope** — must be no wider than necessary to protect the buyer's interest.\n3. **Duration** — must be no longer than necessary.\n\nCovenants that are wider than necessary are void. However, courts may **sever** an unreasonable element if the rest of the covenant can stand alone.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "RESTRICTIVE COVENANTS · NON-COMPETE · NON-SOLICITATION · NORDENFELT TEST · REASONABLE SCOPE DURATION SUBJECT MATTER · SEVERANCE POSSIBLE"
           }
         ]
       },
@@ -2952,6 +3124,68 @@
             "summary_line": "SMALL CO THRESHOLDS · ⚠️ VERIFY FIGURES · ABBREVIATED ACCOUNTS · AUDIT EXEMPTION · MICRO-ENTITY REGIME",
             "is_deeper": 0,
             "flk": "FLK1"
+          },
+          {
+            "card_code": "FLK1-BLP-121",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a confirmation statement, and when must a company file it?",
+            "answer": "A confirmation statement is a document filed with Companies House confirming that the company has checked its register information and that it is current. Under CA 2006 s.853A, every company must file at least one confirmation statement every 12 months — within 14 days of the end of each 12-month review period (calculated from the date of incorporation or the previous statement). It replaced the annual return in 2016.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONFIRMATION STATEMENT · ANNUAL · 14 DAYS · REVIEW PERIOD · CA 2006 S.853A · NOT ACCURACY CERTIFICATE"
+          },
+          {
+            "card_code": "FLK1-BLP-122",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What statutory registers must a company maintain under the Companies Act 2006?",
+            "answer": "Under CA 2006, companies must maintain: (1) register of members; (2) register of directors; (3) register of directors' residential addresses (kept confidential); (4) register of persons with significant control (PSC register); (5) register of secretaries (if applicable). These must generally be kept at the registered office or SAIL address and be available for inspection. Failure to maintain them is a criminal offence.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "STATUTORY REGISTERS · MEMBERS · DIRECTORS · PSC · SECRETARIES · REGISTERED OFFICE · INSPECTION"
+          },
+          {
+            "card_code": "FLK1-BLP-123",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the deadlines for filing accounts with Companies House, and what are the penalties for late filing?",
+            "answer": "Private company: accounts must be filed within 9 months of the accounting reference date (ARD). Public company: within 6 months of the ARD. Late filing attracts automatic civil penalties: for private companies — £150 (up to 1 month late) to £1,500 (over 6 months late); for public companies — £750 to £7,500. Penalties double for consecutive late years. Directors commit a criminal offence if they fail to prepare or file accounts.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ACCOUNTS DEADLINE · PRIVATE 9 MONTHS · PUBLIC 6 MONTHS · ARD · LATE FILING PENALTY · DOUBLES CONSECUTIVE"
+          },
+          {
+            "card_code": "FLK1-BLP-124",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When is a company exempt from the statutory audit requirement, and what are the key thresholds?",
+            "answer": "Under CA 2006 s.477–480, a small company may claim audit exemption if it satisfies at least two of three conditions: (1) annual turnover ≤ £10.2m; (2) balance sheet total ≤ £5.1m; (3) average number of employees ≤ 50. Exemption is unavailable to public companies, subsidiaries where the parent group requires an audit, banks, insurers, and certain other regulated entities. Shareholders holding ≥ 10% may require an audit by notice.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "AUDIT EXEMPTION · SMALL COMPANY · £10.2M TURNOVER · £5.1M BALANCE SHEET · 50 EMPLOYEES · TWO OF THREE · CA 2006 S.477"
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-BLP-SCE-062",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Broadgate Ltd is a private company with an accounting reference date of 31 March. It files its accounts on 17 June the following year — 14½ months after its ARD. Advise on the consequences.",
+            "answer": "Broadgate Ltd's filing deadline was 31 December (9 months after 31 March ARD). It filed approximately 5½ months late. A late filing penalty automatically applies. For a private company filing more than 3 but not more than 6 months late, the penalty is £750. If the company was also late in the previous year, the penalty doubles to £1,500. The directors are personally responsible for ensuring timely filing; persistent breach could constitute misconduct and be noted on public record at Companies House.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LATE FILING · PRIVATE 9 MONTHS · £750 PENALTY · DOUBLES CONSECUTIVE · DIRECTOR RESPONSIBILITY"
           }
         ]
       },
@@ -3116,6 +3350,42 @@
             "conclusion": "The Key Rule: Resignation does not extinguish wrongful trading liability under s.214 IA 1986. The defence requires every step to minimise loss to creditors — resignation alone does not satisfy this. Liability is assessed from the point of knowledge, not the point of resignation.",
             "summary_line": "WRONGFUL TRADING · S.214 IA 1986 · RESIGNATION NO DEFENCE · KNOWLEDGE OF INEVITABLE INSOLVENCY · EVERY STEP TO MINIMISE LOSS · LIQUIDATOR CAN PURSUE · PERIOD OF KNOWLEDGE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA buyer is acquiring all of the shares in a target company. The company has 45 employees. The student advises: 'TUPE will apply — you are acquiring the business and all the employees will transfer.'",
+            "answer": null,
+            "issue": "The Trap: TUPE applies whenever a business changes hands, so it must apply to a share purchase because the employees are effectively moving to a new owner.",
+            "rule": "The Reality: TUPE does **NOT apply** to a share purchase. In a share purchase, the employees remain employed by the **same legal entity** — the company. The company's ownership changes (the shares pass to the buyer), but there is no transfer of the undertaking from one employer to another. Employees' contracts continue unchanged without any TUPE implications. TUPE only applies to: (1) a business/asset transfer where an economic entity retains its identity, and (2) a service provision change.",
+            "application": "Why the Distractor Fails: The economic reality — employees work for the same business under new owners — makes it feel like TUPE should apply. But TUPE is a legal concept that depends on whether there is a transfer of an 'undertaking' (the entity employing the workers) from one employer to another. In a share purchase, the employing entity remains the same company; only its shareholders change. No undertaking is transferred.",
+            "conclusion": "The Key Rule: TUPE = asset purchase or service provision change only. Share purchase = no TUPE. Employees' terms are unaffected because the employer (the company) is the same legal entity throughout.",
+            "summary_line": "SHARE PURCHASE NO TUPE · SAME LEGAL ENTITY · EMPLOYEES UNCHANGED · TUPE ASSET PURCHASE ONLY · NO TRANSFER OF UNDERTAKING"
+          },
+          {
+            "card_code": "FLK1-BLP-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA director reviews the confirmation statement before it is filed and signs it off. It is filed on time. Three years later, Companies House finds that the company's registered office address filed two years ago was incorrect. The director says she is not liable because the confirmation statement confirmed accuracy when filed.",
+            "answer": null,
+            "issue": "The Trap: The confirmation statement is a certificate of accuracy — it confirms that all information currently held at Companies House is correct.",
+            "rule": "The Reality: A confirmation statement confirms only that the company has reviewed its register entries and that they are CURRENT — not that all previously filed information was accurate. It is a statement that the register reflects the present position, not an audit of past filings.",
+            "application": "Why the Distractor Fails: The language of CA 2006 s.853A is 'confirm' that information is up to date — not warrant historical accuracy. A misfiled address two years ago is a separate obligation to notify a change; the confirmation statement does not retrospectively cure historical errors.",
+            "conclusion": "The Key Rule: Confirmation statement = confirms the register is CURRENT today, not that all past filings were accurate. Errors must be corrected by separate notification, not by the annual confirmation.",
+            "summary_line": "CONFIRMATION STATEMENT · CURRENT NOT ACCURATE · SEPARATE NOTIFICATION FOR ERRORS · CA 2006 S.853A · NOT RETROSPECTIVE"
+          },
+          {
+            "card_code": "FLK1-BLP-TRAP-014",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nNadia holds 27% of the shares in Prescott Ltd and 24% of the voting rights. She does not have the right to appoint or remove a majority of directors, and she does not exercise dominant influence. Her adviser tells her she is not a PSC because she does not satisfy all the Schedule 1A conditions.",
+            "answer": null,
+            "issue": "The Trap: A person is only a PSC if they satisfy ALL of the conditions in Schedule 1A — e.g., majority of shares AND majority of votes AND right to appoint directors.",
+            "rule": "The Reality: The Schedule 1A conditions are ALTERNATIVE — a person is a registrable PSC if they satisfy ANY ONE of the five conditions. Each condition independently qualifies a person as a PSC. Nadia holds more than 25% of the shares, which alone is sufficient.",
+            "application": "Why the Distractor Fails: The Act lists the conditions as separate qualifying thresholds. Holding 25%+ of shares (condition 1) qualifies regardless of whether the 25%+ voting rights condition (condition 2) or the right to appoint directors (condition 3) is also met.",
+            "conclusion": "The Key Rule: PSC conditions are ALTERNATIVE, not cumulative — satisfying ANY ONE of the five Schedule 1A conditions makes a person a registrable PSC.",
+            "summary_line": "PSC · SCHEDULE 1A · ALTERNATIVE CONDITIONS · ANY ONE SUFFICES · 25% SHARES ALONE QUALIFIES · NOT CUMULATIVE"
           }
         ]
       },
@@ -3299,6 +3569,18 @@
             "conclusion": null,
             "summary_line": "S.678 PLC ONLY · PRIVATE CO EXEMPT · CA 1985 APPLIED TO ALL · WHITEWASH ABOLISHED · CA 2006 CHANGE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-126",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the main exceptions to the s.678 prohibition on financial assistance?",
+            "answer": "Under CA 2006 s.681–682, the following are permitted: (1) lawful distribution of dividends or bonus share allotments; (2) discharge of a lawfully incurred liability; (3) employees' share schemes (s.681(2)(b)); (4) money-lending companies providing assistance in the ordinary course of business; and (5) the s.682 de minimis exception — where the company's net assets are not reduced by the assistance, or where the assistance is provided out of distributable profits. Public companies have a narrower set of exceptions than private companies.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FINANCIAL ASSISTANCE · S.681 EXCEPTIONS · EMPLOYEES SHARE SCHEME · MONEY LENDING · S.682 DE MINIMIS · DISTRIBUTABLE PROFITS"
           }
         ],
         "Scenario cards": [
@@ -3327,6 +3609,18 @@
             "conclusion": null,
             "summary_line": "S.678 BREACH · PLC CHARGE PRE-COMPLETION · VOID SECURITY · CRIMINAL · CORRECT: ACQUIRE FIRST THEN CHARGE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-SCE-064",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Devlin plc is acquiring all the shares in Croft Ltd. To fund the acquisition, Devlin plc borrows from a bank. Croft Ltd provides a guarantee to the bank for the loan. Is this lawful?",
+            "answer": "Croft Ltd providing a guarantee for a loan taken out to acquire its own shares constitutes unlawful financial assistance under CA 2006 s.678. The guarantee is given 'in connection with' the acquisition of shares in Croft Ltd. None of the s.681–682 exceptions obviously apply (this is not an employees' scheme, ordinary lending, or a dividend). The assistance is void and criminal liability may arise for the company and its directors. The acquisition structure must be restructured to remove Croft Ltd's involvement in financing the purchase of its own shares.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FINANCIAL ASSISTANCE · S.678 · GUARANTEE FOR ACQUISITION LOAN · UNLAWFUL · VOID · RESTRUCTURE REQUIRED"
           }
         ],
         "Trap cards": [
@@ -3400,6 +3694,18 @@
             "conclusion": null,
             "summary_line": "TRUST HOLDING · FIFTH PSC CONDITION · BENEFICIARY IS PSC · SIGNIFICANT INFLUENCE THROUGH TRUST · UBO",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-BLP-125",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the consequences of failing to comply with PSC disclosure obligations under CA 2006?",
+            "answer": "Failure to disclose PSC information is a criminal offence under CA 2006. Both the company and every officer in default commit an offence, punishable by an unlimited fine (on indictment) or a summary fine. Additionally, the company may issue a 'restrictions notice' under s.790U, which restricts the rights attached to the relevant shares — including the right to transfer, vote, or receive dividends — until the holder complies with the disclosure obligations.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PSC DISCLOSURE · CRIMINAL OFFENCE · UNLIMITED FINE · RESTRICTIONS NOTICE · S.790U · TRANSFER VOTE DIVIDEND FROZEN"
           }
         ],
         "Scenario cards": [
@@ -3428,92 +3734,18 @@
             "conclusion": null,
             "summary_line": "SUBSIDIARY PSC REGISTER · REQUIRED · LISTED PARENT = RLE ENTRY · DTR5 EXEMPTION PARENT ONLY · CRIMINAL",
             "is_deeper": 0
-          }
-        ]
-      },
-      "TUPE Service Provision Change": {
-        "Definition and scope": [
-          {
-            "card_code": "FLK1-BLP-112",
-            "card_type": 1,
-            "difficulty": "Foundation",
-            "front": "What is a 'service provision change' under TUPE 2006, and how does it differ from a business transfer?",
-            "answer": "The Transfer of Undertakings (Protection of Employment) Regulations 2006 (TUPE) apply in two situations:\n\n1. Business transfer: A transfer of an economic entity that retains its identity — the classic TUPE scenario, established under the Acquired Rights Directive.\n\n2. Service provision change (SPC): A situation where:\n   (a) activities cease to be carried out by a client on their own behalf and are carried out instead by a contractor (outsourcing);\n   (b) activities cease to be carried out by a contractor on a client's behalf and are carried out instead by a new contractor (re-tendering); or\n   (c) activities cease to be carried out by a contractor on a client's behalf and are carried out instead by the client (insourcing).\n\nKey difference: A business transfer requires an economic entity retaining its identity — employees, assets, goodwill. A service provision change requires only that an organised grouping of employees is principally dedicated to the activities being transferred. No transfer of assets is necessary.\n\nThe SPC category was introduced by TUPE 2006 (it did not exist under the earlier 1981 regulations) to capture outsourcing and re-tendering situations that might not satisfy the economic entity test.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "SERVICE PROVISION CHANGE · TUPE 2006 · OUTSOURCING · RE-TENDERING · INSOURCING · NO ASSETS NEEDED",
-            "is_deeper": 0
           },
           {
-            "card_code": "FLK1-BLP-113",
-            "card_type": 1,
-            "difficulty": "Application",
-            "front": "A company outsources its IT helpdesk function to a service provider. The helpdesk team of 8 employees has always worked exclusively on this function. Does TUPE apply?",
-            "answer": "Yes — this is a service provision change under reg.3(1)(b) TUPE 2006. The conditions for an SPC are:\n\n1. Immediately before the change, there was an organised grouping of employees situated in Great Britain: ✓ — the 8 employees constitute an organised grouping.\n2. The grouping was principally dedicated to carrying out the activities: ✓ — they worked exclusively on the IT helpdesk function.\n3. The client intended that the activities would be carried out by the transferee (the service provider): ✓ — the outsourcing contract confirms this.\n4. The activities must not be a single specific event or short-term duration (reg.3(3)): ✓ — assumed to be an ongoing service.\n\nEffect of TUPE applying:\n— All 8 employees transfer automatically to the service provider on their existing terms and conditions.\n— Continuity of employment is preserved.\n— Dismissal in connection with the transfer is automatically unfair.\n— The service provider inherits all existing employment liabilities (including accrued holiday pay, potential claims etc.).\n— The company must provide employee liability information to the service provider at least 28 days before the transfer.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "SPC OUTSOURCING · ORGANISED GROUPING · PRINCIPALLY DEDICATED · TRANSFERS AUTOMATICALLY · ELI 28 DAYS",
-            "is_deeper": 0
-          }
-        ],
-        "Application and consequences": [
-          {
-            "card_code": "FLK1-BLP-114",
-            "card_type": 1,
-            "difficulty": "Application",
-            "front": "A service contract for office cleaning is re-tendered and awarded to a new provider. The old provider's 5 cleaning staff are not offered employment by the new provider. What is the legal position?",
-            "answer": "This is a service provision change — the re-tendering scenario under reg.3(1)(b)(ii) TUPE 2006.\n\nIf TUPE applies:\n— The 5 cleaning staff transfer automatically to the new provider on their existing terms and conditions.\n— The new provider cannot simply refuse to take them — the transfer is automatic by operation of law.\n— If the new provider refuses to employ them, this is equivalent to dismissal in connection with the transfer — automatically unfair under reg.7 TUPE.\n— The employees have claims for automatic unfair dismissal against the new provider (the transferee).\n\nConditions check:\n— Organised grouping of employees: 5 cleaning staff dedicated to this contract — likely ✓.\n— Principally dedicated: if they clean exclusively for this client — ✓. If they clean multiple clients' premises, the 'principally dedicated' test may not be satisfied — the grouping must be principally dedicated to the activities, not incidentally involved.\n\nThe new provider's solicitor should advise them of the TUPE risk at the tendering stage — before the contract is awarded — so they can price in the inherited employment costs.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "RE-TENDERING SPC · AUTOMATIC TRANSFER · CANNOT REFUSE · AUTOMATIC UNFAIR DISMISSAL · PRINCIPALLY DEDICATED",
-            "is_deeper": 0
-          },
-          {
-            "card_code": "FLK1-BLP-115",
-            "card_type": 1,
-            "difficulty": "Complex",
-            "front": "What is 'employee liability information' under TUPE and what happens if the transferor fails to provide it?",
-            "answer": "Employee liability information (ELI) is information that the transferor (outgoing employer) must provide to the transferee (incoming employer) about the employees who will transfer under TUPE.\n\nRequired information (reg.11 TUPE 2006):\n— Identity and age of transferring employees.\n— Employment particulars (as would appear in a s.1 ERA 1996 statement).\n— Information about any disciplinary action taken or grievances raised in the past 2 years.\n— Any court or tribunal proceedings in the past 2 years and any anticipated claims.\n— Information about collective agreements.\n\nTimescale: ELI must be provided at least 28 days before the transfer.\n\nConsequence of failure: If the transferor fails to provide ELI (or provides inaccurate/incomplete information), the transferee may bring a claim in the Employment Tribunal. The Tribunal may award compensation as it considers just and equitable — there is a minimum award of £500 per employee but no maximum.\n\nWhy it matters: The transferee inherits all employment liabilities. ELI allows them to assess the risk and price it into the deal. A transferee who receives late or incomplete ELI is prejudiced and the remedy is compensation from the transferor.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "ELI · REG 11 TUPE · 28 DAYS BEFORE TRANSFER · DISCIPLINARY GRIEVANCES CLAIMS · £500 MIN PER EMPLOYEE",
-            "is_deeper": 0
-          }
-        ],
-        "Scenario cards": [
-          {
-            "card_code": "FLK1-BLP-SCE-058",
+            "card_code": "FLK1-BLP-SCE-063",
             "card_type": 3,
             "difficulty": "Application",
-            "front": "A law firm outsources its photocopying and printing function to an external reprographics company. The three members of the firm's internal print room have always handled all printing for the firm. Does TUPE apply?",
-            "answer": "This is an SPC outsourcing scenario. The key question is whether the three print room employees form an 'organised grouping principally dedicated' to the outsourced activities.\n\nOn these facts:\n— The three employees form an organised grouping: they operate as a distinct unit within the firm. ✓\n— They are principally dedicated to the activities: they handle all printing for the firm and nothing else. ✓\n— The activities are being transferred from the client (law firm) to a contractor (reprographics company): ✓\n— The activities appear ongoing (not a single event or short-term task): ✓\n\nTUPE likely applies. The three employees would transfer automatically to the reprographics company.\n\nPractical advice to the law firm:\n— Inform and consult with the affected employees before the transfer (reg.13 TUPE — 'inform and consult' obligation).\n— Provide ELI to the reprographics company at least 28 days before the transfer.\n— The reprographics company must take on the employees on their existing terms and conditions.\n— Any attempt to dismiss the employees to avoid the TUPE transfer is likely to be automatically unfair.",
+            "front": "Harriet acquires 26% of the shares in Dunmore Ltd, a private limited company. The other four shareholders each hold roughly 18.5% after the acquisition. What are Harriet's obligations under the PSC regime?",
+            "answer": "Harriet has acquired more than 25% of the shares (and likely votes) in Dunmore Ltd, satisfying the first PSC condition in CA 2006 Schedule 1A (more than 25% of shares or voting rights). She is therefore a registrable person with significant control. Harriet must notify Dunmore Ltd within one month of becoming a registrable PSC. Dunmore Ltd must then update its PSC register and file a PSC02 (confirmation of registrable persons) at Companies House within 14 days of the change.",
             "issue": null,
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "OUTSOURCING SPC · PRINT ROOM · ORGANISED GROUPING · PRINCIPALLY DEDICATED · INFORM CONSULT · ELI 28 DAYS",
-            "is_deeper": 0
-          },
-          {
-            "card_code": "FLK1-BLP-SCE-059",
-            "card_type": 3,
-            "difficulty": "Complex",
-            "front": "A company re-tenders its security guarding contract. The new contractor proposes to use a completely different workforce — none of the old contractor's guards. The old contractor's guards each split their time between three different client sites. Does TUPE apply?",
-            "answer": "The critical issue is whether the guards form an 'organised grouping principally dedicated' to the activities being transferred.\n\n'Principally dedicated' means the principal purpose of the grouping is to carry out the activities for this particular client. If each guard spends, say, one-third of their time at this client's site and two-thirds at other clients' sites, their principal dedication is not to this specific client — and the SPC condition may not be satisfied.\n\nThe analysis:\n— If no guard is principally dedicated to this client (each splits time across three sites), there is no organised grouping principally dedicated to the transferring activities.\n— TUPE may not apply — the guards do not transfer.\n— The old contractor retains its obligations to the guards; the new contractor is free to engage its own workforce.\n\nThis is a common scenario in multi-site service contracts. The 'principally dedicated' test is a safeguard against TUPE being used to transfer workers who have only an incidental connection to the client's contract. The outcome turns on the factual analysis of where each employee spends most of their working time.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "PRINCIPALLY DEDICATED TEST · SPLIT ACROSS SITES · NOT PRINCIPALLY DEDICATED · SPC MAY NOT APPLY",
-            "is_deeper": 0
+            "summary_line": "PSC · 25% THRESHOLD · NOTIFY COMPANY ONE MONTH · PSC REGISTER UPDATE · PSC02 AT COMPANIES HOUSE · 14 DAYS"
           }
         ]
       }

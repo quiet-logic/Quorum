@@ -176,7 +176,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ROBINSON · INCREMENTAL APPROACH · ESTABLISHED CATEGORIES · NOLAN AND ROBERTSON CRITIQUE · HILL IMMUNITY · MICHAEL · CAPARO MARGINALISED · AUSTRALIA SALIENT FEATURES",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -372,7 +372,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PURE ECONOMIC LOSS · SPARTAN STEEL · MURPHY v BRENTWOOD · FLOODGATES · HEDLEY BYRNE EXCEPTION · ASSUMED RESPONSIBILITY · ACADEMIC CRITIQUE · NO REFORM",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -718,6 +718,90 @@
             "conclusion": null,
             "summary_line": "EMPLOYER NON-DELEGABLE DUTIES · SAFE PLACE · SAFE SYSTEM · COMPETENT COLLEAGUES · EQUIPMENT · WILSONS & CLYDE COAL · ELDA 1969",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-094",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the employer's non-delegable duty of care and what four components does it comprise?",
+            "answer": "An employer owes a **personal, non-delegable duty** of care to each employee to take reasonable care for their safety at work. The duty cannot be discharged by delegating it to an independent contractor or fellow employee — if those persons are negligent, the employer remains liable.\n\n**The four components (Wilsons and Clyde Coal Co v English [1938], HL):**\n1. **Safe place of work** — safe premises and means of access.\n2. **Safe system of work** — proper organisation, supervision, instructions, and working practices.\n3. **Safe equipment** — provision and maintenance of safe tools and plant.\n4. **Safe and competent fellow employees** — reasonable care in selection, retention, and supervision of staff.\n\n**Non-delegable:** If the employer hires an independent contractor to fulfil one of these duties (e.g. maintain equipment) and the contractor is negligent, the employer is still liable — the duty cannot be outsourced away (*McDermid v Nash Dredging [1987]*).\n\n**Standard:** Reasonable care in all the circumstances — this is a negligence standard, not strict liability. The employer must do what a reasonable employer would do to address a known or foreseeable risk.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EMPLOYER'S DUTY · NON-DELEGABLE · WILSONS AND CLYDE COAL · SAFE PLACE · SAFE SYSTEM · SAFE EQUIPMENT · COMPETENT STAFF · REASONABLE CARE"
+          },
+          {
+            "card_code": "FLK1-TORT-095",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the employer's duty to provide a safe place of work apply where an employee has a known vulnerability? Refer to Paris v Stepney Borough Council [1951].",
+            "answer": "The employer's duty to provide a safe place of work (and safe conditions generally) requires the employer to take reasonable precautions against **foreseeable risks**. Where an employee has a known vulnerability, the reasonable precautions required may be higher than for an average employee.\n\n**Paris v Stepney Borough Council [1951] (HL):**\n- Paris was employed in a garage and was blind in one eye — the employer knew this.\n- He was given no goggles. A chip of metal flew into his good eye and he was rendered completely blind.\n- The issue: were goggles required? The risk of a fragment entering one eye was small; standard practice at the time was not to provide goggles for this work.\n- **Held:** The employer was negligent. Even if goggles were not required for a sighted employee (the risk to them was minor, causing partial sight loss), the **catastrophic consequence** for Paris — total blindness — was foreseeable and the precaution (providing goggles) was minimal. The greater the potential harm, the greater the care required.\n\n**Principle from Paris:** Severity of potential harm to a *particular* employee is a relevant factor in assessing what precautions a reasonable employer should take. Knowledge of vulnerability elevates the standard of care.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAFE PLACE OF WORK · PARIS V STEPNEY · KNOWN VULNERABILITY · SEVERITY OF HARM · GOGGLES · FORESEEABLE CATASTROPHIC HARM · ELEVATED STANDARD"
+          },
+          {
+            "card_code": "FLK1-TORT-096",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What does the employer's duty to provide safe equipment require, and how did Latimer v AEC Ltd [1953] define the limits of that duty?",
+            "answer": "The employer's duty to provide **safe equipment** requires taking reasonable care to select, supply, and maintain safe tools, machinery, and plant, and to warn employees of known defects.\n\n**Latimer v AEC Ltd [1953] (HL):**\n- A factory was flooded by heavy rain; oil and water mixed on the floor, making it slippery.\n- The employer put down sawdust on most of the floor but could not cover all areas.\n- Latimer slipped on an uncovered area and was injured.\n- He argued the employer should have closed the factory until the floor was safe.\n- **Held:** The employer was not negligent. The risk (a slippery floor) was a known hazard but the employer had taken reasonable steps (sawdust). The cost and disruption of closing the factory was disproportionate to the risk — a reasonable employer would not have closed the factory.\n\n**Principle from Latimer:** The employer must take **reasonable** precautions proportionate to the risk. Where the risk is foreseeable but limited, and the employer has taken reasonable steps to reduce it, the duty does not require extreme measures (such as shutting down operations). This reflects the general breach of duty calculus: probability × severity vs cost and practicability of precautions.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAFE EQUIPMENT · LATIMER V AEC · SLIPPERY FLOOR · REASONABLE PRECAUTIONS · PROPORTIONALITY · FACTORY NOT REQUIRED TO CLOSE · RISK CALCULUS"
+          },
+          {
+            "card_code": "FLK1-TORT-097",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the employer's duty regarding competent fellow employees, and what does Hudson v Ridge Manufacturing Co [1957] illustrate?",
+            "answer": "The employer must exercise reasonable care in the **selection, retention, and supervision** of employees to ensure that employees do not pose a risk of harm to their colleagues.\n\n**Hudson v Ridge Manufacturing Co [1957]:**\n- A fellow employee had a known habit of playing dangerous practical jokes on colleagues — he had been reprimanded but not dismissed.\n- He grabbed the claimant, threw him to the floor, and the claimant broke his wrist.\n- **Held:** The employer was liable. The employer knew of the employee's dangerous behaviour (a 'persistent practical joker') and failed to take adequate steps to prevent it (warnings had not worked — dismissal may have been required). The employer breached the duty to provide competent fellow employees.\n\n**Key principle:** If an employer knows (or ought to know) that an employee is a risk to colleagues, the employer must take action proportionate to the risk — including dismissal if lesser steps have proved ineffective. The duty is not merely to warn but to protect.\n\n**Contrast with vicarious liability:** This is the employer's **direct** duty — liability flows from the employer's own failure to act, not merely from the act of the employee. Both can apply on the same facts.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COMPETENT FELLOW EMPLOYEES · HUDSON V RIDGE · KNOWN DANGEROUS EMPLOYEE · EMPLOYER MUST ACT · WARNINGS INSUFFICIENT · DIRECT DUTY NOT VICARIOUS"
+          },
+          {
+            "card_code": "FLK1-TORT-CASE-052",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Wilsons and Clyde Coal Co v English [1938]",
+            "answer": null,
+            "issue": "Whether the employer's duty of care to employees is personal and non-delegable, or whether the employer can discharge it by appointing a competent third party to perform safety functions.",
+            "rule": "The employer's duty to provide a safe system of work, safe premises, safe equipment, and competent staff is a personal, non-delegable duty. The employer cannot discharge this duty by delegating it to another — if the delegate is negligent, the employer remains liable.",
+            "application": "A coalmine employee was injured when descending the mine at the end of a shift because the mine's haulage system (which the employer was required by statute to operate safely) was defective. The employer argued it had delegated management of the system to a competent manager, and that the manager's negligence, not the employer's, was the cause. The House of Lords rejected this: the employer's duty was personal and could not be delegated. Delegation to a manager did not relieve the employer of liability.",
+            "conclusion": "Employer liable. Wilsons and Clyde Coal is the foundational authority for the employer's non-delegable four-component duty of care. It establishes that the employer's duty cannot be outsourced — the employer remains personally responsible for any failure.",
+            "summary_line": "WILSONS AND CLYDE COAL 1938 · NON-DELEGABLE DUTY · FOUR COMPONENTS · SAFE PLACE · SAFE SYSTEM · SAFE EQUIPMENT · COMPETENT STAFF · HL AUTHORITY"
+          },
+          {
+            "card_code": "FLK1-TORT-CASE-053",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "McDermid v Nash Dredging and Reclamation Co Ltd [1987]",
+            "answer": null,
+            "issue": "Whether an employer is liable when an employee is injured by the negligence of an independent contractor engaged by the employer to carry out operations forming part of the employer's non-delegable duty.",
+            "rule": "The employer's duty to provide a safe system of work is non-delegable. If the employer delegates operation of a safe working system to an independent contractor who fails to implement it safely, the employer remains personally liable for the resulting injury.",
+            "application": "McDermid worked as a deckhand on a Dutch-owned tug, engaged by his employer Nash Dredging under an arrangement with a Dutch company. The captain of the Dutch tug (an independent contractor's employee) gave a signal to start engines before McDermid had finished work on deck. McDermid was swept overboard and lost his legs. Nash Dredging had delegated control of the safe system of working to the Dutch company. The House of Lords held Nash Dredging liable — the duty to provide a safe system of work was the employer's personal duty and could not be discharged by delegation.",
+            "conclusion": "Employer liable despite delegation to independent contractor. McDermid confirms and applies the Wilsons and Clyde Coal principle: the employer's duty to provide a safe system of work is non-delegable and cannot be outsourced.",
+            "summary_line": "MCDERMID V NASH DREDGING 1987 · NON-DELEGABLE SAFE SYSTEM · INDEPENDENT CONTRACTOR DELEGATION INSUFFICIENT · EMPLOYER PERSONALLY LIABLE · HL AUTHORITY"
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-049",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Yasmin works for CleanCo as a window cleaner. Her employer issues ladders but no training on ladder safety. Her supervisor, who is employed by CleanCo, told her the system is 'straightforward — just get on with it.' One day a ladder slips on a wet pavement and Yasmin falls, suffering a broken arm. She sues CleanCo. Advise her.",
+            "answer": "Yasmin should sue CleanCo in negligence for breach of the employer's non-delegable duty of care.\n\n**Components engaged:**\n1. **Safe system of work** — CleanCo provided no training on ladder safety and gave no instructions on assessing wet or uneven surfaces. The supervisor's dismissive attitude ('just get on with it') indicates no proper system was in place. This is the primary breach.\n2. **Safe equipment** — it should also be considered whether the ladders themselves were in good condition and whether non-slip feet or stabilisers should have been provided.\n\n**Breach:**\n- A reasonable employer providing window cleaning services would have implemented a safe system for ladder use, including training on wet-weather risks, surface checks, and stabiliser use.\n- The failure to do so is a breach of the duty to provide a safe system of work: *Wilsons and Clyde Coal v English* [1938].\n\n**Causation:** But for the failure to train Yasmin on wet-surface ladder safety, she would likely have been instructed to take precautions or to decline to use the ladder on the wet pavement. The breach caused her injury.\n\n**Defences:** CleanCo might argue contributory negligence if Yasmin disregarded known risks, but without training she cannot reasonably be expected to have known the proper precautions.\n\n**Conclusion:** Claim likely to succeed. Damages for the broken arm, plus any lost earnings during recovery.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EMPLOYER'S DUTY · SAFE SYSTEM OF WORK · NO TRAINING · WILSONS AND CLYDE COAL · BREACH · CAUSATION · CONTRIBUTORY NEGLIGENCE POSSIBLE"
           }
         ],
         "Breach of Duty — The Standard of Care": [
@@ -1040,7 +1124,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "MONTGOMERY · PATIENT AUTONOMY · ARTICLE 8 ECHR · SIDAWAY OVERRULED · THERAPEUTIC PRIVILEGE · CAUSATION DIFFICULTY · BOLAM RETAINED FOR TREATMENT · HERRING CRITIQUE",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1202,7 +1286,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CAUSATION · BUT-FOR · FAIRCHILD EXCEPTION · STAPLETON CRITIQUE · BARKER v CORUS · CA 2006 S.3 · GREGG v SCOTT · LOSS OF CHANCE · NESS TEST · PATCHWORK",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1406,7 +1490,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ALCOCK CONTROL MECHANISMS · ARBITRARY · LORD OLIVER · LAW COMMISSION 1998 · PAUL [2024] RETAINED · MEDICAL OMISSION DISTINCTION · NO REFORM IMMINENT",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -1840,7 +1924,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "HUNTER · PROPRIETARY STANDING · LORD COOKE DISSENT · LAW COMMISSION 1996 · FEARN v TATE [2023] · VISUAL INTRUSION · OVERLOOKING · PLANNING CONSENT NOT AUTHORISATION",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2058,7 +2142,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "RYLANDS v FLETCHER · CAMBRIDGE WATER · FORESEEABILITY ADDED · SUB-SPECIES NUISANCE · NON-NATURAL USE · NOLAN ABOLITIONIST · LAW COMMISSION RETAINED · AUSTRALIA ABOLISHED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2276,7 +2360,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DA 2013 · SERIOUS HARM · LACHAUX · S.4 PUBLIC INTEREST · REYNOLDS REPLACED · SLAPPs · CHILLING EFFECT · MULLIS AND SCOTT · ARTICLE 10 ECHR · CORPORATE CLAIMANTS",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2554,6 +2638,90 @@
             "conclusion": null,
             "summary_line": "TRESPASS vs NUISANCE · DIRECT vs INDIRECT · TREE ROOTS · DUMPING WASTE · OVERHANG · TRESPASS PER SE · NUISANCE REQUIRES DAMAGE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-098",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the remedies available for trespass to land?",
+            "answer": "Trespass to land is actionable per se — no damage needs to be proved. Remedies include:\n\n1. **Nominal damages** — recoverable even where no actual loss is suffered, to vindicate the possessory right.\n2. **Compensatory damages** — for any actual loss caused: damage to the land, loss of use, or interference with enjoyment.\n3. **Mesne profits** — compensation for the defendant's wrongful use and occupation of land, assessed as a reasonable rent for the period of trespass. Available where the defendant has been in occupation (e.g. as a trespasser remaining after a licence expires).\n4. **Injunction** — an equitable remedy to restrain a continuing or threatened trespass. Courts are generally ready to grant injunctions to protect possessory rights in land, particularly where the trespass is ongoing or threatened to continue and damages would be inadequate.\n5. **Recovery of possession** — the claimant may also seek to recover possession of land from which they have been dispossessed.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ACTIONABLE PER SE · NOMINAL DAMAGES · MESNE PROFITS · INJUNCTION · RECOVERY OF POSSESSION"
+          },
+          {
+            "card_code": "FLK1-TORT-099",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the main defences to a claim of trespass to land?",
+            "answer": "1. **Licence** — the claimant consented to the defendant's presence. A licence may be express or implied by conduct. It continues until revoked or until it expires by its own terms. Once a licence for a fixed purpose or period expires, no revocation is needed — the defendant becomes a trespasser automatically.\n2. **Justification by law** — the defendant had a legal right to enter: a court order, a statutory power of entry (e.g. a search warrant under PACE 1984 s.8), a public right of way, or a common law right.\n3. **Public right of way** — a highway or registered footpath; persons exercising a right to pass and repass are not trespassers, though they cannot deviate from the path.\n4. **Necessity** — entry was justified by genuine emergency to protect life or property (scope is narrow; genuine and immediate necessity required).\n5. **Licence by estoppel** — where the defendant relied on a representation that they could enter and it would be unconscionable to allow the claimant to deny it.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LICENCE · JUSTIFICATION BY LAW · PUBLIC RIGHT OF WAY · NECESSITY · LICENCE EXPIRY BY OWN TERMS"
+          },
+          {
+            "card_code": "FLK1-TORT-100",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the rules on airspace and subsurface trespass? Refer to key cases.",
+            "answer": "**Airspace:** *Bernstein v Skyviews & General Ltd* [1978] QB 479 — a landowner's rights in airspace extend only to a reasonable height necessary for the ordinary use and enjoyment of the land. Above that height, the airspace is not part of the land. Aircraft flying at normal operating heights do not trespass. However, structures or intrusions into the lower stratum (e.g. crane jibs, advertising hoardings, branches) do constitute trespass.\n\n**Subsurface:** *Bocardo SA v Star Energy UK Onshore Ltd* [2010] UKSC 35 — the UKSC confirmed that a landowner's rights extend downwards without limit, subject only to statutory exceptions (e.g. coal, oil, gas vesting in the Crown). Star Energy drilled oil extraction pipes approximately 800 metres below Bocardo's land without consent. Held: trespass established regardless of depth. The principle *cuius est solum eius est usque ad caelum et ad inferos* applies in full to the subsurface (though restricted at the upper end by *Bernstein*).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BERNSTEIN AIRSPACE · REASONABLE HEIGHT · BOCARDO SUBSURFACE · CUIUS EST SOLUM · NO DEPTH EXEMPTION · UKSC 2010"
+          },
+          {
+            "card_code": "FLK1-TORT-101",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is trespass ab initio and when does it arise?",
+            "answer": "Trespass ab initio arises where a person enters land under lawful authority but subsequently abuses that authority. When the abuse occurs, the entry becomes unlawful retrospectively — treated as trespass from the outset.\n\n**Requirements:** (1) Initial lawful authority — licence, statutory power, or other right of entry. (2) Abuse of that authority — a subsequent positive wrongful act (not a mere omission) on the land; e.g. committing assault, theft, or exceeding the scope of the authorisation.\n\n**Classic case:** *Six Carpenters' Case* (1610) — persons entered an inn under the general licence to members of the public and were served food and drink. They refused to pay. Held: non-payment was merely a nonfeasance (omission), not a positive act — trespass ab initio therefore did not arise. Had they committed a positive wrong (e.g. stealing goods), the entry would have been trespassory from the start.\n\n**Modern significance:** The doctrine is rarely applied today. Courts generally prefer to assess the specific wrong directly. However, it can be relevant where an enforcement officer or official exceeds the scope of a warrant or other statutory authority.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TRESPASS AB INITIO · LAWFUL ENTRY THEN ABUSE · POSITIVE WRONGFUL ACT · SIX CARPENTERS' CASE · RETROSPECTIVE TRESPASS"
+          },
+          {
+            "card_code": "FLK1-TORT-CASE-054",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Bocardo SA v Star Energy UK Onshore Ltd [2010] UKSC 35",
+            "answer": null,
+            "issue": "Whether drilling oil extraction pipelines approximately 800–900 metres below the surface of another person's land, without consent, constitutes trespass to land.",
+            "rule": "A landowner's property rights extend downwards without limit, in accordance with the maxim cuius est solum eius est usque ad caelum et ad inferos (subject to statutory exceptions such as the Crown's rights in oil, coal and gas). Subsurface trespass is actionable regardless of depth, even where there is no surface impact and the landowner suffers no quantifiable harm.",
+            "application": "Star Energy drilled three horizontal oil extraction pipes through Bocardo's land at depths of approximately 800–900 metres to reach an oil reservoir. Star had no permission from Bocardo and argued that at such depth the landowner had no effective property rights. The UKSC unanimously rejected this: the subsurface at any depth is part of the land, and entry without permission is trespass. As Bocardo suffered no quantifiable loss, damages were nominal (assessed at £1,000 taking into account the nature of the intrusion).",
+            "conclusion": "Trespass to land is established. The landowner is entitled to nominal damages (a small sum reflecting the lack of actual loss) and an injunction to prevent future trespass. Bocardo confirms that subsurface property rights are as absolute as surface rights, and that depth provides no exemption from trespass liability.",
+            "summary_line": "BOCARDO V STAR ENERGY · SUBSURFACE TRESPASS · 800 METRES DEPTH · CUIUS EST SOLUM · NOMINAL DAMAGES · UKSC 2010"
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-050",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Nathan grants Olivia a licence to enter his garden to collect apples 'until 30 September.' On 1 October Olivia returns to collect remaining apples. Nathan has not revoked the licence in writing. Is Olivia a trespasser?",
+            "answer": "Yes — Olivia is a trespasser from 1 October.\n\n**Analysis:**\n1. **Licence granted and effective:** Olivia's entries up to 30 September were lawful — she had a valid licence to be on the land for apple collection purposes.\n2. **Licence expires by its own terms:** The licence was expressed to last 'until 30 September.' On 1 October, the licence has expired by its own terms. No positive revocation by Nathan is required — the licence simply ceases to have effect at the end of the stipulated period.\n3. **No revocation needed:** The doctrine of revocation applies to licences that are otherwise continuing. Where a licence is limited to a specific time or purpose and that time or purpose has passed or been fulfilled, the licence terminates automatically.\n4. **Olivia's entry on 1 October** is therefore without authorisation. There is no continuing licence, no other lawful justification, and Nathan has not granted a fresh permission. Olivia is a trespasser.\n5. **Remedy:** Nathan may pursue trespass to land (actionable per se — no damage required), seek an injunction to prevent future entries, and recover mesne profits or damages if any loss was caused.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LICENCE EXPIRES BY OWN TERMS · NO REVOCATION NEEDED · TRESPASSER FROM 1 OCTOBER · ACTIONABLE PER SE"
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-051",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A property developer drills horizontal oil extraction shafts 800 metres below a neighbouring landowner's farmland without permission. The farmland owner claims trespass. Advise.",
+            "answer": "The farmland owner has a strong claim in trespass to land.\n\n**Bocardo SA v Star Energy UK Onshore Ltd** [2010] UKSC 35 governs directly. The UKSC held that a landowner's rights extend to the subsurface without limit (subject to statutory exceptions for Crown minerals). Drilling beneath another's land at any depth without consent constitutes trespass.\n\n**Elements satisfied:**\n- **Entry into claimant's land** — the shafts pass through subterranean land owned by the farmland owner.\n- **Without consent** — no permission was granted.\n- **Intentional** — the act of drilling was deliberate.\n\n**Remedies:**\n1. **Nominal damages** — if the farmland owner cannot prove specific financial loss, nominal damages are recoverable (trespass is actionable per se).\n2. **Compensatory damages** — if quantifiable loss exists (e.g. interference with subsurface mineral rights, diminution in land value), full compensatory damages.\n3. **Injunction** — to restrain continuation of the trespass (i.e. require removal of the shafts or cessation of use). The court has discretion but given the ongoing nature of the trespass, an injunction is likely.\n4. **Mesne profits** — if the developer has extracted value from the farmland's subsurface, the owner may also seek an account of profits.\n\n**No viable defence:** No Crown exception applies (the shafts are not extracting a reserved mineral without further licence); no statutory authority; no consent.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BOCARDO APPLIES · SUBSURFACE TRESPASS · INJUNCTION LIKELY · NOMINAL OR COMPENSATORY DAMAGES · MESNE PROFITS POSSIBLE"
           }
         ]
       },
@@ -2784,7 +2952,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "VICARIOUS LIABILITY · CLOSE CONNECTION · LISTER · VARIOUS CLAIMANTS · MOHAMUD · BARCLAYS BANK · COX · ARMES · ENTERPRISE RISK · DEEP POCKETS · MORGAN CRITIQUE",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2906,6 +3074,42 @@
             "conclusion": null,
             "summary_line": "CPA 1987 · STRICT LIABILITY · DEFECTIVE PRODUCT · MANUFACTURER · SUPPLIER · S.2 · S.3 DEFECT · PERSONAL INJURY · NO FAULT REQUIRED",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-111",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "Who has standing to bring a claim under the Consumer Protection Act 1987, and who can be held liable?",
+            "answer": "Any person who suffers death, personal injury, or damage to private property exceeding £275 can bring a claim. Those liable under s.2 CPA 1987 include: (1) the producer (manufacturer); (2) own-branders — those who hold themselves out as producer by putting their name/mark on the product; (3) the importer into the UK (or EU); and (4) suppliers who, when asked by the claimant, fail to identify the producer, own-brander, or importer within a reasonable time. Liability is strict — no need to prove fault.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CPA 1987 S.2 · PRODUCER · OWN-BRANDER · IMPORTER · SUPPLIER · STRICT LIABILITY · £275 PROPERTY THRESHOLD"
+          },
+          {
+            "card_code": "FLK1-TORT-112",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How is 'defect' defined under the Consumer Protection Act 1987, and how is the standard assessed?",
+            "answer": "Under s.3 CPA 1987, a product is defective if it does not provide the safety which persons generally are entitled to expect. This is an objective standard assessed at the time the product was supplied. Relevant factors include: how the product is marketed; what might reasonably be expected to be done with it; and instructions and warnings provided. A product is not defective merely because a safer version is later put into circulation. The standard is not the highest possible safety level — only the level persons are reasonably entitled to expect.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CPA 1987 S.3 · DEFECT · SAFETY PERSONS ENTITLED TO EXPECT · OBJECTIVE STANDARD · NOT HIGHEST POSSIBLE · TIME OF SUPPLY"
+          },
+          {
+            "card_code": "FLK1-TORT-CASE-056",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "A v National Blood Authority [2001]",
+            "answer": null,
+            "issue": "Whether blood products contaminated with Hepatitis C were 'defective' under s.3 CPA 1987, and whether the development risks defence applied.",
+            "rule": "The safety standard in s.3 is assessed against what persons generally are entitled to expect. Products known to carry a risk can be defective even if individual items cannot be tested or defects cannot be prevented. The development risks defence (s.4(1)(e)) requires that the defect was not discoverable given the state of scientific knowledge at the time — it does not apply where the risk itself was known.",
+            "application": "The defendants knew that some blood products were infected with Hepatitis C but had no means to screen individual units. Burton J held the products were defective because the public was entitled to expect safe blood. The defence failed: the risk was known, even though the extent could not be predicted.",
+            "conclusion": "A known risk that cannot be eliminated does not trigger the development risks defence. Once a risk is known, the product can be defective even without the ability to identify or prevent individual defects.",
+            "summary_line": "A v NATIONAL BLOOD AUTHORITY · HEPATITIS C · DEFECTIVE BLOOD · KNOWN RISK · DEVELOPMENT RISKS DEFENCE FAILS · S.4(1)(E)"
           }
         ],
         "Consumer Protection Act 1987 — Defences": [
@@ -2940,6 +3144,20 @@
             "conclusion": null,
             "summary_line": "CPA 1987 · DEVELOPMENT RISKS DEFENCE · S.4(1)(e) · STATE OF KNOWLEDGE · A v NATIONAL BLOOD AUTHORITY · NARROWLY CONSTRUED · INACCESSIBLE RISK · ⚠️",
             "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-TORT-SCE-056",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Mia buys a pressure cooker from HomeKitchen Ltd (a UK retailer). The cooker was manufactured in China by Zhao Manufacturing, imported into the UK by Euro Imports Ltd, and sold on to HomeKitchen Ltd. The cooker explodes in normal use, injuring Mia. HomeKitchen Ltd cannot identify the manufacturer. Who can Mia sue under CPA 1987?",
+            "answer": "Mia has a strict liability claim under CPA 1987. Euro Imports Ltd is primarily liable as the importer into the UK (s.2(2)(c)). Zhao Manufacturing is liable as the producer if identified. HomeKitchen Ltd is a supplier — suppliers are only liable if they fail to identify the producer or importer within a reasonable time when requested (s.2(3)). Since HomeKitchen cannot identify the manufacturer, it cannot take advantage of the supplier exception and is itself liable. Mia should therefore pursue Euro Imports Ltd and HomeKitchen Ltd.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CPA 1987 · IMPORTER PRIMARILY LIABLE · SUPPLIER LIABILITY IF FAILS TO IDENTIFY · EURO IMPORTS LIABLE · HOME KITCHEN LIABLE · S.2(3)"
           }
         ]
       },
@@ -3122,7 +3340,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "EX TURPI CAUSA · PATEL v MIRZA · TINSLEY REPLACED · THREE-STAGE TEST · LORD SUMPTION DISSENT · VIRGO · BURROWS · HENDERSON v DORSET · PROPORTIONALITY",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -3144,6 +3362,66 @@
             "conclusion": null,
             "summary_line": "SPECIAL DAMAGES · GENERAL DAMAGES · PAST LOSSES · FUTURE LOSSES · PSLA · JUDICIAL COLLEGE GUIDELINES · ONCE AND FOR ALL · INTEREST",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-106",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the distinction between general and special damages in tort law?",
+            "answer": "General damages are non-pecuniary losses (pain, suffering, loss of amenity — PSLA, future loss) assessed by reference to the Judicial College Guidelines. They cover future losses not yet specifically quantified at trial. Special damages are past quantifiable pecuniary losses (medical expenses, lost earnings to date of trial) that must be specifically pleaded and proved with evidence. Both heads run together in a personal injury claim.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GENERAL DAMAGES · NON-PECUNIARY · PSLA · FUTURE LOSS · SPECIAL DAMAGES · PAST PECUNIARY LOSS · SPECIFICALLY PLEADED"
+          },
+          {
+            "card_code": "FLK1-TORT-107",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the duty to mitigate and how does it limit damages recovery in tort?",
+            "answer": "The claimant must take all reasonable steps to minimise loss and cannot recover for loss that could reasonably have been avoided. The duty applies to all causes of action in tort — personal injury, property damage, and economic loss alike.\n\n**Key rules:**\n1. The burden of proving failure to mitigate lies on the **defendant**.\n2. The test is **reasonableness** — the claimant is not required to act perfectly or take the fastest possible course of action.\n3. If the claimant fails to mitigate unreasonably (e.g. refuses surgery that would restore function), damages are reduced by the loss that would have been avoided.\n4. The claimant can recover any reasonable expense incurred in attempting to mitigate.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DUTY TO MITIGATE · APPLIES ALL TORTS · REASONABLENESS TEST · BURDEN ON DEFENDANT · REDUCES DAMAGES FOR AVOIDABLE LOSS"
+          },
+          {
+            "card_code": "FLK1-TORT-108",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the Wagon Mound test for remoteness of damage and what must be foreseeable?",
+            "answer": "*The Wagon Mound (No.1)* [1961] AC 388 (PC) — the Privy Council replaced the *Re Polemis* direct consequences test with a foreseeability test.\n\n**The rule:** The **type** of damage must have been reasonably foreseeable at the time of the wrongful act for it to be recoverable. The **extent** of the damage and the **precise manner** in which it occurs need not be foreseeable.\n\n**Practical effect:**\n- If the type of loss was foreseeable, the defendant is liable for its full extent even if much worse than expected ('the thin skull/egg shell skull rule' extends the extent).\n- If the type of loss was not foreseeable, it is too remote and irrecoverable regardless of its extent.\n\n**Example:** It is foreseeable that oil carelessly spilled might cause fire damage to nearby ships. Even if the precise chain of events (oil ignited by molten metal falling on cotton waste below the water line) was not predictable, the type of loss — fire damage — was foreseeable.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "WAGON MOUND NO.1 · TYPE OF DAMAGE FORESEEABLE · EXTENT NEED NOT BE · REPLACES RE POLEMIS · REMOTENESS TEST"
+          },
+          {
+            "card_code": "FLK1-TORT-110",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are contemptuous damages and nominal damages, and how do they differ?",
+            "answer": "**Nominal damages** are awarded where the defendant has committed a tort (particularly one actionable per se — trespass, breach of contract) but the claimant has suffered no measurable loss. A small fixed sum (often £1–£5) is awarded to vindicate the legal right. Costs typically follow the event in favour of the claimant.\n\n**Contemptuous damages** are a derisory sum (historically one farthing; today a very small amount) awarded where the claimant has technically succeeded but the court considers the claim to have been trivial, vexatious, or morally undeserving of success. The court expresses its disapproval of the claim by awarding a token sum. Costs may not follow — the claimant may be ordered to pay the defendant's costs.\n\n**Key distinction:**\n- Nominal = no loss; claimant deserves vindication.\n- Contemptuous = no real loss; claimant does not deserve vindication; court disapproves.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NOMINAL DAMAGES · VINDICATES RIGHT · NO LOSS · COSTS FOLLOW · CONTEMPTUOUS DAMAGES · COURT DISAPPROVAL · COSTS MAY NOT FOLLOW"
+          },
+          {
+            "card_code": "FLK1-TORT-CASE-055",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Liesbosch Dredger v SS Edison [1933] / Lagden v O'Connor [2003]",
+            "answer": null,
+            "issue": "Whether a claimant's impecuniosity (inability to afford immediate replacement) breaks the chain of causation and limits recovery of consequential loss caused by the defendant's tort.",
+            "rule": "Liesbosch [1933] held that impecuniosity was an independent cause that broke the chain — the claimant could not recover the extra cost attributable to lack of funds. This rule was overruled by the House of Lords in Lagden v O'Connor [2003]: impecuniosity does not break the chain of causation where the defendant knew or ought to have known the claimant was impecunious. The claimant recovers losses attributable to impecuniosity provided they were reasonably foreseeable.",
+            "application": "In Lagden, the claimant could not afford a replacement car and so hired one on credit at a higher rate. The HL held this additional cost was recoverable from the negligent defendant — the claimant's impecuniosity was a foreseeable consequence of the tort and did not break the chain. Liesbosch was overruled, though the court noted that wholly unreasonable responses to impecuniosity (going beyond what was reasonable in the circumstances) would still be irrecoverable.",
+            "conclusion": "The modern rule (Lagden v O'Connor [2003]) is that impecuniosity does not break causation if the defendant had knowledge (actual or constructive) of the claimant's financial constraints. The thin skull principle effectively extends to financial vulnerability, not just physical vulnerability.",
+            "summary_line": "LIESBOSCH 1933 OVERRULED · LAGDEN V O'CONNOR 2003 · IMPECUNIOSITY · CHAIN OF CAUSATION · DEFENDANT'S KNOWLEDGE · THIN SKULL EXTENDED"
           }
         ],
         "Damages — Heads of Loss": [
@@ -3196,6 +3474,18 @@
             "conclusion": "An interim injunction was granted. Lord Diplock's framework replaced the 'prima facie case' test. American Cyanamid remains the leading authority on interim injunctions throughout English civil litigation, not just intellectual property.",
             "summary_line": "INTERIM INJUNCTION · AMERICAN CYANAMID · SERIOUS QUESTION · BALANCE OF CONVENIENCE · ADEQUACY OF DAMAGES · STATUS QUO · CROSS-UNDERTAKING · LORD DIPLOCK",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-109",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When can a court award damages in lieu of an injunction, and what is the Lord Cairns' Act jurisdiction?",
+            "answer": "Section 50 of the Senior Courts Act 1981 (re-enacting Lord Cairns' Act 1858) gives the court a **discretionary jurisdiction to award damages in lieu of (or in addition to) an injunction** where:\n1. The court has (or had) jurisdiction to grant an injunction.\n2. An injunction is sought but the court declines to award it.\n\n**Significance:** This is broader than common law damages because it allows:\n- Damages for **anticipated future wrongs** that have not yet occurred.\n- Compensation where no actionable damage has yet been suffered.\n- Damages for **non-pecuniary loss** in cases where common law damages would not extend to it.\n\n**Shelfer criteria (Shelfer v City of London Electric Lighting Co [1895]):** An injunction is not appropriate (and Lord Cairns' Act damages may be substituted) if: (1) the injury to the claimant is small; (2) it is capable of being estimated in money; (3) it can be adequately compensated by a small money payment; and (4) it would be oppressive to the defendant to grant the injunction.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "LORD CAIRNS' ACT · S.50 SCA 1981 · DAMAGES IN LIEU OF INJUNCTION · DISCRETIONARY · SHELFER CRITERIA · ANTICIPATED FUTURE WRONGS"
           }
         ],
         "Damages — Special and General": [
@@ -3214,6 +3504,30 @@
             "conclusion": null,
             "summary_line": "SPECIAL DAMAGES · GENERAL DAMAGES · PSLA · FUTURE LOSS · SMITH v MANCHESTER · LUMP SUM · PERIODICAL PAYMENTS · OGDEN TABLES · DISCOUNT RATE · ⚠️",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-054",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A claimant injured in a road accident (caused by the defendant) is advised to have surgery but refuses it for 3 months due to depression arising from the accident. He eventually has the surgery. The defendant argues all loss during those 3 months should be disallowed for failure to mitigate. Advise.",
+            "answer": "The defendant's argument is unlikely to succeed.\n\n**The duty to mitigate** requires the claimant to take all **reasonable** steps to minimise loss. The standard is reasonableness, not perfection.\n\n**Analysis:**\n1. The claimant's depression is a consequence of the accident itself — a foreseeable psychological consequence of the injury. It is not an independent voluntary choice to delay.\n2. A 3-month delay attributable to psychological harm caused by the tort is unlikely to be characterised as unreasonable conduct — courts have sympathy for psychological factors affecting treatment decisions.\n3. The claimant did ultimately have the surgery, demonstrating he was not refusing it indefinitely.\n4. **Result:** Full damages likely recoverable for the 3-month period, including ongoing loss of earnings and medical costs. If the evidence showed the delay was unreasonable (e.g. he was advised surgery had zero risk and would give full recovery but refused without reason), a partial reduction would be possible.\n\n**Note:** The burden of proving failure to mitigate lies with the **defendant**.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DUTY TO MITIGATE · REASONABLENESS TEST · DEPRESSION AS CONSEQUENCE · NOT UNREASONABLE DELAY · BURDEN ON DEFENDANT · FULL RECOVERY LIKELY"
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-055",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A claimant is struck by a negligent driver and suffers a fractured femur and PTSD. Medical bills total £8,000. Lost earnings to trial: £12,000. Ongoing therapy will cost £200/week for a 30-year life expectancy (total: £312,000). Identify the correct heads of loss and classify them as special or general damages.",
+            "answer": "**Special damages** (past, quantifiable, specifically pleaded):\n- Medical bills: £8,000\n- Lost earnings to trial: £12,000\n- **Total special damages: £20,000**\n\n**General damages** (non-pecuniary, future, assessed at trial):\n- Pain, suffering, and loss of amenity (PSLA) — assessed by reference to Judicial College Guidelines for a fractured femur. A severe femoral fracture may attract £30,000–£60,000 depending on permanency.\n- PSLA for PTSD — assessed separately under Judicial College Guidelines for psychiatric injury.\n- Future loss of earnings (if ongoing work capacity is reduced).\n- Future medical/therapy costs: £312,000 (discounted to present value using the Ogden Tables multiplier).\n- Loss of amenity for ongoing mobility restrictions.\n\n**Notes:**\n- PTSD is recoverable as reasonably foreseeable psychiatric injury flowing from a physical accident.\n- Future therapy is a head of **general** damages (future pecuniary loss), even though it is quantifiable — this is a common error; it is classified as general because it falls on the future side of the trial date.\n- The Wagon Mound test is satisfied: personal injury (physical and psychiatric) from a road accident is eminently foreseeable.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SPECIAL DAMAGES · PAST QUANTIFIABLE · GENERAL DAMAGES · PSLA · FUTURE COSTS · OGDEN TABLES · PSLA FOR PTSD · WAGON MOUND SATISFIED"
           }
         ]
       },
@@ -3354,6 +3668,54 @@
             "conclusion": null,
             "summary_line": "BREACH OF STATUTORY DUTY · DISTINCT TORT · FOUR ELEMENTS · PROTECTED CLASS · STATUTORY CONSTRUCTION · X v BEDFORDSHIRE · PRIVATE RIGHT OF ACTION",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-102",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the tort of breach of statutory duty, and what must a claimant establish to succeed?",
+            "answer": "Breach of statutory duty (BSD) is a tort that arises when a defendant breaches a duty imposed by statute, causing loss to a claimant who falls within the class of persons the statute was intended to protect.\n\n**Four elements to establish:**\n1. **Parliamentary intention to confer a private right of action** — this is the threshold question and the hardest to satisfy. Many statutes do not confer private rights; they may be enforceable only through public law (prosecution, regulatory action). The court must construe the statute to determine Parliament's intention.\n2. **Breach of the statutory duty** — the defendant failed to comply with the relevant statutory obligation.\n3. **The claimant falls within the class protected** — the statute must have been enacted for the benefit of a class that includes the claimant.\n4. **Causation and damage** — the breach caused the claimant's loss. Unlike trespass, BSD is not actionable per se; actual damage must be proved.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BSD FOUR ELEMENTS · PARLIAMENTARY INTENTION · BREACH · CLAIMANT IN PROTECTED CLASS · CAUSATION AND DAMAGE"
+          },
+          {
+            "card_code": "FLK1-TORT-103",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How do courts determine whether Parliament intended to confer a private right of action for breach of a statutory duty?",
+            "answer": "Courts use a multi-factor test derived from *Groves v Wimborne Ltd* [1898] 2 QB 402 and refined in subsequent cases:\n\n1. **Express provision:** If the statute expressly creates (or excludes) a private right of action, that is decisive.\n2. **Benefit to a specific, defined class:** Statutes enacted to protect a specific identifiable class of persons (e.g. factory workers, tenants) are more likely to give private rights than statutes of general application. *Groves v Wimborne* — Factories Act imposed duty for benefit of workers; private right inferred.\n3. **Type of loss:** If the duty was designed to prevent the type of loss the claimant has suffered, private rights are more likely.\n4. **Alternative enforcement scheme:** If the statute provides a comprehensive alternative enforcement mechanism (e.g. regulatory prosecution, administrative penalties, inspectorate regime), courts infer Parliament did not intend private actions — the public scheme is sufficient.\n5. **Policy:** Courts consider whether allowing private claims is consistent with the statutory scheme's purpose and whether it would impose disproportionate liability.\n\n**General rule:** Modern regulatory and welfare statutes rarely give rise to private actions; older protective statutes (Factories Acts, Health & Safety legislation) more often do.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GROVES V WIMBORNE TEST · SPECIFIC CLASS · TYPE OF LOSS · ALTERNATIVE ENFORCEMENT · EXPRESS PROVISION · MODERN STATUTES RARE"
+          },
+          {
+            "card_code": "FLK1-TORT-104",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the relationship between breach of statutory duty and negligence, and can both be pleaded on the same facts?",
+            "answer": "BSD and negligence are **distinct causes of action** but frequently arise from the same facts.\n\n**Differences:**\n- BSD requires proof of Parliamentary intention to confer a private right — not required for negligence.\n- Negligence requires proof of duty of care, breach, and loss — applying the *Caparo* test for novel situations.\n- BSD can impose **strict liability** (no fault required) whereas negligence always requires unreasonable conduct.\n\n**Relationship:**\n- A breach of statutory duty may amount to evidence of negligence — if a reasonable employer would have complied with the statute, breach of it supports breach of the common law duty of care.\n- Compliance with a statute does not conclusively prove there was no negligence — the statute sets a minimum; the common law may require more.\n\n**Pleading both:**\nA claimant may and should plead BSD and negligence as alternatives. This protects against:\n- The court finding no private right of action under the statute (BSD claim fails → negligence survives).\n- The court finding no negligence (negligence fails → BSD survives if the strict statutory standard is met).\nThe two claims run in parallel; only one standard of proof applies — balance of probabilities.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "BSD VS NEGLIGENCE · DISTINCT CAUSES · PLEAD BOTH ALTERNATIVELY · STATUTE AS EVIDENCE OF NEGLIGENCE · STRICT LIABILITY POSSIBLE"
+          },
+          {
+            "card_code": "FLK1-TORT-105",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the decision in X (Minors) v Bedfordshire County Council [1995] illustrate when courts deny a private right of action for breach of statutory duty?",
+            "answer": "*X (Minors) v Bedfordshire County Council* [1995] 2 AC 633 (HL) is the leading case denying private rights of action in the context of public authority welfare duties.\n\n**Facts:** Children alleged that local authorities had failed to perform statutory duties (child protection, education provision) causing harm.\n\n**Held:** No private right of action for breach of statutory duty.\n\n**Reasoning:**\n1. **Nature of duties:** Child welfare and educational duties involve the exercise of professional judgment, discretion, and resource allocation — matters unsuitable for civil tort liability.\n2. **Comprehensive statutory scheme:** The statutory frameworks (Children Act 1989, Education Act 1981) created comprehensive administrative and regulatory mechanisms for oversight and enforcement. Parliament intended these schemes, not private tort claims, to be the remedy.\n3. **Policy:** Imposing tort liability would lead to defensive practices, diverting resources from services to litigation, and exposing authorities to indeterminate liability.\n4. **No specific class:** The statutory duties were owed to the public generally, not to a specific identifiable class in the *Groves v Wimborne* sense.\n\n**Principle:** Where a statute establishes comprehensive welfare or regulatory machinery, particularly in the field of public authority discretion, courts will not infer a private right of action. Public law remedies (judicial review) and administrative complaints are the appropriate routes.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "X V BEDFORDSHIRE · NO PRIVATE RIGHT · DISCRETIONARY WELFARE DUTY · COMPREHENSIVE STATUTORY SCHEME · PUBLIC LAW REMEDY INSTEAD"
           }
         ],
         "Elements of Breach of Statutory Duty": [
@@ -3372,6 +3734,30 @@
             "conclusion": "No private right of action. The case established that statutory breach of public law duties (particularly in child protection and education) does not automatically give rise to civil liability. The presumption is against a private right of action unless Parliament clearly intended otherwise.",
             "summary_line": "BREACH OF STATUTORY DUTY · PRESUMPTION AGAINST CIVIL LIABILITY · X v BEDFORDSHIRE · CHILD PROTECTION · NO PRIVATE RIGHT OF ACTION · STATUTORY CONSTRUCTION · LORD BROWNE-WILKINSON",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-052",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A factory worker is injured because the employer failed to fence dangerous machinery as required by the Factories Act 1961. The employer claims it was not negligent — it simply did not know the machine was dangerous. Advise the worker.",
+            "answer": "The worker has a strong claim in **breach of statutory duty** that is independent of negligence.\n\n**Analysis:**\n1. **Statutory duty exists:** The Factories Act 1961 imposed an absolute duty on employers to fence dangerous machinery. This is a protective statute enacted for the benefit of a specific class — factory workers.\n2. **Parliament intended a private right:** *Groves v Wimborne* [1898] confirms that protective industrial safety statutes confer private rights on injured workers. This was the clear legislative purpose of the Factories Act regime.\n3. **Breach:** The employer failed to fence the machine — a straightforward breach regardless of knowledge or fault. The duty under the Act is absolute (or near-absolute); the employer's lack of knowledge is no defence.\n4. **Causation and loss:** The breach caused the worker's injury; the worker has suffered quantifiable harm.\n5. **Employer's negligence argument is irrelevant:** BSD does not require the claimant to prove the employer was careless. The statutory standard is independent of the negligence standard. The employer's lack of knowledge is not a defence to the statutory claim.\n6. **Damages:** Full compensatory damages for personal injury, lost earnings, medical expenses, and pain and suffering.\n\n**Note:** The worker may also plead negligence in the alternative (employer arguably had constructive knowledge of risk), but BSD is the stronger and simpler route.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FACTORIES ACT BSD · PROTECTIVE STATUTE · ABSOLUTE DUTY · KNOWLEDGE IRRELEVANT · GROVES V WIMBORNE · WORKER SUCCEEDS"
+          },
+          {
+            "card_code": "FLK1-TORT-SCE-053",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A local authority fails to perform its statutory housing duty, and a family is left in severely damp accommodation causing health problems. Can the family bring a claim for breach of statutory duty?",
+            "answer": "The family's BSD claim is very likely to **fail**.\n\n**Analysis:**\n1. **X (Minors) v Bedfordshire County Council** [1995] 2 AC 633 — the House of Lords denied private rights for breach of public authority welfare duties. The same principles apply to housing welfare obligations.\n2. **Nature of the duty:** Housing duties (e.g. Housing Act 1996 duties to secure accommodation) are discretionary, resource-dependent, and involve professional judgment. Courts are reluctant to impose strict tort liability on local authorities in the exercise of such powers.\n3. **Comprehensive statutory scheme:** The housing legislation provides a full administrative and appeal framework: internal review, statutory homelessness appeals (County Court), and ombudsman complaints. Parliament intended these mechanisms, not private tort claims.\n4. **No specific class:** Housing duties are owed to individuals in need broadly — not a tightly defined industrial class as in *Groves v Wimborne*.\n5. **Result:** No BSD claim.\n\n**What can the family do instead?**\n- **Judicial review** — challenge the authority's failure to perform its duty (but awards damages only exceptionally).\n- **Local Government Ombudsman** — complaint for maladministration (compensation possible).\n- **Statutory nuisance** — Environmental Protection Act 1990 s.82 allows magistrates' court action for premises prejudicial to health or a nuisance.\n- **Negligence** — possible but difficult: *X v Bedfordshire* also restricted negligence claims against authorities for policy decisions, though *operational* negligence may still be actionable.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "X V BEDFORDSHIRE APPLIES · NO BSD · DISCRETIONARY HOUSING DUTY · ALTERNATIVE REMEDIES · STATUTORY NUISANCE · JUDICIAL REVIEW"
           }
         ]
       },
@@ -3536,6 +3922,78 @@
             "conclusion": "The Key Rule: Knowledge of risk ≠ consent to risk in the employment context. Volenti requires true voluntariness — economic pressure in employment negates this (Smith v Baker). The correct defence is usually contributory negligence, not volenti. ICI v Shatwell is the narrow exception.",
             "summary_line": "VOLENTI · EMPLOYMENT CONTEXT · KNOWLEDGE ≠ CONSENT · SMITH V BAKER · ICI V SHATWELL NARROW EXCEPTION · ECONOMIC PRESSURE · CONTRIBUTORY NEGLIGENCE PREFERRED",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-TORT-TRAP-011",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nThe defendant walked across the claimant's field without permission but caused no physical damage whatsoever. The defendant argues there is no cause of action because the claimant suffered no loss.",
+            "answer": null,
+            "issue": "The Trap: Trespass to land requires proof of damage or loss — without measurable harm to the claimant, there is no cause of action.",
+            "rule": "The Reality: Trespass to land is **actionable per se** — no proof of actual damage or loss is required. The claimant has a complete cause of action simply by establishing that the defendant entered or remained on the claimant's land without permission or other lawful justification. The claimant may recover nominal damages even where no harm was caused.",
+            "application": "Why the Distractor Fails: The student has confused trespass to land (a tort protecting possessory rights, actionable per se) with negligence (where actual loss is a required element). Trespass protects the claimant's right to exclusive possession of their land — that right is violated by the unauthorised entry itself, regardless of whether damage follows. Students sometimes assume all torts follow the negligence model. Trespass to land, assault, false imprisonment, and trespass to goods are all actionable per se — they do not require proof of damage.",
+            "conclusion": "The Key Rule: Trespass to land is actionable per se. Proof of actual loss is not required. The claimant may recover nominal damages (typically a token sum — often £1–£5) to vindicate the possessory right. If actual loss has been caused, full compensatory damages are available in addition. The defendant's argument fails.",
+            "summary_line": "ACTIONABLE PER SE · NO DAMAGE REQUIRED · NOMINAL DAMAGES · POSSESSORY RIGHT · DISTINGUISHES FROM NEGLIGENCE"
+          },
+          {
+            "card_code": "FLK1-TORT-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA statute requires employers to carry out annual fire risk assessments. An employer fails to do so. An employee is subsequently injured in a fire. The employee's solicitor advises: 'Breach of the statutory duty gives you a direct claim in tort.' Is this advice correct?",
+            "answer": null,
+            "issue": "The Trap: Any breach of a statutory duty that causes harm to a person automatically gives that person a private cause of action in tort.",
+            "rule": "The Reality: Breach of statutory duty does NOT automatically give rise to a private right of action. The claimant must first establish that Parliament intended the statute to confer a private right of action — this is a separate and often difficult hurdle. Many modern regulatory statutes, particularly those creating comprehensive enforcement schemes with public inspectorates, criminal sanctions, and administrative remedies, are held NOT to confer private rights.",
+            "application": "Why the Distractor Fails: The solicitor's advice assumes the wrong starting point. Before relying on BSD as a cause of action, the claimant must ask: 'Did Parliament intend this statute to give injured workers (or others) a private right to sue?' Modern health and safety legislation — particularly post-Enterprise and Regulatory Reform Act 2013 — often does not confer private rights. The Health and Safety at Work Act 1974 s.47(1)(a) expressly provides that breach of duties imposed by the Act does NOT give rise to civil liability. Whether fire safety regulations confer private rights requires specific analysis of that statutory scheme — it cannot be assumed. The solicitor's categorical advice is unsafe without that analysis.",
+            "conclusion": "The Key Rule: BSD = (1) Parliamentary intention to confer private right + (2) breach + (3) claimant in protected class + (4) causation and damage. Step (1) is the gatekeeping requirement. Without confirming Parliamentary intention, advising a client they have a BSD claim is incorrect. Many modern regulatory statutes specifically exclude civil liability or are held not to confer it. Always check the specific statute.",
+            "summary_line": "BSD NOT AUTOMATIC · PARLIAMENTARY INTENTION REQUIRED · MODERN STATUTES OFTEN EXCLUDE · H&S AT WORK ACT S.47 · CHECK SPECIFIC STATUTE"
+          },
+          {
+            "card_code": "FLK1-TORT-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA claimant is injured in a road accident and refuses surgery despite medical advice. The claimant's solicitor advises: 'The duty to mitigate only applies to financial/economic claims — our client's personal choice about medical treatment is entirely their own and cannot reduce their damages.'",
+            "answer": null,
+            "issue": "The Trap: The duty to mitigate is limited to property damage and financial claims, and does not apply to personal injury — the claimant's autonomy over their medical treatment means any refusal of treatment is beyond the scope of mitigation.",
+            "rule": "The Reality: The duty to mitigate applies to ALL claims in tort — including personal injury claims. A claimant who unreasonably refuses available medical treatment that would reduce their loss will have their damages reduced accordingly. The test is reasonableness: if refusing treatment is reasonable in the circumstances (e.g. due to genuine medical contraindication, or psychological factors arising from the accident itself), damages are not reduced. If the refusal is unreasonable, damages are reduced for the loss that could have been avoided.",
+            "application": "Why the Distractor Fails: The student has conflated patient autonomy (the right to refuse treatment in medical ethics/law) with the tortious duty to mitigate. They are separate concepts. A claimant retains the right to refuse treatment, but if the refusal is unreasonable, the damages that would have been avoidable by accepting the treatment will not be recoverable. Patient autonomy is not a trump card in the mitigation analysis — it simply means the claimant cannot be compelled to accept treatment; it does not mean unreasonable refusal has no consequences in damages.",
+            "conclusion": "The Key Rule: The duty to mitigate applies to personal injury claims. Unreasonable refusal of medical treatment may reduce damages for loss that could have been avoided. The test is what a reasonable person in the claimant's position would have done. The burden of proving failure to mitigate lies on the defendant.",
+            "summary_line": "MITIGATION APPLIES TO PERSONAL INJURY · UNREASONABLE REFUSAL REDUCES DAMAGES · PATIENT AUTONOMY ≠ NO CONSEQUENCES · BURDEN ON DEFENDANT"
+          },
+          {
+            "card_code": "FLK1-TORT-TRAP-014",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nLara buys a defective blender from ShopMart, a UK retailer. The blender injures her. ShopMart was supplied by BlendCo (a UK distributor). Lara's solicitor advises that ShopMart is automatically liable alongside the manufacturer because it sold the product.",
+            "answer": null,
+            "issue": "The Trap: Any retailer or supplier who sells a defective product is automatically jointly liable with the manufacturer under CPA 1987.",
+            "rule": "The Reality: Suppliers are NOT automatically liable under CPA 1987. A supplier (s.2(3)) escapes liability if, within a reasonable time of being asked by the claimant, it identifies the producer, own-brander, or EU/UK importer. Supplier liability is a safety-net — it only arises on failure to provide that information.",
+            "application": "Why the Distractor Fails: The Act creates a hierarchy. Primary liability falls on producers and importers. Supplier liability is conditional — triggered only when the claimant requests identification and the supplier fails to respond within a reasonable time. If ShopMart promptly names BlendCo or the manufacturer, it faces no liability.",
+            "conclusion": "The Key Rule: Supplier = only liable under s.2(3) if it FAILS to identify the producer/importer within a reasonable time when asked by the claimant.",
+            "summary_line": "CPA 1987 · SUPPLIER NOT AUTOMATICALLY LIABLE · S.2(3) · IDENTIFY PRODUCER WITHIN REASONABLE TIME · SAFETY NET ONLY"
+          },
+          {
+            "card_code": "FLK1-TORT-TRAP-015",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA factory discharges pollution into a river, affecting an entire village's water supply. Several residents suffer illness and wish to sue the factory in private law. They argue that because the nuisance affected the whole community, each resident can sue without showing individual harm beyond what the others suffered.",
+            "answer": null,
+            "issue": "The Trap: Public nuisance is a tort actionable by any individual affected, without any requirement to show harm beyond that suffered by the general class.",
+            "rule": "The Reality: While public nuisance is a crime prosecutable by the Attorney-General (and since the Police, Crime, Sentencing and Courts Act 2022, a statutory tort), a private law damages claim requires the individual claimant to show 'special damage' — harm over and above that suffered by the class of persons affected. Mere membership of the affected class is insufficient.",
+            "application": "Why the Distractor Fails: The tort of public nuisance retains the historical requirement of special damage for a private action. Each resident must show their own particular loss exceeds the common harm. A resident who suffers identical illness to all neighbours cannot sue individually in tort.",
+            "conclusion": "The Key Rule: Public nuisance private law claim = claimant must prove SPECIAL DAMAGE beyond that suffered by the general class — shared harm alone does not found a private action.",
+            "summary_line": "PUBLIC NUISANCE · PRIVATE ACTION · SPECIAL DAMAGE REQUIRED · BEYOND CLASS HARM · NOT SHARED HARM ALONE · HISTORICAL REQUIREMENT"
+          },
+          {
+            "card_code": "FLK1-TORT-TRAP-016",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA chemical company accumulates industrial solvents in a storage tank on its land. The tank ruptures and solvents flow onto neighbouring land, contaminating it. The neighbour claims under Rylands v Fletcher but the company argues it is not liable because it took all reasonable precautions to prevent the escape.",
+            "answer": null,
+            "issue": "The Trap: Rylands v Fletcher is a fault-based tort — if the defendant exercised all reasonable care, there is no liability.",
+            "rule": "The Reality: Rylands v Fletcher is a rule of STRICT LIABILITY. A defendant who brings onto land something likely to do mischief if it escapes is liable for all the direct consequences of escape, regardless of fault or precautions taken. Cambridge Water Co v Eastern Counties Leather [1994] HL confirmed it as strict liability (though natural use and foreseeability of damage type are required).",
+            "application": "Why the Distractor Fails: The whole purpose of the rule is to impose liability without proof of negligence. The defendant's reasonable precautions are irrelevant to liability — the precautions may be relevant to quantifying damages or establishing a defence (act of God, third party, consent), but not to the basic imposition of liability.",
+            "conclusion": "The Key Rule: Rylands v Fletcher = STRICT LIABILITY — reasonable precautions are no defence; liability flows from non-natural accumulation and escape causing foreseeable damage.",
+            "summary_line": "RYLANDS v FLETCHER · STRICT LIABILITY · PRECAUTIONS NO DEFENCE · NON-NATURAL USE · ESCAPE · CAMBRIDGE WATER 1994"
           }
         ]
       }

@@ -1,0 +1,1866 @@
+{
+  "FLK1": {
+    "Dispute Resolution": [
+      {
+        "question_id": "FLK1-DR-MCQ-001",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Small Claims Track",
+        "difficulty": "Foundation",
+        "stem": "What is the current monetary threshold for the Small Claims Track in personal injury claims?",
+        "options": {
+          "A": "£1,000",
+          "B": "£5,000",
+          "C": "£2,000",
+          "D": "£1,500"
+        },
+        "correct": "D",
+        "explanation": "Under CPR Part 26, the Small Claims Track for personal injury claims has a monetary limit of £1,500 (as of October 2023 reforms). A is incorrect as £1,000 is below the threshold. C (£2,000) and D (£5,000) are too high for personal injury small claims.",
+        "card_refs": [
+          "FLK1-DR-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-002",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Fast Track",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is advising a client whose contract dispute has a value of £22,500. The client asks which procedural track will apply when proceedings are issued. There are no exceptional complexity factors and the claim is straightforward. To which track will the claim be allocated under CPR Part 26?",
+        "options": {
+          "A": "Small claims track — the claim is under £25,000 so falls within the small claims limit.",
+          "B": "Multi-track — all contract claims are allocated to the multi-track regardless of value.",
+          "C": "Fast track — the claim exceeds £10,000 but does not exceed £25,000 and is straightforward.",
+          "D": "Intermediate track — claims between £15,000 and £50,000 must use the intermediate track."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Under CPR r.26.9, the fast track applies to claims over £10,000 and not exceeding £25,000, where the trial is likely to last no more than one day and there are no complex expert issues. At £22,500 and straightforward, this claim falls squarely within the fast track parameters. Option A is wrong: the small claims track applies to most claims up to £10,000 (and up to £1,500 for personal injury and housing disrepair). £22,500 exceeds this threshold. Option B is wrong: contract claims are not automatically allocated to the multi-track; value and complexity are the governing criteria. Option D is wrong: the intermediate track (introduced October 2023) applies to claims over £25,000 and not exceeding £100,000 — this claim does not reach £25,000.",
+        "card_refs": [
+          "FLK1-DR-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-003",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "Deemed Service Dates",
+        "difficulty": "Foundation",
+        "stem": "A document is sent by first class post at 10am on Tuesday. When is it deemed to be served under CPR r.6.14?",
+        "options": {
+          "A": "Tuesday (same day)",
+          "B": "Wednesday (next business day)",
+          "C": "Friday (third business day)",
+          "D": "Thursday (second business day)"
+        },
+        "correct": "D",
+        "explanation": "CPR r.6.14 deems service by first class post to occur on the second business day after posting. If posted on Tuesday, the second business day after is Thursday. A is incorrect (same day service applies only to same-day delivery methods). B is the first business day only. C is too late.",
+        "card_refs": [
+          "FLK1-DR-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-004",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Formal Requirements",
+        "difficulty": "Foundation",
+        "stem": "Which of the following is NOT a formal requirement under CPR r.36.5 for a valid Part 36 offer?",
+        "options": {
+          "A": "It must be in writing",
+          "B": "It must state the name of the claimant",
+          "C": "It must be signed by the offering party's barrister",
+          "D": "It must state that it is made under Part 36"
+        },
+        "correct": "C",
+        "explanation": "CPR r.36.5 does not require a Part 36 offer to be signed by a barrister; it can be made by a party or their legal representative. A is required (written form). B is required (identify the claimant). D is required (state it is made under Part 36). C misrepresents the rule—the offer need not be signed by counsel.",
+        "card_refs": [
+          "FLK1-DR-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-005",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "QOCS Eligibility",
+        "difficulty": "Application",
+        "stem": "Pelletier is advising a client, Northgate Construction Ltd, who wishes to bring a claim against a contractor for breach of contract following defective building works. The client asks whether Qualified One-Way Costs Shifting (QOCS) will apply to protect them from an adverse costs order if the claim fails. To which of the following does QOCS NOT apply?",
+        "options": {
+          "A": "A personal injury claim arising from a road traffic accident.",
+          "B": "A clinical negligence claim for injuries sustained during surgery.",
+          "C": "A contract claim for breach of a building contract.",
+          "D": "An employer's liability claim for injuries sustained at work."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. QOCS under CPR rr.44.13–44.16 applies only to claims for personal injury or death, and claims arising under the Fatal Accidents Act 1976. It does not apply to commercial or contract claims. Northgate's breach of contract claim against the contractor is not a personal injury claim and therefore falls outside QOCS. Option A is wrong: personal injury claims arising from road traffic accidents are a core application of QOCS. Option B is wrong: clinical negligence claims are expressly within the QOCS regime. Option D is wrong: employer's liability is a personal injury claim and QOCS applies.",
+        "card_refs": [
+          "FLK1-DR-004"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-006",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Standard Disclosure Duty",
+        "difficulty": "Foundation",
+        "stem": "Under CPR r.31.6, standard disclosure requires a party to disclose documents which are documents that the disclosing party has or has had in its power, except which of the following?",
+        "options": {
+          "A": "Documents relied upon in the case",
+          "B": "Documents which adversely affect the disclosing party's case",
+          "C": "Documents which support another party's case",
+          "D": "Documents which may be harmful to an opponent and are deliberately withheld"
+        },
+        "correct": "C",
+        "explanation": "Standard disclosure under CPR r.31.6 requires disclosure of documents relied upon (A), adversely affecting one's own case (B), and supportive of any party's case (D). Deliberately withholding documents is misconduct, not a disclosed category. C is correct as it is not a permitted category.",
+        "card_refs": [
+          "FLK1-DR-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-007",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Witness Statements",
+        "difficulty": "Foundation",
+        "stem": "Under CPR r.32.4, what is the maximum word limit for a witness statement in the Fast Track?",
+        "options": {
+          "A": "500 words",
+          "B": "1,000 words",
+          "C": "2,000 words",
+          "D": "Unlimited"
+        },
+        "correct": "B",
+        "explanation": "CPR r.32.4 provides that a witness statement in the Fast Track must not normally exceed 1,000 words. A (500 words) is too restrictive. C (2,000 words) applies to multi-track cases. D is incorrect as limits do apply.",
+        "card_refs": [
+          "FLK1-DR-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-008",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Costs Basis",
+        "difficulty": "Foundation",
+        "stem": "Under CPR r.44.3(2), when the court awards costs on the standard basis, what must be proportionate?",
+        "options": {
+          "A": "The parties' incurred liability only",
+          "B": "All costs incurred must be recoverable in their entirety",
+          "C": "Costs which are proportionate to the complexity and value of the matter",
+          "D": "Only costs agreed between the parties"
+        },
+        "correct": "C",
+        "explanation": "CPR r.44.3(2) requires that on the standard basis, costs must be proportionate to the complexity, importance and value of the matter. A is too narrow. B overstates recovery. D limits the rule to agreed costs only. C correctly states the proportionality requirement.",
+        "card_refs": [
+          "FLK1-DR-070"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-009",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Appeal Permission Test",
+        "difficulty": "Foundation",
+        "stem": "Under CPR r.52.3, on what test must a court give permission to appeal from a first instance decision?",
+        "options": {
+          "A": "The appeal has a real chance of success",
+          "B": "The appeal is in the interests of justice",
+          "C": "The appeal raises an important point of principle",
+          "D": "The appeal raises a question of law or fact of general public importance"
+        },
+        "correct": "A",
+        "explanation": "CPR r.52.3 requires permission to appeal where the appeal has a real chance of success. B is too broad. C and D are tests for second appeals under CPR r.52.7. A correctly states the permission threshold.",
+        "card_refs": [
+          "FLK1-DR-007"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-010",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Interim Injunction Test",
+        "difficulty": "Foundation",
+        "stem": "Under the American Cyanamid test for interim injunctions, what is the first stage the applicant must establish?",
+        "options": {
+          "A": "That damages would be an adequate remedy",
+          "B": "That there is a serious question to be tried",
+          "C": "That the balance of convenience favours the granting of the injunction",
+          "D": "That the status quo should be preserved"
+        },
+        "correct": "B",
+        "explanation": "American Cyanamid [1975] established three stages: (1) serious question to be tried, (2) adequacy of damages, and (3) balance of convenience. B is the first stage. A is the second stage. C is the third stage. D is a consequence, not a primary test stage.",
+        "card_refs": [
+          "FLK1-DR-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-011",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "Protocol Breaches",
+        "difficulty": "Application",
+        "stem": "A claimant issues proceedings without serving the Pre-Action Protocol letter. How will the court typically respond under the overriding objective?",
+        "options": {
+          "A": "Dismiss the claim automatically for breach of protocol",
+          "B": "Strike out the claim without any discretion",
+          "C": "Consider the breach as a factor in case management and potentially award costs against the claimant",
+          "D": "Require the claimant to start again with protocol compliance"
+        },
+        "correct": "C",
+        "explanation": "Protocol breaches are not automatic grounds for dismissal. The court has discretion and will consider the breach as a case management factor, potentially affecting costs under CPR r.44.2. A and B are too strict. D is not automatic. C reflects the flexible approach under the overriding objective.",
+        "card_refs": [
+          "FLK1-DR-SCE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-012",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Court Selection",
+        "difficulty": "Application",
+        "stem": "A defendant is domiciled in France and has no assets in England. The claimant wishes to sue in the English courts. What will be the primary legal barrier?",
+        "options": {
+          "A": "Lack of territorial jurisdiction under CPR r.6",
+          "B": "The defendant is entitled to immunity as a foreign national",
+          "C": "Only the French courts have jurisdiction over the defendant",
+          "D": "The claimant must establish permission to serve out of the jurisdiction under CPR r.6.37"
+        },
+        "correct": "D",
+        "explanation": "Under CPR r.6.37, a defendant domiciled abroad requires permission to serve out of the jurisdiction unless an exception applies. A misstates the rule. B is incorrect (no such immunity). C is too absolute. D correctly identifies the procedural requirement.",
+        "card_refs": [
+          "FLK1-DR-SCE-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-013",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Application and Effect",
+        "difficulty": "Application",
+        "stem": "A claimant has obtained default judgment against a defendant who failed to acknowledge service. The defendant wishes to appeal. What is the correct procedure?",
+        "options": {
+          "A": "The defendant must appeal as of right",
+          "B": "The defendant must first seek to set aside the default judgment under CPR r.13.3",
+          "C": "The defendant cannot challenge the judgment as default judgment is final",
+          "D": "The defendant must file a substantive defence and proceed to trial"
+        },
+        "correct": "B",
+        "explanation": "CPR r.13.3 allows a defendant to apply to set aside a default judgment within specified time limits before an appeal. An appeal is not the first step. A is incorrect (no automatic right). C is too final. D bypasses the proper procedure. B is the correct route.",
+        "card_refs": [
+          "FLK1-DR-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-014",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Unless Orders",
+        "difficulty": "Application",
+        "stem": "The court issues an unless order requiring a party to serve a witness statement by 4pm on Friday. The statement is served at 4.30pm on Friday. What is the automatic consequence?",
+        "options": {
+          "A": "The witness statement is valid and the court will grant a brief extension",
+          "B": "The witness statement is ineffective and the evidence cannot be used unless the party obtains relief from sanctions",
+          "C": "The court must grant relief as a matter of course due to the minor breach",
+          "D": "The breach is waived by the opposing party if they do not object immediately"
+        },
+        "correct": "B",
+        "explanation": "Unless orders are strict: failure to comply results in automatic consequences (here, invalidity) unless relief from sanctions is obtained under Denton. A suggests automatic flexibility. C reverses the test. D creates no automatic waiver. B correctly states that relief from sanctions is required.",
+        "card_refs": [
+          "FLK1-DR-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-015",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Denton Test (Single Breach)",
+        "difficulty": "Application",
+        "stem": "A party misses a disclosure deadline by 10 days due to administrative oversight. No prejudice results. Under Denton v TH White, what is the court likely to find at stage 1?",
+        "options": {
+          "A": "The breach is trivial and relief is automatically granted",
+          "B": "The breach is not serious or significant and relief is likely",
+          "C": "The breach is serious or significant because all deadline breaches are serious",
+          "D": "The breach is serious unless the party can prove good reason"
+        },
+        "correct": "D",
+        "explanation": "Denton stage 1 assesses whether there was a serious/significant breach. A 10-day delay with no prejudice is likely not serious or significant. A is too absolute. C wrongly assumes all breaches are serious. D reverses the burden. B correctly reflects the proportionate approach.",
+        "card_refs": [
+          "FLK1-DR-CASE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-016",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Privilege",
+        "subtopic": "Legal Advice Privilege",
+        "difficulty": "Application",
+        "stem": "A solicitor writes to a client advising on the legal implications of a contractual dispute. Three Rivers (No. 5) established that this communication is subject to legal advice privilege. Which of the following is NOT required for protection?",
+        "options": {
+          "A": "The communication must be made by a lawyer",
+          "B": "The dominant purpose must be to provide legal advice",
+          "C": "The communication must be made in anticipation of litigation",
+          "D": "The client and lawyer must intend the communication to be confidential"
+        },
+        "correct": "A",
+        "explanation": "Legal advice privilege under Three Rivers protects communications between client and lawyer where the dominant purpose is legal advice, regardless of litigation. A is required (lawyer). B is required (dominant purpose). D is required (confidentiality). C is not required for legal advice privilege (only for litigation privilege).",
+        "card_refs": [
+          "FLK1-DR-SCE-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-017",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Privilege",
+        "subtopic": "Litigation Privilege",
+        "difficulty": "Application",
+        "stem": "A solicitor instructs a forensic accountant to prepare a report in anticipation of litigation, for use in legal advice. Is this communication protected by litigation privilege under Waugh v BRB?",
+        "options": {
+          "A": "No, because the accountant is not a lawyer",
+          "B": "Yes, because it was created for the dominant purpose of litigation",
+          "C": "No, because the accountant is a third party not engaged by the lawyer",
+          "D": "Only if the client consents to the instruction"
+        },
+        "correct": "B",
+        "explanation": "Litigation privilege under Waugh protects communications with third parties (like accountants) where the dominant purpose is litigation. A wrongly restricts to lawyers only. C wrongly excludes third parties. D does not affect privilege. B correctly applies the wider scope of litigation privilege.",
+        "card_refs": [
+          "FLK1-DR-SCE-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-018",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Single Joint Expert",
+        "difficulty": "Application",
+        "stem": "In a Fast Track dispute involving a technical issue, the court has ordered a single joint expert. One party now wishes to adduce its own expert evidence. What must it establish under CPR r.35.7?",
+        "options": {
+          "A": "That the SJE is incompetent",
+          "B": "That there is a genuine dispute between the parties on expert opinion",
+          "C": "That the matter is outside the SJE's expertise and that court permission is required",
+          "D": "That the SJE has been biased in favour of the other party"
+        },
+        "correct": "D",
+        "explanation": "CPR r.35.7 permits a party to instruct its own expert in addition to the SJE only with court permission and where appropriate. The party must obtain permission. A focuses on competence. B is too narrow. D requires proof of bias. C reflects the permission requirement correctly.",
+        "card_refs": [
+          "FLK1-DR-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-019",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Interim Injunction on Facts",
+        "difficulty": "Application",
+        "stem": "A claimant seeks an interim injunction to restrain a competitor from using confidential information pending trial. The claimant has adequate funds to sue. Which American Cyanamid stage is likely to be most challenging?",
+        "options": {
+          "A": "Serious question to be tried—confidentiality claims are generally weak",
+          "B": "Adequacy of damages—money damages cannot restore lost trade secrets",
+          "C": "Balance of convenience—the competitor's business interests may outweigh the claimant's",
+          "D": "The court's discretion to deny the injunction on general grounds"
+        },
+        "correct": "B",
+        "explanation": "Confidentiality breaches are difficult to remedy by damages alone, making damages inadequate. This typically makes the balance of convenience favour the claimant. A is incorrect (breach of confidence claims are normally strong). C may not be the hardest stage. D is not a stage of American Cyanamid. B correctly identifies the critical stage.",
+        "card_refs": [
+          "FLK1-DR-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-020",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Freezing Injunction",
+        "difficulty": "Application",
+        "stem": "A claimant seeks a freezing injunction to prevent the defendant from dissipating assets. What must the claimant establish as a prerequisite?",
+        "options": {
+          "A": "That the defendant has already begun disposing of assets",
+          "B": "That there is a strong prima facie case on the merits and a real risk of dissipation",
+          "C": "That the defendant's conduct has been dishonest or fraudulent",
+          "D": "That any judgment will be for an amount exceeding £100,000"
+        },
+        "correct": "A",
+        "explanation": "A freezing injunction requires a strong prima facie case and a real risk that the defendant will dispose of assets. A is too narrow. C requires dishonesty but risk of dissipation suffices. D sets no financial threshold. B correctly states the prerequisites.",
+        "card_refs": [
+          "FLK1-DR-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-021",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Cost Consequences",
+        "difficulty": "Application",
+        "stem": "A defendant made a Part 36 offer of £50,000. The claimant rejected it and obtained judgment for £48,000. What are the cost consequences under CPR r.36.17?",
+        "options": {
+          "A": "The claimant recovers costs as the offeree, regardless of the comparison",
+          "B": "The defendant is liable for the claimant's costs up to the offer date, then the claimant pays the defendant's costs from that date",
+          "C": "The claimant must pay the defendant's costs from the offer date onwards, plus the defendant's interest and a 10% uplift",
+          "D": "There are no cost consequences as the claimant beat the offer in absolute terms"
+        },
+        "correct": "A",
+        "explanation": "CPR r.36.17 imposes indemnity costs, enhanced interest, and a 10% uplift when the offeree fails to beat a Part 36 offer. A ignores the consequences of not beating the offer. B reverses the flow. D is incorrect (consequences do apply). C correctly sets out the consequences.",
+        "card_refs": [
+          "FLK1-DR-014"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-022",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Cost Consequences and QOCS",
+        "difficulty": "Application",
+        "stem": "A claimant in a personal injury claim made a Part 36 offer of £60,000. The defendant rejected it and judgment was given for £58,000. What cost consequences follow?",
+        "options": {
+          "A": "QOCS protection is lifted and the claimant pays indemnity costs to the defendant",
+          "B": "The defendant must pay the claimant's costs from the offer date with indemnity basis, interest, and enhanced uplift",
+          "C": "QOCS protection remains but the defendant pays the claimant's costs on the standard basis",
+          "D": "There are no cost consequences as QOCS protection is absolute in PI claims"
+        },
+        "correct": "A",
+        "explanation": "When the defendant fails to beat a claimant's Part 36 offer, even in a PI claim, the defendant pays the claimant's costs including indemnity basis and enhanced interest. A wrongly suggests QOCS is lifted. C understates the consequences. D wrongly treats QOCS as absolute. B correctly applies the consequences.",
+        "card_refs": [
+          "FLK1-DR-CASE-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-023",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Enforcement Method Selection",
+        "difficulty": "Application",
+        "stem": "A creditor has an unsatisfied judgment against a defendant who owns a commercial property and has regular income from employment. What is the most appropriate enforcement method?",
+        "options": {
+          "A": "Writ of execution against the commercial property only",
+          "B": "Combination of garnishee orders against employment income and execution against the property",
+          "C": "Judgment debtor examination order to determine available assets, then selective enforcement",
+          "D": "Attachment of earnings order only to avoid complexity"
+        },
+        "correct": "C",
+        "explanation": "CPR r.71 allows examination of the judgment debtor to establish what assets are available. This informs the best enforcement strategy. A is too limited. B may be premature without information. D ignores valuable property. C reflects best practice by investigating first.",
+        "card_refs": [
+          "FLK1-DR-015"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-024",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Denton Three-Stage Test",
+        "difficulty": "Complex",
+        "stem": "A party has systematically breached multiple unless orders, missing disclosure deadlines by weeks and fabricating evidence statements. Under Denton v TH White, what is most likely if stage 1 clearly establishes serious/significant breach?",
+        "options": {
+          "A": "Relief is automatically denied as the breach is serious",
+          "B": "The court moves to stage 2 but the burden on the defaulting party is heavy to show good reason for relief",
+          "C": "QOCS protection is invoked and relief is granted",
+          "D": "The court must balance all CPR r.1.1 objectives before deciding stage 3"
+        },
+        "correct": "A",
+        "explanation": "Denton stage 1 (serious/significant breach) leads to stage 2 (good reason for breach and timeliness of application). Once a serious breach is found, the defaulting party bears the burden of showing good reason. A is too final. C does not apply. D is premature at stage 2. B correctly reflects the burden shift.",
+        "card_refs": [
+          "FLK1-DR-TRAP-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-025",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Beating Own Offer and QOCS",
+        "difficulty": "Complex",
+        "stem": "A PI claimant makes a Part 36 offer of £50,000 and later increases it to £70,000 (new offer). Judgment is given for £65,000. The defendant failed to beat either offer. How are costs and QOCS affected?",
+        "options": {
+          "A": "The claimant recovers costs on the standard basis; QOCS is not affected",
+          "B": "The claimant recovers costs only from the second offer date with indemnity basis",
+          "C": "QOCS is partially lifted and the claimant is liable for the defendant's costs from the offer date",
+          "D": "The claimant recovers indemnity costs and interest uplift from the date of the first offer; QOCS remains intact"
+        },
+        "correct": "B",
+        "explanation": "CPR r.36.17 consequences apply from the first offer date if not beaten. QOCS does not prevent the consequences—instead, the claimant recovers enhanced costs while retaining QOCS protection. A understates consequences. C reverses the QOCS logic. D limits to second offer incorrectly. B is correct.",
+        "card_refs": [
+          "FLK1-DR-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-026",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Privilege",
+        "subtopic": "Without Prejudice Exception",
+        "difficulty": "Complex",
+        "stem": "A party sends a without prejudice settlement proposal to the opponent. The opponent later states in open court that the proposal was unreasonably low. Can the proposing party refer to the contents of the offer to defend its reasonableness?",
+        "options": {
+          "A": "No, without prejudice protection is absolute and cannot be breached even by the other party",
+          "B": "Yes, the opponent has waived without prejudice protection by referring to it first",
+          "C": "Only if the court grants permission in exceptional circumstances",
+          "D": "No, unless the communications contain evidence of fraud or misconduct unrelated to settlement"
+        },
+        "correct": "C",
+        "explanation": "Under Rush & Tompkins principles, if one party breaches without prejudice protection by referring to the contents, the other party may respond to defend itself. A is too absolute. C wrongly requires permission. D is too narrow. B reflects the waiver exception.",
+        "card_refs": [
+          "FLK1-DR-SCE-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-027",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Cost Capping and Budgeting",
+        "difficulty": "Complex",
+        "stem": "A multi-track case has had a costs budget approved by the court at £250,000. During trial, the party incurs costs of £300,000. At detailed assessment, the costs judge must determine what is recoverable. What is the interaction between the budget and this overspend?",
+        "options": {
+          "A": "The party can recover all reasonable costs of £300,000 as the budget is merely procedural",
+          "B": "The approved budget acts as a ceiling, and costs above £250,000 are presumed unreasonable unless exceptional circumstances justify the overspend",
+          "C": "The costs judge must award exactly £250,000 regardless of reasonableness",
+          "D": "The budget is irrelevant at detailed assessment; the costs judge assesses independently"
+        },
+        "correct": "C",
+        "explanation": "CPR r.3.15 provides that costs budgets inform case management. An overspend creates a presumption of unreasonableness that the party must justify. A treats the budget as meaningless. C is too rigid. D wrongly divorces assessment from budgeting. B reflects the interaction correctly.",
+        "card_refs": [
+          "FLK1-DR-017"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-028",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Test Application",
+        "difficulty": "Complex",
+        "stem": "In a contractual claim, the claimant applies for summary judgment. The parties genuinely dispute whether certain conduct amounted to a material breach of contract. The facts are not clearly one-sided. Under CPR r.24.2, what is the likely outcome?",
+        "options": {
+          "A": "Summary judgment must be granted as the claimant has a strong claim",
+          "B": "Summary judgment must be refused as there is a genuine factual dispute",
+          "C": "Summary judgment may be granted only if the claimant's argument is legally novel",
+          "D": "The court must order trial to resolve the material breach dispute"
+        },
+        "correct": "D",
+        "explanation": "CPR r.24.2 requires that the respondent has 'no real prospect of success'. Genuine factual disputes typically prevent summary judgment—the matter requires trial. A is too presumptive. C is wrongly restrictive. D is not always required but is likely here. B correctly applies the test.",
+        "card_refs": [
+          "FLK1-DR-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-029",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Second Appeal Test",
+        "difficulty": "Complex",
+        "stem": "A claimant obtained judgment in the county court for £30,000. The defendant appealed to the Court of Appeal. Now the defendant seeks a second appeal to the Supreme Court. Under CPR r.52.7, what must be established?",
+        "options": {
+          "A": "The second appeal has a real chance of success, as the first appeal test applies at all levels",
+          "B": "That the appeal raises an important point of principle or practice, or some other compelling reason",
+          "C": "That the Court of Appeal judgment contains a procedural error",
+          "D": "That the value of the claim exceeds £100,000"
+        },
+        "correct": "D",
+        "explanation": "CPR r.52.7 applies a higher test for second appeals: important point of principle/practice or compelling reason. A wrongly applies the first appeal test. C is too narrow (errors of substance suffice). D sets no such threshold. B correctly states the second appeal test.",
+        "card_refs": [
+          "FLK1-DR-019"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-030",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Infant Settlement",
+        "difficulty": "Complex",
+        "stem": "A claimant (aged 16) received a Part 36 offer of £100,000 in a personal injury claim. The claimant's parent accepts on the child's behalf. Approval is sought under CPR r.21.4. If the Part 36 offer is rejected post-approval in favour of a higher judgment, what cost consequences follow?",
+        "options": {
+          "A": "CPR r.36.17 consequences do not apply because the claimant was an infant and parental consent is presumed reasonable",
+          "B": "CPR r.36.17 consequences apply if the judgment exceeds the offer, but r.21.4 approval protects against sanctions",
+          "C": "The normal Part 36 cost consequences apply; infant status and court approval do not shield from CPR r.36.17",
+          "D": "Infant status voids the Part 36 offer and costs are awarded on the standard basis"
+        },
+        "correct": "C",
+        "explanation": "CPR r.36.17 applies regardless of infant status or parental/court approval of settlement. The offer is still binding if not beaten. A wrongly presumes immunity. B conflates approval with cost exemption. D wrongly voids the offer. C correctly applies Part 36 consequences.",
+        "card_refs": [
+          "FLK1-DR-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-031",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "CPR r.1.1 — active case management",
+        "difficulty": "Application",
+        "stem": "A claimant applies for an extension of time to serve particulars of claim. The defendant argues there is no good reason for the delay. Which principle does the court apply in deciding the application?",
+        "options": {
+          "A": "The court must grant any extension the parties agree to.",
+          "B": "The court applies the overriding objective (CPR r.1.1) to deal with cases justly and at proportionate cost, including enforcing compliance with rules and orders, and has regard to the need for prompt and efficient resolution.",
+          "C": "The court grants extensions automatically on a first application.",
+          "D": "The court applies the slip rule to correct procedural errors."
+        },
+        "correct": "B",
+        "explanation": "CPR r.1.1 sets out the overriding objective: to deal with cases justly and at proportionate cost. This includes ensuring parties are on an equal footing, saving expense, dealing with cases in ways proportionate to their value and complexity, ensuring cases are dealt with expeditiously, and allotting an appropriate share of the court's resources. Under CPR r.1.2, the court must seek to give effect to the overriding objective when exercising powers under the CPR. Parties' agreement does not bind the court (A is wrong). Automatic extensions do not exist in this form (C is wrong). The slip rule (D) corrects accidental errors in judgments, not general procedural defaults.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-032",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Date of issue vs date of service",
+        "difficulty": "Foundation",
+        "stem": "A claimant issues a claim form on the last day of the limitation period. The claim form is not served until 10 days later. Is the claim time-barred?",
+        "options": {
+          "A": "Yes — limitation runs until the date of service, not issue.",
+          "B": "No — the claim is commenced, and the limitation period stopped running, on the date of issue (CPR r.7.2); service within the period allowed by CPR r.7.5 is sufficient.",
+          "C": "Yes — the claim form must be issued and served on the same day.",
+          "D": "No — but the defendant can apply to strike out for late service."
+        },
+        "correct": "B",
+        "explanation": "Under CPR r.7.2, proceedings are commenced when the court issues a claim form. The limitation period is halted on the date of issue. CPR r.7.5 gives the claimant four months from the date of issue to serve the claim form within the jurisdiction (six months out of jurisdiction). The claim form is therefore not time-barred provided service occurs within the r.7.5 period. Option A confuses issue and service. Option C is wrong — same-day service is not required. Option D acknowledges the general position but inverts the conclusion: late service gives rise to possible sanctions or validity challenges, but on facts where service is within the r.7.5 period this does not arise.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-033",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "Particulars of claim — content requirements",
+        "difficulty": "Foundation",
+        "stem": "A claimant sues for breach of contract. Which of the following must the particulars of claim include?",
+        "options": {
+          "A": "A full summary of all evidence the claimant intends to rely on.",
+          "B": "A concise statement of the facts on which the claimant relies, including the nature of the contract, the breach alleged, and the remedy sought (CPR r.16.4).",
+          "C": "A list of all witnesses the claimant intends to call.",
+          "D": "A costs estimate for the claim."
+        },
+        "correct": "B",
+        "explanation": "CPR r.16.4 requires particulars of claim to include: (i) a concise statement of the facts on which the claimant relies; (ii) if the claimant seeks interest, the basis for that claim; and (iii) if the claim includes personal injury, specified additional details. Particulars of claim are a statement of the claimant's case, not a summary of evidence (A is wrong). Witness lists are served separately as witness statements (C is wrong). A costs estimate appears in a costs budget (D is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-034",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Multi-track criteria",
+        "difficulty": "Foundation",
+        "stem": "A claim for breach of contract is valued at £250,000. To which track will it most likely be allocated?",
+        "options": {
+          "A": "Small claims track — for claims up to £10,000.",
+          "B": "Fast track — for claims up to £25,000.",
+          "C": "Multi-track — for claims over £25,000 (or complex claims regardless of value).",
+          "D": "Intermediate track — for claims between £25,000 and £100,000."
+        },
+        "correct": "C",
+        "explanation": "Under CPR r.26.6, the multi-track is the normal track for any claim with a value exceeding £25,000 (or which cannot be justly dealt with on the fast track or intermediate track due to complexity). A £250,000 claim will be allocated to the multi-track. The small claims track (A) covers claims up to £10,000 (with lower thresholds for personal injury and housing disrepair). The fast track (B) covers £10,000–£25,000 claims that can be tried in a day. The intermediate track (D) was introduced by the Civil Procedure (Amendment No.2) Rules 2023 for straightforward claims between £25,000 and £100,000 — at £250,000 this claim goes to multi-track regardless.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-035",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Costs budgeting — Precedent H",
+        "difficulty": "Foundation",
+        "stem": "In a multi-track claim valued at £750,000, a directions questionnaire indicates the case will be complex. Which costs management obligation arises?",
+        "options": {
+          "A": "None — costs budgeting only applies to claims under £25,000.",
+          "B": "Each party must file and exchange costs budgets (Precedent H) unless the court orders otherwise (CPR r.3.13); the court will approve or vary the budgets at a costs management conference.",
+          "C": "Only the claimant must file a costs budget.",
+          "D": "Costs budgets are filed only after judgment has been entered."
+        },
+        "correct": "B",
+        "explanation": "CPR r.3.13 requires each party (unless the court orders otherwise) to file and exchange costs budgets in the form of Precedent H. In multi-track cases where the claim is over £25,000 and costs management applies, budgets must be filed at least 21 days before the first case management conference. The court then undertakes costs management, approving or revising the budgets (CPR r.3.15). This helps control disproportionate costs. Option A is incorrect. Option C is wrong — all parties must file. Option D is wrong — budgets are filed before the first CMC, not after judgment.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-036",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "CPR r.24 — test and procedure",
+        "difficulty": "Application",
+        "stem": "A defendant files a defence which amounts to a bare denial without any particulars. The claimant applies for summary judgment under CPR r.24. What must the claimant show?",
+        "options": {
+          "A": "That the defendant's case is weaker than the claimant's on the balance of evidence.",
+          "B": "That the defendant has no real prospect of successfully defending the claim and there is no other compelling reason why the case should be disposed of at trial (CPR r.24.2).",
+          "C": "That the claim is not disputed.",
+          "D": "That the defendant has admitted liability."
+        },
+        "correct": "B",
+        "explanation": "CPR r.24.2 provides that the court may give summary judgment against a defendant on the whole or part of a claim if the court considers that the defendant has no real prospect of successfully defending the claim, and there is no other compelling reason why the case or issue should be disposed of at a trial. The 'real prospect' test requires more than a fanciful or theoretical prospect — there must be an arguable case with some degree of conviction. A bare denial may not satisfy this threshold. Option A introduces a comparative evidence test which is not the CPR r.24 standard. Options C and D are conditions not required by r.24.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-037",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "American Cyanamid — balance of convenience",
+        "difficulty": "Application",
+        "stem": "A claimant applies for an interim injunction to restrain the defendant from publishing allegedly defamatory material. The defendant argues the claimant has an adequate remedy in damages and the injunction should be refused. Which statement correctly applies the American Cyanamid test?",
+        "options": {
+          "A": "The court must conduct a mini-trial of the merits at the interim stage.",
+          "B": "The court applies the American Cyanamid test: first, whether there is a serious question to be tried; second, whether damages would be an adequate remedy; and third (if not), whether the balance of convenience lies in favour of granting or refusing the injunction.",
+          "C": "The claimant must prove the defendant's conduct is clearly unlawful before an injunction can be granted.",
+          "D": "The defendant's argument is conclusive — if damages can compensate, an injunction must always be refused."
+        },
+        "correct": "B",
+        "explanation": "American Cyanamid Co v Ethicon Ltd [1975] established the modern test for interim injunctions: (1) Is there a serious question to be tried? (not a strong prima facie case); (2) Would damages be an adequate remedy for the claimant if the injunction is refused? If yes, the injunction will normally be refused. If no, (3) Would a cross-undertaking in damages adequately protect the defendant if the injunction is granted and the claimant later fails? If not, (4) The balance of convenience — where does the overall justice lie? The court does not conduct a mini-trial (A is wrong). Option C imposes too high a threshold at the interim stage. Option D overstates the adequacy of damages test — it is the first factor in the balance of convenience, not an absolute rule.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-038",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Mareva injunction — conditions",
+        "difficulty": "Application",
+        "stem": "A claimant applies without notice for a worldwide freezing order against the defendant, who is about to transfer assets abroad. What conditions must be satisfied?",
+        "options": {
+          "A": "A good arguable case on the merits; a real risk of dissipation of assets before judgment; and it must be just and convenient to grant the order.",
+          "B": "The claimant must prove the defendant has already hidden assets.",
+          "C": "The claimant must have obtained judgment before applying for a freezing order.",
+          "D": "Only a final order can freeze assets — interim freezing orders are not permitted."
+        },
+        "correct": "A",
+        "explanation": "A freezing injunction (Mareva injunction) requires: (i) a good arguable case on the merits of the underlying claim; (ii) a real risk of dissipation of assets or the defendant removing assets before judgment can be satisfied; and (iii) it is just and convenient to grant the order. A worldwide freezing order additionally requires assets or risk of dissipation with an international element. The applicant must give a cross-undertaking in damages. Option B imposes a higher threshold (proof of actual concealment) than is required. Option C is wrong — freezing orders are routinely granted before judgment. Option D is wrong — interim freezing orders are expressly available under Supreme Court Act 1981 s.37.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-039",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Standard disclosure — CPR r.31.6",
+        "difficulty": "Foundation",
+        "stem": "In a multi-track claim, the court orders standard disclosure. What must a party disclose under CPR r.31.6?",
+        "options": {
+          "A": "Every document the party holds relating to the subject matter of the proceedings.",
+          "B": "Documents on which the party relies; documents which adversely affect the party's own case; documents which adversely affect another party's case; and documents which support another party's case.",
+          "C": "Only documents the party intends to rely on at trial.",
+          "D": "Documents that are more likely than not to be relevant to the issues in dispute."
+        },
+        "correct": "B",
+        "explanation": "CPR r.31.6 defines standard disclosure as requiring a party to disclose: (a) documents on which it relies; (b) documents which adversely affect its own case; (c) documents which adversely affect another party's case; and (d) documents which support another party's case. This is limited to documents within the party's control. Option A describes a wider 'train of enquiry' disclosure that was the pre-CPR standard but is not standard disclosure. Option C is narrower than r.31.6. Option D introduces a likelihood test which is not the r.31.6 formulation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-040",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Privilege",
+        "subtopic": "Legal advice privilege",
+        "difficulty": "Application",
+        "stem": "A company receives an internal email from its in-house solicitor advising on the legal consequences of a proposed course of action. The opposing party seeks disclosure. Can the company claim legal advice privilege?",
+        "options": {
+          "A": "No — legal advice privilege only applies to communications with external solicitors.",
+          "B": "Yes — legal advice privilege protects confidential communications between a lawyer (including in-house lawyers) and client made for the purpose of giving or receiving legal advice.",
+          "C": "No — in-house lawyers' advice is subject to disclosure because their employment creates a conflict of interest.",
+          "D": "Yes — but only if the in-house solicitor is also qualified as a barrister."
+        },
+        "correct": "B",
+        "explanation": "Legal advice privilege protects confidential communications between a lawyer and client that are made for the purpose of giving or obtaining legal advice. The privilege extends to in-house lawyers acting in their capacity as lawyers (Three Rivers DC v Bank of England (No.6) [2004]). The communication must be made in a legal capacity — commercial or management advice from an in-house lawyer is not protected. On the facts, the email concerns legal consequences, so it is properly characterised as legal advice. Option A incorrectly restricts privilege to external solicitors. Option C is wrong. Option D is wrong — qualification as a barrister is not required.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-041",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Privilege",
+        "subtopic": "Without prejudice rule",
+        "difficulty": "Application",
+        "stem": "Two parties are negotiating settlement. One party sends a letter headed 'Without Prejudice' offering £50,000 in full and final settlement. The offer is rejected. At trial, can the offering party's letter be disclosed to the court?",
+        "options": {
+          "A": "Yes — without prejudice correspondence must always be disclosed.",
+          "B": "No — the without prejudice rule protects genuine settlement negotiations from being admitted in evidence (Rush & Tompkins v GLC [1989]); the offering party can prevent disclosure.",
+          "C": "Yes — the without prejudice label is only a convention and does not provide legal protection.",
+          "D": "No — but the receiving party can still disclose it if they wish."
+        },
+        "correct": "B",
+        "explanation": "The without prejudice rule prevents evidence of settlement negotiations from being adduced in court without the consent of both parties. This applies where a document is made in the context of a genuine attempt to compromise a dispute and is marked (or implicitly) 'without prejudice' (Rush & Tompkins v GLC [1989]). Option A is wrong — the whole purpose of the rule is to prevent disclosure. Option C is wrong — the without prejudice label provides genuine legal protection in English law. Option D is wrong — the rule protects both parties; neither can waive it unilaterally (the privilege is joint).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-042",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Consequences of claimant beating its own offer",
+        "difficulty": "Application",
+        "stem": "In a personal injury claim, the claimant makes a Part 36 offer of £100,000. The defendant does not accept. At trial, the claimant is awarded £120,000. What are the cost consequences?",
+        "options": {
+          "A": "Costs are awarded in the usual way — the winner pays nothing special.",
+          "B": "Because the claimant has beaten its own Part 36 offer, the enhanced consequences under CPR r.36.17(4) apply: the claimant is entitled to indemnity costs from the date of expiry of the relevant period, enhanced interest on damages (up to 10% above base rate), enhanced interest on costs, and an additional amount (up to £75,000).",
+          "C": "The defendant pays the claimant's costs on the standard basis only.",
+          "D": "The Part 36 offer has no effect because the claimant won at trial anyway."
+        },
+        "correct": "B",
+        "explanation": "CPR r.36.17(4) provides that where a claimant obtains a judgment at least as advantageous as its own Part 36 offer, the court must (unless unjust) order: (i) indemnity costs from the date the relevant period for the offer expired; (ii) interest on those costs at up to 10% above base rate; (iii) interest on the award at up to 10% above base rate for the same period; and (iv) an additional amount (capped at £75,000) calculated as a percentage of the award/costs. These are significant financial incentives for defendants to accept reasonable offers. Option A misses the enhanced consequences. Option C underpays. Option D is wrong — Part 36 carries specific consequences even on a trial win.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-043",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Part 36 & Settlement",
+        "subtopic": "Defendant's Part 36 offer — claimant fails to beat",
+        "difficulty": "Application",
+        "stem": "A defendant makes a Part 36 offer of £80,000. The claimant rejects it and proceeds to trial, where the claimant is awarded £70,000. What costs consequences follow from CPR r.36.17(3)?",
+        "options": {
+          "A": "The claimant recovers all costs because the defendant lost.",
+          "B": "Under CPR r.36.17(3), the claimant is entitled to costs up to the date the relevant period expired, but the defendant is entitled to costs from that date onwards; the court must so order unless it would be unjust.",
+          "C": "The defendant bears all costs regardless of the outcome.",
+          "D": "Each party pays their own costs."
+        },
+        "correct": "B",
+        "explanation": "CPR r.36.17(3) provides that where a claimant fails to obtain a judgment more advantageous than the defendant's Part 36 offer, the court must (unless unjust) order the claimant to pay the defendant's costs from the date the relevant period expired. This means: claimant recovers costs from issue to expiry of the relevant period; defendant recovers costs from expiry of the relevant period to judgment. The purpose is to incentivise acceptance of reasonable defendant offers. Option A ignores the Part 36 cost-shifting mechanism. Option C is wrong. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-044",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Expert witnesses — single joint expert",
+        "difficulty": "Foundation",
+        "stem": "In a fast-track claim for property damage valued at £15,000, both parties wish to appoint their own expert surveyors. What is the court most likely to order?",
+        "options": {
+          "A": "Each party may appoint their own expert without restriction.",
+          "B": "The court will likely direct the appointment of a single joint expert (CPR r.35.7) to give evidence on the valuation issue, thereby saving cost and avoiding a battle of experts.",
+          "C": "Expert evidence is not permitted on fast-track claims.",
+          "D": "The court will appoint its own independent expert."
+        },
+        "correct": "B",
+        "explanation": "CPR r.35.7 empowers the court to direct that evidence on a particular issue is to be given by one expert only (a single joint expert), instructed by both parties. In fast-track cases, use of a single joint expert is strongly encouraged to control costs. The court will almost certainly refuse permission for each party to instruct separate experts for a £15,000 property damage claim. Option A ignores the court's case management powers. Option C is wrong — expert evidence can be used but is subject to court control. Option D describes court-appointed experts under r.35.15, which is rarely used in English civil litigation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-045",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Expert's overriding duty",
+        "difficulty": "Application",
+        "stem": "An expert witness is instructed by the claimant in a multi-track claim. The expert's evidence, if given honestly, would substantially undermine the claimant's case. To whom does the expert's primary duty run?",
+        "options": {
+          "A": "To the instructing party who pays his fees.",
+          "B": "To the court — an expert's overriding duty is to the court and not to the party who instructs or pays for the report (CPR r.35.3).",
+          "C": "Equally to the court and the instructing party.",
+          "D": "To the opposing party, to ensure a fair hearing."
+        },
+        "correct": "B",
+        "explanation": "CPR r.35.3 provides that it is the duty of experts to help the court on matters within their expertise. This duty overrides any obligation to the person from whom they have received instructions or by whom they are paid. An expert must give an honest opinion regardless of its impact on the instructing party's case. The expert should not act as an advocate. Options A, C, and D are all inconsistent with the duty under CPR r.35.3.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-046",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Indemnity vs standard basis",
+        "difficulty": "Foundation",
+        "stem": "A costs order is made on the standard basis. Which statement correctly describes how costs are assessed on that basis?",
+        "options": {
+          "A": "All reasonable costs incurred, with any doubt resolved in favour of the paying party.",
+          "B": "All costs incurred, without any proportionality test.",
+          "C": "Costs are assessed on the basis of proportionality and reasonableness; any doubt about whether costs were reasonably incurred or are reasonable in amount is resolved in favour of the paying party (CPR r.44.3).",
+          "D": "Costs are assessed at a fixed percentage of the damages recovered."
+        },
+        "correct": "C",
+        "explanation": "Under CPR r.44.3, on the standard basis the court will only allow costs which are proportionate to the matters in issue and reasonable in amount. Critically, any doubt as to whether costs were reasonably or proportionately incurred is resolved in favour of the paying party. This differs from the indemnity basis (r.44.3(3)) where: (i) proportionality is not required; and (ii) doubts are resolved in favour of the receiving party. Option A describes indemnity basis costs. Options B and D are incorrect descriptions of either basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-047",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "CPR r.12 — entering and setting aside",
+        "difficulty": "Application",
+        "stem": "The defendant fails to file an acknowledgment of service or a defence within the required time. The claimant enters default judgment. The defendant then applies to set it aside. Under CPR r.13.3, what must the defendant show?",
+        "options": {
+          "A": "That the judgment was entered without proper notice.",
+          "B": "That the defendant has a real prospect of successfully defending the claim, or there is some other good reason to set aside the judgment or to allow the defendant to defend the claim.",
+          "C": "That there was a procedural error by the court.",
+          "D": "That the claimant consents to the judgment being set aside."
+        },
+        "correct": "B",
+        "explanation": "CPR r.13.3 provides that the court may set aside or vary a default judgment if the defendant has a real prospect of successfully defending the claim, or it appears to the court that there is some other good reason why the judgment should be set aside or varied, or the defendant should be allowed to defend the claim. The court must also consider whether the application was made promptly. This is a discretionary jurisdiction. Option A describes circumstances where there is a mandatory right to set aside (CPR r.13.2 — e.g., irregularly entered judgment). Option C is a narrower basis. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-048",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Permission to appeal — test",
+        "difficulty": "Foundation",
+        "stem": "A party wishes to appeal a circuit judge's decision on a point of law. What is the general test for permission to appeal?",
+        "options": {
+          "A": "The appeal has merit — the appeal court will re-hear the case.",
+          "B": "The appeal has a real prospect of success or there is some other compelling reason why the appeal should be heard (CPR r.52.6).",
+          "C": "The party simply needs to file a notice of appeal within 21 days.",
+          "D": "Permission is automatic for appeals from circuit judges."
+        },
+        "correct": "B",
+        "explanation": "CPR r.52.6 provides that permission to appeal may be given only where the court considers that the appeal would have a real prospect of success, or there is some other compelling reason for the appeal to be heard. Permission is required for most appeals (except certain mandatory categories). The appeal court does not generally re-hear the case (A is wrong) — it reviews the decision. Filing a notice of appeal (C) is a procedural step but does not grant permission. Permission is not automatic (D is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-049",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "ADR",
+        "subtopic": "Mediation — enforceability of settlement",
+        "difficulty": "Foundation",
+        "stem": "Two parties reach agreement at a mediation. They sign a written settlement agreement at the end of the session. The defendant later refuses to comply. How can the claimant enforce the settlement?",
+        "options": {
+          "A": "The claimant must issue fresh proceedings for breach of the settlement agreement.",
+          "B": "The settlement agreement is a binding contract; if the terms have not been incorporated into a court order, the claimant may sue for breach of contract; if they have, the claimant may enforce by contempt proceedings or applying to execute the order.",
+          "C": "Mediation agreements are not legally binding unless witnessed by a solicitor.",
+          "D": "The claimant must return to mediation before taking legal action."
+        },
+        "correct": "B",
+        "explanation": "A signed written settlement agreement reached at mediation is a binding contract in English law. Where the settlement has not been embodied in a court order (such as a Tomlin order), enforcement is by way of breach of contract proceedings. Where the terms have been incorporated into a court order, the claimant can enforce by contempt of court proceedings or by executing the order. A Tomlin order (CPR r.40.6) is commonly used to give court enforcement to settlement terms. Option A is partially correct but incomplete. Option C is wrong — there is no solicitor-witness requirement for a mediation agreement to be binding. Option D is wrong — return to mediation is not a prerequisite for legal enforcement.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-050",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "ADR",
+        "subtopic": "Costs consequences of refusing ADR",
+        "difficulty": "Application",
+        "stem": "In a commercial dispute, the claimant wins at trial. It emerges that the claimant refused, without good reason, to engage with mediation proposed by the defendant. What costs consequences might follow?",
+        "options": {
+          "A": "None — the winner always recovers all costs.",
+          "B": "The court may depart from the usual costs rule and reduce or deprive the winning claimant of some or all of its costs to reflect the unreasonable refusal to engage in ADR (Halsey v Milton Keynes NHS Trust [2004] / Churchill v Merthyr Tydfil [2023]).",
+          "C": "The winning party receives costs on the indemnity basis to reflect the wasted trial.",
+          "D": "The court cannot make any costs order against a winning party."
+        },
+        "correct": "B",
+        "explanation": "In Halsey v Milton Keynes NHS Trust [2004], the Court of Appeal held that unreasonable refusal to engage in ADR can result in a costs penalty against the winning party. In Churchill v Merthyr Tydfil CBC [2023], the Court of Appeal clarified that courts can compel (or strongly encourage) parties to engage in ADR, and that refusing without good reason can affect costs. The general rule is that the winner recovers costs, but this is subject to the court's discretion under CPR r.44.2 to take conduct into account. Option A is wrong — the winner is not automatically entitled to all costs. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-051",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "Deemed dates of service",
+        "difficulty": "Foundation",
+        "stem": "A solicitor sends a claim form to the defendant by first-class post on Monday. When is it deemed served under CPR r.6.14?",
+        "options": {
+          "A": "The second business day after posting — Wednesday (CPR r.6.14 — if posted on Monday, deemed served on Wednesday).",
+          "B": "The day it is posted — Monday.",
+          "C": "Seven days after posting.",
+          "D": "When the defendant actually receives it."
+        },
+        "correct": "A",
+        "explanation": "CPR r.6.14 provides that a document served by first-class post (or other service where delivery is not the next business day) is deemed to have been served on the second business day after posting. If posted on Monday, the second business day after Monday is Wednesday (Tuesday being the first, Wednesday the second). This deemed service date applies even if the defendant receives the document earlier or later. Option B (day of posting) is wrong. Option C is wrong. Option D would require proof of actual receipt, which the CPR deemed service rule avoids.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-052",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "CPR r.22 — consequences of false statement",
+        "difficulty": "Foundation",
+        "stem": "A party signs a statement of truth on its particulars of claim, knowing the facts stated are false. What are the potential consequences?",
+        "options": {
+          "A": "The party may be held in contempt of court (CPR r.32.14) if it is proved that there was no honest belief in the truth of the statement; the maker can be fined or imprisoned.",
+          "B": "The court will automatically strike out the claim.",
+          "C": "The case proceeds normally — statements of truth are merely administrative formalities.",
+          "D": "Only the solicitor who signed is liable, not the party."
+        },
+        "correct": "A",
+        "explanation": "CPR r.32.14 provides that proceedings for contempt of court may be brought against a person who makes, or causes to be made, a false statement in a document verified by a statement of truth, without honest belief in its truth. Contempt of court carries penalties including a fine and/or imprisonment. This applies whether the statement of truth is signed by the party or their legal representative. Automatic strike-out (A) is not the consequence — the court has discretion but contempt is the primary mechanism. Option C is wrong — statements of truth are a substantive requirement. Option D is wrong — the party who verifies the document is personally responsible.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-053",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Part 20 claims — contribution",
+        "difficulty": "Application",
+        "stem": "A defendant is sued by a claimant for negligence. The defendant believes a sub-contractor is partly responsible. The defendant wishes to seek contribution from the sub-contractor. What procedural mechanism is available?",
+        "options": {
+          "A": "The defendant may make a Part 20 claim (additional claim) against the sub-contractor within the existing proceedings, seeking contribution or indemnity without starting a separate action.",
+          "B": "The defendant must issue separate proceedings against the sub-contractor.",
+          "C": "The defendant must join the sub-contractor as a co-defendant by applying to the court.",
+          "D": "The defendant must apply for a third-party notice at the start of proceedings only."
+        },
+        "correct": "A",
+        "explanation": "CPR Part 20 allows a defendant to make an additional claim (previously called a third-party notice) against any person not already a party to the proceedings, seeking contribution, indemnity, or any other remedy connected with the subject matter of the original claim. This avoids the expense of separate proceedings and keeps all related issues before the same court. A defendant may also bring a counterclaim against the claimant or make a claim against a co-defendant under Part 20. Option B would require separate proceedings unnecessarily. Options C and D describe incorrect procedures.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-054",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Methods of enforcing judgment debts",
+        "difficulty": "Foundation",
+        "stem": "A claimant has obtained a judgment for £85,000 against the defendant but the defendant does not pay voluntarily. Which of the following is a correct method of enforcing the judgment?",
+        "options": {
+          "A": "A writ of control (formerly execution against goods) allowing enforcement agents to seize and sell the defendant's goods.",
+          "B": "Applying for the defendant's arrest.",
+          "C": "Sending a statutory demand and issuing a winding-up petition immediately.",
+          "D": "Reporting the defendant to the SRA."
+        },
+        "correct": "A",
+        "explanation": "There are several methods of enforcing a money judgment: (i) writ of control / warrant of execution — enforcement agents seize and sell goods; (ii) charging order — over land or securities; (iii) third-party debt order (formerly garnishee) — attaches money owed by a third party to the defendant; (iv) attachment of earnings order; (v) insolvency proceedings (winding-up or bankruptcy). A writ of control is a standard and correct enforcement method. Arrest (A) is not a remedy for civil debt enforcement. A statutory demand leading to a winding-up petition (C) is a different route and requires meeting the insolvency threshold. Option D is irrelevant.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-055",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "Pre-Action Protocols",
+        "difficulty": "Application",
+        "stem": "Before issuing a claim for professional negligence, a claimant's solicitor fails to follow the Pre-Action Protocol for Professional Negligence. What consequence may follow if the claim is eventually issued?",
+        "options": {
+          "A": "The court may impose costs sanctions, order a stay of proceedings to allow pre-action steps to be completed, or take the failure into account when making any costs order (PD Pre-Action Conduct and Protocols).",
+          "B": "The court must strike out the claim.",
+          "C": "There are no consequences — pre-action protocols are voluntary.",
+          "D": "The claim is automatically time-barred."
+        },
+        "correct": "A",
+        "explanation": "Pre-Action Protocols and the Practice Direction on Pre-Action Conduct require parties to follow the relevant protocol steps (letter of claim, response, disclosure) before issuing proceedings. If a party fails to comply, the court may: impose cost sanctions; order a stay to allow protocol steps to be completed; or otherwise take the non-compliance into account in its costs order. The protocols are not voluntary — non-compliance carries real consequences. However, the claim is not automatically struck out (A) or time-barred (D). Option C is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-056",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "CPR r.25.7 conditions",
+        "difficulty": "Foundation",
+        "stem": "A claimant who has been seriously injured applies for an interim payment before trial. Under CPR r.25.7, what must be established?",
+        "options": {
+          "A": "That the defendant has admitted liability, or the claimant would obtain judgment for a substantial sum if the matter proceeded to trial (unless the court considers it unreasonable), or the defendant is insured.",
+          "B": "That judgment has already been entered on liability.",
+          "C": "That the defendant has assets to satisfy any order.",
+          "D": "That the application is made within 3 months of the claim being issued."
+        },
+        "correct": "A",
+        "explanation": "CPR r.25.7(1) provides that the court may make an order for an interim payment only if: (a) the defendant has admitted liability; (b) the claimant has obtained judgment against the defendant for damages to be assessed; or (c) the court is satisfied that, if the claim went to trial, the claimant would obtain judgment for a substantial amount of money against the defendant. The court must also take into account contributory negligence (r.25.7(5)). Option B is only one of three qualifying routes. Option C is not a requirement (though practical solvency is a factor). Option D is wrong — there is no fixed time limit for interim payment applications.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-057",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Jurisdiction thresholds",
+        "difficulty": "Foundation",
+        "stem": "A solicitor is advising on where to issue a personal injury claim worth £60,000. Which court is most appropriate under the Civil Procedure Rules?",
+        "options": {
+          "A": "The County Court — personal injury claims below £50,000 must be issued in the County Court; between £50,000 and £100,000 can go to either the County Court or the High Court.",
+          "B": "The Supreme Court.",
+          "C": "The Magistrates' Court.",
+          "D": "The High Court (Queen's Bench Division) only — claims over £15,000 must be issued in the High Court."
+        },
+        "correct": "A",
+        "explanation": "Under the High Court and County Courts Jurisdiction Order 1991 (as amended), personal injury claims of less than £50,000 must be started in the County Court. For personal injury claims between £50,000 and below the financial threshold for mandatory High Court issue, claims may be issued in either court, though the County Court is generally preferred to manage resources. At £60,000, this claim may go to either the County Court or High Court, but the County Court is the more proportionate venue. Option B is wrong. Option C is wrong. Option D incorrectly states the threshold rules.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-058",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor's duty to the court — misleading the court",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma is a litigator at Crane & Pelletier. His client, Hassan Nazari, tells Sharma that a document Sharma is about to rely on in written submissions is actually a forgery Nazari created. Nazari refuses to allow Sharma to inform the court. What must Sharma do?",
+        "options": {
+          "A": "Sharma must withdraw from the case and (without revealing the reason to the other side) can no longer use the forged document; he must not mislead the court (SRA Code para 1.4 and 2.6).",
+          "B": "Sharma must follow his client's instructions and file the document.",
+          "C": "Sharma must report Nazari to the police immediately.",
+          "D": "Sharma can file the document provided he adds a caveat noting it may be disputed."
+        },
+        "correct": "A",
+        "explanation": "SRA Code para 1.4 prohibits a solicitor from misleading or attempting to mislead the court or others, either by their own acts or omissions or by being complicit in the acts of others. If a client reveals that evidence is forged and refuses to correct the position, the solicitor's duty to the court overrides the duty to the client. Sharma cannot continue to use the document and must withdraw from acting if the client refuses to allow disclosure. He must not inform the court of the reason for withdrawal (due to confidentiality) but must not misrepresent the situation either. Reporting to the police (C) is not required by the SRA Code and would breach confidentiality absent a specific exception. Option B requires Sharma to breach his duty to the court. Option D creates a misleading impression.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-059",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Duties in relation to opposing parties and solicitors",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier is acting for the defendant in litigation. She learns that opposing counsel has been sent, in error, a copy of a privileged document belonging to the defendant. She uses the document to prepare submissions before telling her client or the opposing solicitor. Which SRA Code obligation is engaged?",
+        "options": {
+          "A": "Pelletier should have notified the opposing solicitor immediately on recognising the document was confidential/privileged and returned or destroyed it without using it; using inadvertently disclosed privileged documents is a breach of professional duty and may constitute professional misconduct.",
+          "B": "No obligation — the opposing party should have been more careful.",
+          "C": "Pelletier can use any document received, regardless of how it was obtained.",
+          "D": "Pelletier must use the document in the best interests of her client."
+        },
+        "correct": "A",
+        "explanation": "Where a solicitor receives a document that appears to be privileged by mistake, the solicitor should not read it further than is necessary to identify its nature, should notify the sender immediately, and should not make use of it. The SRA Principle 7 (acting in clients' best interests) and para 1.4 (duty not to mislead or take improper advantage) together require a solicitor not to exploit obvious mistakes by the opposing party. Using an inadvertently disclosed privileged document without notification amounts to professional misconduct and may lead to injunction proceedings requiring delivery up of the document (Pizzey v Ford Motor Co [1994]). Options A, C and D are all wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-060",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Wasted costs orders",
+        "difficulty": "Application",
+        "stem": "Gerald Crane, acting as a litigator, fails to file the trial bundle on time causing a trial to be adjourned. The court considers making a wasted costs order. Against whom can a wasted costs order be made and on what basis?",
+        "options": {
+          "A": "Against Crane personally (as the legal representative) — under s.51 Senior Courts Act 1981 and CPR r.46.8, a wasted costs order can be made against a legal representative whose improper, unreasonable or negligent act or omission causes another party to incur unnecessary costs.",
+          "B": "Against the client — wasted costs orders are made against the losing party.",
+          "C": "Against the firm — wasted costs orders cannot be made against individual solicitors.",
+          "D": "Against the opposing party — wasted costs orders compensate the party who caused the wasted trial."
+        },
+        "correct": "A",
+        "explanation": "Under Senior Courts Act 1981 s.51(6)-(7) and CPR r.46.8, the court may make a wasted costs order against a legal representative (barrister, solicitor, or other legal representative) where they have acted improperly, unreasonably or negligently, and their conduct caused a party to incur unnecessary costs. The order is made against the individual or firm of legal representatives, not against the client. The test requires: (i) improper/unreasonable/negligent conduct; (ii) the conduct caused the wasted costs; and (iii) it is just in all the circumstances. Option B is wrong. Option C is incorrect — individual solicitors can personally face wasted costs orders. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-061",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Latent damage — Limitation Act 1980 s.14A",
+        "difficulty": "Application",
+        "stem": "A homeowner discovers in January 2024 that a surveyor's negligent report from 2016 failed to identify structural defects. The six-year limitation period from the date of the cause of action expired in 2022. Can the homeowner still bring a claim?",
+        "options": {
+          "A": "Yes — the Limitation Act 1980 s.14A provides a three-year period running from the date of knowledge (when the claimant knew or ought reasonably to have known of the facts giving rise to the claim), subject to an overriding 15-year longstop from the date of the negligent act.",
+          "B": "No — the six-year limitation period has expired and no claim can be brought.",
+          "C": "Yes — but only if the surveyor is still solvent.",
+          "D": "No — s.14A only applies to personal injury claims."
+        },
+        "correct": "A",
+        "explanation": "Limitation Act 1980 s.14A provides an extended limitation period for latent damage (other than personal injury) in negligence actions: a claimant may bring an action within three years of the date of knowledge (the date on which the claimant first had, or ought reasonably to have had, knowledge of the facts). If the homeowner first discovered the defects in January 2024, the three-year period runs until January 2027. However, s.14B imposes an absolute 15-year longstop from the date of the negligent act (here 2016), so the claim must be issued by 2031. Option B ignores s.14A. Option C introduces a solvency condition that does not exist. Option D is wrong — s.14A applies to all latent damage in negligence, not just personal injury (which has its own regime in s.11).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-062",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Unless orders",
+        "difficulty": "Application",
+        "stem": "A claimant repeatedly fails to comply with directions. The court makes an unless order: 'Unless the claimant files the witness statements by 4pm on 15 April 2024, the claim shall be struck out.' The claimant files at 5pm on 15 April. What happens?",
+        "options": {
+          "A": "The claim is automatically struck out on non-compliance with the unless order; the claimant must apply to reinstate and show good reason (CPR r.3.9).",
+          "B": "The court gives the claimant additional time because the delay was only one hour.",
+          "C": "The unless order is merely a warning; the court will not strike out without a further hearing.",
+          "D": "The court converts the unless order to a peremptory order."
+        },
+        "correct": "A",
+        "explanation": "An unless order operates automatically — if the specified condition is not met by the specified deadline, the sanction takes effect without further court order (CPR r.3.8). Filing at 5pm on a 4pm deadline means non-compliance, and the claim is struck out automatically. The claimant must then apply for relief from sanctions under CPR r.3.9, which requires the court to consider all the circumstances and in particular the need for efficient litigation and compliance with rules (following the guidance in Mitchell v News Group Newspapers [2014] and Denton v TH White [2014]). One hour's delay is not automatically forgiven — the Denton approach examines whether the breach is serious and significant, and if so, whether there is good reason. Option B is wrong. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-063",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Relief from sanctions — Denton test",
+        "difficulty": "Application",
+        "stem": "A defendant's solicitor files a costs budget one day late due to a diary error. The opposing party objects and seeks to bar the defendant from relying on the budget. The court applies the Denton v TH White test. What three-stage analysis does the court apply?",
+        "options": {
+          "A": "Whether the breach was deliberate; whether the client was at fault; and whether the opponent is prejudiced.",
+          "B": "Whether the breach causes injustice to the court; whether it is the first breach; and whether the solicitor has apologised.",
+          "C": "(1) Identify and assess the seriousness and significance of the breach; (2) consider why the breach occurred; (3) evaluate all the circumstances of the case, including the need to conduct litigation efficiently and at proportionate cost, and enforce compliance with rules.",
+          "D": "Whether the case has merits; whether the solicitor was negligent; and whether the opponent can recover costs."
+        },
+        "correct": "C",
+        "explanation": "In Denton v TH White [2014] the Court of Appeal refined the approach to CPR r.3.9 relief from sanctions: (1) Was the breach serious or significant? If trivial, relief will usually be granted. (2) Why did the breach occur? Good reason may point to relief. (3) All the circumstances of the case — particularly the need for efficient, proportionate litigation and enforcement of rules. The Denton approach requires courts not to engage in a mechanistic or overly lenient approach. A one-day diary error may or may not be treated as trivial depending on the impact. Option A introduces irrelevant factors. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-064",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Witness statements — exchange and use at trial",
+        "difficulty": "Foundation",
+        "stem": "At trial, a party wishes to call a witness whose witness statement was not served and exchanged in accordance with the court's directions. What is the consequence under CPR r.32.10?",
+        "options": {
+          "A": "The witness may give oral evidence freely — witness statements are merely helpful.",
+          "B": "The court must allow the evidence to avoid injustice.",
+          "C": "Under CPR r.32.10, a witness may not give evidence in chief unless the court gives permission; failure to serve a witness statement in time means the party cannot call that witness to give evidence in chief without the court's leave.",
+          "D": "The opposing party must consent before a late witness statement can be served."
+        },
+        "correct": "C",
+        "explanation": "CPR r.32.10 provides that if a witness statement is not served in accordance with the directions, the witness may not be called to give oral evidence in chief unless the court gives permission. The court's permission is required — not simply the opponent's consent. The court will exercise its discretion under the Denton/r.3.9 framework. Option A is wrong — witness statements are mandatory under the CPR regime. Option B is wrong — there is no automatic entitlement even to avoid injustice; the court has discretion. Option D is wrong — the court, not the opposing party, grants permission.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-065",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "QOCS — qualified one-way costs shifting",
+        "difficulty": "Foundation",
+        "stem": "A claimant brings a personal injury claim and loses at trial. The defendant applies for a costs order against the claimant. How does QOCS (qualified one-way costs shifting) affect this?",
+        "options": {
+          "A": "QOCS does not apply — the loser always pays costs in personal injury claims.",
+          "B": "QOCS means the claimant can never be ordered to pay costs in any personal injury proceedings.",
+          "C": "Under QOCS (CPR r.44.13–44.17), a claimant in a personal injury claim is generally protected from paying the defendant's costs if the claim is dismissed, subject to exceptions where the claim was found to be fundamentally dishonest or struck out.",
+          "D": "QOCS applies only where the claimant has a conditional fee agreement."
+        },
+        "correct": "C",
+        "explanation": "QOCS (CPR r.44.13–44.17) provides that orders for costs made against a claimant in personal injury proceedings will generally not be enforced without permission of the court, and permission will only be given where it would not be unjust to do so. This effectively protects losing personal injury claimants from paying the defendant's costs in most cases. However, QOCS protection is lost where the claim is found to be fundamentally dishonest (r.44.16), or where it is struck out for being an abuse of process or disclosing no reasonable grounds (r.44.15). Option A is wrong. Option B overstates the protection — the exceptions are important. Option D is wrong — QOCS replaced recoverability of ATE premiums and applies regardless of funding method.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-066",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "GLO — Group Litigation Orders",
+        "difficulty": "Foundation",
+        "stem": "Multiple claimants have claims arising from the same alleged defective product. Their solicitor applies for a Group Litigation Order (GLO). What is the purpose of a GLO?",
+        "options": {
+          "A": "To merge all individual claims into one single claim.",
+          "B": "To remove the need for individual claimants to prove their own losses.",
+          "C": "To provide for the case management of claims which give rise to common or related issues of fact or law (CPR r.19.22), allowing the court to manage multiple related claims efficiently.",
+          "D": "To cap the total damages recoverable across all claims."
+        },
+        "correct": "C",
+        "explanation": "CPR r.19.22 provides for a Group Litigation Order to provide for the case management of claims which give rise to common or related issues of fact or law. Once a GLO is made, a group register is maintained and the court may make orders for managing the group claims efficiently (lead cases, cut-off dates, etc.). Each claimant remains a separate party and must prove individual losses. A GLO does not merge claims (A), remove the need to prove individual losses (C), or cap damages (D).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-067",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "CPR r.25.13 conditions",
+        "difficulty": "Foundation",
+        "stem": "A defendant applies for an order requiring the claimant to provide security for costs. The claimant is ordinarily resident outside the UK. What must the defendant show under CPR r.25.13?",
+        "options": {
+          "A": "That the claimant is impecunious.",
+          "B": "That the claimant has previously failed to pay costs orders.",
+          "C": "That one of the conditions in CPR r.25.13(2) is met (including that the claimant is ordinarily resident outside the UK) and it is just to make the order in all the circumstances.",
+          "D": "That the claimant's solicitors have no assets within the jurisdiction."
+        },
+        "correct": "C",
+        "explanation": "CPR r.25.13 allows the court to make an order for security for costs if it is satisfied, having regard to all the circumstances, that it is just to make such an order, and one of the conditions in r.25.13(2) is met. The conditions include: the claimant is ordinarily resident outside the UK (and outside any Brussels/Lugano state); the claimant is a company or other body and there is reason to believe it will be unable to pay the defendant's costs if ordered to do so; or the claimant has changed address since the claim was issued to evade consequences. On these facts, ordinary residence outside the UK is the relevant condition. The defendant does not need to prove impecuniosity separately for this specific condition. Options A, C, and D are either wrong or incomplete.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-068",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Breach of injunction",
+        "difficulty": "Application",
+        "stem": "A defendant is subject to an interim injunction not to contact the claimant. The defendant deliberately contacts the claimant five times in breach of the order. What proceedings may the claimant take?",
+        "options": {
+          "A": "The claimant must apply for a fresh injunction.",
+          "B": "The claimant can only seek damages for breach of the injunction.",
+          "C": "The claimant may bring committal proceedings for contempt of court; if proved, the court may impose a fine, sequestration of assets, or imprisonment.",
+          "D": "The breach must be reported to the police — civil courts cannot enforce injunctions."
+        },
+        "correct": "C",
+        "explanation": "An injunction is an order of the court; deliberate breach is contempt of court. The claimant may apply to commit the defendant for contempt under CPR r.81 (committal for breach of a judgment or order). If the contempt is proved to the criminal standard (beyond reasonable doubt), the court may impose a fine, sequestration of assets, or imprisonment. The injunction continues in force; a fresh injunction (A) is not required. Damages (C) are not generally available for breach of a court order in this context — the remedy is contempt. Civil courts have full power to enforce their own orders (D is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-069",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "ADR",
+        "subtopic": "Arbitration — Arbitration Act 1996",
+        "difficulty": "Application",
+        "stem": "Two commercial parties have a dispute. Their contract contains an arbitration clause providing for disputes to be resolved by a sole arbitrator. One party issues court proceedings. What can the other party do?",
+        "options": {
+          "A": "Nothing — court proceedings override any arbitration clause.",
+          "B": "Seek to strike out the court proceedings for want of jurisdiction.",
+          "C": "Apply for a stay of the court proceedings under Arbitration Act 1996 s.9; the court must stay the proceedings unless the arbitration agreement is null and void, inoperative or incapable of being performed.",
+          "D": "Ignore the court proceedings — the arbitrator has exclusive jurisdiction."
+        },
+        "correct": "C",
+        "explanation": "Arbitration Act 1996 s.9 provides that a party to an arbitration agreement against whom court proceedings are brought in respect of a matter which under the agreement is to be referred to arbitration may apply to the court to stay those proceedings. The court must grant a stay unless it is satisfied that the arbitration agreement is null and void, inoperative, or incapable of being performed. This is a mandatory stay (subject to the exceptions) which gives effect to the parties' agreement to arbitrate. Option A is wrong. Option B is wrong — the correct mechanism is a s.9 stay, not a strike-out for jurisdiction. Option D is wrong — ignoring court proceedings would result in default judgment.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-070",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "ADR",
+        "subtopic": "Adjudication in construction contracts",
+        "difficulty": "Foundation",
+        "stem": "A construction contractor has a dispute with a developer about the final account on a building project. The contract is a standard JCT form. Which statutory right is available to the contractor?",
+        "options": {
+          "A": "To demand immediate arbitration.",
+          "B": "To apply to the court for a summary judgment without issuing proceedings.",
+          "C": "To refer the dispute to adjudication at any time under the Housing Grants, Construction and Regeneration Act 1996 s.108; the adjudicator's decision is binding as an interim measure (enforceable by summary judgment) until the dispute is finally resolved.",
+          "D": "To terminate the contract immediately and claim wasted expenditure."
+        },
+        "correct": "C",
+        "explanation": "The Housing Grants, Construction and Regeneration Act 1996 s.108 gives parties to a qualifying construction contract the right to refer a dispute to adjudication at any time. The adjudicator must reach a decision within 28 days (extendable). The decision is binding until the dispute is finally resolved by arbitration, litigation, or agreement. Courts routinely enforce adjudicator's decisions by summary judgment. This provides a fast-track cash-flow remedy in the construction industry. Option A (immediate arbitration) is a different process with different timescales. Option B is a CPR procedural route, not a statutory right specific to construction. Option D is an extreme remedy not triggered by the mere existence of a dispute.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-071",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Privilege",
+        "subtopic": "Litigation privilege",
+        "difficulty": "Application",
+        "stem": "A solicitor instructed in anticipated litigation commissions a report from an independent surveyor to assist in advising the client on the strength of the claim. Litigation has not yet been issued but is contemplated. The opposing party seeks disclosure. Can litigation privilege be claimed?",
+        "options": {
+          "A": "No — litigation privilege only applies once proceedings have been issued.",
+          "B": "No — reports from third parties are never privileged.",
+          "C": "Yes — litigation privilege protects documents created for the dominant purpose of litigation that is reasonably contemplated, even if not yet commenced (Waugh v British Railways Board [1980]).",
+          "D": "Yes — but only if the surveyor is a qualified expert witness."
+        },
+        "correct": "C",
+        "explanation": "Litigation privilege protects communications between a lawyer and third party (and between the client and third party) where they were created for the dominant purpose of reasonably contemplated or actual litigation. In Waugh v British Railways Board [1980] the House of Lords confirmed that the dominant purpose test applies. Litigation does not need to be underway — it must be reasonably contemplated. A solicitor's report commissioned to assess the strength of a claim satisfies this test. Option A incorrectly limits litigation privilege to commenced proceedings. Option B is wrong — third party reports can attract litigation privilege if the dominant purpose test is met. Option D introduces an irrelevant qualification requirement.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-072",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Interim Applications",
+        "subtopic": "Search orders (Anton Piller orders)",
+        "difficulty": "Application",
+        "stem": "A claimant suspects the defendant is holding vital evidence which would be destroyed if notice of proceedings was given. The claimant applies for a search order without notice. What is the primary purpose of a search order?",
+        "options": {
+          "A": "To allow the claimant's solicitors to enter the defendant's premises to search for and take into custody documents or items relevant to the proceedings.",
+          "B": "To allow the police to conduct a search of the defendant's premises.",
+          "C": "To freeze the defendant's bank accounts.",
+          "D": "To compel the defendant to make witness statements."
+        },
+        "correct": "A",
+        "explanation": "A search order (formerly an Anton Piller order, named after Anton Piller KG v Manufacturing Processes [1976]) is an order that allows the claimant's solicitor (a supervising solicitor) to enter the defendant's premises to search for, inspect, photograph, and take into safekeeping documents or items relevant to the proceedings. It is made without notice to prevent destruction of evidence. It requires: a strong prima facie case; very serious potential or actual damage to the claimant's interests; clear evidence the defendant has relevant documents and there is a real possibility of destruction. Option B is wrong — the police are not involved. Option C describes a freezing injunction. Option D describes an order to give evidence.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-073",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Fixed recoverable costs — fast track",
+        "difficulty": "Foundation",
+        "stem": "A fast-track personal injury claim settles for £18,000 just before trial. Under the Civil Procedure Rules, what costs regime applies to the claimant's costs of the action?",
+        "options": {
+          "A": "Costs assessed on the standard basis after a detailed assessment hearing.",
+          "B": "Indemnity costs — because the claim settled before trial.",
+          "C": "Fixed recoverable costs — the claimant recovers fixed amounts prescribed in the CPR costs tables rather than having costs assessed; the amounts are determined by the value and stage of the claim.",
+          "D": "No costs are recoverable on a settled claim."
+        },
+        "correct": "C",
+        "explanation": "From 1 October 2023, fixed recoverable costs (FRC) were extended to almost all fast-track and intermediate-track claims. In fast-track personal injury claims (and many other fast-track claims), the amount of costs recoverable by the winning/recovering party is fixed by reference to the CPR tables, depending on the value of the claim and the stage at which it resolves. This regime applies instead of detailed assessment. At £18,000, FRC will produce a fixed amount. Option A (standard basis detailed assessment) applied to fast-track claims before the 2023 reforms. Option B is wrong. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-074",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Disclosure pilot — PD 57AD",
+        "difficulty": "Foundation",
+        "stem": "A multi-track commercial claim is proceeding in the Business and Property Courts. The solicitors are preparing the disclosure exercise. Which disclosure regime applies?",
+        "options": {
+          "A": "Standard disclosure under CPR r.31.6 applies to all multi-track claims.",
+          "B": "Full disclosure of all documents is mandatory in commercial claims.",
+          "C": "The Disclosure Pilot (Practice Direction 57AD) applies to proceedings in the Business and Property Courts; parties must use one of five disclosure models (Models A-E) selected to suit the claim's needs.",
+          "D": "Disclosure only occurs if ordered by the court in a Business and Property Courts claim."
+        },
+        "correct": "C",
+        "explanation": "Practice Direction 57AD (the Disclosure Pilot) applies to proceedings in the Business and Property Courts (including the Chancery Division, Commercial Court, etc.). Instead of standard disclosure, parties select from five models: Model A (no standard disclosure), Model B (limited disclosure), Model C (request-based), Model D (standard disclosure equivalent), and Model E (wide search, less common). The pilot aims to make disclosure proportionate and cost-effective for complex commercial litigation. Standard disclosure under r.31.6 (A) does not automatically apply to BPC cases under the pilot. Option B is wrong. Option D is wrong — disclosure is a standing requirement.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-075",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Tomlin order",
+        "difficulty": "Foundation",
+        "stem": "Two parties settle litigation shortly before trial. They wish to preserve the enforceability of the settlement terms without making them public. What order should they ask the court to make?",
+        "options": {
+          "A": "A consent judgment setting out all settlement terms on the court record.",
+          "B": "A discontinuance notice filed by the claimant.",
+          "C": "A Tomlin order — a consent order staying all further proceedings on terms set out in a schedule, which is not read out in open court; the schedule terms are enforceable by application to lift the stay.",
+          "D": "An unless order incorporating the settlement terms."
+        },
+        "correct": "C",
+        "explanation": "A Tomlin order is a consent order under CPR r.40.6 which: (i) stays all further proceedings on the agreed terms; and (ii) attaches a schedule containing the settlement terms. The schedule is not part of the court record in the same way as the order itself, providing confidentiality. If a party breaches the settlement terms, the other party applies to the court to lift the stay and enforce the schedule terms. A consent judgment (A) would put the settlement terms on the public court record. Discontinuance (C) does not give enforceable status to any settlement terms. An unless order (D) is a case management tool, not a settlement mechanism.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-076",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Charging order and order for sale",
+        "difficulty": "Foundation",
+        "stem": "A judgment creditor holds a judgment for £100,000 against the judgment debtor, who owns a residential property. What enforcement steps can the creditor take in relation to the property?",
+        "options": {
+          "A": "The creditor can immediately seize the property.",
+          "B": "The creditor must wait for the debtor to voluntarily sell the property.",
+          "C": "The creditor has no remedy against real property — only personal property can be seized.",
+          "D": "The creditor may apply for a charging order over the property (CPR Part 73); once the charge is registered, the creditor may apply for an order for sale to realise the debt from the property proceeds."
+        },
+        "correct": "D",
+        "explanation": "CPR Part 73 provides for charging orders over land (and securities) to enforce a money judgment. The process: (i) interim charging order made by the court; (ii) final charging order after a hearing; (iii) the charge is registered at the Land Registry; (iv) if the debt remains unpaid, the creditor may then apply for an order for sale of the property under the Charging Orders Act 1979 s.3. The court has a discretion whether to order sale, taking into account the interests of other occupants and secured creditors. Option A is wrong — there is no power of immediate seizure of land in English civil enforcement. Option C is wrong. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-077",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Costs follow the event — CPR r.44.2",
+        "difficulty": "Foundation",
+        "stem": "The court finds for the claimant on all issues at trial. The court makes no special costs order. What is the default position on costs under CPR r.44.2?",
+        "options": {
+          "A": "Each party bears its own costs.",
+          "B": "The court assesses costs immediately at the end of trial.",
+          "C": "Costs are split 50/50 between the parties.",
+          "D": "The unsuccessful party pays the successful party's costs (the general rule under CPR r.44.2(2)(a)), subject to the court's discretion to depart from this where conduct or other factors justify."
+        },
+        "correct": "D",
+        "explanation": "CPR r.44.2(2)(a) provides that if the court decides to make an order about costs, the general rule is that the unsuccessful party pays the costs of the successful party. The court has a discretion under r.44.2(2)(b) to make a different order. When exercising this discretion, the court considers all the circumstances including conduct (including pre-action conduct), whether a party has succeeded on only part of their case, and any admissible offers to settle. Option A is wrong — each party bearing its own costs is a departure from the general rule. Option C is wrong. Option B is wrong — a detailed assessment may be needed unless a summary assessment is carried out at trial.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-078",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Representative parties — CPR r.19.8",
+        "difficulty": "Application",
+        "stem": "Many members of a residents' association have identical claims against a developer for breach of a covenant. They wish to bring a single claim. What procedural option allows one party to represent the others?",
+        "options": {
+          "A": "Each member must bring their own individual claim.",
+          "B": "A class action — available only in the Competition Appeal Tribunal.",
+          "C": "A derivative claim under CA 2006 s.260.",
+          "D": "A representative action under CPR r.19.8 — one or more members may represent other members who have the same interest in the claim, provided the court gives permission."
+        },
+        "correct": "D",
+        "explanation": "CPR r.19.8 provides that where more than one person has the same interest in a claim, the claim may be begun by or against one or more persons who have the same interest as representatives of any other persons who have that interest. This avoids the need for all claimants to be joined individually. Court permission is not strictly required to begin a representative action but the court will oversee the use of the procedure. Derivative claims (C) are for wrongs done to a company under CA 2006 s.260, not covenants disputes. Class actions (D) in the Competition Appeal Tribunal are a separate statutory mechanism. Option A is impractical and not required.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-079",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Independence — expert instructed by solicitor",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier regularly instructs the same forensic accountant on behalf of different clients. The accountant has always provided reports favourable to Pelletier's clients. A colleague suggests Pelletier should always instruct this expert. What professional issue arises?",
+        "options": {
+          "A": "No issue — using a reliable expert is good practice.",
+          "B": "Pelletier should always use the same expert to ensure consistency.",
+          "C": "The only concern is whether the expert charges reasonable fees.",
+          "D": "There is a risk that repeated use of an expert who always provides favourable reports may compromise the expert's independence or create a perception of impropriety; Pelletier should not select experts based on expected outcome, and should satisfy herself the expert can give an independent opinion (CPR r.35.3; SRA Code para 1.4)."
+        },
+        "correct": "D",
+        "explanation": "An expert's overriding duty is to the court and not to the instructing party (CPR r.35.3). Instructing solicitors must not select experts based on a track record of providing favourable opinions — this can compromise the expert's independence and the integrity of the process. If an expert's reports are consistently one-sided, it may indicate they are not exercising independent judgement. SRA Code para 1.4 requires solicitors not to mislead or attempt to mislead the court or others; fostering arrangements that produce unreliable expert opinions is a form of misleading the court. Option A ignores the independence issue. Option C focuses only on fees. Option B actively encourages the problematic practice.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-080",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Duties to client and court — attending counsel",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma is a solicitor attending court with a barrister instructed on his client's behalf. During cross-examination, Sharma learns that a key witness (his client) is about to give evidence he knows to be untrue. The barrister is unaware. What should Sharma do?",
+        "options": {
+          "A": "Say nothing — the barrister is responsible for the conduct of the hearing.",
+          "B": "Intervene in open court to correct the client's evidence directly.",
+          "C": "Allow the client to give evidence — it is the court's job to assess credibility.",
+          "D": "Inform the barrister immediately so the barrister can take appropriate steps; ultimately if the client insists on giving false evidence, both Sharma and the barrister must cease acting rather than allow the court to be misled (SRA Code para 2.6; rB4 BSB Handbook)."
+        },
+        "correct": "D",
+        "explanation": "SRA Code para 1.4 prohibits making or using false or misleading statements (the duty not to mislead or attempt to mislead the court). The duty not to mislead the court applies to attending solicitors as well as counsel. Sharma must inform the barrister immediately so that appropriate steps (e.g., taking instructions, advising the client, withdrawing) can be taken. If the client refuses to correct the position, both Sharma and the barrister must withdraw rather than permit false evidence to be given. Option A wrongly deflects responsibility. Option C allows the court to be misled. Option B would be procedurally inappropriate and may breach duties of confidence.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-081",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Appeals & Enforcement",
+        "subtopic": "Stay for ADR — compulsion post-Churchill",
+        "difficulty": "Application",
+        "stem": "A defendant applies for a stay of proceedings to allow the parties to attempt mediation. The claimant objects, arguing that mediation should be voluntary. Following Churchill v Merthyr Tydfil [2023], can the court order a stay for mediation?",
+        "options": {
+          "A": "No — courts can only encourage ADR, not compel it.",
+          "B": "Yes — but only with both parties' consent.",
+          "C": "No — mandatory mediation is incompatible with the overriding objective.",
+          "D": "Yes — Churchill v Merthyr Tydfil [2023] confirmed that courts have the power to order or encourage parties to engage in ADR, including granting a stay for mediation, without offending the right of access to court under Article 6 ECHR, provided any order is proportionate."
+        },
+        "correct": "D",
+        "explanation": "In Churchill v Merthyr Tydfil CBC [2023], the Court of Appeal held that courts have the power to order parties to engage in a non-court based dispute resolution process (such as mediation) and to stay proceedings pending that process, without breaching Article 6 ECHR (right of access to court), provided any such order is proportionate and does not shut the party out of the court process permanently. This overturned the previous Halsey view that courts could not compel ADR. The power exists alongside (not instead of) the power to encourage ADR and make adverse costs orders for unreasonable refusal. Option A reflects the pre-Churchill position. Option C is wrong. Option B adds an unnecessary consent requirement.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-082",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "CPR r.20 — counterclaims",
+        "difficulty": "Foundation",
+        "stem": "A claimant sues a defendant for £30,000. The defendant wishes to counterclaim for £45,000 arising from the same transaction. What procedure should the defendant follow?",
+        "options": {
+          "A": "Issue separate proceedings for the counterclaim.",
+          "B": "The defendant cannot counterclaim for more than the original claim value.",
+          "C": "Apply to the court for permission before making a counterclaim.",
+          "D": "File a defence and counterclaim in the same document (CPR r.20.4); the counterclaim is treated as a claim and the original claimant becomes the defendant to the counterclaim."
+        },
+        "correct": "D",
+        "explanation": "CPR r.20.4 allows a defendant to make a counterclaim against the claimant by including it in the defence. The counterclaim may exceed the value of the original claim. No court permission is required if filed with the defence. The parties then stand in the position of both claimant and defendant to each other's claim. Separate proceedings (A) would be wasteful. Permission (C) is not required when the counterclaim is filed with the defence (it is required if filed later without the claimant's consent). Option B is wrong — counterclaims may exceed the original claim value.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-083",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Pre-Action & Pleadings",
+        "subtopic": "Mandatory vs discretionary set-aside — CPR r.13.2",
+        "difficulty": "Application",
+        "stem": "A claimant enters a default judgment against the defendant, but the defendant had actually filed an acknowledgment of service before the judgment was entered. The claimant's solicitor was unaware. The defendant applies to set aside. Is the set-aside mandatory or discretionary?",
+        "options": {
+          "A": "Discretionary — the court must weigh the merits of the defence.",
+          "B": "Mandatory — but the defendant must pay the costs of the failed judgment.",
+          "C": "Discretionary — because the claimant's solicitor acted in good faith.",
+          "D": "Mandatory under CPR r.13.2 — the court must set aside a default judgment if it was wrongly entered (e.g., the defendant had already filed an acknowledgment of service)."
+        },
+        "correct": "D",
+        "explanation": "CPR r.13.2 provides that the court must set aside a judgment entered in default if the defendant had filed an acknowledgment of service (or a defence) before judgment was entered, or if the whole of the claim was satisfied before judgment was entered, or if the defendant filed a certificate of satisfaction. In these circumstances, the judgment was irregularly entered and set-aside is mandatory — the court has no discretion. This differs from CPR r.13.3 (discretionary set-aside where the judgment was regularly entered). Option A and C introduce discretion where the rule is mandatory. Option B is incorrect — costs consequences depend on the circumstances but mandatory set-aside does not automatically impose costs on the defendant.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-084",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Directions questionnaire",
+        "difficulty": "Foundation",
+        "stem": "After a defence is filed in a defended case, the court sends both parties a directions questionnaire. What is the purpose of this document?",
+        "options": {
+          "A": "To set out the parties' final evidence before trial.",
+          "B": "To require the parties to estimate the total value of the claim.",
+          "C": "To formally request that the other party engage in mediation.",
+          "D": "To provide information to assist the court in allocating the case to a track and giving appropriate directions for case management (CPR r.26)."
+        },
+        "correct": "D",
+        "explanation": "Under CPR r.26.3, once a defence is filed, the court will serve a directions questionnaire (DQ) on each party. The DQ requests information including: proposed track, costs estimate, whether the party has complied with any pre-action protocol, whether the parties have considered ADR, whether a stay for ADR is sought, proposed timetable, expert evidence, and trial time estimate. The court uses the completed DQs to allocate the case to a track and issue case management directions. Option A is wrong — evidence is exchanged later (witness statements, expert reports). Option C is part of the DQ but not its sole purpose. Option B is not the function of the DQ.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-085",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Conditional fee agreements — success fee recoverability",
+        "difficulty": "Foundation",
+        "stem": "A claimant's solicitor acts under a conditional fee agreement with a 25% success fee. The claimant wins. Can the success fee be recovered from the losing defendant?",
+        "options": {
+          "A": "Yes — success fees are always recoverable from the losing party.",
+          "B": "No — CFAs are unlawful and cannot be used by solicitors.",
+          "C": "Yes — success fees can be recovered if the CFA was approved by the court.",
+          "D": "No — under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO), success fees under CFAs entered into on or after 1 April 2013 are not recoverable from the losing party; they must be met from the client's damages."
+        },
+        "correct": "D",
+        "explanation": "LASPO 2012 abolished the recoverability of CFA success fees and ATE insurance premiums from losing parties for cases where the CFA was entered into on or after 1 April 2013 (with some exceptions including publication and privacy cases). In most cases, the success fee comes out of the client's damages (subject to the 25% cap on damages in personal injury cases). CFAs are entirely lawful (D is wrong). Option A reflects the pre-LASPO position. Option C invents a court approval process that does not exist.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-086",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Without prejudice save as to costs correspondence",
+        "difficulty": "Application",
+        "stem": "Gerald Crane, acting for the claimant, writes a letter to the defendant's solicitors marked 'Without Prejudice Save as to Costs', offering to settle for £70,000. The defendant rejects the offer, and at trial the claimant is awarded £75,000. At the costs hearing, can the letter be shown to the judge?",
+        "options": {
+          "A": "No — all without prejudice correspondence is protected from disclosure at any stage.",
+          "B": "No — the letter has the same effect as a Part 36 offer and the court will not look at it.",
+          "C": "Yes — but only if both parties consent.",
+          "D": "Yes — 'Without Prejudice Save as to Costs' correspondence is protected from the trial judge but can be referred to at the costs hearing, enabling the court to consider the defendant's rejection of the offer when deciding costs."
+        },
+        "correct": "D",
+        "explanation": "The label 'Without Prejudice Save as to Costs' creates a hybrid form of protection: the letter is privileged during the main trial (so the trial judge does not see it when determining liability and quantum), but it may be produced at the costs hearing to allow the court to consider whether the rejecting party acted reasonably. This is distinct from a without prejudice letter (which is protected at all stages) and from a Part 36 offer (which triggers specific cost consequences). The defendant's rejection of a reasonable settlement offer can result in adverse cost consequences under CPR r.44.2. Option A overstates the 'without prejudice' protection. Option C is wrong — consent of both parties is not required for the costs hearing use. Option B is incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-087",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Disclosure & Evidence",
+        "subtopic": "Hearsay in civil proceedings",
+        "difficulty": "Foundation",
+        "stem": "A party wishes to rely on a witness statement made by a witness who has since died. The opposing party objects that it is hearsay. Under the Civil Evidence Act 1995, is this admissible?",
+        "options": {
+          "A": "No — hearsay is inadmissible in civil proceedings.",
+          "B": "No — statements of deceased witnesses must be authenticated by a notary.",
+          "C": "Yes — but only if the statement was made under oath.",
+          "D": "Yes — under Civil Evidence Act 1995 s.1, hearsay evidence is admissible in civil proceedings subject to the procedural requirements; the court will consider its weight and reliability."
+        },
+        "correct": "D",
+        "explanation": "Civil Evidence Act 1995 s.1 abolished the rule against hearsay in civil proceedings. Hearsay evidence is admissible in civil cases. Section 2 requires a party relying on hearsay to give notice, and the court will assess the weight to give to the evidence having regard to factors such as whether the maker could have been called and whether the evidence is consistent with other evidence. A witness having died is a reason why the person cannot be called and is relevant to the weight assessment. Option A states the old common law position, now abolished. Option C introduces an oath requirement which does not exist. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-088",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Case Management & Tracks",
+        "subtopic": "Joinder of parties — CPR r.19.2",
+        "difficulty": "Foundation",
+        "stem": "A claimant issues proceedings against the main contractor for defective building works. It later becomes clear that the sub-contractor is also responsible. Under CPR r.19.2, what can the claimant do?",
+        "options": {
+          "A": "Issue separate proceedings against the sub-contractor — parties cannot be added after issue.",
+          "B": "Apply for a joinder of causes of action.",
+          "C": "Apply for a group litigation order.",
+          "D": "Apply to the court to add the sub-contractor as a party (CPR r.19.2); the court will grant permission if it is desirable to add the party so that the court can resolve all the matters in dispute."
+        },
+        "correct": "D",
+        "explanation": "CPR r.19.2 allows the court to order a person to be added as a new party to proceedings if it is desirable to add the new party so that the court can resolve all the matters in dispute in the proceedings. The court has discretion and considers whether justice requires the addition and whether it is efficient to do so. Adding the sub-contractor avoids separate proceedings and allows all issues to be resolved together. Option A is wrong — parties can be added after issue with the court's permission. Option C is for multiple claims with common issues, not joinder. Option B is not a recognised CPR mechanism.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-089",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Costs",
+        "subtopic": "Pro bono costs orders — s.194 Legal Services Act 2007",
+        "difficulty": "Foundation",
+        "stem": "A party is represented pro bono (free of charge) by a solicitor and wins at trial. Can a costs order be made in that party's favour?",
+        "options": {
+          "A": "No — costs orders can only be made in favour of a party who has incurred costs.",
+          "B": "No — pro bono representation creates no entitlement to costs in any circumstances.",
+          "C": "Yes — but the winning party receives the costs personally.",
+          "D": "Yes — under s.194 Legal Services Act 2007, the court may make a costs order in favour of a party who received free legal representation; the costs are paid to a prescribed charity (the Access to Justice Foundation)."
+        },
+        "correct": "D",
+        "explanation": "Legal Services Act 2007 s.194 provides that where a party to proceedings has received pro bono representation and a costs order is made in that party's favour, the court may order the other party to pay an amount to the prescribed charity (the Access to Justice Foundation). This mechanism: (i) ensures that pro bono work does not give the opponent a financial advantage; and (ii) generates funds for access to justice. Option A is the old common law rule which s.194 modifies. Option C is wrong — the payment goes to the charity, not the party. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-DR-MCQ-090",
+        "flk": "FLK1",
+        "subject": "Dispute Resolution",
+        "topic": "Professional Conduct",
+        "subtopic": "Duty to advise on litigation risk and costs",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma is advising Hassan Nazari on a breach of contract claim worth £25,000. Sharma estimates litigation costs of £35,000 to trial. Sharma does not advise Nazari of the costs risk. Which SRA Code obligation is engaged?",
+        "options": {
+          "A": "Duty to maintain client confidentiality.",
+          "B": "Duty to report the case to the Legal Ombudsman.",
+          "C": "Duty not to mislead the court.",
+          "D": "Duty to act in Nazari's best interests (SRA Code para 1.2) by giving him the information he needs to make an informed decision, including advising on the disproportionate cost-benefit position — where litigation costs substantially exceed the potential recovery, the client must be advised so he can make an informed decision whether to proceed."
+        },
+        "correct": "D",
+        "explanation": "SRA Principle 7 requires solicitors to act in the best interests of each client. Para 8.6 requires giving clients the best information they reasonably can about costs. Where the anticipated litigation costs substantially exceed the potential damages (£35,000 in costs vs £25,000 claim), the solicitor must advise the client clearly so the client can make an informed decision. Failure to do so deprives the client of a material consideration in deciding whether to litigate, settle, or pursue ADR. The other options are not engaged by a failure to give costs advice.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      }
+    ]
+  }
+}

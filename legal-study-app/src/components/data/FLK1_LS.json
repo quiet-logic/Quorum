@@ -80,7 +80,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "EIGHT OBJECTIVES · NO HIERARCHY · MAYSON 2020 · LSB GUIDANCE · IMPLICIT HIERARCHY · RULE OF LAW · CONSUMER PROTECTION · REFORM PROPOSALS UNIMPLEMENTED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -268,7 +268,7 @@
           {
             "card_code": "FLK1-LS-013",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "LSA 2007 Framework",
             "subtopic": "Office for Legal Complaints",
@@ -488,7 +488,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "WILL WRITING · UNRESERVED · CONSUMER PROTECTION GAP · LEGAL SERVICES CONSUMER PANEL · LAW COMMISSION 2011 · IPW VOLUNTARY CODE · POLITICAL ECONOMY · REFORM INERTIA",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -500,10 +500,10 @@
             "subtopic": "The six reserved legal activities",
             "front": "⚠️ TRAP CARD\n\nMiriam runs an unregulated will-writing service. She has no legal qualifications and is not authorised by any approved regulator. Over the past year she has drafted hundreds of wills for clients across the country — all without incident. A satisfied client now asks her to handle the estate administration after their parent dies, including applying to the Probate Registry for a grant of probate on behalf of the named executors.\n\nMiriam has successfully completed the will-drafting part of the job. The client is happy. Miriam sees the probate application as a natural next step in the same piece of work — the logical continuation of the will-drafting service she has always provided.",
             "answer": null,
-            "issue": "The trap: Miriam — and many students — treat will drafting and probate as part of the same unregulated activity. Because will drafting is lawful for anyone, the instinct is that related estate work must also be fine. The scenario reinforces this by presenting the probate application as 'a natural next step' and emphasising that Miriam has always provided this service. Students conclude: if will drafting is unreserved, so is the rest of the estate process.",
-            "rule": "Wrong. Will drafting and probate are two entirely separate activities with different regulatory statuses. Will drafting is not a reserved legal activity under Schedule 2 LSA 2007 — anyone may do it. Probate activities (preparing applications for grants of probate or letters of administration) are a reserved legal activity under Schedule 2. Only an authorised person or exempt person may carry on probate activities. Miriam is neither. By applying for a grant of probate, she commits a criminal offence under s.14 LSA 2007, punishable by up to two years' imprisonment and an unlimited fine.",
-            "application": "The red herring is the framing of probate as 'a natural next step' in the will-drafting service. It is not. The LSA 2007 draws a sharp line between unreserved activities (which anyone may do) and reserved activities (which require authorisation). That line runs between will drafting and probate — they are different entries in Schedule 2. The fact that Miriam has done this before without incident is legally irrelevant: past commission of an offence does not make it lawful. The client's satisfaction is irrelevant. The 'logical continuation' framing is precisely the reasoning that leads students to the wrong answer.",
-            "conclusion": "Will drafting = unreserved (anyone may do it). Probate = reserved (authorisation required). They are separate activities. Doing one lawfully does not authorise the other. An unregulated will writer who applies for probate commits a criminal offence under s.14 LSA 2007.",
+            "issue": "The Trap: The trap: Miriam — and many students — treat will drafting and probate as part of the same unregulated activity. Because will drafting is lawful for anyone, the instinct is that related estate work must also be fine. The scenario reinforces this by presenting the probate application as 'a natural next step' and emphasising that Miriam has always provided this service. Students conclude: if will drafting is unreserved, so is the rest of the estate process.",
+            "rule": "The Reality: Wrong. Will drafting and probate are two entirely separate activities with different regulatory statuses. Will drafting is not a reserved legal activity under Schedule 2 LSA 2007 — anyone may do it. Probate activities (preparing applications for grants of probate or letters of administration) are a reserved legal activity under Schedule 2. Only an authorised person or exempt person may carry on probate activities. Miriam is neither. By applying for a grant of probate, she commits a criminal offence under s.14 LSA 2007, punishable by up to two years' imprisonment and an unlimited fine.",
+            "application": "Why the Distractor Fails: The red herring is the framing of probate as 'a natural next step' in the will-drafting service. It is not. The LSA 2007 draws a sharp line between unreserved activities (which anyone may do) and reserved activities (which require authorisation). That line runs between will drafting and probate — they are different entries in Schedule 2. The fact that Miriam has done this before without incident is legally irrelevant: past commission of an offence does not make it lawful. The client's satisfaction is irrelevant. The 'logical continuation' framing is precisely the reasoning that leads students to the wrong answer.",
+            "conclusion": "The Key Rule: Will drafting = unreserved (anyone may do it). Probate = reserved (authorisation required). They are separate activities. Doing one lawfully does not authorise the other. An unregulated will writer who applies for probate commits a criminal offence under s.14 LSA 2007.",
             "summary_line": "WILL DRAFTING ≠ PROBATE · SEPARATE ACTIVITIES · SCHEDULE 2 · PROBATE = RESERVED · s.14 CRIMINAL OFFENCE · UNRESERVED ≠ AUTHORISES RELATED RESERVED WORK",
             "is_deeper": 0
           }
@@ -566,10 +566,10 @@
             "subtopic": "Exempt persons",
             "front": "⚠️ TRAP CARD\n\nPinnacle Logistics Ltd is a small company defending a debt claim in the County Court. The claim is for £8,000. The company's sole director and 100% shareholder, Tom, decides to represent the company himself at the hearing to save legal costs. Tom argues that just as an individual can represent themselves as a litigant in person, he — as the person who effectively is the company — should be able to represent it too. The company has no employees other than Tom. In every practical sense, Tom and Pinnacle are the same.",
             "answer": null,
-            "issue": "The trap: Tom's reasoning feels intuitively correct. He is the sole director, sole shareholder, and only person in the company. In every commercial and practical sense he is the company. Students familiar with the litigant-in-person concept apply it to this scenario and conclude Tom can represent Pinnacle without authorisation — after all, who else would do it? The small claims context and the modest sum reinforce the sense that insisting on a solicitor is disproportionate.",
-            "rule": "Wrong. The litigant-in-person exemption under Schedule 3 LSA 2007 applies to natural persons representing themselves. A company is a separate legal person from its directors and shareholders — however closely held. Tom representing Pinnacle is not a person representing themselves; it is an individual exercising a right of audience on behalf of a separate legal entity. That is a reserved legal activity requiring authorisation. Tom is not authorised. He requires the court's express permission to appear as a lay representative, which is discretionary, not a right.",
-            "application": "The red herring is the conflation of Tom with Pinnacle. The separate legal personality of a company — even a one-person company — is fundamental. Salomon v Salomon [1897] established that a company is a distinct legal person from its members. Tom may feel he is the company, but legally he is not. The litigant-in-person exemption does not pierce the corporate veil. The small value of the claim and the absence of other employees are irrelevant to whether the reserved activity exemption applies — they are details inserted to make the practical argument feel compelling.",
-            "conclusion": "The litigant-in-person exemption applies to natural persons only. A company cannot rely on it through its director, however closely held. A director wishing to represent a company in court proceedings needs the court's express permission. Without it, exercising a right of audience on behalf of the company is a reserved activity carried on without authorisation.",
+            "issue": "The Trap: The trap: Tom's reasoning feels intuitively correct. He is the sole director, sole shareholder, and only person in the company. In every commercial and practical sense he is the company. Students familiar with the litigant-in-person concept apply it to this scenario and conclude Tom can represent Pinnacle without authorisation — after all, who else would do it? The small claims context and the modest sum reinforce the sense that insisting on a solicitor is disproportionate.",
+            "rule": "The Reality: Wrong. The litigant-in-person exemption under Schedule 3 LSA 2007 applies to natural persons representing themselves. A company is a separate legal person from its directors and shareholders — however closely held. Tom representing Pinnacle is not a person representing themselves; it is an individual exercising a right of audience on behalf of a separate legal entity. That is a reserved legal activity requiring authorisation. Tom is not authorised. He requires the court's express permission to appear as a lay representative, which is discretionary, not a right.",
+            "application": "Why the Distractor Fails: The red herring is the conflation of Tom with Pinnacle. The separate legal personality of a company — even a one-person company — is fundamental. Salomon v Salomon [1897] established that a company is a distinct legal person from its members. Tom may feel he is the company, but legally he is not. The litigant-in-person exemption does not pierce the corporate veil. The small value of the claim and the absence of other employees are irrelevant to whether the reserved activity exemption applies — they are details inserted to make the practical argument feel compelling.",
+            "conclusion": "The Key Rule: The litigant-in-person exemption applies to natural persons only. A company cannot rely on it through its director, however closely held. A director wishing to represent a company in court proceedings needs the court's express permission. Without it, exercising a right of audience on behalf of the company is a reserved activity carried on without authorisation.",
             "summary_line": "LITIGANT IN PERSON · NATURAL PERSONS ONLY · COMPANY = SEPARATE LEGAL PERSON · DIRECTOR ≠ COMPANY · COURT PERMISSION REQUIRED · SALOMON · SCHEDULE 3",
             "is_deeper": 0
           }
@@ -892,7 +892,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ABS · OBJECTIVES 5 AND 6 · MAYSON · MOORHEAD · INDEPENDENCE CONCERN · CO-OP LEGAL · ACCESS TO JUSTICE EVIDENCE · CLEMENTI · MIXED OUTCOMES",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -986,7 +986,7 @@
           {
             "card_code": "FLK1-LS-038",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Legal Professional Privilege",
             "subtopic": "Legal advice privilege",
@@ -1002,7 +1002,7 @@
           {
             "card_code": "FLK1-LS-039",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Legal Professional Privilege",
             "subtopic": "Legal advice privilege",
@@ -1032,7 +1032,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LS-097 ★",
+            "card_code": "FLK1-LS-097",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1220,7 +1220,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "THREE RIVERS · NARROW CLIENT · CORPORATE INVESTIGATIONS · LAP GAP · MOORHEAD · UPJOHN CONTRAST · SFO v ENRC · REFORM DEBATE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -1236,7 +1236,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PRUDENTIAL · NON-LAWYER PRIVILEGE · ACCOUNTANTS · LORD SUMPTION DISSENT · PARLIAMENT DEFERRED · PASSMORE · AKZO NOBEL · ANOMALY UNRESOLVED",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -1252,7 +1252,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ABSOLUTE PRIVILEGE · DERBY MAGISTRATES · NO BALANCING · MORGAN GRENFELL · ZUCKERMAN · CHOO · ECHR ART 6/8 · NEW ZEALAND · PROPORTIONALITY DEBATE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -1264,10 +1264,10 @@
             "subtopic": "Legal advice privilege",
             "front": "⚠️ TRAP CARD\n\nOrion Bank plc is under investigation by the FCA following a series of mis-selling complaints. The bank's General Counsel instructs external solicitors to conduct an internal investigation. The solicitors spend three weeks interviewing 40 employees across the sales and compliance teams, collecting written statements from each. All interviews are conducted by qualified solicitors, all statements are addressed to the General Counsel, all are marked 'Privileged and Confidential — Legal Advice', and all are held in the solicitors' files. The FCA requests disclosure of the employee statements.",
             "answer": null,
-            "issue": "The trap: The scenario is loaded with markers of privilege — qualified solicitors conducting interviews, statements addressed to the General Counsel, 'Privileged and Confidential' markings, held in solicitors' files. Students recognise a legal investigation carried out by lawyers and conclude that legal advice privilege applies to everything the solicitors collected. The institutional scale and professional presentation reinforce the sense that this must be privileged work product.",
-            "rule": "Wrong — at least as to legal advice privilege. Three Rivers DC v Bank of England (No.6) [2004] holds that for a corporate client, the 'client' for LAP purposes is the narrow group authorised to seek and receive legal advice on the company's behalf — typically senior management with that specific authority. Ordinary employees are not part of this authorised client group. Statements from employees outside the authorised group are communications from third parties to the solicitors, not lawyer-client communications. LAP does not apply to them regardless of how they are labelled or held. 'Privileged and Confidential' markings have no legal effect on whether privilege actually attaches.",
-            "application": "The red herrings are the privilege markings, the solicitors conducting the interviews, and the statements being addressed to the General Counsel. None of these determines whether LAP applies. What determines it is whether the employees are within the authorised client group. Sales and compliance team employees are not. The statements may attract litigation privilege if FCA enforcement proceedings are sufficiently in prospect at the time of the interviews and the dominant purpose was those proceedings — but that is a separate and more demanding analysis. LAP is simply unavailable for these documents.",
-            "conclusion": "LAP for a corporate client covers only communications with the authorised client group — not all employees. Privilege markings do not create privilege. Statements from employees outside the authorised group are third-party communications and do not attract LAP. Litigation privilege may be available if proceedings are in prospect and the dominant purpose test is met — but that is a different analysis.",
+            "issue": "The Trap: The trap: The scenario is loaded with markers of privilege — qualified solicitors conducting interviews, statements addressed to the General Counsel, 'Privileged and Confidential' markings, held in solicitors' files. Students recognise a legal investigation carried out by lawyers and conclude that legal advice privilege applies to everything the solicitors collected. The institutional scale and professional presentation reinforce the sense that this must be privileged work product.",
+            "rule": "The Reality: Wrong — at least as to legal advice privilege. Three Rivers DC v Bank of England (No.6) [2004] holds that for a corporate client, the 'client' for LAP purposes is the narrow group authorised to seek and receive legal advice on the company's behalf — typically senior management with that specific authority. Ordinary employees are not part of this authorised client group. Statements from employees outside the authorised group are communications from third parties to the solicitors, not lawyer-client communications. LAP does not apply to them regardless of how they are labelled or held. 'Privileged and Confidential' markings have no legal effect on whether privilege actually attaches.",
+            "application": "Why the Distractor Fails: The red herrings are the privilege markings, the solicitors conducting the interviews, and the statements being addressed to the General Counsel. None of these determines whether LAP applies. What determines it is whether the employees are within the authorised client group. Sales and compliance team employees are not. The statements may attract litigation privilege if FCA enforcement proceedings are sufficiently in prospect at the time of the interviews and the dominant purpose was those proceedings — but that is a separate and more demanding analysis. LAP is simply unavailable for these documents.",
+            "conclusion": "The Key Rule: LAP for a corporate client covers only communications with the authorised client group — not all employees. Privilege markings do not create privilege. Statements from employees outside the authorised group are third-party communications and do not attract LAP. Litigation privilege may be available if proceedings are in prospect and the dominant purpose test is met — but that is a different analysis.",
             "summary_line": "THREE RIVERS · NARROW CLIENT GROUP · EMPLOYEE STATEMENTS ≠ LAP · PRIVILEGE MARKINGS NO EFFECT · THIRD-PARTY COMMUNICATIONS · LITIGATION PRIVILEGE ALTERNATIVE",
             "is_deeper": 0
           },
@@ -1280,10 +1280,10 @@
             "subtopic": "Legal advice privilege",
             "front": "⚠️ TRAP CARD\n\nSasha is a solicitor acting for a buyer in a commercial property acquisition. During the transaction, she receives from the seller's solicitors: a structural engineer's report on the building, a planning history report prepared by a planning consultant, and an environmental survey conducted by a specialist firm. All three documents are sent to Sasha as part of the seller's disclosure pack. Sasha reviews them, annotates them with her legal comments, and sends them on to her client with a covering advice letter summarising the key legal risks. In subsequent litigation, the buyer claims all five documents — the three reports, the annotations, and the covering letter — are protected by legal advice privilege.",
             "answer": null,
-            "issue": "The trap: Sasha is a solicitor. She received the documents, applied her legal expertise to them, and used them as the basis of legal advice to her client. The documents went through her hands as part of a legal advisory process. Students conclude that everything touched by the solicitor in the course of giving legal advice is wrapped in LAP — the solicitor's involvement colours all the associated documents.",
-            "rule": "Wrong — for the three third-party reports. LAP is confined to confidential communications between lawyer and client made for the dominant purpose of giving or receiving legal advice. It does not extend to third-party documents simply because they pass through the lawyer's hands or inform the advice given. The structural engineer's report, the planning history report, and the environmental survey are third-party documents. They were not created as lawyer-client communications. LAP does not attach to them. Sasha's covering advice letter is privileged (it is a lawyer-client communication for the dominant purpose of legal advice). The annotations raise a closer question — they may be privileged as a communication from lawyer to client if they reveal legal advice, but the underlying third-party documents remain unprotected.",
-            "application": "The red herring is Sasha's involvement with all five documents. Her handling of the three reports does not change their legal character — they remain third-party documents. The relevant question for each document is: is it a communication between lawyer and client? For the reports, the answer is no. For the covering letter, yes. For the annotations, it depends on whether they reveal legal advice or merely transcribe the third-party content. The 'solicitor touched it' test is not the LAP test.",
-            "conclusion": "LAP does not extend to third-party documents by reason of passing through a lawyer's hands. Each document must be assessed individually: is it a confidential lawyer-client communication for the dominant purpose of legal advice? Third-party reports are not — regardless of who handles them or what legal advice they inform.",
+            "issue": "The Trap: The trap: Sasha is a solicitor. She received the documents, applied her legal expertise to them, and used them as the basis of legal advice to her client. The documents went through her hands as part of a legal advisory process. Students conclude that everything touched by the solicitor in the course of giving legal advice is wrapped in LAP — the solicitor's involvement colours all the associated documents.",
+            "rule": "The Reality: Wrong — for the three third-party reports. LAP is confined to confidential communications between lawyer and client made for the dominant purpose of giving or receiving legal advice. It does not extend to third-party documents simply because they pass through the lawyer's hands or inform the advice given. The structural engineer's report, the planning history report, and the environmental survey are third-party documents. They were not created as lawyer-client communications. LAP does not attach to them. Sasha's covering advice letter is privileged (it is a lawyer-client communication for the dominant purpose of legal advice). The annotations raise a closer question — they may be privileged as a communication from lawyer to client if they reveal legal advice, but the underlying third-party documents remain unprotected.",
+            "application": "Why the Distractor Fails: The red herring is Sasha's involvement with all five documents. Her handling of the three reports does not change their legal character — they remain third-party documents. The relevant question for each document is: is it a communication between lawyer and client? For the reports, the answer is no. For the covering letter, yes. For the annotations, it depends on whether they reveal legal advice or merely transcribe the third-party content. The 'solicitor touched it' test is not the LAP test.",
+            "conclusion": "The Key Rule: LAP does not extend to third-party documents by reason of passing through a lawyer's hands. Each document must be assessed individually: is it a confidential lawyer-client communication for the dominant purpose of legal advice? Third-party reports are not — regardless of who handles them or what legal advice they inform.",
             "summary_line": "THIRD-PARTY DOCUMENTS · NOT LAP · SOLICITOR'S INVOLVEMENT IRRELEVANT · EACH DOCUMENT ASSESSED SEPARATELY · COVERING LETTER = PRIVILEGED · REPORTS = NOT",
             "is_deeper": 0
           },
@@ -1296,10 +1296,10 @@
             "subtopic": "Legal advice privilege",
             "front": "⚠️ TRAP CARD\n\nNatasha is the General Counsel of Vega Technologies plc. She holds a current SRA practising certificate and has 15 years of experience as a commercial solicitor. On Monday, she presents to the board for two hours, covering: a detailed legal opinion on the company's exposure under the GDPR following a data breach (30 minutes), a review of the company's proposed new bonus structure and whether it represents good market practice (45 minutes), a commercial assessment of whether to proceed with a proposed acquisition (30 minutes), and the quarterly board governance agenda and minutes (15 minutes). The company claims the entire two-hour board presentation is protected by legal advice privilege because it was delivered by a qualified solicitor.",
             "answer": null,
-            "issue": "The trap: Natasha is a qualified solicitor presenting to the board of the company that employs her. She is the company's lawyer. The presentation is given in a professional context, at a board meeting, by the General Counsel. Students conclude that everything delivered by a solicitor in a professional setting to their corporate employer must be privileged — the qualification is what matters.",
-            "rule": "Wrong — for most of the presentation. LAP applies to communications made by an in-house lawyer when acting in their capacity as a lawyer giving legal advice — not when acting in a commercial or managerial capacity: Alfred Crompton Amusement Machines Ltd v Customs & Excise Commissioners [1974]. The 'business hat' principle means that even a qualified solicitor loses LAP protection when performing functions that are not legal advisory in nature. Natasha's GDPR legal opinion (30 minutes) is privileged. Her commercial assessment of the acquisition, her market practice review of the bonus structure, and the governance minutes are not legal advice — they are business and administrative functions. LAP does not apply to those parts.",
-            "application": "The red herring is Natasha's qualification and the board meeting context. The qualification is necessary but not sufficient for LAP. The function being performed determines whether privilege applies. The acquisition assessment and bonus review are commercial judgements — the kind of analysis any experienced business person might provide, regardless of legal qualification. The governance minutes are administrative. Only the GDPR legal opinion satisfies the dominant purpose test for LAP. The rest of the presentation is not privileged regardless of who delivers it.",
-            "conclusion": "An in-house lawyer's communications attract LAP only when they are acting in a legal capacity giving legal advice — not when performing commercial, managerial, or administrative functions. The 'business hat' principle (Crompton) applies: the same individual may produce both privileged (legal advice) and non-privileged (business analysis) communications in the same meeting. Qualification alone does not determine privilege — function does.",
+            "issue": "The Trap: The trap: Natasha is a qualified solicitor presenting to the board of the company that employs her. She is the company's lawyer. The presentation is given in a professional context, at a board meeting, by the General Counsel. Students conclude that everything delivered by a solicitor in a professional setting to their corporate employer must be privileged — the qualification is what matters.",
+            "rule": "The Reality: Wrong — for most of the presentation. LAP applies to communications made by an in-house lawyer when acting in their capacity as a lawyer giving legal advice — not when acting in a commercial or managerial capacity: Alfred Crompton Amusement Machines Ltd v Customs & Excise Commissioners [1974]. The 'business hat' principle means that even a qualified solicitor loses LAP protection when performing functions that are not legal advisory in nature. Natasha's GDPR legal opinion (30 minutes) is privileged. Her commercial assessment of the acquisition, her market practice review of the bonus structure, and the governance minutes are not legal advice — they are business and administrative functions. LAP does not apply to those parts.",
+            "application": "Why the Distractor Fails: The red herring is Natasha's qualification and the board meeting context. The qualification is necessary but not sufficient for LAP. The function being performed determines whether privilege applies. The acquisition assessment and bonus review are commercial judgements — the kind of analysis any experienced business person might provide, regardless of legal qualification. The governance minutes are administrative. Only the GDPR legal opinion satisfies the dominant purpose test for LAP. The rest of the presentation is not privileged regardless of who delivers it.",
+            "conclusion": "The Key Rule: An in-house lawyer's communications attract LAP only when they are acting in a legal capacity giving legal advice — not when performing commercial, managerial, or administrative functions. The 'business hat' principle (Crompton) applies: the same individual may produce both privileged (legal advice) and non-privileged (business analysis) communications in the same meeting. Qualification alone does not determine privilege — function does.",
             "summary_line": "IN-HOUSE LAWYER · BUSINESS HAT · CROMPTON · LEGAL CAPACITY = PRIVILEGED · COMMERCIAL CAPACITY = NOT · FUNCTION NOT QUALIFICATION · GDPR OPINION YES · REST NO",
             "is_deeper": 0
           }
@@ -1372,7 +1372,7 @@
           {
             "card_code": "FLK1-LS-044",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Legal Professional Privilege",
             "subtopic": "Litigation privilege",
@@ -1538,10 +1538,10 @@
             "subtopic": "Litigation privilege",
             "front": "⚠️ TRAP CARD\n\nFairway Construction Ltd is involved in a dispute with a subcontractor over alleged defects in building work. Fairway's contracts manager prepares a detailed report on the defects two weeks after the dispute arises, noting: 'This report is prepared in anticipation of litigation and for no other purpose.' The report is then used both in internal management meetings to decide whether to proceed with the dispute and by Fairway's solicitors when advising on the litigation prospects. Fairway claims litigation privilege over the entire report.",
             "answer": null,
-            "issue": "The trap: The report contains an explicit statement that it was 'prepared in anticipation of litigation and for no other purpose.' Students read this label and conclude the dominant purpose test is satisfied — the document itself says it was created for litigation. The fact that solicitors used it reinforces this. The instinct is: if the document says it is for litigation, and solicitors used it for litigation, privilege must apply.",
-            "rule": "Wrong. The dominant purpose test in Waugh v British Railways Board [1980] requires that the dominant purpose at the time of creation is the litigation — not what the document claims about itself. A self-serving label ('prepared in anticipation of litigation') does not determine whether the dominant purpose test is met. The court looks at the actual circumstances of the document's creation. Here, the report was used in internal management meetings to decide whether to proceed — this reveals a dual purpose: litigation and internal management decision-making. Dual purposes of equal weight defeat the dominant purpose test.",
-            "application": "The red herring is the 'prepared in anticipation of litigation and for no other purpose' statement. This is a label, not evidence of purpose. The document's actual use — internal management meetings to decide how to proceed — reveals a management purpose alongside the litigation purpose. The label cannot override the factual circumstances. Courts are not bound by a party's characterisation of their own documents. Waugh itself involved a document prepared partly for operational safety purposes and partly for litigation — the dual purpose defeated the claim. The same analysis applies here.",
-            "conclusion": "A self-serving privilege label does not create litigation privilege. The dominant purpose test (Waugh) is assessed by the court on the actual circumstances of creation, not on how the document describes itself. Dual purposes of equal weight defeat the test. To ensure privilege, commission the report after the decision to litigate has been taken and solely for litigation — then the dual purpose problem does not arise.",
+            "issue": "The Trap: The trap: The report contains an explicit statement that it was 'prepared in anticipation of litigation and for no other purpose.' Students read this label and conclude the dominant purpose test is satisfied — the document itself says it was created for litigation. The fact that solicitors used it reinforces this. The instinct is: if the document says it is for litigation, and solicitors used it for litigation, privilege must apply.",
+            "rule": "The Reality: Wrong. The dominant purpose test in Waugh v British Railways Board [1980] requires that the dominant purpose at the time of creation is the litigation — not what the document claims about itself. A self-serving label ('prepared in anticipation of litigation') does not determine whether the dominant purpose test is met. The court looks at the actual circumstances of the document's creation. Here, the report was used in internal management meetings to decide whether to proceed — this reveals a dual purpose: litigation and internal management decision-making. Dual purposes of equal weight defeat the dominant purpose test.",
+            "application": "Why the Distractor Fails: The red herring is the 'prepared in anticipation of litigation and for no other purpose' statement. This is a label, not evidence of purpose. The document's actual use — internal management meetings to decide how to proceed — reveals a management purpose alongside the litigation purpose. The label cannot override the factual circumstances. Courts are not bound by a party's characterisation of their own documents. Waugh itself involved a document prepared partly for operational safety purposes and partly for litigation — the dual purpose defeated the claim. The same analysis applies here.",
+            "conclusion": "The Key Rule: A self-serving privilege label does not create litigation privilege. The dominant purpose test (Waugh) is assessed by the court on the actual circumstances of creation, not on how the document describes itself. Dual purposes of equal weight defeat the test. To ensure privilege, commission the report after the decision to litigate has been taken and solely for litigation — then the dual purpose problem does not arise.",
             "summary_line": "WAUGH · DOMINANT PURPOSE · SELF-SERVING LABEL NO EFFECT · DUAL PURPOSE DEFEATS PRIVILEGE · ACTUAL CIRCUMSTANCES · MANAGEMENT PURPOSE · COMMISSION AFTER DECISION",
             "is_deeper": 0
           }
@@ -1754,7 +1754,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "POCA 2002 · SAR · NCA · s.330(6) PRIVILEGE CARVE-OUT · CRIME/FRAUD EXCEPTION · TIPPING-OFF s.333A · HAREL · ASHWORTH · FATF · AML TENSION",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -1766,10 +1766,10 @@
             "subtopic": "Crime/fraud exception",
             "front": "⚠️ TRAP CARD\n\nMarcus instructed his solicitor, Elena, to advise him on the restructuring of his property portfolio. Elena provided detailed, careful advice over six months. She had no reason to suspect anything was wrong — Marcus was a long-standing client with a good track record, the transactions appeared legitimate, and Elena conducted proper due diligence throughout. It later emerges that Marcus had been using the restructuring to conceal assets from his creditors ahead of anticipated insolvency proceedings. Elena is horrified — she had absolutely no idea. Marcus claims that since Elena acted in complete good faith and with full professional integrity, the advice she gave him is protected by legal professional privilege.",
             "answer": null,
-            "issue": "The trap: Elena did everything right. She is not complicit in the fraud. She conducted due diligence, acted in good faith, and had no knowledge of Marcus's fraudulent purpose. The scenario is constructed to make Elena seem entirely blameless — because she is. Students conclude that if the solicitor is innocent, the crime/fraud exception cannot apply. Privilege protects the innocent adviser, not the fraudulent client, surely?",
-            "rule": "Wrong. The crime/fraud exception applies regardless of the solicitor's innocence. In R v Cox and Railton [1884], the court held that the exception turns entirely on the client's purpose in seeking the advice — not on whether the solicitor knew of that purpose. If the dominant purpose for which the client sought advice was to enable or further a crime or fraud, the communications are not privileged. Elena's good faith and professional integrity are entirely irrelevant to whether the exception applies. Marcus used the advice to further a fraud on his creditors. The advice is not protected by privilege.",
-            "application": "The red herring is Elena's blamelessness, which the scenario dwells on at length. Every detail — long-standing client, good track record, proper due diligence, professional integrity — is inserted to make students focus on Elena's conduct rather than Marcus's purpose. The crime/fraud exception is not about the solicitor's conduct. It is about the client's purpose. Marcus's purpose was fraudulent. That is sufficient to defeat privilege. The solicitor's innocence is a fact about Elena; it has no bearing on the legal test.",
-            "conclusion": "The crime/fraud exception turns on the client's purpose, not the solicitor's knowledge. A solicitor acting in complete good faith whose advice is used by the client to further a fraud cannot claim privilege over those communications. The solicitor's innocence is irrelevant. This is established by Cox and Railton [1884] and confirmed in Barclays Bank plc v Eustice [1995].",
+            "issue": "The Trap: The trap: Elena did everything right. She is not complicit in the fraud. She conducted due diligence, acted in good faith, and had no knowledge of Marcus's fraudulent purpose. The scenario is constructed to make Elena seem entirely blameless — because she is. Students conclude that if the solicitor is innocent, the crime/fraud exception cannot apply. Privilege protects the innocent adviser, not the fraudulent client, surely?",
+            "rule": "The Reality: Wrong. The crime/fraud exception applies regardless of the solicitor's innocence. In R v Cox and Railton [1884], the court held that the exception turns entirely on the client's purpose in seeking the advice — not on whether the solicitor knew of that purpose. If the dominant purpose for which the client sought advice was to enable or further a crime or fraud, the communications are not privileged. Elena's good faith and professional integrity are entirely irrelevant to whether the exception applies. Marcus used the advice to further a fraud on his creditors. The advice is not protected by privilege.",
+            "application": "Why the Distractor Fails: The red herring is Elena's blamelessness, which the scenario dwells on at length. Every detail — long-standing client, good track record, proper due diligence, professional integrity — is inserted to make students focus on Elena's conduct rather than Marcus's purpose. The crime/fraud exception is not about the solicitor's conduct. It is about the client's purpose. Marcus's purpose was fraudulent. That is sufficient to defeat privilege. The solicitor's innocence is a fact about Elena; it has no bearing on the legal test.",
+            "conclusion": "The Key Rule: The crime/fraud exception turns on the client's purpose, not the solicitor's knowledge. A solicitor acting in complete good faith whose advice is used by the client to further a fraud cannot claim privilege over those communications. The solicitor's innocence is irrelevant. This is established by Cox and Railton [1884] and confirmed in Barclays Bank plc v Eustice [1995].",
             "summary_line": "CRIME/FRAUD EXCEPTION · SOLICITOR INNOCENCE IRRELEVANT · CLIENT PURPOSE DETERMINES · COX AND RAILTON · EUSTICE · GOOD FAITH NO DEFENCE · PRIVILEGE DEFEATED",
             "is_deeper": 0
           }
@@ -1990,7 +1990,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LS-098 ★",
+            "card_code": "FLK1-LS-098",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2078,10 +2078,10 @@
             "subtopic": "Conditional Fee Agreements",
             "front": "⚠️ TRAP CARD\n\nKezia brings a personal injury claim under a CFA signed in October 2014. Her solicitor's base costs are agreed at £20,000 and the success fee is 50%. Kezia wins. The judge makes an order that the defendant pay Kezia's costs. Kezia's solicitor submits a bill to the defendant including £20,000 base costs and £10,000 success fee. The defendant's solicitor objects to the success fee, arguing it is not recoverable from them. Kezia's solicitor disagrees — Kezia won, a costs order was made in her favour, and the success fee is part of her costs.",
             "answer": null,
-            "issue": "The trap: A costs order in the winning party's favour covers their costs. The success fee is a cost incurred by Kezia in pursuing the claim. Therefore, the success fee must be recoverable from the defendant as part of the costs order — just like base costs. This reasoning feels correct and was correct before LASPO. Students who know the general rule ('winner recovers costs') apply it without adjusting for the post-LASPO change.",
-            "rule": "Wrong — for post-LASPO CFAs. The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO) fundamentally changed the recoverability of CFA success fees with effect from 1 April 2013. For CFAs entered into on or after 1 April 2013, success fees cannot be recovered from the losing party. They are paid by the winning client from their own damages. The costs order in Kezia's favour covers base costs only — the defendant owes £20,000, not £30,000. Kezia pays the £10,000 success fee from her damages.",
-            "application": "The red herring is the costs order itself, combined with the framing that the success fee is 'part of her costs.' Under the pre-LASPO regime this was true — success fees were recoverable inter partes. LASPO ended that. The CFA was signed in October 2014, well after the 1 April 2013 commencement date. The post-LASPO rule applies. The general principle that winners recover costs is not wrong — but the success fee is specifically excluded from inter partes recovery by LASPO. Students who remember the general rule but forget the LASPO carve-out will choose the wrong answer.",
-            "conclusion": "Post-LASPO (CFAs entered into on or after 1 April 2013): success fees are not recoverable from the losing party. They are paid by the winning client from their own damages. A costs order covers base costs only. This is a fundamental change from the pre-LASPO regime and is a frequently examined LASPO trap.",
+            "issue": "The Trap: The trap: A costs order in the winning party's favour covers their costs. The success fee is a cost incurred by Kezia in pursuing the claim. Therefore, the success fee must be recoverable from the defendant as part of the costs order — just like base costs. This reasoning feels correct and was correct before LASPO. Students who know the general rule ('winner recovers costs') apply it without adjusting for the post-LASPO change.",
+            "rule": "The Reality: Wrong — for post-LASPO CFAs. The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO) fundamentally changed the recoverability of CFA success fees with effect from 1 April 2013. For CFAs entered into on or after 1 April 2013, success fees cannot be recovered from the losing party. They are paid by the winning client from their own damages. The costs order in Kezia's favour covers base costs only — the defendant owes £20,000, not £30,000. Kezia pays the £10,000 success fee from her damages.",
+            "application": "Why the Distractor Fails: The red herring is the costs order itself, combined with the framing that the success fee is 'part of her costs.' Under the pre-LASPO regime this was true — success fees were recoverable inter partes. LASPO ended that. The CFA was signed in October 2014, well after the 1 April 2013 commencement date. The post-LASPO rule applies. The general principle that winners recover costs is not wrong — but the success fee is specifically excluded from inter partes recovery by LASPO. Students who remember the general rule but forget the LASPO carve-out will choose the wrong answer.",
+            "conclusion": "The Key Rule: Post-LASPO (CFAs entered into on or after 1 April 2013): success fees are not recoverable from the losing party. They are paid by the winning client from their own damages. A costs order covers base costs only. This is a fundamental change from the pre-LASPO regime and is a frequently examined LASPO trap.",
             "summary_line": "LASPO 2012 · POST-LASPO CFA · SUCCESS FEE NOT RECOVERABLE FROM DEFENDANT · PAID FROM CLAIMANT'S DAMAGES · BASE COSTS ONLY INTER PARTES · PRE-LASPO CONTRAST",
             "is_deeper": 0
           }
@@ -2212,7 +2212,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DBA REGULATIONS 2013 · HYBRID DBA · JACKSON REVIEW · 2019 CONSULTATION · REFORM STALLED · ARBITRATION DISTINCTION · US CONTINGENCY COMPARISON · UNCERTAIN",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2224,10 +2224,10 @@
             "subtopic": "Damages-Based Agreements",
             "front": "⚠️ TRAP CARD\n\nValentina brings a commercial litigation claim under a DBA providing for a payment of 40% of damages recovered. She wins and recovers £200,000 in damages. The defendant is ordered to pay inter partes costs, which are assessed at £95,000. Valentina's solicitor says: 'The DBA payment would be £80,000 (40% of £200,000), but the inter partes costs order is £95,000 — so I'll take the higher of the two: £95,000. That way Valentina pays nothing from her damages and I recover more than the DBA would have given me.'",
             "answer": null,
-            "issue": "The trap: The solicitor's reasoning feels logical. The inter partes costs order is larger than the DBA payment. If the solicitor takes the higher figure — which is money ordered to be paid by the other side — Valentina keeps all her damages and the solicitor gets more. Everyone wins. Students familiar with the idea that inter partes costs flow to the winning side's legal team apply this without recognising the specific DBA ceiling rule.",
-            "rule": "Wrong. Under the Damages-Based Agreements Regulations 2013, the DBA payment is the ceiling on the solicitor's total recovery — the solicitor cannot recover more than the DBA payment, whether from the client or from inter partes costs combined. If the inter partes costs order exceeds the DBA payment, the excess belongs to the client, not the solicitor. The DBA is the maximum the solicitor receives. The solicitor cannot 'top up' the DBA with inter partes costs or choose the higher of the two.",
-            "application": "The red herring is the framing of the inter partes costs as an alternative or supplement to the DBA payment. The DBA Regulations do not permit this. The DBA payment (£80,000, subject to any applicable cap check) is the ceiling. The inter partes costs of £95,000 exceed it. The excess — £15,000 — goes to Valentina, not to the solicitor. The solicitor receives £80,000 (less any inter partes costs received, which offset the DBA payment). The 'everyone wins' framing is the distractor — the Regulations deliberately cap the solicitor's recovery to protect clients from disproportionate fee extraction.",
-            "conclusion": "Under a DBA, the solicitor's total recovery is capped at the DBA payment. If the inter partes costs order exceeds the DBA payment, the excess belongs to the client. The solicitor cannot take the higher of inter partes costs and the DBA payment. The DBA is the ceiling, not the floor.",
+            "issue": "The Trap: The trap: The solicitor's reasoning feels logical. The inter partes costs order is larger than the DBA payment. If the solicitor takes the higher figure — which is money ordered to be paid by the other side — Valentina keeps all her damages and the solicitor gets more. Everyone wins. Students familiar with the idea that inter partes costs flow to the winning side's legal team apply this without recognising the specific DBA ceiling rule.",
+            "rule": "The Reality: Wrong. Under the Damages-Based Agreements Regulations 2013, the DBA payment is the ceiling on the solicitor's total recovery — the solicitor cannot recover more than the DBA payment, whether from the client or from inter partes costs combined. If the inter partes costs order exceeds the DBA payment, the excess belongs to the client, not the solicitor. The DBA is the maximum the solicitor receives. The solicitor cannot 'top up' the DBA with inter partes costs or choose the higher of the two.",
+            "application": "Why the Distractor Fails: The red herring is the framing of the inter partes costs as an alternative or supplement to the DBA payment. The DBA Regulations do not permit this. The DBA payment (£80,000, subject to any applicable cap check) is the ceiling. The inter partes costs of £95,000 exceed it. The excess — £15,000 — goes to Valentina, not to the solicitor. The solicitor receives £80,000 (less any inter partes costs received, which offset the DBA payment). The 'everyone wins' framing is the distractor — the Regulations deliberately cap the solicitor's recovery to protect clients from disproportionate fee extraction.",
+            "conclusion": "The Key Rule: Under a DBA, the solicitor's total recovery is capped at the DBA payment. If the inter partes costs order exceeds the DBA payment, the excess belongs to the client. The solicitor cannot take the higher of inter partes costs and the DBA payment. The DBA is the ceiling, not the floor.",
             "summary_line": "DBA REGULATIONS 2013 · DBA IS CEILING · CANNOT TOP UP · INTER PARTES EXCESS TO CLIENT · SOLICITOR CAPPED AT DBA PAYMENT · NOT HIGHER OF TWO",
             "is_deeper": 0
           }
@@ -2358,7 +2358,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "LASPO 2012 · £350M CUTS · PLEASENCE/BALMER · UNMET LEGAL NEED · BACH COMMISSION 2017 · RIGHT TO JUSTICE · LASPO REVIEW 2019 · EARLY ADVICE · REFORM UNIMPLEMENTED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2396,24 +2396,6 @@
             "is_deeper": 0
           }
         ],
-        "Third-party funding": [
-          {
-            "card_code": "FLK1-LS-067",
-            "card_type": 1,
-            "difficulty": "Foundation",
-            "flk": "FLK1",
-            "topic": "Funding Legal Services",
-            "subtopic": "Third-party funding",
-            "front": "What is third-party funding (litigation funding) and what are the key legal and regulatory considerations?",
-            "answer": "Third-party funding involves an independent funder (typically a specialist litigation finance company) paying the client's legal costs in exchange for a share of any damages recovered.\n\n**\n\n**Key features:****\n\n- The funder bears the financial risk if the case is lost\n\n- If the case is won, the funder receives a return (percentage of damages or multiple of costs)\n\n- The funder does not typically conduct the litigation — the client and solicitor retain control\n\nRegulatory considerations:\n\n- Third-party funding is not currently regulated by the LSA 2007\n\n- The Association of Litigation Funders (ALF) publishes a voluntary code of conduct\n\n- Courts can consider the existence of a funder when making costs orders (non-party costs orders)\n\n⚠️ Third-party funding is most common in high-value commercial litigation and arbitration.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "THIRD-PARTY FUNDING · LITIGATION FINANCE · FUNDER BEARS RISK · SHARE OF DAMAGES · NOT REGULATED BY LSA · ALF CODE · NON-PARTY COSTS",
-            "is_deeper": 0
-          }
-        ],
         "Pro bono": [
           {
             "card_code": "FLK1-LS-068",
@@ -2432,9 +2414,25 @@
             "is_deeper": 0
           }
         ],
-        "Third party funding": [
+        "Third-party funding": [
           {
-            "card_code": "FLK1-LS-096 ★",
+            "card_code": "FLK1-LS-067",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "flk": "FLK1",
+            "topic": "Funding Legal Services",
+            "subtopic": "Third-party funding",
+            "front": "What is third-party funding (litigation funding) and what are the key legal and regulatory considerations?",
+            "answer": "Third-party funding involves an independent funder (typically a specialist litigation finance company) paying the client's legal costs in exchange for a share of any damages recovered.\n\n**\n\n**Key features:****\n\n- The funder bears the financial risk if the case is lost\n\n- If the case is won, the funder receives a return (percentage of damages or multiple of costs)\n\n- The funder does not typically conduct the litigation — the client and solicitor retain control\n\nRegulatory considerations:\n\n- Third-party funding is not currently regulated by the LSA 2007\n\n- The Association of Litigation Funders (ALF) publishes a voluntary code of conduct\n\n- Courts can consider the existence of a funder when making costs orders (non-party costs orders)\n\n⚠️ Third-party funding is most common in high-value commercial litigation and arbitration.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "THIRD-PARTY FUNDING · LITIGATION FINANCE · FUNDER BEARS RISK · SHARE OF DAMAGES · NOT REGULATED BY LSA · ALF CODE · NON-PARTY COSTS",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-LS-096",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2538,7 +2536,7 @@
           {
             "card_code": "FLK1-LS-072",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Client Care and Consumer Protection",
             "subtopic": "Bills and charging",
@@ -2756,10 +2754,10 @@
             "subtopic": "Legal Ombudsman",
             "front": "⚠️ TRAP CARD\n\nByteFlow Ltd is a software development company with 7 employees and an annual turnover of £1.8 million. It instructed a solicitor to advise on an intellectual property dispute. The solicitor provided negligent advice, causing ByteFlow to settle the dispute on unfavourable terms and suffer a loss of £35,000. ByteFlow's managing director has been told by a colleague that 'the Legal Ombudsman only deals with complaints from individuals — companies have to go to court.' ByteFlow is considering whether to bring proceedings in the County Court instead of complaining to LeO.",
             "answer": null,
-            "issue": "The trap: The colleague's advice sounds plausible — LeO is a consumer-facing ombudsman service, and ombudsman schemes are commonly associated with individual consumers rather than businesses. Companies have their own legal resources and are expected to use the courts. Students (and the managing director) conclude that ByteFlow — being a company, not an individual — cannot use LeO and must litigate instead.",
-            "rule": "Wrong. The Legal Ombudsman's jurisdiction extends beyond individuals to micro-enterprises: businesses with fewer than 10 employees and a turnover or balance sheet total not exceeding €2 million (approximately £1.7–1.8 million at current rates). ByteFlow has 7 employees (below 10) and turnover of £1.8 million (within the threshold). It qualifies as a micro-enterprise and can bring a complaint to LeO. The managing director's colleague is wrong. Using LeO is likely faster, cheaper, and less adversarial than County Court proceedings — and LeO can award up to £50,000 in compensation, covering ByteFlow's loss.",
-            "application": "The red herring is ByteFlow being a company rather than an individual. The colleague's advice reflects the common but incorrect assumption that corporate entities cannot use ombudsman schemes. The micro-enterprise threshold exists precisely because small businesses are in a similar position to individual consumers when dealing with professional service providers — they lack the resources and expertise to litigate effectively. The specific figures (7 employees, £1.8m turnover) are chosen to sit within the thresholds — students who know the threshold in principle but fail to apply it to the specific numbers will incorrectly exclude ByteFlow.",
-            "conclusion": "The Legal Ombudsman has jurisdiction over micro-enterprises: fewer than 10 employees and turnover/balance sheet not exceeding €2 million. Companies within these thresholds can use LeO. The 'LeO is only for individuals' assumption is wrong. Always check the specific employee count and turnover figures against the thresholds.",
+            "issue": "The Trap: The trap: The colleague's advice sounds plausible — LeO is a consumer-facing ombudsman service, and ombudsman schemes are commonly associated with individual consumers rather than businesses. Companies have their own legal resources and are expected to use the courts. Students (and the managing director) conclude that ByteFlow — being a company, not an individual — cannot use LeO and must litigate instead.",
+            "rule": "The Reality: Wrong. The Legal Ombudsman's jurisdiction extends beyond individuals to micro-enterprises: businesses with fewer than 10 employees and a turnover or balance sheet total not exceeding €2 million (approximately £1.7–1.8 million at current rates). ByteFlow has 7 employees (below 10) and turnover of £1.8 million (within the threshold). It qualifies as a micro-enterprise and can bring a complaint to LeO. The managing director's colleague is wrong. Using LeO is likely faster, cheaper, and less adversarial than County Court proceedings — and LeO can award up to £50,000 in compensation, covering ByteFlow's loss.",
+            "application": "Why the Distractor Fails: The red herring is ByteFlow being a company rather than an individual. The colleague's advice reflects the common but incorrect assumption that corporate entities cannot use ombudsman schemes. The micro-enterprise threshold exists precisely because small businesses are in a similar position to individual consumers when dealing with professional service providers — they lack the resources and expertise to litigate effectively. The specific figures (7 employees, £1.8m turnover) are chosen to sit within the thresholds — students who know the threshold in principle but fail to apply it to the specific numbers will incorrectly exclude ByteFlow.",
+            "conclusion": "The Key Rule: The Legal Ombudsman has jurisdiction over micro-enterprises: fewer than 10 employees and turnover/balance sheet not exceeding €2 million. Companies within these thresholds can use LeO. The 'LeO is only for individuals' assumption is wrong. Always check the specific employee count and turnover figures against the thresholds.",
             "summary_line": "LEO JURISDICTION · MICRO-ENTERPRISE · <10 EMPLOYEES · <€2M TURNOVER · COMPANIES CAN USE LEO · 7 EMPLOYEES · £1.8M · CHECK THRESHOLDS · NOT INDIVIDUALS ONLY",
             "is_deeper": 0
           }
@@ -2768,7 +2766,7 @@
           {
             "card_code": "FLK1-LS-080",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Client Care and Consumer Protection",
             "subtopic": "Consumer protection regulations",
@@ -2830,7 +2828,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LS-099 ★",
+            "card_code": "FLK1-LS-099",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",

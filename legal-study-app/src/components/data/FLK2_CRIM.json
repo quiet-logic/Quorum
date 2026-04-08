@@ -1691,7 +1691,7 @@
             "topic": "Homicide",
             "subtopic": "Partial Defences — Loss of Control & Diminished Responsibility",
             "front": "What is the contrast between loss of control and diminished responsibility as partial defences to murder?",
-            "answer": "Both reduce murder to voluntary manslaughter. Key contrasts:\nLoss of control: qualifying trigger required / requires actual loss of control / prosecution must disprove once raised / not available for revenge/planned killing / sexual jealousy expressly excluded\nDiminished responsibility: recognised medical condition required / no loss of control required / D must prove on balance of probabilities / available even if deliberate / no sexual jealousy exclusion\n\n⚠️ Exam trap: the burden differs — loss of control: prosecution must negative; diminished responsibility: D bears the burden.",
+            "answer": "Both are statutory partial defences to murder, reducing the offence to voluntary manslaughter: loss of control under Coroners and Justice Act 2009 ss.54–55; diminished responsibility under s.52 CJA 2009 (which amended Homicide Act 1957 s.2).\n\nBoth reduce murder to voluntary manslaughter. Key contrasts:\nLoss of control: qualifying trigger required / requires actual loss of control / prosecution must disprove once raised / not available for revenge/planned killing / sexual jealousy expressly excluded\nDiminished responsibility: recognised medical condition required / no loss of control required / D must prove on balance of probabilities / available even if deliberate / no sexual jealousy exclusion\n\n⚠️ Exam trap: the burden differs — loss of control: prosecution must negative; diminished responsibility: D bears the burden.",
             "issue": null,
             "rule": null,
             "application": null,
@@ -3226,6 +3226,78 @@
             "conclusion": null,
             "summary_line": "VICTIM PERSONAL STATEMENT · NOT DETERMINATIVE · JUDGE CANNOT GIVE MORE WEIGHT · SUBMITTED IN WRITING · READ ALOUD OPTION",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-118",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the role of the Sentencing Guidelines and how can judges depart from them?",
+            "answer": "The Sentencing Guidelines are issued by the Sentencing Council and provide a structured framework to promote consistency in sentencing. Judges must follow them unless it would be contrary to the interests of justice to do so. When departing, the judge must explain their reasons on the record. Departure is permitted where the guidelines do not fit the individual circumstances, aggravating or mitigating factors take the case outside the guideline range, or the offender's personal circumstances are exceptional.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SENTENCING GUIDELINES · SENTENCING COUNCIL · MUST FOLLOW · DEPARTURE IF CONTRARY TO JUSTICE · REASONS REQUIRED"
+          },
+          {
+            "card_code": "FLK2-CRIM-119",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the guilty plea discount under the Sentencing Act 2020 and how does the sliding scale work?",
+            "answer": "The guilty plea discount is governed by s.73 Sentencing Act 2020 (SA 2020). The sentencing judge must apply a reduction for a guilty plea. The sliding scale is:\n\n- **One-third reduction** — if the plea is entered at the first available opportunity (typically the first court appearance at which the plea is sought).\n- The reduction **slides downward** as the plea is entered later in the proceedings.\n- **One-tenth reduction** — if the plea is entered on the day of trial (or after the trial begins).\n\nThe discount applies to the notional sentence that would otherwise be imposed and reflects: time and cost savings for the court and victims; the genuine acknowledgment of guilt. Judges must state in open court the sentence before reduction and the reduction applied.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GUILTY PLEA DISCOUNT · S.73 SA 2020 · ONE-THIRD AT FIRST OPPORTUNITY · SLIDES TO ONE-TENTH ON DAY OF TRIAL · TIMING CRITICAL"
+          },
+          {
+            "card_code": "FLK2-CRIM-120",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is a Newton hearing, when is it used, and what is the procedure?",
+            "answer": "A Newton hearing is used where the defendant pleads guilty but disputes the factual basis of the offence — either the nature or the extent of their culpability. The factual dispute must be capable of making a material difference to the sentence.\n\n**Procedure:**\n1. The prosecution and defence present evidence and submissions on the disputed facts.\n2. The judge decides the factual basis on the **balance of probabilities**.\n3. If the judge accepts the defendant's version, it is taken as the sentencing basis.\n4. If the judge rejects the defendant's version, the defendant may lose some (but not all) of the guilty plea discount — the judge retains discretion.\n\n**Significance:** The factual finding directly affects the sentencing range, aggravating factors, and sentence length. Newton hearings are particularly important in cases involving harm, premeditation, and extent of involvement.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NEWTON HEARING · GUILTY PLEA BUT DISPUTED FACTS · BALANCE OF PROBABILITIES · JUDGE DECIDES FACTUAL BASIS · AFFECTS SENTENCING RANGE"
+          },
+          {
+            "card_code": "FLK2-CRIM-121",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the dangerousness provisions under s.254 Sentencing Act 2020 and when may an extended determinate sentence (EDS) be imposed?",
+            "answer": "Section 254 SA 2020 permits an extended determinate sentence (EDS) where:\n1. The offender has committed a **specified offence** — a listed violent or sexual offence under Sch.18 SA 2020.\n2. The court is satisfied the offender poses a **significant risk of serious harm** to the public through the commission of further specified offences (the dangerousness test).\n3. The court imposes a **custodial sentence** (not a community sentence).\n\n**Structure of an EDS:**\n- A custodial term (the 'appropriate custodial term').\n- An **extended licence period** added after the custodial term — up to 5 years for a violent offence, up to 8 years for a sexual offence.\n- The offender is released at the **two-thirds point** of the custodial term but remains on licence until the end of the extended period.\n\n**Pre-sentence report:** Failure to obtain a pre-sentence report assessing dangerousness is a procedural error unless there is good reason to dispense with one.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DANGEROUSNESS S.254 SA 2020 · SPECIFIED OFFENCE · SIGNIFICANT RISK · EXTENDED DETERMINATE SENTENCE · EXTENDED LICENCE · RELEASED AT TWO-THIRDS"
+          },
+          {
+            "card_code": "FLK2-CRIM-122",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the Rehabilitation of Offenders Act 1974 affect spent convictions in criminal proceedings?",
+            "answer": "The Rehabilitation of Offenders Act 1974 (ROA 1974) allows convictions to become **spent** after a rehabilitation period, varying from 1 year (absolute/conditional discharge) up to 7 years for sentences of over 30 months but under 4 years.\n\n**Key rules:**\n- A spent conviction is generally not to be disclosed in employment applications and civil proceedings.\n- **Exception in criminal proceedings:** The ROA 1974 does not prevent a court from admitting evidence of spent convictions if it is relevant to the trial or sentencing. In criminal proceedings, courts can consider spent convictions as part of an offender's antecedents for the purpose of sentencing.\n- Spent convictions remain admissible in criminal trials if relevant to an issue (e.g., propensity).\n- 'Tipping off' a prospective employer about a spent conviction (outside the criminal context) may be unlawful.\n\n**SQE context:** Solicitors asked to advise on disclosure of convictions in criminal matters must distinguish between the employment and criminal proceedings contexts.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "REHABILITATION OF OFFENDERS ACT 1974 · SPENT CONVICTIONS · REHABILITATION PERIODS · ADMISSIBLE IN CRIMINAL PROCEEDINGS · EMPLOYMENT EXCEPTION"
+          },
+          {
+            "card_code": "FLK2-CRIM-123",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is the totality principle in sentencing and how does it apply to consecutive and concurrent sentences?",
+            "answer": "The **totality principle** requires that the overall sentence for multiple offences should not be disproportionate or 'crushing' in relation to the overall criminality of the offending.\n\n**Concurrent sentences:** Run simultaneously — the offender serves only the longest term. Used where offences arise from the same incident or are closely related.\n\n**Consecutive sentences:** Run one after another — the total is the sum. Used where offences are distinct and separate.\n\n**Applying totality:**\n1. Start by determining the appropriate sentence for each individual offence.\n2. Assess whether consecutive sentences would produce a total that is disproportionate to the offending as a whole.\n3. If so, reduce individual sentences so that the aggregate reflects the totality of culpability.\n\n**Effect:** Even where consecutive sentences are justified, the judge must 'stand back' and check the aggregate is just and proportionate. The principle prevents the cumulative effect of sentencing for multiple offences from producing a sentence that would be unjust.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TOTALITY PRINCIPLE · NOT CRUSHING · CONCURRENT SIMULTANEOUS · CONSECUTIVE CUMULATIVE · STAND BACK AND REVIEW AGGREGATE"
           }
         ],
         "Scenario Cards — Sentencing": [
@@ -3260,6 +3332,18 @@
             "conclusion": null,
             "summary_line": "EXTENDED SENTENCE · CJA 2003 S.226A · SPECIFIED OFFENCE · SCHEDULE 15 · DANGEROUSNESS ASSESSMENT · SIGNIFICANT RISK · EXTENSION PERIOD · LICENCE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-051",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A first-time offender is convicted of theft (single item, £200 value). The magistrates are considering a custodial sentence. What considerations govern whether they may impose custody?",
+            "answer": "Before imposing custody, the magistrates must apply the **custody threshold test** under s.230 Sentencing Act 2020.\n\n**The test:** The court may not impose a custodial sentence unless satisfied that the offence (or combination of offences) was **so serious** that neither a fine nor a community sentence can be justified.\n\n**For a first-time theft offender:**\n1. **Custody threshold:** Low-value theft (£200) by a first offender is unlikely to cross the custody threshold without aggravating factors (e.g. use of force, violence, vulnerability of victim, planning). The starting point under the theft guideline for low-value goods may be a community order or fine.\n2. **Pre-sentence report:** Magistrates must obtain a pre-sentence report (s.31 SA 2020) before imposing custody unless impracticable or unnecessary.\n3. **Guilty plea discount:** If the offender pleaded guilty, apply the sliding scale reduction.\n4. **Personal mitigation:** First offence, no antecedents, remorse, and personal circumstances all reduce the appropriate sentence.\n5. **Shortest term:** If custody is imposed, it must be the **shortest term commensurate with the seriousness** of the offence.\n6. **Suspended sentence:** The court should also consider whether a suspended sentence order (SSO) is appropriate if custody is otherwise warranted.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CUSTODY THRESHOLD · S.230 SA 2020 · FIRST OFFENDER · PSR REQUIRED · GUILTY PLEA DISCOUNT · SHORTEST TERM · CONSIDER SSO"
           }
         ]
       },
@@ -3278,7 +3362,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "OBLIQUE INTENTION · WOOLLIN · VIRTUAL CERTAINTY · MAY FIND VS MUST FIND · GLANVILLE WILLIAMS · ALAN NORRIE · LAW COM NO 304 · SUBSTANTIVE VS EVIDENTIAL",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3294,7 +3378,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "M'NAGHTEN · INSANITY · DISEASE OF THE MIND · COGNITIVE ONLY · VOLITIONAL IMPAIRMENT EXCLUDED · NIGEL WALKER · LAW COM 2013 · RECOGNISED MEDICAL CONDITION · REFORM",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3310,7 +3394,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "JOGEE · CHAN WING-SIU OVERRULED · PARASITIC ACCESSORY LIABILITY · INTENTION TO ASSIST · JEREMY HORDER · ANDREW SIMESTER · LAW COM NO 305 · CONDITIONAL INTENT",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3326,7 +3410,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DURESS AND MURDER · R V HOWE · R V GOTTS · LAW COM NO 304 · DAVID ORMEROD · JEREMY HORDER EXCUSING CRIME · ECHR ARTS 2 AND 3 · NO REFORM",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3342,7 +3426,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "RECKLESSNESS · CUNNINGHAM · CALDWELL OVERRULED · R V G AND ANOTHER · GLANVILLE WILLIAMS · ELLIOTT V C · SUBJECTIVE TEST · JEREMY HORDER · LAW COMMISSION DRAFT CODE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3358,7 +3442,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DISHONESTY · IVEY V GENTING · GHOSH OVERRULED · TWO-STAGE TEST ABOLISHED · DAVID ORMEROD · ALAN NORRIE · SIMESTER AND SULLIVAN · OBJECTIVE STANDARD · CULTURAL FRAMEWORK",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3374,7 +3458,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CORPORATE MANSLAUGHTER · CMCHA 2007 · IDENTIFICATION DOCTRINE · GARY SLAPPER · CELIA WELLS · SENIOR MANAGEMENT REQUIREMENT · LARGE ORGANISATIONS · INDIVIDUAL LIABILITY EXCLUDED",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3390,7 +3474,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "UNLAWFUL ACT MANSLAUGHTER · R V CHURCH · DANGEROUS ACT TEST · ANDREW ASHWORTH · GLANVILLE WILLIAMS · CORRESPONDENCE PRINCIPLE · CONSTRUCTIVE LIABILITY · LAW COM CP 177",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3406,7 +3490,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CONSENT · R V BROWN · SADO-MASOCHISM · ABH AND ABOVE · LASKEY V UK · ECHR ART 8 · LORD MUSTILL DISSENT · R V WILSON · MICHAEL ALLEN · HARM PRINCIPLE · AUTONOMY",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3422,7 +3506,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "JOGEE · PARASITIC ACCESSORY LIABILITY · CONDITIONAL INTENT · R V JOHNSON · JEREMY HORDER · ANDREW SIMESTER · LAW COM NO 305 · RECKLESS ASSISTANCE · UNRESOLVED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -3588,6 +3672,30 @@
             "conclusion": "The Key Rule: Roberts test — if V's evasive action was a reasonably foreseeable response to D's unlawful act, D remains causally responsible for the resulting harm. Flight from an attacker is foreseeable and does not break the chain.",
             "summary_line": "CAUSATION · ROBERTS TEST · EVASIVE ACTION · REASONABLY FORESEEABLE · FLIGHT FROM ATTACKER · NO NOVUS ACTUS · CORBETT — DAFT RESPONSE WOULD BREAK CHAIN",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-TRAP-015",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA defendant enters a guilty plea on the first day of trial, just before the jury is sworn in. The defendant's solicitor advises: 'You will receive a one-third discount on your sentence because you've pleaded guilty.'",
+            "answer": null,
+            "issue": "The Trap: A guilty plea always attracts a one-third discount under s.73 Sentencing Act 2020 regardless of when it is entered.",
+            "rule": "The Reality: The one-third discount applies only to a plea entered at the **first available opportunity**. Section 73 SA 2020 imposes a sliding scale — the reduction decreases as the plea is entered later in proceedings. A plea on the first day of trial attracts only a **one-tenth** reduction, not one-third.",
+            "application": "Why the Distractor Fails: The solicitor has stated the maximum discount without applying the timing element. Many students (and indeed clients) know about the 'one-third discount' but do not appreciate that it is the ceiling, not the floor, and that only early pleas attract the full reduction. By the first day of trial, the reduction has slid to one-tenth.",
+            "conclusion": "The Key Rule: The guilty plea discount under s.73 SA 2020 is a **sliding scale**: one-third at first opportunity → reduces steadily → one-tenth at first day of trial. Timing is everything. Advise clients early that delay costs discount.",
+            "summary_line": "SLIDING SCALE NOT FIXED · ONE-THIRD AT FIRST OPPORTUNITY · ONE-TENTH ON DAY OF TRIAL · S.73 SA 2020 · TIMING IS EVERYTHING"
+          },
+          {
+            "card_code": "FLK2-CRIM-TRAP-016",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA student advises: 'The defence in the Crown Court can choose not to serve a defence statement — it is entirely voluntary and there are no consequences for not doing so.'",
+            "answer": null,
+            "issue": "The Trap: Defence disclosure is fully voluntary and consequences-free in all courts, including the Crown Court.",
+            "rule": "The Reality: In the **Crown Court**, serving a defence statement is **mandatory** under s.5 CPIA 1996. Failure to serve one, or serving an inadequate one, triggers the adverse inference provisions under s.11 CPIA — the court may draw an adverse inference from the omission or departure. Defence disclosure is voluntary only in the **magistrates' court** (s.6 CPIA). The statement must set out the defendant's defence and any matters of law or procedure.",
+            "application": "Why the Distractor Fails: Students often see disclosure primarily as a prosecution obligation and downplay the defence's reciprocal statutory duty. The CPIA regime is a two-way street. While the prosecution's obligations are more extensive and have more significant consequences when breached, the defence also has compulsory disclosure obligations in Crown Court proceedings. Failing to appreciate this leads to incorrect advice to clients and potentially prejudicial situations at trial.",
+            "conclusion": "The Key Rule: Defence statement is **mandatory in the Crown Court** (s.5 CPIA 1996) and voluntary in the magistrates' court (s.6). Failure triggers adverse inference under s.11 — not proof of guilt, but a factor the jury may consider.",
+            "summary_line": "DEFENCE STATEMENT MANDATORY CROWN COURT · S.5 CPIA 1996 · VOLUNTARY IN MAGISTRATES COURT · ADVERSE INFERENCE S.11 · NOT VOLUNTARY IN CC"
           }
         ]
       },
@@ -3925,6 +4033,42 @@
             "conclusion": null,
             "summary_line": "DEFENCE STATEMENT · S.6A CPIA · 28 DAYS · MANDATORY CROWN COURT · ALIBI · ADVERSE INFERENCE IF INADEQUATE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-124",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is 'unused material' under CPIA 1996 and how does the prosecution identify and manage it?",
+            "answer": "Unused material is all material gathered during a criminal investigation that the prosecution does not intend to rely on as evidence. It is the starting point of the disclosure regime.\n\n**Definition:** Material is 'relevant' if it appears to have some bearing on the offence, surrounding circumstances, or the accused (CPIA 1996 Code of Practice, para.2.1).\n\n**Identification process:**\n1. The **disclosure officer** (usually a police officer) is responsible for gathering, listing, and reviewing all material.\n2. Material is listed on **schedules** — used and unused — served on the prosecutor.\n3. The prosecutor reviews the schedules and applies the disclosure test under s.3 CPIA.\n4. Material that meets the test is disclosed to the defence; material that does not is retained.\n\n**Types of unused material:** witness statements not relied on, CCTV footage not exhibited, police interview records, background checks, communications intercepts.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "UNUSED MATERIAL · CPIA 1996 · DISCLOSURE OFFICER · SCHEDULES · RELEVANT TO INVESTIGATION · NOT RELIED ON AS EVIDENCE"
+          },
+          {
+            "card_code": "FLK2-CRIM-125",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What duty does the prosecution have to obtain and disclose material held by third parties under CPIA 1996?",
+            "answer": "The prosecution has a duty to take **reasonable steps** to obtain material held by third parties (e.g. hospitals, social services, banks, telecoms providers) if it is reasonably believed to be relevant.\n\n**Key principles:**\n1. The prosecution cannot simply wait for the defence to request third-party material — the duty is proactive.\n2. The prosecution should issue **third-party disclosure notices** requesting material from identified parties.\n3. Where a third party refuses (e.g. on grounds of privilege or confidentiality), the prosecution should consider whether an application to the court is needed.\n4. Material obtained from third parties must be assessed under s.3 (initial duty) and s.7A (continuing duty).\n5. The prosecution does not need to pursue every conceivable source — the test is **reasonableness**.\n\n**Consequence of failure:** If the prosecution fails to take reasonable steps to obtain relevant third-party material, this may constitute a disclosure failure giving grounds for stay of proceedings, adjournment, or appeal.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "THIRD-PARTY DISCLOSURE · PROACTIVE DUTY · REASONABLE STEPS · DISCLOSURE NOTICES · PRIVILEGE AND CONFIDENTIALITY · FAILURE = DISCLOSURE BREACH"
+          },
+          {
+            "card_code": "FLK2-CRIM-126",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What remedies are available to the defence for prosecution disclosure failures under CPIA 1996?",
+            "answer": "Disclosure failures by the prosecution can give rise to the following remedies:\n\n1. **Stay of proceedings as abuse of process** — if the failure is so serious that a fair trial is impossible; this is a high threshold but available.\n2. **Adjournment** — to allow the defence time to respond to material disclosed late.\n3. **Exclusion of prosecution evidence** under s.78 PACE 1984 — if admission of the evidence would be unfair given the disclosure failure.\n4. **Adverse comment** — the trial judge may comment to the jury on the prosecution's failure.\n5. **Appeal** — if convicted, a disclosure failure is a ground of appeal under s.2 Criminal Appeal Act 1968 (conviction is unsafe).\n6. **CCRC referral** — post-conviction, the Criminal Cases Review Commission may refer the case to the Court of Appeal if there is a real possibility the conviction would not be upheld.\n\nThe defence should raise disclosure failures promptly — delay in raising them may count against the application.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DISCLOSURE FAILURE REMEDIES · STAY OF PROCEEDINGS · ADJOURNMENT · S.78 EXCLUSION · APPEAL · CCRC REFERRAL · PROMPT CHALLENGE REQUIRED"
           }
         ],
         "Defence obligations": [
@@ -3940,6 +4084,18 @@
             "conclusion": null,
             "summary_line": "DEFENCE DISCLOSURE · DEFENCE STATEMENT · WITNESS NOTICE S.6C · EXPERTS S.6D · LPP PROTECTS UNUSED REPORTS",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-127",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the consequences of failing to serve a defence statement or serving an inadequate one under s.11 CPIA 1996?",
+            "answer": "Section 11 CPIA 1996 imposes consequences for defence statement failures:\n\n1. **Adverse inferences at trial:** The court (and jury) may draw an adverse inference if the defendant departs from, or fails to mention a matter that should have been in, the defence statement at trial — e.g. raises a new defence or new factual matter not in the statement.\n2. **Prosecution may cross-examine** on the inconsistency between the defence statement and trial evidence.\n3. **Judge's direction to jury:** The judge may direct the jury that an adverse inference is permissible in the circumstances.\n\n**Note:** Adverse inference does not prove guilt — it is one factor the jury may consider. A defendant retains the right to run a defence not in the statement; they simply risk the inference.\n\n**In the Crown Court:** Defence statements are mandatory under s.5 CPIA 1996. In the magistrates' court, they are voluntary under s.6. Failure to serve a mandatory defence statement is itself a s.11 trigger.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DEFENCE STATEMENT FAILURE · S.11 CPIA · ADVERSE INFERENCE · PROSECUTION CROSS-EXAMINATION · JURY DIRECTION · NOT PROOF OF GUILT"
           }
         ],
         "Specific disclosure and PII": [
@@ -3983,6 +4139,30 @@
             "conclusion": null,
             "summary_line": "UNLAWFUL ARREST ENTRY · PRIMARY DISCLOSURE · S.78 PACE EXCLUSION · DEFENCE STATEMENT · EXPLOIT FULLY",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-053",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Police have CCTV footage showing the defendant near the scene but not committing the offence itself. The Crown decides not to rely on it. What are the prosecution's CPIA disclosure obligations regarding this footage?",
+            "answer": "The CCTV footage is **unused material** — it has been obtained but is not relied upon as prosecution evidence.\n\n**Disclosure obligation:**\nUnder s.3 CPIA 1996 (initial duty), the prosecution must disclose material that **might reasonably be considered capable of undermining the prosecution case or assisting the defence**. The CCTV showing the defendant near but not at the scene arguably both: (a) undermines the prosecution (cannot establish presence at the specific point of commission), and (b) assists the defence (supports a partial alibi or innocent frequenting of the area).\n\n**Therefore:** The footage almost certainly meets the s.3 test and must be disclosed. The prosecution cannot withhold it merely because they have chosen not to rely on it.\n\n**Under s.7A** (continuing duty): Even if disclosed after initial disclosure, the footage must be disclosed as soon as reasonably practicable once identified.\n\n**Consequence of non-disclosure:** The defendant may appeal conviction if undisclosed footage would have made a difference to the verdict.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "UNUSED CCTV FOOTAGE · S.3 CPIA INITIAL DUTY · UNDERMINES PROSECUTION · ASSISTS DEFENCE · MUST DISCLOSE · NON-DISCLOSURE = APPEAL GROUND"
+          },
+          {
+            "card_code": "FLK2-CRIM-SCE-054",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "The defence failed to serve a defence statement in a Crown Court trial. The prosecution did not disclose medical records of a key prosecution witness (held by the NHS) that would have cast doubt on the witness's reliability. The defendant is convicted. Advise on potential appeal grounds.",
+            "answer": "There are two potential grounds of appeal:\n\n**Ground 1 — Prosecution disclosure failure (stronger ground):**\nThe NHS medical records are third-party material. The prosecution has a duty under CPIA 1996 to take reasonable steps to obtain and assess third-party material that might undermine the prosecution case or assist the defence (ss.3, 7A). If the medical records show the key witness had a condition affecting memory or reliability, they clearly meet the s.3 test. Non-disclosure renders the conviction potentially **unsafe** under s.2(1)(a) Criminal Appeal Act 1968. The Court of Appeal will consider whether the conviction would have been different with the material disclosed.\n\n**Ground 2 — Failure to serve defence statement (weaker ground):**\nThe defence's failure to serve a defence statement is their own procedural failing (s.5 CPIA). While adverse inferences may have been drawn at trial under s.11, this does not on its own render the conviction unsafe unless the inference was misdirected or improperly applied.\n\n**Overall:** Ground 1 is the stronger appeal ground. The court will weigh the materiality of the undisclosed records against the overall safety of the conviction.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "APPEAL GROUNDS · PROSECUTION DISCLOSURE FAILURE STRONGER · DEFENCE STATEMENT FAILURE WEAKER · S.2 CAA 1968 · UNSAFE CONVICTION TEST · MATERIALITY"
           }
         ]
       }

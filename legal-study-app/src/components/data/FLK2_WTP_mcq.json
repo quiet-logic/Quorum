@@ -1,0 +1,1956 @@
+{
+  "FLK2": {
+    "Wills & Administration of Estates": [
+      {
+        "question_id": "FLK2-WTP-MCQ-001",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Formalities — s.9 Wills Act 1837",
+        "difficulty": "Foundation",
+        "stem": "Under s.9 of the Wills Act 1837, a valid will must satisfy which of the following requirements?",
+        "options": {
+          "A": "The will must be in writing, signed by the testator or at their direction, and witnessed by two persons who must be present together throughout the execution.",
+          "B": "The will must be in writing, signed by the testator only (never by direction), and witnessed by at least one person in the testator's presence.",
+          "C": "The will must be in writing, signed by the testator, and witnessed by two persons who must each sign in the presence of the testator but need not be present together.",
+          "D": "The will must be in writing and signed by the testator, but no witnesses are required if the testator is over 70 years old."
+        },
+        "correct": "A",
+        "explanation": "Section 9 of the Wills Act 1837 requires: (1) the will to be in writing; (2) signed by the testator (or at their direction, with their knowledge); (3) the signature must be made or acknowledged in the presence of two witnesses; and (4) each witness must attest and sign in the presence of the testator. Crucially, both witnesses must be present simultaneously when the testator acknowledges the will and when each signs. This is a stringent requirement — 'simultaneous presence' has been strictly interpreted by the courts. Failure to comply renders the will invalid unless the court exercises dispensing power under s.21 of the Administration of Justice Act 1982.",
+        "card_refs": [
+          "FLK2-WTP-005",
+          "FLK2-WTP-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-002",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Formalities / s.9 edge cases",
+        "difficulty": "Foundation",
+        "stem": "A testator signs a will with a mark (X) instead of their full signature. Two witnesses are present simultaneously and sign afterwards. Is the will valid?",
+        "options": {
+          "A": "No, because the mark is not a formal signature and does not satisfy s.9 of the Wills Act 1837.",
+          "B": "No, because s.9 requires a signature in the testator's usual handwriting.",
+          "C": "Yes, provided the mark was made with the intention of authenticating the will and the court is satisfied it was the act of the testator.",
+          "D": "Yes, but only if the testator declared to the witnesses that the mark was their signature."
+        },
+        "correct": "A",
+        "explanation": "A mark (such as an X, thumbprint, or initials) can constitute a valid signature for the purposes of s.9 of the Wills Act 1837 provided: (1) it was made by the testator with the intention of authenticating the will; and (2) the court is satisfied that the mark was indeed the deliberate act of the testator — see Re Davey [1900]. The signature does not have to be in any particular form, nor need it be in the testator's usual handwriting. A mark, if authenticated as the testator's own act done with testamentary intent, suffices. The formal requirements are functional, not prescriptive.",
+        "card_refs": [
+          "FLK2-WTP-005",
+          "FLK2-WTP-007"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-003",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Testamentary capacity — Banks v Goodfellow",
+        "difficulty": "Foundation",
+        "stem": "Which of the following correctly identifies the test for testamentary capacity established in Banks v Goodfellow (1870)?",
+        "options": {
+          "A": "The testator must understand the nature of making a will, the extent of their property, and the claims of those who might benefit, and must not suffer from any mental disorder.",
+          "B": "The testator must be free from any medical condition, able to list all assets, and able to recall the names of all blood relatives.",
+          "C": "The testator must have capacity for 28 days before and after the will's execution, and must be certified by a medical practitioner.",
+          "D": "The testator need only understand the nature of a will and the extent of their property; understanding family claims is optional."
+        },
+        "correct": "A",
+        "explanation": "Banks v Goodfellow (1870) established the foundational test for testamentary capacity, which requires the testator to: (1) understand the nature of making a will and its legal effects; (2) understand the extent of the property being disposed of; (3) understand the claims of those who might reasonably expect to benefit; and (4) not be suffering from any disorder of the mind that 'poisons the affections, perverts the sense of right, or prevents the exercise of natural faculties' in disposing of property. All four limbs must be satisfied at the moment of execution. This is a test of functional understanding, not perfection — the testator need not have perfect memory or intelligence, only a reasonable grasp of these essential matters.",
+        "card_refs": [
+          "FLK2-WTP-001",
+          "FLK2-WTP-CASE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-004",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Capacity / Parker v Felgate scenarios",
+        "difficulty": "Foundation",
+        "stem": "A testator with advancing dementia gave clear, detailed instructions for her will when mentally competent. By the time of execution, she had declined significantly but still understood that she was signing a will prepared in accordance with instructions she had previously given. Is the will valid under the principle in Parker v Felgate (1883)?",
+        "options": {
+          "A": "No, because Parker v Felgate requires full capacity at execution, which she did not have.",
+          "B": "Yes, but only if a medical practitioner confirmed her capacity at the time of giving instructions.",
+          "C": "No, because testamentary capacity must be assessed at the time of signature only; prior capacity is irrelevant.",
+          "D": "Yes, provided the will was actually prepared in accordance with the instructions given when she had capacity and she understood at execution that it reflected her earlier wishes."
+        },
+        "correct": "A",
+        "explanation": "Parker v Felgate (1883) allows a will to be valid where: (1) the testator had capacity when giving instructions to the solicitor; (2) the will was prepared in accordance with those instructions; and (3) at execution, the testator understood that they were signing a will prepared pursuant to instructions given when they had capacity — even if they could no longer fully recall those details. This is a practical exception to the strict rule in Banks v Goodfellow. The testator in this scenario satisfies all three conditions: she had capacity when instructing, the will reflects those instructions, and she retained awareness at execution that the will embodied her earlier wishes. The will is therefore valid.",
+        "card_refs": [
+          "FLK2-WTP-002",
+          "FLK2-WTP-CASE-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-005",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Formalities — s.9 Wills Act 1837",
+        "difficulty": "Foundation",
+        "stem": "A testator signs her will in the presence of two witnesses. Witness A sees the testator sign but leaves before Witness B signs. Witness B never sees the testator sign, only hears from Witness A that she has done so. Both witnesses then sign. Is this valid under s.9 of the Wills Act 1837?",
+        "options": {
+          "A": "Yes, because both witnesses have signed and the testator was present when the first witness signed.",
+          "B": "No, because both witnesses must be present simultaneously when the testator acknowledges or signs the will and when each witness signs.",
+          "C": "Yes, provided Witness B heard the testator acknowledge the signature, even though they did not see it.",
+          "D": "No, because Witness A left before the attestation was complete, breaking the chain of evidence."
+        },
+        "correct": "A",
+        "explanation": "Section 9 of the Wills Act 1837 requires that the testator's signature be 'made or acknowledged in the presence of two witnesses present at the same time' and that each witness must attest and sign 'in the presence of the testator'. This is interpreted to require that both witnesses be present simultaneously at both the testator's signing/acknowledgment and at each witness's signing. The principle in Cavendish (1889) and later cases confirms that simultaneous presence is essential — not sequential presence. In this scenario, Witness B was not present when the testator signed, and Witness A left before Witness B signed. Neither witness was present with the other at the critical moment. The will therefore fails to comply with s.9 and is invalid, unless the court exercises its dispensing power under s.21 of the Administration of Justice Act 1982.",
+        "card_refs": [
+          "FLK2-WTP-005",
+          "FLK2-WTP-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-006",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Witnessing and s.15",
+        "difficulty": "Application",
+        "stem": "A testator's daughter is one of two witnesses to the will. The testator intends his daughter to inherit a substantial legacy under the will. What is the legal consequence under s.15 of the Wills Act 1837?",
+        "options": {
+          "A": "The will is invalid in its entirety because a beneficiary cannot be a witness.",
+          "B": "The will is valid, but the gift to the daughter is void and falls back into the estate.",
+          "C": "The will is valid, and the gift to the daughter is valid because she was a proper witness.",
+          "D": "The gift is void only if the daughter's signature was obtained improperly."
+        },
+        "correct": "A",
+        "explanation": "Section 15 of the Wills Act 1837 provides that a gift made to a witness (or to the spouse of a witness) is void, but the will itself remains valid. This rule applies even if the witness was unaware they were a beneficiary at the time of witnessing. The policy is to prevent the appearance of undue influence and to ensure independent attestation. However, the invalidity applies only to the gift to the beneficiary-witness — the rest of the will remains valid and is given effect. In this scenario, the will is valid, but the legacy to the testator's daughter is void and will fall back into the residuary estate or intestacy as appropriate.",
+        "card_refs": [
+          "FLK2-WTP-008",
+          "FLK2-WTP-CASE-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-007",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Revocation and Alteration",
+        "subtopic": "Revocation",
+        "difficulty": "Foundation",
+        "stem": "A testator executes a valid will in 2020. In 2022, the testator marries. The testator makes no new will and does not execute any new codicil. What is the status of the 2020 will?",
+        "options": {
+          "A": "The will remains valid because subsequent marriage does not affect wills executed before the marriage.",
+          "B": "The will is revoked by the marriage unless it was expressed to be made 'in contemplation of marriage'.",
+          "C": "The will is revoked by the marriage, but the testator may apply to court to restore it.",
+          "D": "The will is suspended until the testator makes a new will after marriage."
+        },
+        "correct": "A",
+        "explanation": "Section 18 of the Wills Act 1837 provides that subsequent marriage revokes a prior will unless the will was expressed to be made in contemplation of marriage. To avoid revocation, the testator would need to execute a new will after marriage or execute a codicil. In this scenario, the marriage in 2022 revokes the 2020 will.",
+        "card_refs": [
+          "FLK2-WTP-010",
+          "FLK2-WTP-CASE-004"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-008",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Revocation and Alteration",
+        "subtopic": "Revocation, alteration and revival",
+        "difficulty": "Complex",
+        "stem": "A testator executes Will A in 2018. In 2020, the testator burns Will A with the intention of revoking it, and then executes Will B. In 2022, the testator is dissatisfied with Will B. Can Will A be revived?",
+        "options": {
+          "A": "No, because Will A was destroyed with the intent to revoke and cannot be revived.",
+          "B": "Yes, Will A can be revived if the testator re-executes it or executes a codicil referring to it with intent to revive.",
+          "C": "Yes, if the testator can show they did not intend to revoke Will A permanently.",
+          "D": "No, because once destroyed, a will is permanently revoked under s.20 of the Wills Act 1837."
+        },
+        "correct": "A",
+        "explanation": "Section 22 of the Wills Act 1837 governs revival. A will that has been revoked can be revived in two ways: (1) by re-execution with all the formalities of s.9; or (2) by a codicil executed with s.9 formalities that expressly declares the testator's intent to revive the earlier will. Mere destruction of a subsequent will (Will B) does not automatically revive the earlier will (Will A) — there must be a positive act of revival. In this scenario, the testator burned Will A deliberately with intent to revoke; section 20 provides that destruction of a will with intent to revoke is effective. However, Will A is not permanently lost — it can be revived if the testator re-executes it (perhaps with the help of a copy) or executes a new codicil showing clear intent to revive it. Mere dissatisfaction with Will B does not achieve revival.",
+        "card_refs": [
+          "FLK2-WTP-010",
+          "FLK2-WTP-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-009",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Construction of Wills",
+        "subtopic": "Lapse and s.33",
+        "difficulty": "Foundation",
+        "stem": "A testator's will provides: 'I leave my house to my son, and my residuary estate to my daughter.' The son predeceases the testator, leaving two children. What happens to the house?",
+        "options": {
+          "A": "The house lapses and falls into residue; the daughter takes the house as part of the residuary estate.",
+          "B": "The house reverts to the testator's estate and is distributed under the intestacy rules.",
+          "C": "The house passes to the son's two children by virtue of s.33 of the Wills Act 1837.",
+          "D": "The house is held in trust for the son's widow."
+        },
+        "correct": "B",
+        "explanation": "Under s.33 of the Wills Act 1837, if a beneficiary under a will predeceases the testator, the gift normally lapses (fails). However, s.33 provides an important exception: if the beneficiary was the testator's child or remoter issue (descendant), and the deceased beneficiary left issue (children, grandchildren, etc.) who survive the testator, then the gift passes to the deceased beneficiary's issue in equal shares, as if the beneficiary had survived. This rule applies to both specific gifts (like the house) and residuary gifts. In this scenario, the son predeceased the testator but left children (the testator's grandchildren). Section 33 applies, and the house passes to those grandchildren in equal shares. The daughter does not inherit the house.",
+        "card_refs": [
+          "FLK2-WTP-015",
+          "FLK2-WTP-CASE-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-010",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Construction of Wills",
+        "subtopic": "Ademption and abatement",
+        "difficulty": "Application",
+        "stem": "A testator's will bequeaths 'my shareholding in ABC Ltd' to the testator's nephew. At the time the will was made, the testator held 100 ordinary shares in ABC Ltd. Before the testator's death, ABC Ltd is acquired by another company and the testator's shares are converted into shares in the acquiring company. What happens to the bequest?",
+        "options": {
+          "A": "The bequest is adeemed (fails) because the original property no longer exists in the form specified.",
+          "B": "The bequest is satisfied by the shares in the acquiring company, because they are the natural substitute for the original shares.",
+          "C": "The bequest fails, and the nephew receives nothing, because specific gifts cannot be modified after the will is made.",
+          "D": "The nephew receives the value of the original shares in cash from the estate."
+        },
+        "correct": "B",
+        "explanation": "Ademption is the common law doctrine that if a specific bequest (a gift of a particular item) is no longer owned by the testator in the form described at death, the gift fails. However, the courts have developed an exception where there has been a 'continuity of identity' — if the property has been converted into a substitute of substantially the same nature in the ordinary course of events, the gift is not adeemed. The classic example is shares that are converted through a merger or reorganisation. In this scenario, the testator's shares were converted into shares in the acquiring company — this is a continuity of identity as regards the testator's investment. The nephew takes the shares in the acquiring company. If, by contrast, the testator had sold the shares and the proceeds had been used for something else, the gift would be adeemed.",
+        "card_refs": [
+          "FLK2-WTP-016",
+          "FLK2-WTP-CASE-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-011",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "Spouse/civil partner entitlement",
+        "difficulty": "Foundation",
+        "stem": "A person dies intestate, leaving a spouse and two adult children. Under the Administration of Estates Act 1925 (as amended by the Intestates' Estates Act 1952 and subsequent amendments), what is the spouse's entitlement?",
+        "options": {
+          "A": "The spouse takes the entire estate absolutely.",
+          "B": "The spouse takes personal chattels only; the children take the rest of the estate in equal shares.",
+          "C": "The spouse takes half the estate; the children take the other half in equal shares.",
+          "D": "The spouse takes personal chattels, plus a statutory legacy of approximately £322,000 (as at Feb 2020, subject to indexation), plus half of any residue after payment of debts and expenses; the children take the other half of the residue."
+        },
+        "correct": "B",
+        "explanation": "Under s.46 of the Administration of Estates Act 1925 (as amended), where the deceased leaves a spouse and issue (children), the spouse takes: (1) the personal chattels (defined as tangible movable property excluding money and securities) absolutely; (2) a statutory legacy (a fixed sum, currently £322,000 as at February 2020, subject to indexation); and (3) a life interest in half of the residue. However, the 'life interest' has been abolished by modern amendments; instead, the spouse takes an absolute interest in that half of the residue. The children take the other half of the residue on statutory trusts (meaning they take in equal shares, subject to the rights of remoter issue if a child predeceases). If the estate is insufficient to pay the statutory legacy in full, the spouse takes what is available. This rule applies to both spouses and civil partners, and it reflects a balance between protecting the surviving spouse and preserving rights for the deceased's children.",
+        "card_refs": [
+          "FLK2-WTP-020",
+          "FLK2-WTP-CASE-007"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-012",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "No spouse, further relatives",
+        "difficulty": "Complex",
+        "stem": "A person dies intestate leaving no spouse or children, but leaving a surviving parent (P) and a surviving sibling (S) with two children. Under the Administration of Estates Act 1925, what is the order of entitlement?",
+        "options": {
+          "A": "The estate is divided equally among P, S, and S's children.",
+          "B": "P and S take equal shares; S's children take nothing.",
+          "C": "S and S's children take equal shares, per stirpes; P takes nothing.",
+          "D": "P takes the entire estate; S and S's children take nothing."
+        },
+        "correct": "B",
+        "explanation": "Section 46 of the Administration of Estates Act 1925 sets out a fixed order of priority for intestate succession. The order is: spouse (if any); issue (children, grandchildren, etc. on statutory trusts); parents (equally, or wholly to one if only one survives); siblings and their issue (per stirpes); grandparents; uncles and aunts and their issue; and remote relatives. In this scenario, the deceased left no spouse or issue, so the estate passes to the parents. A surviving parent (P) takes the entire estate. The sibling (S) and their children are further down the priority list and take nothing if a parent survives. This rule reflects the principle that the intestacy rules prioritise lineal descendants (issue) and then lineal ancestors (parents), before moving sideways to collaterals (siblings).",
+        "card_refs": [
+          "FLK2-WTP-021",
+          "FLK2-WTP-CASE-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-013",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "Statutory trusts for issue",
+        "difficulty": "Application",
+        "stem": "A person dies intestate leaving a spouse and three children: A (deceased, but who left two children), B (survived by one child), and C (no children). How does the intestacy law distribute the children's share of the residue under the statutory trusts?",
+        "options": {
+          "A": "Equal division into three shares: one for A's children (shared between them), one for B's child, one for C.",
+          "B": "Equal division into five shares: one each for A's two children, one each for B's child and C, and one reserve share.",
+          "C": "Equal division into two shares: one for the children of the deceased's children, one for C.",
+          "D": "Equal division into three shares (A, B, C), regardless of their children's status."
+        },
+        "correct": "B",
+        "explanation": "The statutory trusts for issue under s.46 of the Administration of Estates Act 1925 operate 'per stirpes', meaning 'by the stocks' or 'by branches'. The estate is divided into shares based on the number of the deceased's direct children (the 'stirpes'), not based on the total number of grandchildren. Each child's share is then divided among their own surviving issue. In this scenario, the deceased had three children; therefore, the children's portion of the residue is divided into three equal shares — one for A (which A's two children divide equally between them), one for B (which B's one child takes entirely), and one for C (who takes the whole share). This prevents the estates of deceased children from being diluted if they had multiple offspring.",
+        "card_refs": [
+          "FLK2-WTP-022",
+          "FLK2-WTP-CASE-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-014",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Family Provision",
+        "subtopic": "Eligible applicants",
+        "difficulty": "Application",
+        "stem": "Who is NOT eligible to apply under the Inheritance (Provision for Family and Dependants) Act 1975 for a court order for financial provision from an estate?",
+        "options": {
+          "A": "A person who was married to the deceased at the date of death.",
+          "B": "An adult child of the deceased who is in full-time employment and has a good salary.",
+          "C": "A person who cohabited with the deceased as spouse or civil partner for at least two years immediately before death.",
+          "D": "A person who was the deceased's legal dependent (relying on the deceased for financial support) at death."
+        },
+        "correct": "B",
+        "explanation": "Section 1 of the Inheritance (Provision for Family and Dependants) Act 1975 defines 'any person' who may apply for an order. The statutory applicants are: (1) the spouse or civil partner of the deceased; (2) a former spouse or civil partner (if not remarried); (3) a cohabitant (two years immediately before death); (4) a child of the deceased; (5) a child of the family (i.e. someone the deceased treated as a child of the family); and (6) any other person who immediately before death was maintained wholly or partly by the deceased. An adult child with good employment income and financial independence is not eligible — the applicant must be a child (in the family law sense) and typically needs to be a minor or dependent. The Act protects dependants and children, not all children as of right. Note that eligibility differs from the strength of claim; an adult child with independent means simply does not fall within the Act's categories.",
+        "card_refs": [
+          "FLK2-WTP-026",
+          "FLK2-WTP-CASE-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-015",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Family Provision",
+        "subtopic": "Reasonable financial provision — standard and factors",
+        "difficulty": "Complex",
+        "stem": "A surviving spouse applies under the Inheritance (Provision for Family and Dependants) Act 1975 for a court order for financial provision. What standard does the court apply, and what are some of the key matters the court must consider?",
+        "options": {
+          "A": "The court must provide the spouse with a fixed percentage of the estate (typically 50%). It considers only the spouse's age and current income.",
+          "B": "The court must provide the spouse with 'maintenance only' — that is, enough to cover essential living expenses, not more.",
+          "C": "The court must provide 'reasonable financial provision' as defined in s.2 of the Act, which for a spouse means such provision as would be reasonable in all the circumstances. The court must consider the spouse's financial needs, the estate's size, the deceased's obligations, the spouse's standard of living during marriage, and the deceased's wishes.",
+          "D": "The court must apply the intestacy rules strictly; the spouse cannot claim more than they would have received under intestacy."
+        },
+        "correct": "B",
+        "explanation": "Section 2 of the Inheritance (Provision for Family and Dependants) Act 1975 establishes different standards depending on the applicant's status. For a spouse or civil partner, the standard is 'reasonable financial provision in all the circumstances of the case'. This is much wider than 'maintenance only' (which applies to other applicants). The court must consider the matters listed in s.3, including: (1) financial resources and needs of applicants and beneficiaries; (2) the obligations and responsibilities the deceased had; (3) the standard of living during the marriage; (4) the age of the applicant and their earning capacity; (5) the physical and mental ability to work; (6) the manner in which the property was disposed of; and (7) the deceased's reasons for not making provision. The spouse's claim is not limited by what they would have received under intestacy; the Act is intended to provide greater flexibility than fixed intestacy rules.",
+        "card_refs": [
+          "FLK2-WTP-027",
+          "FLK2-WTP-028"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-016",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Family Provision",
+        "subtopic": "Standard of provision",
+        "difficulty": "Application",
+        "stem": "A 25-year-old adult child of the deceased applies under the Inheritance (Provision for Family and Dependants) Act 1975. The deceased's will left the entire estate to an unrelated charity. The child was not dependent on the deceased and has a good job. What standard applies, and is the application likely to succeed?",
+        "options": {
+          "A": "The spouse standard applies (reasonable financial provision). The child is likely to succeed because they are a child of the deceased.",
+          "B": "The child must show they were dependent on the deceased or were a child of the family. If neither is true, they have no claim.",
+          "C": "The maintenance standard applies: provision only for 'maintenance' (i.e. income to meet reasonable requirements). Even if eligible, the child is unlikely to succeed given their independent financial position.",
+          "D": "The child must prove the deceased acted unreasonably by not providing for them. The burden is on the child to show the will is unjust."
+        },
+        "correct": "C",
+        "explanation": "For most applicants other than spouses, the standard under s.2 of the Inheritance (Provision for Family and Dependants) Act 1975 is 'such financial provision as it would be reasonable for the deceased to make for [the applicant's] maintenance'. 'Maintenance' does not mean the child's full financial needs or standard of living, but rather income sufficient to meet their reasonable requirements — typically housing, food, and essential expenses. The 'reasonable requirement' test is much lower than the spouse standard. In this scenario, the child is a direct child and is therefore eligible to apply. However, they must satisfy the court that they need maintenance (i.e. have a shortfall between their needs and available resources). An adult child with a good job and financial independence is unlikely to meet that threshold. The fact that the deceased left the estate to charity is not, by itself, evidence of unreasonableness or grounds for overriding the will — the court only intervenes if the deceased failed to make 'reasonable' provision for maintenance.",
+        "card_refs": [
+          "FLK2-WTP-027",
+          "FLK2-WTP-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-017",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Personal representatives — duties and powers",
+        "difficulty": "Complex",
+        "stem": "What is the primary duty of a personal representative (executor or administrator) when administering an estate?",
+        "options": {
+          "A": "To collect in the estate's assets, pay debts and liabilities, and distribute the residue in accordance with the will (or intestacy rules) with due diligence and honesty.",
+          "B": "To distribute the estate as quickly as possible to minimise costs.",
+          "C": "To invest the estate's funds to generate income for beneficiaries.",
+          "D": "To defend all claims against the estate, even if they have merit."
+        },
+        "correct": "C",
+        "explanation": "The primary duties of a personal representative are: (1) to collect in the estate's assets and realise them where necessary; (2) to pay the deceased's debts, liabilities, and the costs of administration; (3) to account for income and capital; (4) to distribute the residue among the beneficiaries (or to the intestate succession) in accordance with the will or the intestacy rules; and (5) to do all of this with due diligence, honesty, and care. Personal representatives act as trustees and owe fiduciary duties to the beneficiaries. The executor's year (roughly 12 months from death) is the period within which these duties should be substantially completed, though reasonable delays are permitted. A personal representative should not delay distribution indefinitely, but equally should not rush to distribute if doing so would jeopardise the proper settlement of claims.",
+        "card_refs": [
+          "FLK2-WTP-030",
+          "FLK2-WTP-CASE-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-018",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Payment of debts — order of application",
+        "difficulty": "Application",
+        "stem": "An estate is insolvent (liabilities exceed assets). The deceased's debts consist of: (1) funeral expenses, (2) a mortgage on the house (secured debt), (3) unsecured personal loans, and (4) income tax owed. Under the rules for payment of debts in an insolvent estate, what is the correct order of priority?",
+        "options": {
+          "A": "All debts are paid equally (pro rata) from the available funds.",
+          "B": "Funeral expenses first, then income tax, then the secured mortgage, then unsecured loans.",
+          "C": "Funeral expenses and costs of administration first, then secured debts (mortgages), then unsecured debts and taxes in equal proportion.",
+          "D": "Secured debts (mortgages) are paid from the asset they secure; costs of administration and funeral expenses are paid first from general assets; unsecured debts are paid pro rata from what remains."
+        },
+        "correct": "C",
+        "explanation": "The order of payment of debts in an insolvent estate under s.34 of the Administration of Estates Act 1925 and general equity principles is: (1) costs of administration and the funeral expenses (from the general estate); (2) secured debts are paid from the secured asset (e.g. the mortgage is paid from the proceeds of sale of the mortgaged property); (3) all other debts (unsecured debts, taxes, etc.) are paid pro rata from the remaining funds, meaning each creditor receives a proportional share if there is insufficient money to pay them in full. The personal representative must not distribute assets to beneficiaries until debts are cleared or adequately provided for. Secured creditors have priority over their security (the mortgaged property), but their claims do not take priority over the costs of administration.",
+        "card_refs": [
+          "FLK2-WTP-032",
+          "FLK2-WTP-CASE-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-019",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Assents",
+        "difficulty": "Application",
+        "stem": "A personal representative has completed the administration of the estate and is ready to transfer a house to one of the beneficiaries. What document should the personal representative execute to transfer the legal title to the house?",
+        "options": {
+          "A": "A deed of gift, because the beneficiary is receiving the property free of charge.",
+          "B": "A transfer deed, just like an ordinary sale between two parties.",
+          "C": "A will codicil, amending the will to reflect the transfer.",
+          "D": "An assent, which transfers the legal estate in the house from the personal representative to the beneficiary."
+        },
+        "correct": "C",
+        "explanation": "An assent is a written document by which a personal representative transfers the legal estate in property from the deceased's estate to a beneficiary. The assent must be in writing and signed by the personal representative; it does not require formality beyond a signature, though it should identify the property, the beneficiary, and the estate. An assent can be given orally for personalty (personal property), but for realty (real property such as houses) it must be in writing. Once an assent has been given, the personal representative drops out of the title and the beneficiary acquires the legal estate. The assent is not a sale or a gift; it is simply a transfer of the property held in the estate to the beneficiary. An assent is not a transfer deed (which implies a sale); it is a unique document specific to estate administration.",
+        "card_refs": [
+          "FLK2-WTP-033",
+          "FLK2-WTP-CASE-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-020",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "NRB and RNRB",
+        "difficulty": "Foundation",
+        "stem": "A person dies leaving a net estate of £500,000 (after debts). The estate includes their principal private residence worth £250,000, which is left to their adult daughter. What is the Inheritance Tax treatment?",
+        "options": {
+          "A": "The entire estate is charged at 40% IHT because it exceeds the nil rate band.",
+          "B": "The nil rate band of £325,000 applies, plus the residential nil rate band (RNRB) of £175,000 (total £500,000). No IHT is payable.",
+          "C": "Only the excess over £325,000 is charged at 40% IHT (i.e. £175,000 × 40% = £70,000), because the RNRB cannot be used here.",
+          "D": "The house is exempt from IHT because it is being left to a direct descendant."
+        },
+        "correct": "C",
+        "explanation": "The nil rate band (NRB) under the Inheritance Tax Act 1984 is frozen at £325,000. The residential nil rate band (RNRB), introduced by the Finance Act 2015, provides an additional exemption of up to £175,000 where the deceased's home is left to a direct descendant (a 'qualifying beneficiary'), such as an adult child or grandchild. The RNRB is available in addition to the standard NRB. In this scenario, the deceased's estate of £500,000 falls within the combined NRB and RNRB allowances (£325,000 + £175,000 = £500,000). Therefore, no IHT is payable. Note that the RNRB is not available if the home is left to a non-qualifying beneficiary (e.g. a spouse or a trust), and it is subject to various conditions and phasing rules. However, the question states the home is left to the daughter, who qualifies.",
+        "card_refs": [
+          "FLK2-WTP-040",
+          "FLK2-WTP-CASE-014"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-021",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Exemptions",
+        "difficulty": "Foundation",
+        "stem": "A person makes a gift of £10,000 to their spouse during life. After the testator's death, the testator's estate is £300,000. What is the Inheritance Tax treatment of these gifts and the estate?",
+        "options": {
+          "A": "The gift to the spouse is a potentially exempt transfer (PET) and is charged at 40% if the testator dies within 7 years.",
+          "B": "The gift to the spouse is taxable at 20% (half rate) because it is to a spouse.",
+          "C": "The gift to the spouse is exempt from Inheritance Tax because spouses are exempt (provided they are UK domiciled), so the gift is not charged and does not affect the nil rate band.",
+          "D": "The gift to the spouse uses the annual exemption of £3,000."
+        },
+        "correct": "C",
+        "explanation": "Transfers between spouses and civil partners are exempt from Inheritance Tax under the IHTA 1984, provided both parties are UK domiciled (or the transferee is UK domiciled). This exemption applies to both lifetime gifts and gifts on death. There is no limit on the amount of the exemption — a spouse can inherit the entire estate without any IHT. The annual exemption of £3,000 and small gifts exemption of £250 per person apply to other gifts, not to gifts between spouses. In this scenario, the gift of £10,000 to the spouse is entirely exempt, and the spouse receives it free of IHT. The spouse's entitlement to the £10,000 does not count toward the testator's nil rate band, and the testator's nil rate band of £325,000 remains available for gifts to non-exempt beneficiaries.",
+        "card_refs": [
+          "FLK2-WTP-041",
+          "FLK2-WTP-CASE-015"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-022",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "PETs and CLTs",
+        "difficulty": "Application",
+        "stem": "A person makes a gift of £50,000 to a discretionary trust during their lifetime. Four years later, the testator dies. What is the Inheritance Tax treatment of this gift?",
+        "options": {
+          "A": "The gift is a potentially exempt transfer (PET) that becomes exempt because the testator survived more than 3 years.",
+          "B": "The gift is a chargeable lifetime transfer (CLT) that is subject to IHT at 20% during the testator's lifetime and again at 40% on the testator's death (subject to taper relief).",
+          "C": "The gift is a CLT and is charged at 20% lifetime rate. On death, the 20% already paid is deducted, and only the difference up to 40% is charged.",
+          "D": "The gift is exempt from IHT because it is to a trust, which is treated as a separate entity."
+        },
+        "correct": "C",
+        "explanation": "A chargeable lifetime transfer (CLT) is a transfer that is immediately subject to IHT (unlike a PET, which is potentially exempt and only charged if the transferor dies within 7 years). Gifts to trusts (other than bare trusts and trusts for a bereaved minor) are CLTs. In this scenario, the gift of £50,000 to a discretionary trust is a CLT. When made, it is subject to IHT at 20% (less any available nil rate band), so £30,000 would be exempt (nil rate band) and £20,000 would be charged at 20% (i.e. £4,000). When the testator dies (4 years later), the transfer is reconsidered at the full rate of 40%, and taper relief is applied. Because the testator survived 4 years (which falls between 3 and 4 years), taper relief reduces the rate from 40% to 35%. The lifetime tax of £4,000 is credited against the death tax, and the beneficiary (or trust) is liable for the additional tax due.",
+        "card_refs": [
+          "FLK2-WTP-042",
+          "FLK2-WTP-CASE-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-023",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "BPR and APR",
+        "difficulty": "Application",
+        "stem": "A person owns 100% of the shares in a private limited company (unquoted shares) worth £400,000. The shareholder dies, leaving the shares to their child. What is the Inheritance Tax treatment of the shares?",
+        "options": {
+          "A": "The shares are valued at £400,000 and are charged to IHT at 40% (less the nil rate band).",
+          "B": "The shares are subject to a partial relief of 50% under BPR, so £200,000 is exempt and £200,000 is charged.",
+          "C": "The shares qualify for agricultural property relief (APR) only if they relate to farming.",
+          "D": "The shares qualify for business property relief (BPR) at 100%, so they are exempt from IHT."
+        },
+        "correct": "C",
+        "explanation": "Business property relief (BPR) under the IHTA 1984 provides relief from Inheritance Tax on the transfer of certain business property. For unquoted shares (shares in private companies not listed on any stock exchange), BPR applies at a rate of 100%, meaning the entire value of the shares is exempt from IHT. BPR is subject to conditions: (1) the property must have been owned for at least 2 years before death; (2) the business must not be excepted (e.g. not mainly dealing in land, shares, or insurance); and (3) the property must be a 'relevant business property' (which includes unquoted shares). In this scenario, the deceased owned 100% of the shares in a private company — assuming the company is a genuine operating business (not a pure investment vehicle) and the shares were held for the required period, BPR at 100% applies. The shares are therefore exempt, and no IHT is charged on their transfer.",
+        "card_refs": [
+          "FLK2-WTP-044",
+          "FLK2-WTP-CASE-017"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-024",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "BPR and APR",
+        "difficulty": "Application",
+        "stem": "A person owns a working farm (freehold) worth £600,000 and leaves it to their child. The person also leaves cash of £200,000 to a charity. Assuming agricultural property relief (APR) at 100% applies to the farm, what is the Inheritance Tax due?",
+        "options": {
+          "A": "IHT is due on the cash gift but not the farm, because APR provides 100% relief.",
+          "B": "IHT is due on £200,000 (the excess over the nil rate band of £325,000), calculated at 40%.",
+          "C": "IHT is due on £475,000 (£600,000 farm + £200,000 cash - £325,000 nil rate band), calculated at 40%.",
+          "D": "No IHT is due, because APR at 100% exempts the farm and the charity gift is exempt."
+        },
+        "correct": "D",
+        "explanation": "Agricultural property relief (APR) under the IHTA 1984 provides relief from Inheritance Tax on the transfer of agricultural property (land and buildings used for agriculture, including working farms). APR is available at 100% (full relief) or 50% depending on the nature of the occupation and the interest held. Assuming APR at 100% applies, the farm is entirely exempt from IHT. A gift to a charity is also exempt from Inheritance Tax under s.58 of the IHTA 1984. In this scenario, the farm of £600,000 is exempt under APR, and the cash gift of £200,000 to charity is also exempt. The total estate of £800,000 is covered by exemptions, so no IHT is due. (Note: the nil rate band is not used here because there are sufficient exemptions to cover the entire estate.)",
+        "card_refs": [
+          "FLK2-WTP-045",
+          "FLK2-WTP-CASE-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-025",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Taper relief",
+        "difficulty": "Application",
+        "stem": "A person made a chargeable lifetime transfer (CLT) of £100,000 to a trust, using up their nil rate band. Four years later, the person dies. At death, the cumulative transfers in the 7 years before death total £350,000. What is the Inheritance Tax charge on death?",
+        "options": {
+          "A": "No IHT is due on death because taper relief applies after 4 years.",
+          "B": "IHT is charged at 40% on the full £100,000 CLT, with no relief.",
+          "C": "IHT is charged at 40% on the amount of the CLT that exceeds the nil rate band, with taper relief reducing the rate.",
+          "D": "IHT is charged on the cumulative total of £350,000, with taper relief applied if the person survived more than 3 years."
+        },
+        "correct": "D",
+        "explanation": "Taper relief under the IHTA 1984 reduces the effective rate of Inheritance Tax on chargeable lifetime transfers (CLTs) and potentially exempt transfers (PETs) that become taxable on death, depending on how long the transferor survived. The relief applies on a sliding scale: if the transferor dies between 3 and 4 years after the transfer, the rate is reduced to 35% (a 25% reduction from the full 40% rate); between 4 and 5 years, it reduces to 30%; between 5 and 6 years, 25%; between 6 and 7 years, 20%. In this scenario, the CLT was made 4 years before death. The CLT of £100,000 was made when the nil rate band was available; therefore, £100,000 is exempt. On the death 4 years later, that CLT is reconsidered at the death rate with taper relief. The taper applies to any IHT charged on that CLT (which, in this case, is nil because the nil rate band sheltered it). However, taper relief also applies to subsequent PETs and CLTs made in the 7-year window; those would be recharged at the tapered rate.",
+        "card_refs": [
+          "FLK2-WTP-046",
+          "FLK2-WTP-CASE-019"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-026",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Capital Gains Tax",
+        "subtopic": "Uplift on death",
+        "difficulty": "Application",
+        "stem": "A person owns shares purchased for £50,000 which, at death, are worth £150,000. The shares are inherited by a beneficiary. What is the beneficiary's base cost for capital gains tax purposes?",
+        "options": {
+          "A": "£50,000 (the original purchase price, carried forward from the deceased).",
+          "B": "£150,000 (the value at death — the 'uplift').",
+          "C": "The average of £50,000 and £150,000 (£100,000).",
+          "D": "£0, because gifts inherit property free of capital gains tax."
+        },
+        "correct": "D",
+        "explanation": "Section 62 of the Taxation of Chargeable Gains Act 1992 provides that a beneficiary who inherits an asset acquires that asset at its market value at the date of death. This is called the 'uplift' (or 'step up') in base cost. The uplift means that there is no capital gains tax charge on the increase in value during the deceased's lifetime (the gain from £50,000 to £150,000). The beneficiary's base cost for future capital gains tax purposes is £150,000 (the value at death), so any gain is calculated from that point. This rule is one of the key tax benefits of holding assets until death — the unrealised gains during the deceased's lifetime escape capital gains tax entirely. If the beneficiary later sells the shares for £200,000, the capital gain is only £50,000 (£200,000 - £150,000), not £150,000.",
+        "card_refs": [
+          "FLK2-WTP-048",
+          "FLK2-WTP-CASE-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-027",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Capital Gains Tax",
+        "subtopic": "Uplift on death",
+        "difficulty": "Application",
+        "stem": "A testator's estate includes a house that was the testator's principal private residence, purchased for £100,000 and worth £400,000 at death. The house is sold by the personal representative for £410,000 shortly after death. What is the capital gains tax position?",
+        "options": {
+          "A": "The estate pays capital gains tax on the entire gain of £310,000 (£410,000 - £100,000).",
+          "B": "The estate pays capital gains tax at a lower rate because the assets are held in the estate.",
+          "C": "No capital gains tax is due because the house was a principal private residence and there is relief for such property.",
+          "D": "The estate pays capital gains tax on only the gain after death (£10,000), because the uplift removes the gain during life (£300,000), and principal private residence relief may also apply."
+        },
+        "correct": "D",
+        "explanation": "Section 62 of the TCGA 1992 provides that the beneficiary (or the estate, if sold before distribution) acquires the asset at its market value at death — in this case, £400,000. Therefore, any gain accruing after death (from £400,000 to £410,000 = £10,000) is a post-death gain and is potentially subject to capital gains tax. However, principal private residence relief under s.223 of the TCGA 1992 may apply if the house was the testator's only or main residence. The relief exempts gains on the disposal of a principal private residence. The critical point is that the uplift to £400,000 at death extinguishes the pre-death gain entirely; tax is only due on the post-death increase. Furthermore, if principal private residence relief applies, even the post-death gain may be exempt or partially exempt. The uplift is one of the key advantages of holding property until death.",
+        "card_refs": [
+          "FLK2-WTP-048",
+          "FLK2-WTP-049"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-028",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Construction of Wills",
+        "subtopic": "Commorientes and class gifts",
+        "difficulty": "Complex",
+        "stem": "A testator's will provides that the residuary estate is to be divided equally among 'my children'. At the time the will was made, the testator had two children, A and B. Subsequently, the testator had a third child, C. The testator dies, leaving A, B, and C surviving. How is the residue distributed?",
+        "options": {
+          "A": "The residue is divided equally among A and B only (one-half each), because the class was fixed when the will was made.",
+          "B": "The residue is divided equally among A, B, and C (one-third each), because C is a member of the class 'my children' at the testator's death.",
+          "C": "The residue is divided equally among A and B, with C having a claim only if A or B die before the testator.",
+          "D": "The distribution depends on the names of the children; if C's name is not in the will, C has no claim."
+        },
+        "correct": "D",
+        "explanation": "A class gift (a gift to a group defined by a relationship, such as 'my children' or 'my grandchildren') is not fixed at the time the will is made. Instead, the class remains open until the moment of distribution (usually the testator's death, or sometimes the date of distribution if the gift is to a future class). All persons who fall within the description of the class at that moment take a share. In this scenario, the testator made a will when he had two children (A and B), but later had a third child (C). At the testator's death, the class 'my children' includes A, B, and C. All three are members of the class and take equal shares (one-third each). If the testator had intended to exclude afterborn children, he would have said 'my children now living' or 'my children born on or before [date]'. The class gift expands to include C.",
+        "card_refs": [
+          "FLK2-WTP-017",
+          "FLK2-WTP-CASE-021"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-029",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Making a Valid Will",
+        "subtopic": "Undue influence and fraud",
+        "difficulty": "Complex",
+        "stem": "A testator, aged 85 and in fragile health, is visited regularly by a distant relative, X. X takes control of the testator's affairs, prevents others from visiting, and persuades the testator to make a new will leaving the bulk of the estate to X. The testator is of sound mind. Is this will valid?",
+        "options": {
+          "A": "Yes, because the testator has testamentary capacity and executed the will properly.",
+          "B": "No, because the testator's age and health suggest a presumption of undue influence.",
+          "C": "Possibly no — the circumstances raise a presumption of undue influence that X must rebut by proving the will was freely made, and this may be difficult if X had opportunity and motive.",
+          "D": "The will is valid only if X was not present at the will's execution."
+        },
+        "correct": "D",
+        "explanation": "Undue influence is a vitiating factor that can render a will invalid. The test is whether the testator's will was overborne by the wrongdoer's influence to the point that the will expresses the wrongdoer's wishes, not the testator's own. Proof of undue influence is difficult; it requires evidence that the testator lacked freedom of will. However, the courts have developed a principle of presumption: where there is evidence of (1) opportunity to influence (e.g. access and control); (2) motive (e.g. a benefit under the will); and (3) a resulting will that is rational on its face but suspicious in light of the relationship, then a presumption of undue influence arises. The burden then shifts to the person propounding the will (typically the beneficiary) to prove the testator's freedom of will by satisfactory evidence (e.g. evidence that the testator's solicitor took independent instructions, or evidence of the testator's own expressed wishes). In this scenario, X had opportunity, clear motive (inheriting the bulk), isolated the testator, and benefited substantially — a presumption of undue influence would likely arise. X would need to rebut this by proving the testator's freedom, which may be difficult.",
+        "card_refs": [
+          "FLK2-WTP-012",
+          "FLK2-WTP-CASE-022"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-WTP-MCQ-030",
+        "flk": "FLK2",
+        "subject": "Wills & Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "Partial intestacy",
+        "difficulty": "Complex",
+        "stem": "A testator's will provides for specific gifts of £10,000 to each of three named beneficiaries, but is silent on the residue (the bulk of the estate after the specific gifts). The specific gifts total £30,000, and the total estate is £200,000. What happens to the remaining £170,000?",
+        "options": {
+          "A": "The remaining £170,000 is held on trust for the named beneficiaries in proportion to their gifts.",
+          "B": "The remaining £170,000 is forfeited to the Crown as bona vacantia (ownerless property).",
+          "C": "The remaining £170,000 falls into intestacy and is distributed under the intestacy rules (e.g. to the testator's spouse, children, or relatives as appropriate).",
+          "D": "The remaining £170,000 goes to the testator's personal representative as a fee for administering the estate."
+        },
+        "correct": "D",
+        "explanation": "A partial intestacy occurs when a will disposes of only part of the testator's property, leaving the rest without any provision. The part that is not provided for by the will falls into intestacy and is distributed in accordance with the Administration of Estates Act 1925. In this scenario, the will provides for specific gifts totalling £30,000 but makes no provision for the residue (£170,000). This £170,000 is undisposed of and falls into partial intestacy. It will be distributed to the testator's spouse (if any), children, parents, siblings, or other relatives in accordance with the statutory order of succession, regardless of the provisions made by the will for the specific gifts. If there are no relatives, the property passes to the Crown. A partial intestacy is common where a testator makes specific legacies but forgets to name a residuary beneficiary or the residuary clause fails for some reason.",
+        "card_refs": [
+          "FLK2-WTP-023",
+          "FLK2-WTP-CASE-023"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "WTP-031",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "Partial intestacy — interaction with will",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth dies leaving a valid will that gives his house to his daughter Victoria Ashworth but says nothing about his bank accounts and investments. He has a surviving spouse (Lady Ashworth) and two children. What happens to the assets not covered by the will?",
+        "options": {
+          "A": "The assets not covered pass entirely to the children as the will did not mention them.",
+          "B": "A partial intestacy arises in relation to assets not disposed of by the will. These assets are distributed under the Administration of Estates Act 1925 intestacy rules: Lady Ashworth takes the statutory legacy (£322,000 as of 2023) plus half the remainder absolutely; the rest passes to the children in equal shares (held on a statutory trust for children under 18).",
+          "C": "Assets not covered by the will pass to the Crown as bona vacantia.",
+          "D": "The partial intestacy assets are distributed equally between all beneficiaries named in the will."
+        },
+        "correct": "B",
+        "explanation": "Where a will does not dispose of all the deceased's estate, a partial intestacy arises. The undisposed-of property passes under the intestacy rules (AEA 1925 ss.46-49). Where there is a surviving spouse/civil partner and issue: the spouse takes all personal chattels, the statutory legacy (£322,000 post-February 2020 — check current figure), and one-half of the remainder absolutely; the other half passes to the issue on a statutory trust. The house passes under the will; the residuary (bank accounts etc.) passes on partial intestacy. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-032",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "Statutory legacy — surviving spouse priority",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth dies intestate leaving an estate valued at £280,000. He is survived by his wife Lady Ashworth and two adult children. What does Lady Ashworth receive under the intestacy rules?",
+        "options": {
+          "A": "One third of the estate — divided equally with each child.",
+          "B": "Lady Ashworth takes the entire estate because its value (£280,000) is less than the statutory legacy (£322,000). The children receive nothing on this intestacy.",
+          "C": "Lady Ashworth takes half the estate; the children split the other half.",
+          "D": "Lady Ashworth takes only the personal chattels; the estate is then divided equally among all."
+        },
+        "correct": "B",
+        "explanation": "Under AEA 1925 s.46 (as amended by the Inheritance and Trustees' Powers Act 2014 and subsequent orders): where there is a surviving spouse/civil partner and issue, the spouse takes (i) all personal chattels absolutely; (ii) a statutory legacy (currently £322,000); (iii) one half of the remainder. Where the entire estate is worth less than the statutory legacy (here £280,000 < £322,000), the spouse takes the whole estate and the children receive nothing. The spouse effectively absorbs all assets. Option A applies an equal division; C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-033",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Nil rate band — transferable NRB",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's wife died in 2015, having made no gifts and leaving her entire estate to Colonel Ashworth. She used none of her nil rate band. When Colonel Ashworth dies in 2026, what nil rate band is available?",
+        "options": {
+          "A": "Only the standard nil rate band of £325,000 for Colonel Ashworth alone.",
+          "B": "Both Colonel Ashworth's own nil rate band (£325,000) and the unused proportion of his wife's nil rate band may be transferred — giving a combined nil rate band of £650,000, under the transferable nil rate band rules (IHTA 1984 s.8A-C, introduced by FA 2008).",
+          "C": "The transferable NRB does not apply where the first spouse's estate was left to the surviving spouse.",
+          "D": "The transferable NRB is only available if both spouses made wills."
+        },
+        "correct": "B",
+        "explanation": "IHTA 1984 s.8A (as inserted by Finance Act 2008): where a spouse or civil partner dies without using all of their nil rate band (NRB), the unused proportion may be transferred to the survivor's estate for use on the survivor's death. The wife used 0% of her NRB (she left everything to Colonel Ashworth — qualifying as an exempt transfer between spouses — so 100% of her NRB is unused). On Colonel Ashworth's death, 100% of the wife's NRB is added to his own NRB: £325,000 + £325,000 = £650,000. Options A, C and D misstate the transferable NRB rules.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-034",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Residence nil rate band — RNRB",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth owns his main residence, Ashworth Hall. He leaves it to his two children (Victoria and James) under his will. The residence is valued at £500,000. He has no other assets. Is the Residence Nil Rate Band available?",
+        "options": {
+          "A": "No — the RNRB is only available where the property is left to a surviving spouse.",
+          "B": "Yes — the Residence Nil Rate Band (RNRB) under IHTA 1984 s.8H is available where the deceased's main residence is inherited by lineal descendants (children, grandchildren, step-children, adopted children). Victoria and James are lineal descendants. The RNRB (currently £175,000 per individual) may reduce the IHT payable on the estate including the residence.",
+          "C": "The RNRB is not available where the property is shared between more than one descendant.",
+          "D": "The RNRB applies only to estates below the standard nil rate band."
+        },
+        "correct": "B",
+        "explanation": "IHTA 1984 s.8H-8M (Finance (No 2) Act 2015): the RNRB is an additional nil rate band for the family home. Conditions: (i) the deceased has a qualifying residential interest (QRI — a residence they have occupied); (ii) the QRI is closely inherited — i.e. it passes to lineal descendants (children, grandchildren, step-children, adopted children, foster children etc.); (iii) the estate value does not exceed the taper threshold (£2m). The RNRB is currently £175,000 per individual. Victoria and James are lineal descendants — the RNRB is available. Option A limits it to spouses; C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-035",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "IHT — chargeable lifetime transfers and PETs",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth makes a gift of £200,000 to a discretionary trust during his lifetime and dies 4 years later. What is the IHT position on his death?",
+        "options": {
+          "A": "The gift into the discretionary trust is a Potentially Exempt Transfer (PET) and becomes fully exempt after 3 years.",
+          "B": "A transfer into a discretionary trust is a Chargeable Lifetime Transfer (CLT), not a PET. If Colonel Ashworth dies within 7 years, the CLT is brought into account for IHT. Additional death tax may be charged on the CLT (less any taper relief for transfers between 3 and 7 years before death). Taper relief at 4 years: 40% reduction in the death rate — so effective rate is 24% (40% × 60%).",
+          "C": "The discretionary trust gift is fully exempt from IHT as long as the trustees are resident in the UK.",
+          "D": "There is no IHT on lifetime gifts to trusts — IHT is only charged on death."
+        },
+        "correct": "B",
+        "explanation": "Gifts to discretionary trusts are Chargeable Lifetime Transfers (CLTs) under IHTA 1984 — IHT is charged at lifetime rates (20%) on the excess above the NRB at the time of the CLT. If the donor dies within 7 years, a further death rate calculation is performed on CLTs in the 7 years before death. Taper relief (IHTA 1984 s.7(4)) reduces the death charge for gifts made between 3 and 7 years before death: 40% off at years 3-4; 60% off at years 4-5; 80% off at 5-6; no charge after 7 years. At 4 years, taper relief of 40% applies — so the death charge is 60% of 40% = 24%. PETs (A) apply only to outright gifts to individuals or to trusts for disabled persons. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-036",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Annual exemption and small gifts exemption",
+        "difficulty": "Application",
+        "stem": "Each year for the last 5 years, Colonel Ashworth has given £3,000 to his son James and £250 to each of his 10 grandchildren. He dies this year. Are these gifts exempt from IHT?",
+        "options": {
+          "A": "The gifts are all PETs — they will be exempt if Colonel Ashworth survives 7 years from each gift.",
+          "B": "The annual exemption (£3,000 per annum) covers the gift to James each year. The small gifts exemption (£250 per person per annum) covers each grandchild's gift. Both exemptions apply regardless of survival — no 7-year rule is needed for exempt transfers.",
+          "C": "All gifts made within 7 years of death are always fully taxable.",
+          "D": "The annual exemption is shared across all recipients — Colonel Ashworth can only give a total of £3,000 per year across all recipients."
+        },
+        "correct": "B",
+        "explanation": "IHTA 1984 s.19 (annual exemption): each transferor may give up to £3,000 per tax year free of IHT (unused allowance may be carried forward one year). The £3,000 gift to James uses the annual exemption. IHTA 1984 s.20 (small gifts): outright gifts of £250 or less to any number of individuals per tax year are fully exempt — but the small gifts exemption cannot be combined with the annual exemption for the same recipient. Each grandchild receives £250 — covered by the small gifts exemption. These are exempt transfers, not PETs, so no 7-year survival period is needed. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-037",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Personal representatives — duties and powers",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth is the sole executor of Colonel Ashworth's estate. Priya Mehta is a specific legatee entitled to Colonel Ashworth's vintage car collection. Victoria proposes to sell the cars to pay estate debts. Can she do so?",
+        "options": {
+          "A": "No — the executor must preserve all specific legacies and pay debts from the residue only.",
+          "B": "Yes — under the Administration of Estates Act 1925, assets must be applied in the statutory order of payment of debts before any distribution to beneficiaries.",
+          "C": "Victoria must obtain Priya Mehta's consent before selling any specific legacy.",
+          "D": "Specific legacies are always fully protected from sale for debt payment."
+        },
+        "correct": "B",
+        "explanation": "Administration of Estates Act 1925 Schedule 1 Part II sets out the order in which assets are applied to pay debts and funeral expenses: (i) undisposed property on intestacy; (ii) residuary estate; (iii) property charged with payment of debts; (iv) demonstrative legacies; (v) general legacies; (vi) specific legacies; (vii) statutory trust on death. Specific legacies (category vi) are near the bottom — they may be sold to pay debts only after earlier categories are exhausted. Victoria must follow this order; consent from Priya is not required, but Victoria must only resort to specific legacies after exhausting prior categories. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-038",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Obtaining a grant of probate",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth is named as executor in Colonel Ashworth's will. She wishes to obtain a grant of probate. Which statement correctly describes the process?",
+        "options": {
+          "A": "Victoria automatically has authority to deal with the estate on the testator's death — no grant is needed.",
+          "B": "Victoria must apply to the Probate Registry for a grant of probate. She must submit: the original will, a HMRC account (if IHT is payable), and swear/affirm a statement of truth in the executor's oath. The Probate Registry will issue the grant, which is the document establishing her authority to deal with the estate.",
+          "C": "Probate is only required if the estate is worth more than £1m.",
+          "D": "The solicitor obtains probate on Victoria's behalf and then has authority to administer the estate independently."
+        },
+        "correct": "B",
+        "explanation": "Probate confirms the executor's authority to administer the estate (Non-Contentious Probate Rules 1987; the Non-Contentious Probate (Amendment) Rules 2020 introduce HMCTS online probate applications). Although executors derive their authority from the will (not the grant), third parties (banks, asset holders) require the grant before releasing assets. Victoria must apply to HMCTS Probate Service, lodging the original will, any IHT account (form IHT400 or IHT205/400), and the executor's declaration. The grant then proves her authority. Option A is partially correct (executors derive authority from the will) but third parties require the grant; C imposes a false threshold; D mischaracterises the solicitor's role.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-039",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance (Provision for Family and Dependants) Act 1975",
+        "subtopic": "IPFDA 1975 — claims by surviving spouses",
+        "difficulty": "Complex",
+        "stem": "Lady Ashworth is left only £50,000 under Colonel Ashworth's will out of an estate of £2m. She believes this is inadequate provision. What is the standard of provision the court applies to her claim under the IPFDA 1975?",
+        "options": {
+          "A": "The court assesses whether provision is 'reasonable' using the same standard applied to all claimants.",
+          "B": "Under IPFDA 1975 s.1(2)(a), for a surviving spouse or civil partner, the standard of provision is 'such financial provision as it would be reasonable in all the circumstances of the case for a husband or wife to receive, whether or not that provision is required for maintenance' — this is the 'Duxbury' standard, higher than the maintenance standard applied to other claimants.",
+          "C": "Lady Ashworth must prove she has no other means of support before making a claim.",
+          "D": "The standard for a surviving spouse is absolute equality — Lady Ashworth is entitled to half the estate regardless."
+        },
+        "correct": "B",
+        "explanation": "IPFDA 1975 s.1(2)(a): for a surviving spouse/civil partner, the standard is what would be 'reasonable in all the circumstances' for a spouse to receive — a higher standard than the mere 'maintenance' standard applicable to adult children and others. The court considers all the s.3 factors including the surviving spouse's financial position, duration of the marriage, standard of living, contributions, etc. It is not a right to half the estate (D), but the standard is more generous than maintenance. Option A applies the wrong standard; C adds a means test not in the Act.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-040",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance (Provision for Family and Dependants) Act 1975",
+        "subtopic": "IPFDA 1975 — claims by adult children",
+        "difficulty": "Complex",
+        "stem": "James Ashworth is an adult child of Colonel Ashworth. He was estranged from his father for 20 years and received nothing under the will. James claims under IPFDA 1975. What standard applies and what are the likely factors?",
+        "options": {
+          "A": "Adult children automatically receive a share of the estate regardless of the testator's wishes.",
+          "B": "An adult child must show the will fails to make reasonable provision for their maintenance.",
+          "C": "Estrangement from the deceased is an absolute bar to a claim under IPFDA 1975.",
+          "D": "James may claim as of right to one third of the estate as a child."
+        },
+        "correct": "B",
+        "explanation": "IPFDA 1975 s.1(1)(c): children of the deceased may claim. The standard is 'reasonable financial provision for maintenance' (s.1(2)(b) — lower than the spouse standard). Section 3 factors include: financial needs/resources of applicant and beneficiaries; obligations of deceased to applicant; size of estate; physical/mental disability; conduct; and the relationship. Estrangement is a significant factor — Re Hancock [1998] CA noted that adult children receive little sympathy from courts where there is no obvious need and there was a breakdown in the relationship. It is not an absolute bar (C) but it is highly relevant. Options A and D remove the court's discretion; C is too absolute.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-041",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Validity",
+        "subtopic": "Testamentary capacity — Re Key criteria",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth executes a new will aged 86 shortly after being hospitalised with a serious infection causing temporary confusion. His solicitor visits him in hospital. The will significantly benefits his carer Pat Hollowell over his children. His children challenge the will on grounds of lack of testamentary capacity. What must the court assess?",
+        "options": {
+          "A": "The court assesses only whether Colonel Ashworth could physically sign the will.",
+          "B": "Testamentary capacity requires the testator to: (i) understand the nature of making a will and its effects",
+          "C": "Mental capacity is assessed at the date the testator first gave instructions, not the date of execution.",
+          "D": "A solicitor's presence at execution is conclusive proof of capacity."
+        },
+        "correct": "B",
+        "explanation": "Banks v Goodfellow [1870] LR 5 QB 549 remains the leading case on testamentary capacity. The four elements must all be satisfied at the time of execution (Re Key [2010] EWHC 408 — confirmed capacity must exist at execution). Temporary confusion during hospitalisation does not automatically negate capacity — the question is whether the individual had a 'lucid interval' at the time of signing. The solicitor's attendance is strong evidence of capacity but not conclusive. The 'golden rule' (Re Simpson [1977]; Kenward v Adams [1975] — solicitor should obtain a medical assessment for elderly/ill testators) is good practice. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-042",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Validity",
+        "subtopic": "Undue influence — rebutting the presumption",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth's children argue that Pat Hollowell exerted undue influence to secure a large bequest under the will. What must they prove?",
+        "options": {
+          "A": "They need only prove that Pat and Colonel Ashworth had a close relationship — this raises a presumption of undue influence.",
+          "B": "In testamentary undue influence, there is no presumption — the burden of proof is on those alleging it. They must prove actual undue influence: that the will is the product of Pat's coercion or pressure that overpowered the testator's freedom of will and caused him to make dispositions he would not otherwise have made (Hall v Hall [1868]; Wingrove v Wingrove [1885]).",
+          "C": "Undue influence in wills is presumed whenever the testator was elderly and the beneficiary was a carer.",
+          "D": "Proof that the testator lacked capacity at the time of the gift is sufficient to establish undue influence."
+        },
+        "correct": "B",
+        "explanation": "Testamentary undue influence differs from inter vivos undue influence (where a presumption may arise in certain relationships). In wills, there is no presumption of undue influence — it must be proved affirmatively: the claimants must show Pat actually coerced Colonel Ashworth so as to overpower his free will (Hall v Hall [1868]). Merely persuading or influencing is not enough — the pressure must amount to coercion that leaves the testator unable to make a free decision (Wingrove v Wingrove [1885]). Option A applies an incorrect presumption; C applies a factual generalisation incorrectly; D confuses capacity with undue influence (separate vitiating factors).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-043",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Construction",
+        "subtopic": "Lapse — gift to a predeceasing beneficiary",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's will leaves £50,000 to 'my friend Clive Dring'. Clive Dring dies before Colonel Ashworth. What is the fate of the £50,000 gift?",
+        "options": {
+          "A": "The gift passes to Clive Dring's estate.",
+          "B": "The gift lapses — a gift to a named beneficiary who predeceases the testator fails unless the will contains an alternative provision, or the gift falls within s.33 Wills Act 1837 (which saves gifts to issue of the testator who predecease). As Clive Dring is a friend (not issue), the lapse rule applies and the £50,000 falls into residue.",
+          "C": "The gift is held on a resulting trust for the testator's estate.",
+          "D": "The gift automatically passes to Clive Dring's spouse under the doctrine of survivorship."
+        },
+        "correct": "B",
+        "explanation": "The lapse rule: if a beneficiary predeceases the testator, the gift lapses and falls into residue (or intestacy if there is no residue clause). Section 33 Wills Act 1837 saves gifts to the testator's issue who predecease — the gift passes to the issue's own children if they die before the testator. Section 33 does not apply to gifts to friends, siblings or others (unless they are issue of the testator). As Clive is a friend, s.33 is irrelevant and the gift lapses. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-044",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Construction",
+        "subtopic": "Ademption — specific legacies",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's will leaves 'my Wharton Magna farmland' to his son James. Before his death, Colonel Ashworth sells the farmland. What happens to James's legacy?",
+        "options": {
+          "A": "James receives the proceeds of sale held in Colonel Ashworth's bank account, as they are traceable to the farmland.",
+          "B": "The legacy is adeemed — the subject matter of the specific legacy no longer belongs to the testator at death, so the gift fails. James receives nothing (unless the will contains an alternative gift).",
+          "C": "The legacy is converted to a general legacy of equivalent value.",
+          "D": "Ademption only applies to chattels, not to real property."
+        },
+        "correct": "B",
+        "explanation": "Ademption applies where the subject matter of a specific legacy no longer belongs to the testator at the date of death: Re Slater [1907]. If Colonel Ashworth sells the farmland before he dies, the specific bequest of 'my Wharton Magna farmland' is adeemed — there is nothing answering that description in his estate at death. The legacy fails entirely. The proceeds of sale are not substituted (option A — there is no tracing in this context). Ademption applies to all specific legacies whether real or personal property. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-045",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Executor's year",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth, as executor, receives demands from specific legatees to distribute the estate within 3 months of probate. She is still dealing with complex IHT issues. Can the legatees compel immediate distribution?",
+        "options": {
+          "A": "Yes — the executor must distribute within 3 months of probate or face a breach of duty claim.",
+          "B": "No — under the Administration of Estates Act 1925 s.44 and the principle of the 'executor's year', the personal representative is not obliged to distribute within 12 months of death. Victoria has a year from the date of death to administer the estate. Legatees cannot demand payment within that year.",
+          "C": "The executor must distribute all legacies within 6 months of the date of probate.",
+          "D": "The executor's year does not apply to specific legacies — only residue."
+        },
+        "correct": "B",
+        "explanation": "AEA 1925 s.44: if administration is not complete within one year of death, a beneficiary or creditor may require the personal representative to complete administration. The executor's year (12 months from death) gives the PR reasonable time to administer the estate, pay debts, deal with IHT and other obligations before distribution. Beneficiaries cannot compel immediate payment within the year. Interest may run on legacies after the executor's year if not paid. Options A, C and D incorrectly shorten the period or limit its scope.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-046",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Business property relief — conditions",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth owns 100% of the shares in Ashworth Developments Ltd (a qualifying business property). He dies. His estate claims business property relief (BPR) on the shares. What conditions must be satisfied for 100% BPR?",
+        "options": {
+          "A": "BPR at 100% is available on all shares in any company owned by the deceased.",
+          "B": "Under IHTA 1984 ss.103-114, BPR at 100% is available on: unquoted shares in a qualifying company (not mainly investment holding or dealing in land/investments). The deceased must have owned the property for at least 2 years before death. Ashworth Developments Ltd must be a qualifying business (trading, not mainly investment). If satisfied, 100% BPR reduces the IHT value of the shares to nil.",
+          "C": "BPR is only available for listed (Stock Exchange-quoted) companies.",
+          "D": "BPR requires the deceased to have worked full-time in the business for 5 years before death."
+        },
+        "correct": "B",
+        "explanation": "IHTA 1984 s.104: business property relief at 100% is available for: (i) a business or interest in a business; (ii) unquoted securities (including AIM-listed) that gave the transferor control of the company; (iii) unquoted shares. The relief at 50% applies to quoted controlling holdings and assets used in a business. Conditions: (i) qualifying business (not mainly investment/dealing); (ii) minimum ownership period of 2 years (s.106). A development company is a trading company (not merely investment) — BPR at 100% should be available if conditions met. Options A, C and D misstate the conditions.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-047",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Agricultural property relief",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth owns farmland in Wharton Magna that he has let to a tenant farmer for 10 years. Does agricultural property relief (APR) apply on his death?",
+        "options": {
+          "A": "No — APR only applies where the deceased personally farmed the land.",
+          "B": "Yes — APR at 50% or 100% is available on agricultural property that has been owned by the deceased for 7 years (if let to a qualifying tenant) or 2 years (if occupied by the owner for agricultural purposes).",
+          "C": "APR is only available where the land has been let for less than 2 years.",
+          "D": "APR and BPR cannot both apply to the same estate."
+        },
+        "correct": "B",
+        "explanation": "IHTA 1984 ss.115-124B: APR applies to agricultural property (land occupied for agricultural purposes). Where the deceased owned the land and it was let, the ownership period must be at least 7 years (s.117). For land let on a tenancy commencing on or after 1 September 1995 (Agricultural Tenancies Act 1995 farm business tenancies), 100% APR is available (Finance Act 1995). For older (AHA 1986) protected tenancies, 50% APR applies. The 10-year let satisfies the 7-year ownership requirement. Option A requires personal farming (incorrect for let land — the 7-year rule applies); C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-048",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Letters of administration — no will",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth dies intestate. No executor was appointed. Who has priority to apply for letters of administration?",
+        "options": {
+          "A": "Under the Non-Contentious Probate Rules 1987 rule 22, priority to apply for a grant of letters of administration (intestacy) runs: (1) surviving spouse/civil partner; (2) children; (3) children of predeceased children; (4) parents; (5) brothers and sisters; (6) half-blood relatives; (7) grandparents; (8) uncles and aunts; (9) creditors. The surviving spouse/civil partner has first priority.",
+          "B": "The oldest child of the deceased always has priority.",
+          "C": "The court appoints an official receiver to administer all intestate estates.",
+          "D": "The solicitor who knew the deceased applies for administration."
+        },
+        "correct": "A",
+        "explanation": "Non-Contentious Probate Rules 1987 r.22 sets out the priority of persons entitled to a grant of letters of administration on intestacy in England and Wales. The surviving spouse or civil partner takes first priority, followed by children, then more distant relatives. If no entitled person applies, creditors and ultimately the Crown (bona vacantia) may administer. Option B is wrong — it is not the oldest child but the surviving spouse who has priority; C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-049",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Validity",
+        "subtopic": "Revocation by marriage — s.18 Wills Act 1837",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth made a will in 2018. She marries Marcus Bridgewater in 2023. She dies in 2026 without making a new will. Is her 2018 will valid?",
+        "options": {
+          "A": "No — A will is revoked by the testator's subsequent marriage unless the will was made in contemplation of that particular marriage (a will expressed to be made in contemplation of marriage to a named person is not revoked by…",
+          "B": "Yes — a will remains valid regardless of any subsequent marriage.",
+          "C": "The will is partially revoked — only gifts to her future husband are revoked.",
+          "D": "Revocation by marriage only applies if the will was made more than 10 years before the marriage."
+        },
+        "correct": "A",
+        "explanation": "Section 18 Wills Act 1837 (as substituted by the Administration of Justice Act 1982 s.18): marriage revokes a will unless the will was made in contemplation of the particular marriage. The exception (s.18(3)) applies only where it appears from the will that at the time it was made the testator was expecting to marry a particular person and intended that the will should not be revoked by the marriage. Victoria's 2018 will predates Marcus by years and has no such contemplation clause. It is fully revoked. Victoria dies intestate. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-050",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Validity",
+        "subtopic": "Revocation by codicil — implied revocation",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth makes a will in 2020 leaving his estate to his children in equal shares. In 2024, he executes a codicil leaving an additional legacy of £30,000 to Donna Pearce. Which provisions survive?",
+        "options": {
+          "A": "The codicil confirms and supplements the 2020 will. Codicils revoke only the provisions of the existing will they are inconsistent with. The 2024 codicil adds a new gift of £30,000 to Donna Pearce; the existing gift to the children in equal shares (the residue) remains unchanged.",
+          "B": "The codicil revokes the 2020 will entirely.",
+          "C": "The children's entitlement is reduced by £30,000 each following the codicil.",
+          "D": "A codicil must expressly revoke the earlier will for both documents to take effect."
+        },
+        "correct": "A",
+        "explanation": "A codicil is a testamentary document that supplements or amends an existing will. It does not automatically revoke the will. Only provisions of the existing will that are inconsistent with the codicil are revoked (implied revocation). An additional legacy in a codicil adds to the estate's dispositions; the will remains operative for all other provisions. The codicil confirms the will (re-publishing it). The children's residuary entitlement remains; Donna receives her £30,000 as a specific or demonstrative legacy. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-051",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Assent — passing title to land",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth, as executor of Colonel Ashworth's estate, wishes to transfer Ashworth Hall (registered title) to herself as a beneficiary under the will. What document is used and what must be done?",
+        "options": {
+          "A": "Victoria must execute a formal assent in favour of herself (the beneficiary) under AEA 1925 s.36. For registered land, the assent must be in Form AS1 (or AS3 for a charge). The assent must be registered at the Land Registry to transfer the legal estate to Victoria in her personal (non-executor) capacity.",
+          "B": "Victoria uses a TR1 transfer form, the same as any other sale.",
+          "C": "No formal document is required — the property automatically passes to Victoria as sole executor on the death.",
+          "D": "Victoria must obtain the consent of all other beneficiaries before making an assent in her favour."
+        },
+        "correct": "A",
+        "explanation": "Administration of Estates Act 1925 s.36: a personal representative may assent to the vesting of any property in any person (including themselves as beneficiary). For registered land, HM Land Registry Form AS1 is used for an assent (or AS3 for assenting a charge). The assent must be in writing and signed by the personal representative. It must be registered at the Land Registry under LRA 2002 to transfer the legal estate. TR1 is used for sales and other transfers, not personal representative assents. An executor taking property in their own favour may need to act carefully to avoid conflict of interest — the assent is still valid legally. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-052",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "IHT — interaction with CGT on death",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth inherits shares in Ashworth Developments Ltd from Colonel Ashworth's estate. The shares were worth £100,000 when Colonel Ashworth bought them and £400,000 at his death. Victoria later sells them for £500,000. What are the IHT and CGT implications?",
+        "options": {
+          "A": "On death, there is no CGT charge (TCGA 1992 s.62 — death is not a disposal for CGT). Victoria inherits the shares at their probate value (£400,000) — this is her base cost (the 'uplift' on death). She pays CGT only on any gain above £400,000 — so on the sale at £500,000, her gain is £100,000. IHT was charged on the estate at death (on the £400,000 value); there is no double tax relief for CGT.",
+          "B": "Victoria pays CGT on the full gain of £400,000 from the original cost.",
+          "C": "Victoria receives the shares free of any future CGT liability because IHT was paid on them.",
+          "D": "Victoria's base cost for CGT is Colonel Ashworth's original cost (£100,000)."
+        },
+        "correct": "A",
+        "explanation": "TCGA 1992 s.62: on a person's death, the assets are treated as acquired by the personal representatives or legatees at market value at the date of death (the 'uplift' or 'step-up'). Death is not a disposal for CGT — no CGT is charged at that point. Victoria's base cost is the probate value (£400,000). On a sale at £500,000, her chargeable gain is £100,000 (£500,000 - £400,000). IHT is charged on the estate separately and there is no general relief for double taxation between IHT and CGT. Option B uses the wrong base; C is wrong (IHT payment does not exempt from CGT); D uses the original cost rather than the uplift.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-053",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Exempt transfers — charity",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth leaves 10% of his estate to the Wharton Magna Animal Trust (a registered UK charity). What is the IHT treatment of this gift and what is the effect on the IHT rate?",
+        "options": {
+          "A": "The gift to a registered UK charity is an exempt transfer under IHTA 1984 s.23 and is free of IHT. Additionally, under the Inheritance Tax (Increased Nil Rate Band) (Limiting the Charge on the Settled Property) Order 2012, if the deceased leaves at least 10% of the net estate (above the NRB) to charity, the IHT rate on the chargeable estate is reduced from 40% to 36%.",
+          "B": "The charitable gift is treated as a potentially exempt transfer and is fully taxable.",
+          "C": "Gifts to charities are exempt only up to £10,000.",
+          "D": "The charitable gift reduces the available nil rate band."
+        },
+        "correct": "A",
+        "explanation": "IHTA 1984 s.23: transfers to qualifying UK charities are exempt from IHT. In addition, the Finance Act 2012 (IHTA 1984 s.7(2A) and Schedule 1A) introduced the reduced 36% IHT rate where 10% or more of the net estate (after NRB deductions) is left to charity. This incentivises charitable giving as the total IHT cost to the estate may be reduced even though more is given away. Option B is wrong (charitable gifts are exempt); C imposes a false cap; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-054",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Devastavit — personal liability of PR",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth, as executor, distributes the entire estate to residuary beneficiaries without first ascertaining all debts. An unsatisfied creditor (Northgate Couriers) presents a bill for £15,000. Is Victoria personally liable?",
+        "options": {
+          "A": "No — Victoria is protected by the grant of probate and cannot be personally liable for estate debts.",
+          "B": "The beneficiaries are personally liable to refund the debt, not Victoria.",
+          "C": "Yes — a devastavit occurs where a personal representative misapplies estate assets, including distributing to beneficiaries before all debts are ascertained and paid. Victoria may be personally liable to Northgate Couriers for the £15,000 if estate assets are no longer available. She should have placed statutory advertisements for creditors (s.27 Trustee Act 1925) before distributing.",
+          "D": "Victoria is only liable if she knew about the debt at the time of distribution."
+        },
+        "correct": "C",
+        "explanation": "A PR who distributes assets before paying all debts commits a devastavit — a misapplication of estate assets. This renders the PR personally liable to unpaid creditors to the extent of assets misapplied. Section 27 Trustee Act 1925 provides a defence if the PR has placed statutory advertisements for creditors and claimants (in the London Gazette and a local newspaper) and waited two months before distribution — providing a safe harbour. Without s.27 protection, Victoria is personally liable to Northgate Couriers. Beneficiaries may also be required to contribute under the law on contribution, but Victoria's primary personal liability arises from the devastavit. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-055",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Validity",
+        "subtopic": "Foreign wills and domicile",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth owns immovable property in France and movables in England. He is domiciled in England. His will was validly executed in England. Which law governs the succession to each type of property?",
+        "options": {
+          "A": "English law governs all of Colonel Ashworth's estate as he is domiciled in England.",
+          "B": "EU Succession Regulation 650/2012 applies and English law governs the entire estate.",
+          "C": "Under private international law: immovable property (land) is governed by the law of the situs — the French property is governed by French succession law. Movable property (assets in England) is governed by the law of the domicile — English law governs the English movables. The English will must comply with both regimes for the foreign property to pass under it.",
+          "D": "The French property passes under English law because the will was made in England."
+        },
+        "correct": "C",
+        "explanation": "Private international law rules: (i) succession to immovable property (real property) is governed by the lex situs — the law of where the property is situated. The French land is governed by French succession law regardless of the testator's domicile; (ii) succession to movables is governed by the law of the deceased's domicile at death — English law for English movables. Note: EU Succession Regulation 650/2012 (Brussels IV) allows EU residents to choose the law of their nationality — but the UK did not adopt Brussels IV before Brexit (and it does not apply post-Brexit). Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-056",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Benjamin order",
+        "difficulty": "Complex",
+        "stem": "Victoria Ashworth, as executor, cannot locate a specific beneficiary (Hassan Nazari) who is entitled to a share of Colonel Ashworth's estate. The estate is ready for distribution. What can Victoria do to protect herself?",
+        "options": {
+          "A": "Victoria should retain the full share indefinitely until Hassan is found.",
+          "B": "Victoria must apply for letters of administration to deal with Hassan's missing share.",
+          "C": "Victoria may apply to the court for a Benjamin order (Re Benjamin [1902]) — an order authorising distribution of the estate on the assumption that Hassan has predeceased Colonel Ashworth (or died without issue). If Hassan later appears, his remedy is against the beneficiaries who received his share, not against Victoria personally.",
+          "D": "Victoria can distribute without any protection — she has no duty to locate missing beneficiaries."
+        },
+        "correct": "C",
+        "explanation": "Re Benjamin [1902] 1 Ch 723: where a beneficiary cannot be found and the court is satisfied there is a substantial probability the person has died (or that their entitlement has failed), the court may make a Benjamin order authorising the PR to distribute on that basis. The PR is then protected — any subsequent claim by the missing beneficiary is against the recipients, not the PR personally. Alternatively, the PR may take out insurance against the risk of the missing beneficiary appearing. An application to court for the order gives the cleanest protection. Options A, C and D are inadequate or wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-057",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Gifts with reservation of benefit",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth purports to give Ashworth Hall to his son James in 2020 but continues to live there rent-free until his death in 2026. Is the gift effective for IHT?",
+        "options": {
+          "A": "Yes — the gift is effective from the date of the transfer in 2020 and falls outside the estate.",
+          "B": "The property is excluded from IHT because Colonel Ashworth's occupation was in the family home.",
+          "C": "No — under IHTA 1984 s.102 and Schedule 20 Finance Act 1986 (gifts with reservation of benefit), where a donor makes a gift but retains a benefit from the property, the property remains within the donor's estate for IHT on death. The gift with reservation rules treat the property as still belonging to Colonel Ashworth at death — it is included in his estate at its death value.",
+          "D": "The gift is effective, but HMRC may only reclaim IHT if the reservation was worth more than £10,000 per year."
+        },
+        "correct": "C",
+        "explanation": "Finance Act 1986 s.102 and Schedule 20: the gifts with reservation (GWR) rules prevent IHT avoidance by giving away property while continuing to benefit from it. Where the donor retains a benefit from the gifted property (here, rent-free occupation), the gift is treated as a GWR. The property remains in the donor's estate for IHT at death value (if the benefit was not given up more than 7 years before death — s.102(4) provides that if the donor ceases to retain the benefit and survives 7 years, the property falls out of the estate). Colonel Ashworth retained occupation until death — the property is included at death. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-058",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills — Validity",
+        "subtopic": "Knowledge and approval",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth's will was prepared by his solicitor. Colonel Ashworth, who had poor eyesight, did not read the will before signing. The will contains an unexpected clause benefiting the solicitor. What legal principle is engaged?",
+        "options": {
+          "A": "The will is automatically invalid if it was prepared by a professional.",
+          "B": "Knowledge and approval is presumed from valid execution — no further evidence is needed.",
+          "C": "Where the testator has not read the will, the propounder must show that the testator knew and approved the contents at the time of execution (Gill v Woodall [2010]; Fuller v Strum [2002]). Where a solicitor benefits under a will they prepared, the court requires strong evidence of knowledge and approval — the circumstances excite suspicion and the court requires the suspicion to be dispelled.",
+          "D": "A beneficiary who prepared the will automatically takes a resulting trust of the benefit."
+        },
+        "correct": "C",
+        "explanation": "The doctrine of knowledge and approval requires that a testator must know and approve the contents of the will at the time of execution. Where suspicious circumstances exist (e.g. the propounder of the will benefits from it, or prepared it), the court requires positive proof that the testator knew and approved the contents (Barry v Butlin [1838]; Fuller v Strum [2002]; Gill v Woodall [2010] CA). A solicitor benefiting under a will they prepared is a classic suspicious circumstance — the SRA Code also addresses this (gifts from clients). The suspicion must be 'removed from the court's mind'. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-059",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Tracing — proprietary remedy in estate administration",
+        "difficulty": "Complex",
+        "stem": "Victoria Ashworth (executor) mistakenly pays a legacy of £20,000 to the wrong person (Clive Dring instead of the intended Gerald Crane). Clive has spent the money. What remedies does Gerald have?",
+        "options": {
+          "A": "Gerald can only sue Victoria personally for breach of duty — no proprietary remedy exists.",
+          "B": "Gerald can only recover from the estate by applying to court for an order for re-administration.",
+          "C": "Gerald may have a personal claim against Victoria for breach of duty as executor (devastavit) and may have a personal claim against Clive as a recipient of trust money paid under a mistake (unjust enrichment).",
+          "D": "As Clive received the money as a gift, he has a complete defence to any claim."
+        },
+        "correct": "C",
+        "explanation": "Where a PR pays a legacy to the wrong person, the rightful beneficiary has: (i) a personal claim against the PR for breach of duty (devastavit); (ii) potentially a proprietary claim (tracing) against the recipient if the money is identifiable; (iii) a personal claim in unjust enrichment (money had and received) against the recipient, subject to the change of position defence. Where the money has been spent, a proprietary remedy is unavailable (no identifiable fund) but the personal unjust enrichment claim remains unless Clive has changed his position in good faith (Lipkin Gorman v Karpnale [1991]). Options A and C are incomplete; D is wrong — change of position, not gift status, is the defence.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-060",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor's duty — capacity and undue influence in will preparation",
+        "difficulty": "Application",
+        "stem": "A solicitor at Crane & Pelletier is instructed to prepare a will for Colonel Ashworth (aged 91), who wishes to leave his entire estate to his nurse, Pat Hollowell, cutting out his family completely. The solicitor is concerned about Colonel Ashworth's capacity and the influence of the nurse. What should the solicitor do?",
+        "options": {
+          "A": "Draft the will as instructed — the client is an adult and professional autonomy requires compliance.",
+          "B": "Report Pat Hollowell to the police for elder abuse before preparing the will.",
+          "C": "The solicitor should: see Colonel Ashworth alone (without Pat Hollowell).",
+          "D": "The solicitor must draft the will but add a disclaimer noting concerns."
+        },
+        "correct": "C",
+        "explanation": "The 'golden rule' in Kenward v Adams [1975] TLR: where a testator is elderly or suffers from illness, the solicitor should obtain a medical practitioner's assessment of capacity and have the medical practitioner witness the will and confirm capacity. SRA Code (Principles 2, 4, 7): the solicitor must act in the client's best interests, with honesty and integrity. Seeing the client alone is essential to assess for undue influence. If capacity or free instructions cannot be established, the solicitor must decline to act — preparing a will in such circumstances could facilitate a future challenge. Option A ignores professional duty; C is premature; D is inadequate.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-061",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Deed of Variation",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth died intestate leaving an estate of £800,000. His daughter Victoria wishes to redirect her statutory legacy to her son James. Which instrument should be used and what is the time limit?",
+        "options": {
+          "A": "A deed of variation executed within 2 years of death, signed by Victoria alone",
+          "B": "A deed of disclaimer executed within 2 years of death, signed by Victoria alone",
+          "C": "A deed of variation executed within 2 years of death, signed by Victoria and James as beneficiary taking the redirected share",
+          "D": "A deed of variation executed within 6 months of death, signed by Victoria alone"
+        },
+        "correct": "A",
+        "explanation": "Under IHTA 1984 s.142, a variation of a deceased's estate is treated as if made by the deceased for IHT purposes if: (1) made within 2 years of death; (2) in writing; (3) signed by the person whose entitlement is varied. Victoria as the person redirecting her share need only sign — James as recipient does not need to sign unless he is also varying his own entitlement. Option C incorrectly requires James's signature. Option D has the wrong time limit.",
+        "card_refs": [
+          "WTP-C061"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-062",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Deed of Variation — CGT",
+        "difficulty": "Complex",
+        "stem": "Lady Ashworth died leaving her shares in Ashworth Developments Ltd to Victoria. Victoria executes a deed of variation redirecting the shares to James within 2 years of death. The shares have risen in value since death. What is the CGT position?",
+        "options": {
+          "A": "Victoria makes a CGT disposal at market value; James acquires at that value",
+          "B": "Victoria makes no CGT disposal; James acquires at market value at date of variation",
+          "C": "The variation is treated as if James had inherited directly from Lady Ashworth; no CGT disposal by Victoria; James acquires at probate value",
+          "D": "The variation triggers CGT only if the gain exceeds the annual exempt amount"
+        },
+        "correct": "C",
+        "explanation": "Where TCGA 1992 s.62(6) election is made (included in the deed of variation), the variation is treated as if the deceased had made it — so no CGT disposal occurs and James is treated as having inherited directly from Lady Ashworth at probate value (the TCGA 1992 s.62 uplift value). Without the election, Victoria would make a disposal at market value. The s.142 IHT election and s.62(6) CGT election are separate; the deed should include both where advantageous.",
+        "card_refs": [
+          "WTP-C062"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-063",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Disclaimer",
+        "difficulty": "Application",
+        "stem": "James Ashworth inherits £50,000 from Colonel Ashworth's estate but is insolvent. He disclaims the legacy. What is the legal effect?",
+        "options": {
+          "A": "The disclaimer is void as it constitutes a transaction at an undervalue",
+          "B": "The disclaimer is effective; the legacy falls into residue and James's creditors cannot claim it",
+          "C": "The disclaimer is effective but James's trustee in bankruptcy can set it aside under s.339 Insolvency Act 1986",
+          "D": "The legacy vests automatically in James's trustee in bankruptcy and cannot be disclaimed"
+        },
+        "correct": "C",
+        "explanation": "A disclaimer is legally effective to prevent the legacy vesting in James. However, under IA 1986 s.339, if James's trustee in bankruptcy can show the disclaimer was made within 5 years before bankruptcy and was a transaction at an undervalue (receiving nothing in return), the court may set it aside. The disclaimer does not automatically prevent the trustee from clawing it back. Option D is incorrect — property can be disclaimed before it vests.",
+        "card_refs": [
+          "WTP-C063"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-064",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "Intestacy Reform — Cohabitants",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell and Gerald Crane cohabited for 8 years without marrying. Gerald dies intestate. Pat is not a qualifying cohabitant under any current legislation. What is Pat's best avenue for financial provision?",
+        "options": {
+          "A": "Pat takes as next of kin under the Administration of Estates Act 1925",
+          "B": "Pat has no claim as cohabitants have no intestacy rights or statutory claim",
+          "C": "Pat can apply under the Inheritance (Provision for Family and Dependants) Act 1975 as a person who lived in the same household as the deceased as husband or wife for at least 2 years immediately before death",
+          "D": "Pat can claim a resulting trust over Gerald's property based on contributions"
+        },
+        "correct": "C",
+        "explanation": "Cohabitants have no automatic rights on intestacy under the AEA 1925. However, IPFDA 1975 s.1(1)(ba) allows a person who lived in the same household as the deceased as husband or wife (or civil partner) for the whole of the period of 2 years ending immediately before the death to apply for reasonable financial provision. The standard for such a claimant is the 'surviving spouse' standard (reasonable financial provision, not just maintenance). Pat qualifies having cohabited for 8 years.",
+        "card_refs": [
+          "WTP-C064"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-065",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Intestacy",
+        "subtopic": "IPFDA 1975 — Dependants",
+        "difficulty": "Application",
+        "stem": "Donna Pearce was financially maintained by her employer Frank Hollis before his death. Frank dies intestate leaving everything to his adult son. Donna seeks provision under IPFDA 1975. Which standard applies to Donna's claim?",
+        "options": {
+          "A": "The surviving spouse standard — reasonable financial provision",
+          "B": "The adult child standard — assessed on contribution to the deceased's care",
+          "C": "The maintenance standard — provision for maintenance only",
+          "D": "No standard applies; Donna cannot claim as she was not a family member"
+        },
+        "correct": "C",
+        "explanation": "Under IPFDA 1975 s.1(1)(e), a person maintained by the deceased immediately before death may apply. The standard for all claimants other than a surviving spouse or civil partner is the 'maintenance standard' — such financial provision as would be reasonable in all the circumstances for the applicant's maintenance. The surviving spouse standard (s.1(2)(a)) applies only to spouses and civil partners. Donna as a maintained dependant can apply but only for maintenance.",
+        "card_refs": [
+          "WTP-C065"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-066",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Notional Estate — IPFDA 1975",
+        "difficulty": "Complex",
+        "stem": "Victoria Ashworth makes a successful claim under IPFDA 1975 against Colonel Ashworth's estate. The net estate is insufficient. The court wishes to consider Colonel Ashworth's severable share of a joint tenancy property. What doctrine applies?",
+        "options": {
+          "A": "The court can sever the joint tenancy retrospectively under IPFDA 1975",
+          "B": "The court can include joint property only if the deceased severed the tenancy before death",
+          "C": "Joint tenancy property cannot be included in IPFDA 1975 claims as it passes by survivorship outside the estate",
+          "D": "Under IPFDA 1975 s.9, the court can treat the deceased's severable share of joint property as part of the net estate if the other joint tenant is a party to the proceedings"
+        },
+        "correct": "D",
+        "explanation": "IPFDA 1975 s.9 gives the court power to treat the deceased's severable share of jointly held property as part of the net estate. The court must order the severance and the other joint tenant must be joined as a party to the proceedings. This prevents a deceased from defeating IPFDA claims by holding assets as joint tenant. The power is discretionary and the other joint tenant's interests are considered.",
+        "card_refs": [
+          "WTP-C066"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-067",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Anti-avoidance — Associated Operations",
+        "difficulty": "Complex",
+        "stem": "Hassan Nazari transfers his business to his son for full consideration, then separately lends his son money interest-free to enable the purchase. HMRC argues these are associated operations. Under which provision might HMRC treat the transactions as a single transfer of value?",
+        "options": {
+          "A": "IHTA 1984 s.268 — associated operations",
+          "B": "IHTA 1984 s.103 — limitation on business relief",
+          "C": "FA 1986 s.102 — gifts with reservation",
+          "D": "IHTA 1984 s.10 — disposition not intended to confer gratuitous benefit"
+        },
+        "correct": "A",
+        "explanation": "IHTA 1984 s.268 defines 'associated operations' as two or more operations affecting the same property or one of which is effected with reference to the other. HMRC can link separately occurring transactions to treat them as a single transfer of value, preventing artificial fragmentation of transfers. The interest-free loan enabling the purchase could be associated with the transfer. S.10 (option D) actually provides a defence — a disposition at full commercial consideration is not a transfer of value.",
+        "card_refs": [
+          "WTP-C067"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-068",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Mutual Wills",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth and Lady Ashworth made wills in identical terms leaving everything to each other and then to Victoria, with an agreement not to revoke. Colonel Ashworth dies. Lady Ashworth subsequently makes a new will leaving everything to James. What is the legal position?",
+        "options": {
+          "A": "Lady Ashworth's new will is valid and takes effect as she had capacity",
+          "B": "Lady Ashworth can revoke as the doctrine of mutual wills does not bind survivors",
+          "C": "A constructive trust arises on Colonel Ashworth's death binding Lady Ashworth's estate to the agreed terms; the new will is valid but equity will enforce the mutual wills agreement",
+          "D": "The new will is void for breach of contract"
+        },
+        "correct": "C",
+        "explanation": "The mutual wills doctrine (from Dufour v Perreau, confirmed in Re Goodchild) holds that when testators make wills pursuant to a binding agreement not to revoke, on the first death a constructive trust arises over the survivor's estate binding it to the agreed terms. Lady Ashworth's new will is technically valid (she has testamentary capacity and the revocation power is not removed), but equity will enforce the constructive trust — Victoria can claim the estate as beneficial owner. The agreement must be contractually binding (not merely a moral arrangement).",
+        "card_refs": [
+          "WTP-C068"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-069",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Secret Trusts — Half-Secret",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth's will leaves £100,000 to 'my executor Gerald Crane upon trusts already communicated to him'. The communication occurred after the will was executed. Gerald claims he holds absolutely. Is the half-secret trust valid?",
+        "options": {
+          "A": "Yes — communication after execution is sufficient for a half-secret trust",
+          "B": "No — a half-secret trust requires attestation by the secret beneficiary",
+          "C": "Yes — secret trust rules permit communication at any time before the testator's death",
+          "D": "No — for a half-secret trust, communication must occur before or at the time of execution of the will"
+        },
+        "correct": "D",
+        "explanation": "For a half-secret trust (where the will reveals the existence of a trust but not the terms), communication of the terms to the trustee must occur before or at the time of execution of the will: Re Keen [1937]. If communication occurs after execution, the half-secret trust fails. This differs from fully secret trusts, where communication may occur at any time before death. Gerald therefore holds on resulting trust for Colonel Ashworth's estate, not absolutely.",
+        "card_refs": [
+          "WTP-C069"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-070",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Incorporation by Reference",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's will states: 'I give my personal chattels in accordance with the memorandum I have prepared.' The memorandum was written after the will was executed and signed. Can the memorandum be incorporated by reference?",
+        "options": {
+          "A": "Yes — any document referred to in a will is incorporated automatically",
+          "B": "No — personal chattels cannot be distributed by memorandum",
+          "C": "Yes — provided the memorandum is signed by the testator",
+          "D": "No — for incorporation by reference, the document must be in existence at the date the will is executed"
+        },
+        "correct": "D",
+        "explanation": "The doctrine of incorporation by reference (confirmed in University College of North Wales v Taylor [1908]) requires that the document to be incorporated: (1) is in existence at the date of execution of the will; (2) is clearly identified in the will; and (3) is referred to as already existing. Since the memorandum was written after execution, it cannot be incorporated. The chattels would fall into residue or pass on intestacy unless a codicil re-executes the will after the memorandum was written.",
+        "card_refs": [
+          "WTP-C070"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-071",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Rectification of Wills",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's will was prepared by Crane & Pelletier. Due to a drafting error, it omits a legacy of £20,000 to Hassan Nazari that Colonel Ashworth had instructed. Hassan applies to rectify the will. Under which provision and within what time limit?",
+        "options": {
+          "A": "Administration of Justice Act 1982 s.20 — application within 6 months of the grant",
+          "B": "Administration of Justice Act 1982 s.20 — application within 12 months of the grant",
+          "C": "Wills Act 1837 s.9 — application within 2 years of death",
+          "D": "Senior Courts Act 1981 s.49 — no time limit"
+        },
+        "correct": "A",
+        "explanation": "AJA 1982 s.20 allows the court to rectify a will which fails to carry out the testator's intentions in consequence of a clerical error or a failure to understand the testator's instructions. The application must be made within 6 months of the date on which representation is first taken out (i.e. the grant of probate or administration), though the court has discretion to extend. As the omission arose from Crane & Pelletier's drafting error failing to follow instructions, s.20 applies.",
+        "card_refs": [
+          "WTP-C071"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-072",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Construction — Ejusdem Generis",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's will leaves 'all my horses, vehicles, boats and other personal chattels'. A dispute arises whether his £500,000 share portfolio is included. What principle of construction applies?",
+        "options": {
+          "A": "The ejusdem generis rule — 'other personal chattels' is limited to items of the same kind as the listed items",
+          "B": "The portfolio is included as a personal chattel under AJA 1982 s.55(1)(x)",
+          "C": "The contra proferentem rule applies to include all assets in the gift",
+          "D": "The portfolio passes as a specific legacy separately from personal chattels"
+        },
+        "correct": "A",
+        "explanation": "The ejusdem generis rule provides that where general words follow a list of specific items, the general words are confined to items of the same class or genus as those specifically listed. Horses, vehicles, and boats are tangible physical items of personal use — the general words 'other personal chattels' would be confined to similar tangible items. A share portfolio is a chose in action, not of the same genus. Note also that under AJA 1982 s.55(1)(x) (the statutory definition for intestacy), money and investments are excluded from personal chattels — applying by analogy here.",
+        "card_refs": [
+          "WTP-C072"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-073",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Substitutional Gifts — Class Closing",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth's will gives £300,000 to 'such of my grandchildren as attain 25'. At the date of his death, he has two grandchildren aged 30 and 28, and Victoria is pregnant. When does the class close?",
+        "options": {
+          "A": "The class closes at death — only grandchildren alive at death can benefit",
+          "B": "The class closes when all grandchildren alive at death have either attained 25 or died",
+          "C": "The class remains open until Victoria's child (if born) attains 25",
+          "D": "The class closes when the first member becomes entitled — i.e. immediately as both grandchildren over 25 are entitled at death"
+        },
+        "correct": "D",
+        "explanation": "Under the rule in Andrews v Partington (1791), a class gift closes to new members when the first member becomes entitled to claim their share. Where the condition is attaining a specified age, and at the testator's death there are already members who have satisfied the condition (both grandchildren are over 25), the class closes at death. Victoria's unborn child is therefore excluded. This rule of construction prevents the class from remaining open indefinitely and allows earlier distribution.",
+        "card_refs": [
+          "WTP-C073"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-074",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Hotchpot",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's will leaves his residuary estate equally between his children Victoria and James. Before his death, Colonel Ashworth gave James £100,000 inter vivos with a direction to bring it into hotchpot. The residue is £500,000. How is the estate distributed?",
+        "options": {
+          "A": "Victoria receives £250,000; James receives £250,000",
+          "B": "Victoria receives £300,000; James receives £200,000",
+          "C": "Victoria receives £300,000; James receives £200,000 (but notionally James's total = £300,000)",
+          "D": "James receives nothing as he has already received his share"
+        },
+        "correct": "C",
+        "explanation": "Hotchpot requires a beneficiary to bring inter vivos gifts into account when calculating their share. The notional estate is £500,000 (residue) + £100,000 (James's gift) = £600,000. Each child's share = £300,000. James has already received £100,000, so he receives £200,000 from residue. Victoria receives £300,000. James's total = £300,000 (same as Victoria). The hotchpot clause ensures equality between the children. Option A ignores hotchpot; Option D incorrectly disinherits James entirely.",
+        "card_refs": [
+          "WTP-C074"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-075",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Appropriation Powers",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth is the sole personal representative of Colonel Ashworth's estate. She wishes to appropriate the family home in satisfaction of her own legacy. What is required?",
+        "options": {
+          "A": "Victoria can appropriate to herself without consent as sole PR and sole beneficiary",
+          "B": "Appropriation to a personal representative is prohibited by s.41 AEA 1925",
+          "C": "Victoria can appropriate with her own consent in writing as both PR and beneficiary",
+          "D": "Victoria requires the consent of the other beneficiaries or the court as she cannot consent to her own appropriation as PR"
+        },
+        "correct": "D",
+        "explanation": "AEA 1925 s.41 grants PRs power to appropriate assets in satisfaction of a beneficiary's entitlement with the consent of the beneficiary (or their guardian/attorney). However, where the PR is also the beneficiary, they cannot give consent to their own appropriation — this would be a conflict of interest. Court approval is required, or the other beneficiaries must consent. This rule prevents a PR from using the appropriation power to benefit themselves without independent oversight.",
+        "card_refs": [
+          "WTP-C075"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-076",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "PR Investment Powers",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is executor of Colonel Ashworth's estate during the administration period. He wishes to invest estate assets in a speculative cryptocurrency while awaiting distribution. Which is correct?",
+        "options": {
+          "A": "Gerald can invest in any asset during administration as PRs have absolute ownership",
+          "B": "Gerald can invest speculatively if the will authorises it",
+          "C": "PRs are not trustees and have no investment duties — only distribution duties",
+          "D": "During administration, PRs hold as trustees and are subject to TA 2000 investment duties including the standard investment criteria"
+        },
+        "correct": "D",
+        "explanation": "Although PRs hold legal title to the estate during administration, they do so in a fiduciary capacity and are subject to the Trustee Act 2000 investment provisions (Part II) during the administration period. They must apply the standard investment criteria (s.4 TA 2000): suitability of the investment and need for diversification. Speculative cryptocurrency investment would likely breach these duties. The TA 2000 applies to PRs to the extent they have investment functions during administration.",
+        "card_refs": [
+          "WTP-C076"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-077",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Liability of Personal Representatives",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane as executor pays a debt of Colonel Ashworth's estate that was statute-barred. He does not take a s.27 Trustee Act 1925 advertisement. A creditor with a valid claim subsequently appears. What is Gerald's personal liability?",
+        "options": {
+          "A": "Gerald is personally liable for the unpaid creditor's claim as he paid a void debt and failed to advertise",
+          "B": "Gerald has full protection from the statute-barred payment and is not liable if he distributes assets after a proper s.27 advertisement",
+          "C": "Gerald is liable for paying the statute-barred debt but has no further liability as the assets have been distributed",
+          "D": "Gerald must refund the statute-barred payment but is protected from later creditor claims regardless of advertisement"
+        },
+        "correct": "A",
+        "explanation": "A PR who pays a statute-barred debt voluntarily may do so, but this may constitute a devastavit (breach of duty) if other creditors go unpaid. Crucially, a PR who distributes the estate without taking s.27 TA 1925 advertisements loses the protection that section provides against unknown creditor claims. Gerald is personally liable to known and unknown creditors whose claims he has not satisfied. The paid statute-barred debt reduces the estate available to pay valid creditors, compounding his personal exposure.",
+        "card_refs": [
+          "WTP-C077"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-078",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Clearance Certificate",
+        "difficulty": "Application",
+        "stem": "Gerald Crane wishes to obtain a clearance certificate from HMRC before distributing Colonel Ashworth's estate. Under which provision is this available and what does it certify?",
+        "options": {
+          "A": "IHTA 1984 s.239 — certifies that no IHT is outstanding on the property specified in the certificate",
+          "B": "IHTA 1984 s.256 — certifies that all IHT on the estate has been paid",
+          "C": "TMA 1970 s.12 — certifies that income tax is satisfied",
+          "D": "AEA 1925 s.27 — certifies that all debts have been discharged"
+        },
+        "correct": "A",
+        "explanation": "IHTA 1984 s.239 allows a person liable to pay IHT to apply for a certificate of discharge. The certificate is property-specific — it certifies that HMRC are satisfied that the IHT attributable to the property specified has been or will be paid. It does not give blanket clearance for the whole estate. Once issued, the property is discharged from HMRC's charge (s.237 charge). Gerald should obtain section 239 certificates for specific assets before distributing.",
+        "card_refs": [
+          "WTP-C078"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-079",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "IHT by Instalments",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth's estate includes agricultural land valued at £1.2 million. The executors cannot realise sufficient cash to pay all the IHT on the land immediately. What instalment option is available?",
+        "options": {
+          "A": "IHT on qualifying instalment property can be paid in 10 equal annual instalments beginning 6 months after death",
+          "B": "IHT on land can be paid in 5 equal annual instalments with interest accruing from the date of death",
+          "C": "IHT on agricultural land must be paid in full within 6 months of death with no instalment option",
+          "D": "IHT on qualifying property can be deferred for up to 2 years pending sale"
+        },
+        "correct": "A",
+        "explanation": "IHTA 1984 s.227 provides that IHT attributable to qualifying 'instalment property' (which includes land, unquoted shares, and business property) may be paid in 10 equal annual instalments. The first instalment is due 6 months after the end of the month of death (the normal IHT payment date). Interest accrues on unpaid instalments on business or agricultural property only if the instalment is late. If the property is sold, the outstanding IHT becomes immediately payable.",
+        "card_refs": [
+          "WTP-C079"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-080",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Deeds of Family Arrangement",
+        "difficulty": "Application",
+        "stem": "Following Colonel Ashworth's death, his family wish to vary the intestacy distribution so that Lady Ashworth receives a life interest in the estate rather than an outright legacy. What formalities must the arrangement comply with to achieve both IHT and CGT read-back?",
+        "options": {
+          "A": "The variation must be in writing, made within 2 years of death, contain a statement that IHTA 1984 s.142 applies, and if CGT read-back is wanted, also elect under TCGA 1992 s.62(6)",
+          "B": "The variation must be in writing, made within 6 months of death, and approved by the court",
+          "C": "The variation must be a deed, made within 2 years, and all beneficiaries must receive independent legal advice",
+          "D": "The variation must be in writing, made within 2 years, and all beneficiaries whose interests are reduced must consent"
+        },
+        "correct": "A",
+        "explanation": "For IHTA 1984 s.142 IHT read-back: the variation must be in writing, made within 2 years of death, and the instrument must contain a statement that s.142 is intended to apply (from Finance Act 2002 amendment). For TCGA 1992 s.62(6) CGT read-back: a separate election must be included. All beneficiaries whose entitlements are being reduced must consent. Option D identifies the consent requirement correctly but misses the s.142 statement. Option A is the most complete correct answer.",
+        "card_refs": [
+          "WTP-C080"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-081",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Intestacy — Partial",
+        "difficulty": "Foundation",
+        "stem": "Colonel Ashworth's will disposes of his investment portfolio and cash but is silent on his classic car collection. He leaves a wife (Lady Ashworth) and a son (James). How does the car collection pass?",
+        "options": {
+          "A": "The car collection passes to James as next of kin",
+          "B": "The car collection is distributed equally between Lady Ashworth and James",
+          "C": "The car collection falls into residue under the will",
+          "D": "The car collection passes under partial intestacy; Lady Ashworth takes the personal chattels absolutely under AEA 1925 s.46"
+        },
+        "correct": "D",
+        "explanation": "Where a will does not dispose of all assets, partial intestacy arises and the intestacy rules apply to the undisposed-of property. Under AEA 1925 s.46, where the deceased leaves a spouse and issue, the spouse takes personal chattels absolutely (s.46(1)(i)). Classic cars are personal chattels within the statutory definition (AJA 1982 s.55(1)(x)). Lady Ashworth therefore takes the car collection absolutely under the partial intestacy rules, regardless of the will's other provisions.",
+        "card_refs": [
+          "WTP-C081"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-082",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Spouse Exemption — Non-Domiciled",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth (UK domiciled) leaves £500,000 to his wife who is domiciled in France. What is the IHT position on the spouse exemption?",
+        "options": {
+          "A": "Full spouse exemption applies as marriage confers domicile of dependency",
+          "B": "The spouse exemption is capped at the NRB (£325,000) for transfers to a non-UK-domiciled spouse",
+          "C": "No spouse exemption applies as the recipient is not UK-domiciled",
+          "D": "The spouse exemption is limited to £325,000 unless she elects to be treated as UK-domiciled for IHT purposes"
+        },
+        "correct": "D",
+        "explanation": "Under IHTA 1984 s.18, the spouse exemption is unlimited for transfers between UK-domiciled spouses. However, where the transferee spouse is not UK-domiciled, IHTA 1984 s.18(2) limits the exemption. Under FA 2013, the limit was increased from £55,000 to match the NRB (£325,000). However, s.267ZA (inserted by FA 2013) allows a non-domiciled spouse to elect to be treated as UK-domiciled for IHT purposes, which would restore the full exemption. Option D captures both the cap and the election remedy.",
+        "card_refs": [
+          "WTP-C082"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-083",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Inheritance Tax",
+        "subtopic": "Quick Succession Relief",
+        "difficulty": "Complex",
+        "stem": "Lady Ashworth received £200,000 from Colonel Ashworth's estate (on which IHT was paid) and dies 18 months later leaving the same assets. IHT is payable on her estate. What relief is available?",
+        "options": {
+          "A": "No relief — IHT is charged in full on each successive death",
+          "B": "Taper relief under IHTA 1984 s.7 reduces the rate of IHT payable",
+          "C": "Double taxation relief reduces the IHT to nil as the same assets have been taxed twice",
+          "D": "Quick succession relief under IHTA 1984 s.141 reduces the IHT on Lady Ashworth's estate by a percentage of the IHT paid on Colonel Ashworth's transfer"
+        },
+        "correct": "D",
+        "explanation": "IHTA 1984 s.141 provides quick succession relief (QSR) where a person (Lady Ashworth) receives property from another person (Colonel Ashworth) and IHT was charged on that transfer, and Lady Ashworth then dies within 5 years. The relief is a percentage of the IHT previously paid: 100% (within 1 year), 80% (1-2 years), 60% (2-3 years), 40% (3-4 years), 20% (4-5 years). At 18 months, Lady Ashworth's estate gets 80% credit. The relief reduces (not eliminates) the IHT on her estate.",
+        "card_refs": [
+          "WTP-C083"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-084",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Benjamin Order",
+        "difficulty": "Application",
+        "stem": "Gerald Crane as executor cannot locate a beneficiary named in Colonel Ashworth's will after exhaustive searches. He wishes to distribute the estate. What order should he seek and what is its effect?",
+        "options": {
+          "A": "A Bona Vacantia order — directing the legacy to the Crown",
+          "B": "A freezing order — preserving assets until the beneficiary is found",
+          "C": "A Tomlin order — staying proceedings pending the beneficiary's appearance",
+          "D": "A Benjamin order — directing distribution on the basis that the missing person has predeceased; protects the executor from personal liability if the beneficiary later appears"
+        },
+        "correct": "D",
+        "explanation": "A Benjamin order (from Re Benjamin [1902]) is a court order that permits an executor to distribute on a stated assumption — usually that a missing beneficiary has predeceased — without waiting indefinitely. It protects the executor from personal liability if the assumption proves wrong and the beneficiary later appears. The beneficiary's rights against the other recipients (who received the share) are not extinguished — they may have a personal claim. The order does not resolve beneficial ownership; it authorises distribution.",
+        "card_refs": [
+          "WTP-C084"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-085",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Private International Law — Movables",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth (UK domiciled) dies leaving a bank account in France. Which law governs the succession to the bank account?",
+        "options": {
+          "A": "French law as lex situs — the law of the place where the asset is situated",
+          "B": "French law as lex fori — the law of the forum of the dispute",
+          "C": "EU Succession Regulation (Brussels IV) — habitual residence governs",
+          "D": "English law as the law of the domicile — movables are governed by the law of the domicile"
+        },
+        "correct": "D",
+        "explanation": "In English private international law, succession to movable property (including bank accounts, which are choses in action) is governed by the law of the deceased's domicile at death — the lex domicilii. Succession to immovable property is governed by the lex situs (the law of the place where the land is situated). Colonel Ashworth is domiciled in England, so English law governs the succession to his French bank account. Note: the EU Succession Regulation (Brussels IV) applies in EU member states but not in the UK post-Brexit.",
+        "card_refs": [
+          "WTP-C085"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-086",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Knowledge and Approval — Karta",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth's will was read to him by his solicitor Gerald Crane in the presence of Victoria. James challenges the will arguing Colonel Ashworth did not know and approve the contents. On whom does the burden of proof lie and is it discharged by due execution?",
+        "options": {
+          "A": "The burden lies on James to prove lack of knowledge and approval; due execution raises no presumption",
+          "B": "The burden lies on both parties equally under the evidential burden",
+          "C": "Knowledge and approval is presumed conclusively from due execution; James cannot challenge",
+          "D": "The burden lies on those propounding the will (Gerald/Victoria) to prove knowledge and approval; due execution gives rise to a rebuttable presumption that the testator knew and approved the contents"
+        },
+        "correct": "D",
+        "explanation": "Knowledge and approval is a requirement for valid testamentary execution separate from capacity and intention. The burden lies on those propounding the will to prove it. However, where a will is duly executed and the testator had testamentary capacity, a rebuttable presumption arises that the testator knew and approved the contents: Barry v Butlin (1838). The presumption can be rebutted by suspicious circumstances (e.g. the will was prepared by a substantial beneficiary). Due execution raises the presumption but does not conclusively prove knowledge and approval.",
+        "card_refs": [
+          "WTP-C086"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-087",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Administration of Estates",
+        "subtopic": "Tracing in Estate Administration",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane as executor wrongly pays Victoria's legacy of £50,000 to James by mistake. James spends £20,000 on a holiday and retains £30,000 in his bank account. What can Victoria recover and from whom?",
+        "options": {
+          "A": "Victoria can only recover from Gerald personally as the wrongdoing executor; James has a good defence as a bona fide recipient",
+          "B": "Victoria has no claim against James as he received money, which is not traceable",
+          "C": "Victoria can recover the full £50,000 from James as the estate assets can be traced",
+          "D": "Victoria can recover £30,000 from James by equitable tracing into the bank account; she has a personal claim for £50,000 against Gerald; James has a change of position defence for the £20,000 spent on the holiday"
+        },
+        "correct": "D",
+        "explanation": "Equitable tracing allows Victoria to follow the misapplied assets into James's hands. The £30,000 remaining in his bank account is traceable. James cannot claim as bona fide purchaser for value as he gave no consideration. For the £20,000 spent on the holiday, James has a change of position defence (Lipkin Gorman v Karpnale [1991]) — he spent the money in good faith changing his position. Victoria also has a personal liability claim against Gerald as a wrongdoing executor who misapplied estate assets (devastavit).",
+        "card_refs": [
+          "WTP-C087"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-088",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Revocation — Destruction",
+        "difficulty": "Foundation",
+        "stem": "Colonel Ashworth tells his solicitor Gerald Crane to destroy his will. Gerald tears up a copy of the will, not knowing that Colonel Ashworth has the original. The original survives. What is the effect on revocation?",
+        "options": {
+          "A": "The will is revoked as Colonel Ashworth intended destruction",
+          "B": "The will is revoked provided Gerald intended to destroy it",
+          "C": "The will is revoked by Gerald's act as agent with authority",
+          "D": "The will is not revoked — physical destruction of the will itself (or burning, tearing, or obliterating) must be done by the testator or in his presence and by his direction"
+        },
+        "correct": "D",
+        "explanation": "Wills Act 1837 s.20 requires that for revocation by destruction, the will must be burnt, torn, or otherwise destroyed by the testator himself or by someone in his presence and by his direction. The destruction of a copy (not the original) cannot revoke the will. Gerald was not in Colonel Ashworth's presence, and the original was not destroyed. The original will therefore remains valid. This illustrates the formality requirements for revocation by destruction.",
+        "card_refs": [
+          "WTP-C088"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-089",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Professional Conduct — Post-Grant Duties",
+        "difficulty": "Application",
+        "stem": "Gerald Crane of Crane & Pelletier is acting as solicitor for Victoria as sole executor of Colonel Ashworth's estate. After the grant, Victoria asks Gerald to distribute the estate before paying HMRC a known IHT liability. What should Gerald do?",
+        "options": {
+          "A": "Follow Victoria's instructions as the client — she is the executor and Gerald must act on her authority",
+          "B": "Distribute as instructed but note the risk in writing to Victoria",
+          "C": "Seek HMRC's consent before advising Victoria",
+          "D": "Advise Victoria that distributing before settling the HMRC liability would constitute a devastavit and expose her to personal liability; decline to facilitate the unlawful distribution"
+        },
+        "correct": "D",
+        "explanation": "A solicitor cannot act on client instructions that involve assisting a client in conduct that is unlawful: SRA Code of Conduct, Paragraph 1.4 (not acting if instructions require the firm to act in breach of law). Distributing the estate before satisfying HMRC's IHT liability is a devastavit (breach of duty by executor) and potentially involves the solicitor in facilitating unlawful conduct. Gerald must advise Victoria of the legal position and decline to carry out the instruction. If Victoria persists, Gerald should consider whether to continue acting.",
+        "card_refs": [
+          "WTP-C089"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "WTP-090",
+        "flk": "FLK2",
+        "subject": "Wills and the Administration of Estates",
+        "topic": "Wills",
+        "subtopic": "Professional Conduct — Conflicts in Estate Administration",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier acts for both Victoria (executor) and James (residuary beneficiary) in Colonel Ashworth's estate administration. A dispute arises about whether a specific asset should be treated as part of residue. What must Crane & Pelletier do?",
+        "options": {
+          "A": "Continue acting for both clients, sharing all information between them",
+          "B": "Continue acting for both but erect information barriers between fee earners",
+          "C": "Cease acting for at least one client as there is a conflict of interest that cannot be managed; both clients should seek independent advice on the disputed issue",
+          "D": "Seek mediation and continue to act for both pending resolution"
+        },
+        "correct": "C",
+        "explanation": "SRA Code of Conduct paragraph 6.2 prohibits acting for two or more clients where there is a conflict of interest (a situation where the firm's separate duties to act in the best interests of each client conflict). Victoria as executor has duties to maximise the estate; James as beneficiary has an interest in what is included in residue. On a disputed classification question, their interests are directly opposed. There is a genuine conflict — not merely a 'substantially common interest' situation. Crane & Pelletier must cease acting for at least one client and advise both to take independent legal advice.",
+        "card_refs": [
+          "WTP-C090"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

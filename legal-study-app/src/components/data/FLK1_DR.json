@@ -242,7 +242,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "COMPELLED MEDIATION · CHURCHILL [2023] · ART 6 ECHR · ACCESS TO COURT CONSTITUTIONAL RIGHT · GENN 'MEDIATING TYRANNY' · CIVIL JUSTICE COUNCIL · REFORM TRAJECTORY",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -516,10 +516,10 @@
             "subtopic": "Claim Form & Service",
             "front": "⚠️ TRAP CARD\n\nA claim form and particulars of claim are sent by first class post on Monday 9 March 2026. The claimant's solicitor tells the client that the defendant must file an acknowledgment of service by Monday 23 March — 14 days from the date of posting.",
             "answer": null,
-            "issue": "The obvious conclusion is that the 14-day period for the acknowledgment of service starts running from the date the documents were posted (9 March), giving a deadline of 23 March. Students know service by post is valid and that the period is 14 days — they apply those rules but forget the deemed service calculation.",
-            "rule": "Under CPR 6.26, first class post is deemed served on the second business day after posting. Posted Monday 9 March → deemed served Wednesday 11 March. The 14-day period for filing an acknowledgment of service (CPR 10.3) runs from deemed service: 14 days from 11 March = Wednesday 25 March 2026. The deadline is 25 March — not 23 March.",
-            "application": "The red herring is the phrase 'received on Thursday'. Students read 'received' and calculate 14 days from receipt. But CPR 6.26 deems service on the second business day after posting — regardless of when the document actually arrives. Receipt is irrelevant to the deemed service calculation.",
-            "conclusion": "The 14-day period in CPR 10.3 runs from the deemed service date (second business day after posting), not from the date of posting or actual receipt. The deemed service date is always later than the posting date, giving the defendant more time than the claimant calculated.",
+            "issue": "The Trap: The obvious conclusion is that the 14-day period for the acknowledgment of service starts running from the date the documents were posted (9 March), giving a deadline of 23 March. Students know service by post is valid and that the period is 14 days — they apply those rules but forget the deemed service calculation.",
+            "rule": "The Reality: Under CPR 6.26, first class post is deemed served on the second business day after posting. Posted Monday 9 March → deemed served Wednesday 11 March. The 14-day period for filing an acknowledgment of service (CPR 10.3) runs from deemed service: 14 days from 11 March = Wednesday 25 March 2026. The deadline is 25 March — not 23 March.",
+            "application": "Why the Distractor Fails: The red herring is the phrase 'received on Thursday'. Students read 'received' and calculate 14 days from receipt. But CPR 6.26 deems service on the second business day after posting — regardless of when the document actually arrives. Receipt is irrelevant to the deemed service calculation.",
+            "conclusion": "The Key Rule: The 14-day period in CPR 10.3 runs from the deemed service date (second business day after posting), not from the date of posting or actual receipt. The deemed service date is always later than the posting date, giving the defendant more time than the claimant calculated.",
             "summary_line": "DEEMED SERVICE · SECOND BUSINESS DAY AFTER POSTING · AOS DEADLINE RUNS FROM DEEMED SERVICE · CPR 6.26 · CPR 10.3",
             "is_deeper": 0
           }
@@ -650,10 +650,10 @@
             "subtopic": "Defence & Default",
             "front": "⚠️ TRAP CARD\n\nJake's defence denies liability for the car accident in full, with detailed reasons. His solicitors address every element of the negligence claim. However, the defence says nothing about the claimant's claim for £24,000 in vehicle repair costs. Jake's solicitor says this doesn't matter because the whole claim has been denied.",
             "answer": null,
-            "issue": "Students think a general denial of liability covers all claims arising from the incident, including quantum. If Jake has denied the accident was his fault, logically he is also denying the loss. The defence is detailed and professional — it does not look like an omission.",
-            "rule": "Under CPR 16.5(5), if a defendant fails to deal with an allegation in the particulars of claim, that allegation is deemed to be admitted. The £24,000 vehicle repair claim is a separate allegation that Jake's defence does not address. The deemed admission rule operates automatically — it does not matter that Jake denied liability in general terms. Jake is taken to have admitted that vehicle repair costs of £24,000 are owed.",
-            "application": "The red herring is the general denial of liability, which feels comprehensive. Students assume that if you deny causing the accident you must also be denying the loss. But CPR 16.5(5) requires each allegation to be addressed specifically. Quantum allegations are separate and are admitted by default if not denied.",
-            "conclusion": "Denying liability does not automatically deny quantum. Every allegation in the particulars of claim must be specifically addressed in the defence. A defendant who denies liability but says nothing about the claimant's quantification of loss is deemed to have admitted the amount claimed.",
+            "issue": "The Trap: Students think a general denial of liability covers all claims arising from the incident, including quantum. If Jake has denied the accident was his fault, logically he is also denying the loss. The defence is detailed and professional — it does not look like an omission.",
+            "rule": "The Reality: Under CPR 16.5(5), if a defendant fails to deal with an allegation in the particulars of claim, that allegation is deemed to be admitted. The £24,000 vehicle repair claim is a separate allegation that Jake's defence does not address. The deemed admission rule operates automatically — it does not matter that Jake denied liability in general terms. Jake is taken to have admitted that vehicle repair costs of £24,000 are owed.",
+            "application": "Why the Distractor Fails: The red herring is the general denial of liability, which feels comprehensive. Students assume that if you deny causing the accident you must also be denying the loss. But CPR 16.5(5) requires each allegation to be addressed specifically. Quantum allegations are separate and are admitted by default if not denied.",
+            "conclusion": "The Key Rule: Denying liability does not automatically deny quantum. Every allegation in the particulars of claim must be specifically addressed in the defence. A defendant who denies liability but says nothing about the claimant's quantification of loss is deemed to have admitted the amount claimed.",
             "summary_line": "DEEMED ADMISSION · CPR 16.5(5) · MUST ADDRESS EVERY ALLEGATION · LIABILITY DENIAL ≠ QUANTUM DENIAL · INADVERTENT OMISSION FATAL",
             "is_deeper": 0
           },
@@ -666,10 +666,10 @@
             "subtopic": "Defence & Default",
             "front": "⚠️ TRAP CARD\n\nDefault judgment is entered against Sofia after her defence deadline expires. Sofia's solicitor immediately applies to set aside the judgment. Sofia has strong evidence that she filed the defence in time — she has a PDF of the filed document and the filing receipt. Her solicitor argues she must show a real prospect of success.",
             "answer": null,
-            "issue": "The scenario involves a set-aside application, and students know the test from CPR 13. The first thing most students reach for is the discretionary test in CPR 13.3 — real prospect of successfully defending the claim — because it is better known and more commonly applied.",
-            "rule": "Under CPR 13.2, default judgment must be set aside as of right where it was wrongly entered. If Sofia has evidence that her defence was filed before the deadline — the PDF and filing receipt — then the default judgment was entered when a defence was already on the court file. It was wrongly entered. Set aside is mandatory, not discretionary. Sofia does not need to show a real prospect of success at all.",
-            "application": "The red herring is the word 'set-aside', which triggers the CPR 13.3 discretionary test students have memorised. But CPR 13.2 creates a mandatory right to set aside where default judgment was wrongly entered — the discretionary test never arises. Always check CPR 13.2 before reaching CPR 13.3.",
-            "conclusion": "Before applying the discretionary CPR 13.3 test, always check whether default judgment was wrongly entered (CPR 13.2). If judgment was entered in error — because a defence was already filed or the period had not yet expired — set aside is as of right. The real prospect of success test only applies to discretionary set aside.",
+            "issue": "The Trap: The scenario involves a set-aside application, and students know the test from CPR 13. The first thing most students reach for is the discretionary test in CPR 13.3 — real prospect of successfully defending the claim — because it is better known and more commonly applied.",
+            "rule": "The Reality: Under CPR 13.2, default judgment must be set aside as of right where it was wrongly entered. If Sofia has evidence that her defence was filed before the deadline — the PDF and filing receipt — then the default judgment was entered when a defence was already on the court file. It was wrongly entered. Set aside is mandatory, not discretionary. Sofia does not need to show a real prospect of success at all.",
+            "application": "Why the Distractor Fails: The red herring is the word 'set-aside', which triggers the CPR 13.3 discretionary test students have memorised. But CPR 13.2 creates a mandatory right to set aside where default judgment was wrongly entered — the discretionary test never arises. Always check CPR 13.2 before reaching CPR 13.3.",
+            "conclusion": "The Key Rule: Before applying the discretionary CPR 13.3 test, always check whether default judgment was wrongly entered (CPR 13.2). If judgment was entered in error — because a defence was already filed or the period had not yet expired — set aside is as of right. The real prospect of success test only applies to discretionary set aside.",
             "summary_line": "DEFAULT JUDGMENT · SET ASIDE AS OF RIGHT: CPR 13.2 · WRONGLY ENTERED · REAL PROSPECT ONLY FOR DISCRETIONARY: CPR 13.3 · CHECK AS OF RIGHT FIRST",
             "is_deeper": 0
           }
@@ -932,10 +932,10 @@
             "subtopic": "Track Allocation",
             "front": "⚠️ TRAP CARD\n\nA homeowner brings a claim for £8,500 for defective kitchen installation. The case is allocated to the small claims track. The solicitor tells the client that because she has a strong case and is almost certain to win, she should instruct the solicitor to represent her and the costs will be recovered from the defendant if she wins.",
             "answer": null,
-            "issue": "The advice sounds reasonable: you win a case, you recover costs. The general rule under CPR 44.2 is that the winning party recovers their costs from the losing party. Students apply the general costs rule without recognising that the small claims track disapplies it entirely.",
-            "rule": "On the small claims track, the no-costs rule in CPR 27.14 means that solicitor fees (legal costs) are not recoverable from the other side, regardless of the outcome. Even if the homeowner wins, the defendant will not be ordered to pay her solicitor's fees. The only costs recoverable on small claims are: the court issue fee; limited fixed costs in certain circumstances; and out-of-pocket expenses.",
-            "application": "The red herring is the costs-follow-the-event rule (CPR 44.2), which students correctly recall. They apply it to the successful claimant without checking the track allocation. CPR 27.14 disapplies the general costs rule on the small claims track — solicitor costs are not recoverable regardless of outcome.",
-            "conclusion": "The small claims track no-costs rule (CPR 27.14) disapplies the general CPR 44.2 'loser pays' rule for legal costs. Solicitor fees are not recoverable on the small claims track regardless of outcome. This is the most important costs feature of the small claims track and the most common source of client surprises.",
+            "issue": "The Trap: The advice sounds reasonable: you win a case, you recover costs. The general rule under CPR 44.2 is that the winning party recovers their costs from the losing party. Students apply the general costs rule without recognising that the small claims track disapplies it entirely.",
+            "rule": "The Reality: On the small claims track, the no-costs rule in CPR 27.14 means that solicitor fees (legal costs) are not recoverable from the other side, regardless of the outcome. Even if the homeowner wins, the defendant will not be ordered to pay her solicitor's fees. The only costs recoverable on small claims are: the court issue fee; limited fixed costs in certain circumstances; and out-of-pocket expenses.",
+            "application": "Why the Distractor Fails: The red herring is the costs-follow-the-event rule (CPR 44.2), which students correctly recall. They apply it to the successful claimant without checking the track allocation. CPR 27.14 disapplies the general costs rule on the small claims track — solicitor costs are not recoverable regardless of outcome.",
+            "conclusion": "The Key Rule: The small claims track no-costs rule (CPR 27.14) disapplies the general CPR 44.2 'loser pays' rule for legal costs. Solicitor fees are not recoverable on the small claims track regardless of outcome. This is the most important costs feature of the small claims track and the most common source of client surprises.",
             "summary_line": "SMALL CLAIMS · NO COSTS RULE · CPR 27.14 · SOLICITOR FEES NOT RECOVERABLE · REGARDLESS OF OUTCOME · ONLY COURT FEES AND FIXED COSTS",
             "is_deeper": 0
           }
@@ -1068,7 +1068,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DENTON · CPR 3.9 · PROCEDURAL DISCIPLINE v ACCESS TO JUSTICE · OPPORTUNISTIC LITIGATION · ZUCKERMAN · ECHR ART 6 · ZUBAC v CROATIA [2017]",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1116,10 +1116,10 @@
             "subtopic": "Costs Budgeting",
             "front": "⚠️ TRAP CARD\n\nIn a multi-track case, the claimant's solicitors file their Precedent H 20 days before the CCMC — one day after the CPR 3.13 deadline of 21 days. The claimant's solicitor tells the client not to worry because the court will take a proportionate approach and any sanction will be modest.",
             "answer": null,
-            "issue": "Students who know the Denton test know courts take a proportionate approach to breaches. They assume that a one-day delay will attract only a modest penalty — a costs order or a small reduction. The breach is trivial, so the sanction must be proportionate to the breach.",
-            "rule": "Under CPR 3.14, the sanction for failing to file a costs budget by the deadline is automatic and categorical: the party is treated as having filed a budget comprising only court fees. This is not a discretionary sanction calibrated to the gravity of the breach — it is the prescribed consequence. One day late and the claimant's entire solicitors' costs recovery is reduced to court fees only. To escape, the claimant must apply for relief from sanction under CPR 3.9 and satisfy the Denton test.",
-            "application": "The red herring is knowledge of the Denton test, which governs relief from sanctions generally. Students apply it here because there is a missed deadline. But CPR 3.14 creates its own automatic sanction for costs budgets with no discretion to apply Denton — the rule is categorical and the Denton framework does not apply.",
-            "conclusion": "CPR 3.14 imposes an automatic and categorical sanction — nil recoverable costs (court fees only) — for late filing of a costs budget, regardless of the degree of lateness. The court does not scale the sanction to the length of the delay. The only route to escape is a CPR 3.9 Denton relief application. 'Proportionate' discretion applies to whether Denton relief should be granted — not to the sanction itself.",
+            "issue": "The Trap: Students who know the Denton test know courts take a proportionate approach to breaches. They assume that a one-day delay will attract only a modest penalty — a costs order or a small reduction. The breach is trivial, so the sanction must be proportionate to the breach.",
+            "rule": "The Reality: Under CPR 3.14, the sanction for failing to file a costs budget by the deadline is automatic and categorical: the party is treated as having filed a budget comprising only court fees. This is not a discretionary sanction calibrated to the gravity of the breach — it is the prescribed consequence. One day late and the claimant's entire solicitors' costs recovery is reduced to court fees only. To escape, the claimant must apply for relief from sanction under CPR 3.9 and satisfy the Denton test.",
+            "application": "Why the Distractor Fails: The red herring is knowledge of the Denton test, which governs relief from sanctions generally. Students apply it here because there is a missed deadline. But CPR 3.14 creates its own automatic sanction for costs budgets with no discretion to apply Denton — the rule is categorical and the Denton framework does not apply.",
+            "conclusion": "The Key Rule: CPR 3.14 imposes an automatic and categorical sanction — nil recoverable costs (court fees only) — for late filing of a costs budget, regardless of the degree of lateness. The court does not scale the sanction to the length of the delay. The only route to escape is a CPR 3.9 Denton relief application. 'Proportionate' discretion applies to whether Denton relief should be granted — not to the sanction itself.",
             "summary_line": "COSTS BUDGETING · CPR 3.14 · AUTOMATIC SANCTION: COURT FEES ONLY · ONE DAY LATE = FULL SANCTION · NOT SCALED TO DELAY · DENTON RELIEF ONLY ROUTE",
             "is_deeper": 0
           }
@@ -1302,7 +1302,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "THREE RIVERS (NO 6) · LAP SCOPE IN LARGE ORGANISATIONS · DESIGNATED CLIENT TEAM ONLY · ACADEMIC CRITICISM · REFORM DEBATE LIVE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -1318,7 +1318,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "WITHOUT PREJUDICE · MULLER v LINSLEY [1996] · TWO FOUNDATIONS · UNAMBIGUOUS IMPROPRIETY THRESHOLD TOO HIGH? · RUSH & TOMPKINS THIRD PARTY PROBLEM · ZUCKERMAN CRITIQUE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -1330,10 +1330,10 @@
             "subtopic": "Privilege",
             "front": "⚠️ TRAP CARD\n\nA solicitor sends a letter headed 'Without Prejudice' to the defendant, offering to settle the claim. The defendant's solicitor asks for the letter to be disclosed to the defendant's insurer. The claimant's solicitor refuses, saying the letter is protected by legal professional privilege and cannot be disclosed under any circumstances.",
             "answer": null,
-            "issue": "A letter marked 'without prejudice' feels like it is protected from disclosure. Students who know that LPP is absolute may assume this absolute protection also applies to WP communications — particularly when the claimant's solicitor invokes the combination of 'without prejudice' and absolute privilege.",
-            "rule": "LPP and WP privilege are entirely separate doctrines. LPP protects confidential lawyer-client communications made for the purpose of legal advice or litigation. WP privilege protects genuine settlement negotiations between the parties. A letter sent to the opposing party is not a lawyer-client communication — it cannot attract LPP. It may attract WP privilege, but WP privilege is not absolute: it has recognised exceptions and belongs jointly to both parties.",
-            "application": "The red herring is the 'without prejudice' label on the letter. Students who know WP privilege assume the label is decisive. But WP and LPP are entirely separate doctrines with different scope. The letter here is a solicitor's advice to the client — LPP attaches to that relationship. The WP label is irrelevant to whether LPP applies.",
-            "conclusion": "Without prejudice privilege and LPP are distinct doctrines. LPP protects confidential lawyer-client communications and is absolute. WP privilege protects genuine settlement negotiations between the parties and is not absolute — it has exceptions and is a joint privilege. A letter sent to opposing solicitors cannot be protected by LPP.",
+            "issue": "The Trap: A letter marked 'without prejudice' feels like it is protected from disclosure. Students who know that LPP is absolute may assume this absolute protection also applies to WP communications — particularly when the claimant's solicitor invokes the combination of 'without prejudice' and absolute privilege.",
+            "rule": "The Reality: LPP and WP privilege are entirely separate doctrines. LPP protects confidential lawyer-client communications made for the purpose of legal advice or litigation. WP privilege protects genuine settlement negotiations between the parties. A letter sent to the opposing party is not a lawyer-client communication — it cannot attract LPP. It may attract WP privilege, but WP privilege is not absolute: it has recognised exceptions and belongs jointly to both parties.",
+            "application": "Why the Distractor Fails: The red herring is the 'without prejudice' label on the letter. Students who know WP privilege assume the label is decisive. But WP and LPP are entirely separate doctrines with different scope. The letter here is a solicitor's advice to the client — LPP attaches to that relationship. The WP label is irrelevant to whether LPP applies.",
+            "conclusion": "The Key Rule: Without prejudice privilege and LPP are distinct doctrines. LPP protects confidential lawyer-client communications and is absolute. WP privilege protects genuine settlement negotiations between the parties and is not absolute — it has exceptions and is a joint privilege. A letter sent to opposing solicitors cannot be protected by LPP.",
             "summary_line": "WP PRIVILEGE ≠ LPP · SEPARATE DOCTRINES · LPP IS ABSOLUTE · WP IS NOT ABSOLUTE · WP HAS EXCEPTIONS · JOINT PRIVILEGE · LETTER TO OPPONENT CANNOT BE LPP",
             "is_deeper": 0
           }
@@ -1568,7 +1568,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "IKARIAN REEFER [1993] · EXPERT INDEPENDENCE · SJE REGIME · PARTISAN EXPERT PROBLEM · JONES v KANEY [2011] · EXPERT IMMUNITY ABOLISHED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1682,10 +1682,10 @@
             "subtopic": "Interim Injunctions",
             "front": "⚠️ TRAP CARD\n\nA newspaper is about to publish a story that a public figure says is defamatory and private. The public figure's barrister applies for an interim injunction to restrain publication. She argues the case easily clears the American Cyanamid threshold: there is plainly a serious question to be tried on both defamation and misuse of private information.",
             "answer": null,
-            "issue": "The barrister correctly identifies the American Cyanamid test — and the case clearly passes the 'serious question to be tried' threshold on both claims. Students who know American Cyanamid will assess the test, conclude it is passed, and proceed to consider adequacy of damages and balance of convenience.",
-            "rule": "American Cyanamid does not apply to applications for interim injunctions to restrain publication. Section 12(3) Human Rights Act 1998 provides that where a court is considering whether to grant relief that might affect the exercise of the Convention right to freedom of expression (Art 10), no such relief is to be granted unless the court is satisfied the applicant is likely to succeed at trial. 'Likely' means more probable than not — a significantly higher threshold than 'serious question to be tried'.",
-            "application": "The red herring is the American Cyanamid test, which governs most interim injunction applications and which students correctly identify. But s.12(3) HRA 1998 expressly modifies the test where freedom of expression is engaged and the respondent is not present. The higher threshold — likely to establish at trial — replaces the balance of convenience stage.",
-            "conclusion": "Section 12(3) HRA 1998 disapplies American Cyanamid in cases where the injunction would restrict publication. The threshold is elevated from 'serious question to be tried' to 'likely to succeed at trial' (more probable than not). Always check whether the injunction would restrain publication before applying the standard American Cyanamid test.",
+            "issue": "The Trap: The barrister correctly identifies the American Cyanamid test — and the case clearly passes the 'serious question to be tried' threshold on both claims. Students who know American Cyanamid will assess the test, conclude it is passed, and proceed to consider adequacy of damages and balance of convenience.",
+            "rule": "The Reality: American Cyanamid does not apply to applications for interim injunctions to restrain publication. Section 12(3) Human Rights Act 1998 provides that where a court is considering whether to grant relief that might affect the exercise of the Convention right to freedom of expression (Art 10), no such relief is to be granted unless the court is satisfied the applicant is likely to succeed at trial. 'Likely' means more probable than not — a significantly higher threshold than 'serious question to be tried'.",
+            "application": "Why the Distractor Fails: The red herring is the American Cyanamid test, which governs most interim injunction applications and which students correctly identify. But s.12(3) HRA 1998 expressly modifies the test where freedom of expression is engaged and the respondent is not present. The higher threshold — likely to establish at trial — replaces the balance of convenience stage.",
+            "conclusion": "The Key Rule: Section 12(3) HRA 1998 disapplies American Cyanamid in cases where the injunction would restrict publication. The threshold is elevated from 'serious question to be tried' to 'likely to succeed at trial' (more probable than not). Always check whether the injunction would restrain publication before applying the standard American Cyanamid test.",
             "summary_line": "s12(3) HRA 1998 · PUBLICATION CASES · LIKELY TO SUCCEED AT TRIAL · NOT AMERICAN CYANAMID · MORE PROBABLE THAN NOT · ART 10 FREEDOM OF EXPRESSION",
             "is_deeper": 0
           }
@@ -1768,7 +1768,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "WORLDWIDE FREEZING ORDER · DERBY v WELDON [1990] · JURISDICTIONAL OVERREACH · INTERNATIONAL COMITY · CARVE-OUTS · ENFORCEMENT ABROAD · DADOURIAN GUIDELINES",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1958,6 +1958,66 @@
             "conclusion": null,
             "summary_line": "SUMMARY JUDGMENT · GENUINE TRIABLE ISSUE · EXPERT VALUATION · REAL PROSPECT IF EXPERT COULD SUPPORT DEFENDANT · PERIPHERAL ISSUE MAY NOT DEFEAT · NOT FANCIFUL",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-099",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What does 'no real prospect of succeeding' mean for summary judgment under CPR 24.2?",
+            "answer": "The test for summary judgment under CPR 24.2 is whether the claim or defence has a **real** (as opposed to **fanciful**) prospect of success.\n\n**Key principles from Swain v Hillman [2001]:**\n- A prospect is 'real' if it is more than fanciful but need not be 'likely to succeed' — it need not pass the balance of probabilities threshold.\n- The court does **not conduct a mini-trial** — it does not resolve disputed questions of fact or assess the weight of conflicting evidence.\n- The court takes the **respondent's factual case at its highest** — the court assumes the best reasonably arguable version of the respondent's facts.\n- A case is suitable for summary judgment where, even on the respondent's best case, there is no viable legal claim or defence.\n\n**The threshold:** Higher than 'arguable' but lower than 'probable'. The question is whether the case has any real substance or is merely speculative.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CPR 24.2 TEST · REAL NOT FANCIFUL · SWAIN V HILLMAN · NO MINI-TRIAL · RESPONDENT'S CASE AT HIGHEST · NOT BALANCE OF PROBABILITIES"
+          },
+          {
+            "card_code": "FLK1-DR-100",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "Who can apply for summary judgment under CPR 24 and at what stage can they do so?",
+            "answer": "**Who can apply:**\n- Either the **claimant** or the **defendant** may apply for summary judgment.\n- The claimant applies to have the whole claim or part of it determined in their favour.\n- The defendant applies to dismiss the whole claim or part of it.\n- The **court itself** cannot ordinarily grant summary judgment of its own motion (unlike strike out, where the court has a limited power to act of its own motion in certain circumstances).\n\n**Timing:**\n- A claimant may apply after the defendant has **filed an acknowledgment of service or defence**.\n- A defendant may apply **after filing an acknowledgment of service** and before or after filing a defence.\n- The court may grant summary judgment at any stage in the proceedings — but the application should be made promptly, typically **before the case management conference**.\n\n**CPR 24.3:** The court may give summary judgment against a claimant or defendant on the whole claim, part of a claim, or on a particular issue.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EITHER PARTY CAN APPLY · NOT COURT OWN MOTION · AFTER ACKNOWLEDGMENT OR DEFENCE · PROMPTLY BEFORE CMC · CPR 24.3"
+          },
+          {
+            "card_code": "FLK1-DR-101",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are conditional orders under CPR 24 and when does the court impose them instead of giving summary judgment?",
+            "answer": "A **conditional order** under CPR 24.6 is an order that requires a party to comply with a condition — typically paying a sum of money into court or providing security — before being permitted to proceed with their claim or defence.\n\n**When used:** The court may make a conditional order (rather than giving full summary judgment) where:\n- The claim or defence is **improbable or ill-founded** but not wholly hopeless — there is a real (if weak) prospect of success.\n- The court is not prepared to give full summary judgment but wants to protect against an unmeritorious case proceeding without some security.\n\n**Effect:** If the party complies with the condition, the case proceeds. If they fail to comply, the claim or defence is struck out or judgment is entered for the other side.\n\n**Purpose:** Balances access to justice (not removing a case outright if it has some merit) against protecting against weak or speculative claims proceeding without check.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONDITIONAL ORDER · CPR 24.6 · PAY INTO COURT · IMPROBABLE BUT NOT HOPELESS · SECURITY FOR WEAK CASE · STRIKE OUT IF NON-COMPLIANCE"
+          },
+          {
+            "card_code": "FLK1-DR-CASE-015",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Three Rivers DC v Bank of England (No.3) [2003] 2 AC 1",
+            "answer": null,
+            "issue": "What is the correct standard of scrutiny when a court assesses whether a claim has 'no real prospect of success' for the purposes of summary judgment under CPR 24.2?",
+            "rule": "The court must take the claimant's factual case at its highest — accepting all well-pleaded facts in the particulars of claim as if they were proven. The question is not whether the claimant is likely to succeed, but whether there is a real (non-fanciful) prospect of success. The court does not resolve disputed questions of fact, assess credibility, or conduct a mini-trial.",
+            "application": "The House of Lords emphasised that on a summary judgment application, the respondent's factual case (as pleaded) is taken as established. The applicant must show that even on that basis, the claim cannot succeed in law. The court will not examine the weight of evidence or prefer one version of events over another — that is the function of a trial.",
+            "conclusion": "Three Rivers (No.3) confirmed that 'no real prospect of success' is applied by taking the respondent's case at its highest and asking whether, on that footing, the law permits the claim to succeed. It sets a high threshold for the applicant — the case must be truly unsustainable in law, not merely improbable in fact.",
+            "summary_line": "THREE RIVERS NO.3 · RESPONDENT'S CASE AT HIGHEST · NO MINI-TRIAL · HIGH THRESHOLD FOR APPLICANT · UNSUSTAINABLE IN LAW NOT IMPROBABLE IN FACT"
+          },
+          {
+            "card_code": "FLK1-DR-SCE-064",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A defendant argues both that (a) the claimant's particulars of claim disclose no reasonable cause of action in law, and (b) even if the claim is legally sound, there is no real prospect of the claimant succeeding on the facts. What application(s) should the defendant pursue?",
+            "answer": "The defendant should pursue **two separate applications**:\n\n**Application 1 — Strike out under CPR 3.4(2)(a):**\nTargets argument (a) — the pleadings themselves. This is a point of law: does the particulars of claim, taken at face value, disclose a recognisable cause of action? The court looks only at the document, not at evidence.\n\n**Application 2 — Summary judgment under CPR 24.2:**\nTargets argument (b) — the factual merits. The court reviews the evidence to determine whether, even taking the claimant's facts at their highest, there is no real (non-fanciful) prospect of success.\n\n**The distinction:**\n- Strike out: 'Even if everything the claimant says is true, the law gives no remedy.' (Legal question.)\n- Summary judgment: 'The claimant cannot realistically prove their factual case.' (Factual/evidential question.)\n\n**Practical approach:** Make both applications in the alternative. If the claim is legally defective, strike out is quicker and cheaper. If the legal framework is sound but the evidence is weak, summary judgment is the appropriate route.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "STRIKE OUT FOR LEGAL DEFECT · SUMMARY JUDGMENT FOR FACTUAL WEAKNESS · TWO SEPARATE APPLICATIONS · IN THE ALTERNATIVE · PLEADINGS VS EVIDENCE"
           }
         ],
         "Strike Out": [
@@ -1992,6 +2052,44 @@
             "conclusion": null,
             "summary_line": "STRIKE OUT · CPR 3.4(2)(a) · NO REASONABLE GROUNDS · PARTICULARS INADEQUATE · NO CAUSE OF ACTION · AMENDMENT OPPORTUNITY · CPR 16.4",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-102",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the four grounds for strike out under CPR 3.4 and how do they differ from summary judgment?",
+            "answer": "**CPR 3.4 — Grounds for strike out:**\n1. **No reasonable grounds for bringing or defending the claim** — the pleading on its face discloses no recognisable cause of action or defence in law.\n2. **Abuse of process** or conduct likely to obstruct the just disposal of proceedings — e.g. vexatious claims, re-litigation, harassment.\n3. **Non-compliance** with a rule, practice direction, or court order — e.g. failure to file particulars of claim by a deadline.\n4. **Failure to comply with pre-action protocol** (less commonly relied on as a standalone ground).\n\n**How strike out differs from summary judgment:**\n- **Strike out (CPR 3.4):** Concerned with the **pleadings** — whether the claim or defence has a legal basis on its face. It is a point of **law**, not fact.\n- **Summary judgment (CPR 24):** Concerned with the **evidence** — whether, on the facts and law, there is a real prospect of success. It requires an assessment of the factual merits.\n- A case may be legally sound but factually hopeless (summary judgment); or factually colourful but legally misconceived (strike out).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "STRIKE OUT CPR 3.4 · NO REASONABLE GROUNDS · ABUSE OF PROCESS · NON-COMPLIANCE · LEGAL QUESTION · DIFFERS FROM SUMMARY JUDGMENT FACTUAL MERITS"
+          },
+          {
+            "card_code": "FLK1-DR-103",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What conduct constitutes 'abuse of process' for the purposes of strike out under CPR 3.4(2)(b)?",
+            "answer": "Abuse of process under CPR 3.4(2)(b) covers conduct that is so improper that allowing the proceedings to continue would be an affront to justice. Key examples:\n\n1. **Re-litigation** — bringing a claim that has already been decided between the same parties (*Henderson v Henderson* rule; cause of action estoppel; issue estoppel).\n2. **Collateral attacks** on previous decisions — challenging findings of fact or law that should have been raised in earlier proceedings.\n3. **Vexatious claims** — proceedings brought for the purpose of harassment or oppression, not to vindicate a legal right.\n4. **Deliberate manipulation** of procedural steps — e.g. engineering delay, pursuing unfounded applications.\n5. **Claims brought in bad faith** — where the claimant knows the claim has no merit.\n\n**The test:** The court asks whether it is an abuse of the court's process to allow the claim or defence to continue. This is a high bar — courts are reluctant to shut out even arguable cases.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ABUSE OF PROCESS CPR 3.4(2)(b) · RE-LITIGATION · HENDERSON V HENDERSON · VEXATIOUS CLAIMS · COLLATERAL ATTACKS · HIGH BAR"
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-DR-TRAP-014",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA student says: 'Strike out and summary judgment are basically interchangeable — they both remove weak claims before trial, and the same test applies to both.'",
+            "answer": null,
+            "issue": "The Trap: Strike out and summary judgment are the same procedure applied to the same test — 'no real prospect of success' — because they both result in dismissal before trial.",
+            "rule": "The Reality: Strike out (CPR 3.4) and summary judgment (CPR 24.2) are **distinct remedies with different tests and different focuses**. Strike out is concerned with whether the **pleadings** disclose a legally viable claim or defence — it is a question of law assessed from the face of the documents. Summary judgment is concerned with whether there is a **real prospect of succeeding on the merits** — it requires an assessment of evidence and facts. The 'no real prospect' language appears in CPR 24.2 only, not in CPR 3.4.",
+            "application": "Why the Distractor Fails: Because both procedures can end a case before trial, students conflate them. The key conceptual distinction is: strike out asks 'does this claim have a legal basis at all?'; summary judgment asks 'can this claim succeed on the evidence?'. A case can be legally well-founded but evidentially hopeless (suitable for summary judgment), or legally misconceived even on strong facts (suitable for strike out). The procedures are not interchangeable.",
+            "conclusion": "The Key Rule: Strike out = legal sufficiency of pleadings (CPR 3.4); Summary judgment = factual and evidential merits (CPR 24.2). Different tests, different grounds, different remedies. Always identify which applies to your specific argument.",
+            "summary_line": "STRIKE OUT ≠ SUMMARY JUDGMENT · CPR 3.4 VS CPR 24.2 · LEGAL SUFFICIENCY VS FACTUAL MERITS · DIFFERENT TESTS · NOT INTERCHANGEABLE"
           }
         ]
       },
@@ -2156,7 +2254,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PART 36 · CONSTITUTIONALITY · AUTOMATIC CONSEQUENCES · UNJUST EXCEPTION NARROW · GIBBON v MANCHESTER [2010] · ADDITIONAL AMOUNT AS PUNITIVE DAMAGES · GOURLAY CRITIQUE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2168,10 +2266,10 @@
             "subtopic": "Costs Consequences",
             "front": "⚠️ TRAP CARD\n\nThe claimant makes a Part 36 offer to accept £80,000. The defendant rejects it. At trial, the claimant is awarded £80,000. The defendant's solicitor says the enhanced Part 36 consequences do not apply because the claimant only matched their offer — they needed to exceed it to trigger the enhanced costs regime.",
             "answer": null,
-            "issue": "The word 'exceeds' feels intuitive when thinking about beating an offer. Students often assume that to obtain the enhanced consequences, the claimant's judgment must exceed (be higher than) their Part 36 offer. '£80,000 offer, £80,000 judgment' feels like a draw, not a win.",
-            "rule": "Under CPR 36.17(4), the enhanced consequences apply where judgment is 'at least as advantageous to the claimant' as their Part 36 offer. 'At least as advantageous' means equal or better — not strictly greater than. A judgment of exactly £80,000 is at least as advantageous as an offer of £80,000. All four CPR 36.17(4) consequences apply.",
-            "application": "The red herring is the word 'exceeds'. Students who know Part 36 vaguely recall that the claimant must 'beat' or 'exceed' the offer. But CPR 36.17(4) uses 'at least as advantageous' — which includes matching the offer exactly. A claimant whose judgment equals the Part 36 offer gets the enhanced consequences.",
-            "conclusion": "'At least as advantageous' means equal or better. A claimant whose judgment matches their Part 36 offer exactly triggers the full CPR 36.17(4) consequences. The defendant's solicitor was wrong — 'exceeds' is not the statutory test.",
+            "issue": "The Trap: The word 'exceeds' feels intuitive when thinking about beating an offer. Students often assume that to obtain the enhanced consequences, the claimant's judgment must exceed (be higher than) their Part 36 offer. '£80,000 offer, £80,000 judgment' feels like a draw, not a win.",
+            "rule": "The Reality: Under CPR 36.17(4), the enhanced consequences apply where judgment is 'at least as advantageous to the claimant' as their Part 36 offer. 'At least as advantageous' means equal or better — not strictly greater than. A judgment of exactly £80,000 is at least as advantageous as an offer of £80,000. All four CPR 36.17(4) consequences apply.",
+            "application": "Why the Distractor Fails: The red herring is the word 'exceeds'. Students who know Part 36 vaguely recall that the claimant must 'beat' or 'exceed' the offer. But CPR 36.17(4) uses 'at least as advantageous' — which includes matching the offer exactly. A claimant whose judgment equals the Part 36 offer gets the enhanced consequences.",
+            "conclusion": "The Key Rule: 'At least as advantageous' means equal or better. A claimant whose judgment matches their Part 36 offer exactly triggers the full CPR 36.17(4) consequences. The defendant's solicitor was wrong — 'exceeds' is not the statutory test.",
             "summary_line": "PART 36 · CPR 36.17(4) · AT LEAST AS ADVANTAGEOUS = EQUAL OR BETTER · NOT STRICTLY GREATER · £80,000 = £80,000 TRIGGERS FULL CONSEQUENCES",
             "is_deeper": 0
           }
@@ -2252,10 +2350,10 @@
             "subtopic": "General Principles",
             "front": "⚠️ TRAP CARD\n\nThe claimant wins at trial and is awarded standard basis costs. On detailed assessment, the costs officer has doubts about whether a £5,000 item for specialist counsel's advice was reasonably incurred. The costs officer says they will resolve the doubt against the claimant and disallow the item.",
             "answer": null,
-            "issue": "Students who know standard basis costs will recall the rule: 'doubt goes against the receiving party on standard basis'. They agree with the costs officer. But this scenario is actually checking whether students will mistakenly reverse the standard — confusing the standard and indemnity bases.",
-            "rule": "The costs officer is applying the correct rule. Under CPR 44.3(2), on the standard basis, the court resolves any doubt about whether costs were reasonably incurred against the receiving party (the claimant). The £5,000 item will be disallowed. If the claimant had been awarded indemnity costs, the position would be reversed — under CPR 44.3(3), doubt on indemnity basis is resolved in favour of the receiving party.",
-            "application": "The red herring is the student's recall that standard basis costs are awarded 'against the receiving party'. This is correct but misapplied — the doubt rule means doubt is resolved against the receiving party (i.e. in favour of the paying party). The costs officer is not applying the rule incorrectly; the student has confused direction with effect.",
-            "conclusion": "On the standard basis, doubt is resolved against the receiving party — items in doubt are disallowed. On the indemnity basis, doubt is resolved in favour of the receiving party — items in doubt are allowed. The direction of doubt reversal is the key distinction between the two bases.",
+            "issue": "The Trap: Students who know standard basis costs will recall the rule: 'doubt goes against the receiving party on standard basis'. They agree with the costs officer. But this scenario is actually checking whether students will mistakenly reverse the standard — confusing the standard and indemnity bases.",
+            "rule": "The Reality: The costs officer is applying the correct rule. Under CPR 44.3(2), on the standard basis, the court resolves any doubt about whether costs were reasonably incurred against the receiving party (the claimant). The £5,000 item will be disallowed. If the claimant had been awarded indemnity costs, the position would be reversed — under CPR 44.3(3), doubt on indemnity basis is resolved in favour of the receiving party.",
+            "application": "Why the Distractor Fails: The red herring is the student's recall that standard basis costs are awarded 'against the receiving party'. This is correct but misapplied — the doubt rule means doubt is resolved against the receiving party (i.e. in favour of the paying party). The costs officer is not applying the rule incorrectly; the student has confused direction with effect.",
+            "conclusion": "The Key Rule: On the standard basis, doubt is resolved against the receiving party — items in doubt are disallowed. On the indemnity basis, doubt is resolved in favour of the receiving party — items in doubt are allowed. The direction of doubt reversal is the key distinction between the two bases.",
             "summary_line": "STANDARD BASIS · DOUBT AGAINST RECEIVING PARTY · INDEMNITY BASIS · DOUBT FOR RECEIVING PARTY · CPR 44.3(2) AND (3) · DIRECTION OF DOUBT REVERSAL",
             "is_deeper": 0
           }
@@ -2306,7 +2404,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "QOCS · JACKSON REFORMS · LASPO 2012 · SUCCESS FEES AND ATE REMOVED · DISBURSEMENTS NOT COVERED · FUNDAMENTAL DISHONESTY USED AGGRESSIVELY · MULHERON CRITIQUE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2318,10 +2416,10 @@
             "subtopic": "QOCS",
             "front": "⚠️ TRAP CARD\n\nA personal injury claimant wins on liability but is awarded only £8,000 in damages — less than the defendant's Part 36 offer of £12,000. The defendant has a costs order against the claimant from the date the relevant period expired. The claimant's solicitor says QOCS means the defendant cannot enforce any costs at all.",
             "answer": null,
-            "issue": "Students know QOCS protects PI claimants from adverse costs orders and apply it absolutely: 'QOCS means no costs liability'. The claimant won — liability established and damages awarded — which makes the QOCS protection feel even stronger.",
-            "rule": "QOCS does not provide absolute protection. Under CPR 44.14, orders for costs against a claimant may be enforced to the extent of the claimant's damages and interest awarded. The defendant's costs order (from expiry of the Part 36 relevant period) may be set off against the £8,000 award. If the defendant's costs exceed £8,000, the defendant can enforce up to £8,000 — the amount of the claimant's damages. The claimant ends up with nothing, not because QOCS was 'lost', but because CPR 44.14 permits enforcement up to the value of damages.",
-            "application": "The red herring is the label 'QOCS protection', which sounds absolute. Students know QOCS shields PI claimants from adverse costs orders and assume total immunity. But CPR 44.14 caps, not eliminates, liability — enforcement is limited to the amount of damages and interest awarded. Conduct that constitutes fundamental dishonesty removes QOCS entirely.",
-            "conclusion": "QOCS does not mean zero costs liability. It caps the claimant's costs liability at the level of their damages and interest — not at nil. Where a claimant fails to beat a Part 36 offer, the defendant's costs from expiry of the relevant period are set off against the claimant's damages. A claimant with a modest award against a large adverse costs order may recover nothing in practice.",
+            "issue": "The Trap: Students know QOCS protects PI claimants from adverse costs orders and apply it absolutely: 'QOCS means no costs liability'. The claimant won — liability established and damages awarded — which makes the QOCS protection feel even stronger.",
+            "rule": "The Reality: QOCS does not provide absolute protection. Under CPR 44.14, orders for costs against a claimant may be enforced to the extent of the claimant's damages and interest awarded. The defendant's costs order (from expiry of the Part 36 relevant period) may be set off against the £8,000 award. If the defendant's costs exceed £8,000, the defendant can enforce up to £8,000 — the amount of the claimant's damages. The claimant ends up with nothing, not because QOCS was 'lost', but because CPR 44.14 permits enforcement up to the value of damages.",
+            "application": "Why the Distractor Fails: The red herring is the label 'QOCS protection', which sounds absolute. Students know QOCS shields PI claimants from adverse costs orders and assume total immunity. But CPR 44.14 caps, not eliminates, liability — enforcement is limited to the amount of damages and interest awarded. Conduct that constitutes fundamental dishonesty removes QOCS entirely.",
+            "conclusion": "The Key Rule: QOCS does not mean zero costs liability. It caps the claimant's costs liability at the level of their damages and interest — not at nil. Where a claimant fails to beat a Part 36 offer, the defendant's costs from expiry of the relevant period are set off against the claimant's damages. A claimant with a modest award against a large adverse costs order may recover nothing in practice.",
             "summary_line": "QOCS · CPR 44.14 · ENFORCED UP TO LEVEL OF DAMAGES · NOT ABSOLUTE ZERO LIABILITY · PART 36 SET-OFF AGAINST DAMAGES · CLAIMANT MAY RECOVER NOTHING",
             "is_deeper": 0
           }
@@ -2356,7 +2454,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "COSTS BUDGETING · JACKSON REFORMS · PRECEDENT H · ASYMMETRIC IMPACT · CPR 3.14 SLEDGEHAMMER · CPR 3.18 BUDGET-FOLLOWING · SHARP v BLANK [2017]",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2480,6 +2578,30 @@
             "conclusion": null,
             "summary_line": "FAST TRACK TRIAL · OPENING SPEECH DISPENSED WITH · OVERRIDING OBJECTIVE · JUDGE'S CASE MANAGEMENT POWERS · CLOSING SUBMISSIONS REMAIN",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-104",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the key procedural steps in a multi-track trial under the CPR, and how is judgment given?",
+            "answer": "At trial: (1) the judge will usually have read the trial bundle and witness statements in advance; (2) the claimant's advocate opens the case; (3) the claimant's witnesses give evidence (examination-in-chief is largely via pre-served statements; witnesses are cross-examined and may be re-examined); (4) claimant closes its evidence; (5) defendant's witnesses give evidence; (6) closing submissions from both sides. The judge then gives judgment — either immediately (a 'bench judgment') or reserved (handed down later in writing). The judge must give reasons. Any dissatisfied party may seek permission to appeal (CPR Part 52).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TRIAL PROCEDURE · OPENING · WITNESS STATEMENTS · CROSS-EXAMINATION · CLOSING SUBMISSIONS · BENCH JUDGMENT · REASONS REQUIRED"
+          },
+          {
+            "card_code": "FLK1-DR-SCE-065",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A claimant in a multi-track clinical negligence case served an expert report from Dr Patel (orthopaedic surgeon) in disclosure. At the CMC, no order was made permitting Dr Patel to give oral evidence at trial. The claimant now wishes to call Dr Patel at trial to expand on the report. Can she do so?",
+            "answer": "No, not without the court's permission. Under CPR r.35.5(2), expert evidence at trial must be given in written form unless the court otherwise orders. Permission to call an expert orally at trial must be obtained — it is not automatic on service of a written report. Since the CMC did not grant permission for Dr Patel to give oral evidence, the claimant must apply to court for permission, which the court will grant only if it is necessary for the fair resolution of the proceedings. The claimant should apply as soon as possible and show good reason — delay and cost implications will weigh against her.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EXPERT ORAL EVIDENCE · PERMISSION REQUIRED · CPR R.35.5(2) · CMC ORDER · WRITTEN DEFAULT · APPLY TO COURT"
           }
         ],
         "Burden & Standard of Proof": [
@@ -2544,7 +2666,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CONTEMPT · CRIMINAL STANDARD · RE BRAMBLEVALE [1970] · CIVIL PROCEDURE + CRIMINAL STANDARD = ANOMALY · LOWE AND BORRIE · LAW COMMISSION 1994",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -2566,6 +2688,18 @@
             "conclusion": null,
             "summary_line": "ENFORCEMENT · WARRANT OF CONTROL · THIRD PARTY DEBT ORDER · CHARGING ORDER · ATTACHMENT OF EARNINGS · INSOLVENCY",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nHaving obtained a final charging order over the judgment debtor's home, a creditor tells their client: 'We're done — the debt is secured and you'll get your money when the house is sold.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: A final charging order automatically results in recovery of the debt when the property is sold, and no further action is required.",
+            "rule": "The Reality: A final charging order **secures** the debt against the property but does **not** by itself compel sale or guarantee recovery. The charging order gives the creditor rights equivalent to a mortgagee — but the debtor is not required to sell. If the debtor does not sell voluntarily, the creditor must make a **separate application for an order for sale** under CPR Part 73 and s.14 Charging Orders Act 1979. The court has a **discretion** whether to grant the order for sale and will consider factors including the debtor's personal circumstances and any co-owners' interests.",
+            "application": "Why the Distractor Fails: Students confuse the charging order (a security) with enforcement itself. The two-step process is: (1) interim charging order → (2) final charging order → (3) separate application for order for sale. Each stage requires a court application. Even after a final charging order, recovery is not automatic — the debtor may live in the property indefinitely without selling, and the court may delay or refuse an order for sale. The creditor's advice to the client is therefore premature and incorrect.",
+            "conclusion": "The Key Rule: Charging order = security only. Recovery = order for sale (separate application, court discretion). A charging order does not force or guarantee sale.",
+            "summary_line": "CHARGING ORDER SECURITY ONLY · ORDER FOR SALE SEPARATE APPLICATION · COURT DISCRETION · COA 1979 S.14 · NOT AUTOMATIC RECOVERY · TWO-STEP PROCESS"
           }
         ],
         "Charging Order": [
@@ -2653,6 +2787,76 @@
             "summary_line": "CONTEMPT · BREACH OF INJUNCTION · PERSONAL SERVICE ON DIRECTOR REQUIRED · PENAL NOTICE · SERVICE ON SOLICITORS INSUFFICIENT · RE-SERVE FIRST",
             "is_deeper": 0
           }
+        ],
+        "Attachment of Earnings": [
+          {
+            "card_code": "FLK1-DR-090",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is an attachment of earnings order, when is it available, and what does it achieve?",
+            "answer": "An attachment of earnings order (AEO) requires a judgment debtor's **employer** to deduct a specified sum from the debtor's wages and pay it directly to the creditor. It is governed by the Attachment of Earnings Act 1971 (AEA 1971).\n\n**When available:**\n- Only where the judgment debtor is an **employee** (not self-employed or unemployed).\n- Available in the County Court for judgment debts of **£50 or more** (no minimum in maintenance proceedings).\n- Available in magistrates' courts for maintenance orders.\n\n**The order:**\n- The court sets a **normal deduction rate** (amount deducted from each pay period) and a **protected earnings rate** (minimum income the debtor must retain — court will not reduce income below this level).\n- If earnings fall below the protected rate in any period, no deduction is made that period.\n\n**Process:**\n1. Creditor applies to County Court.\n2. Court sends notice to debtor, who must complete a statement of means.\n3. Court sets the order; served on employer.\n\n**Limitation:** Useless against unemployed or self-employed judgment debtors — consider third party debt order or charging order instead.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ATTACHMENT OF EARNINGS · AEA 1971 · EMPLOYEES ONLY · NORMAL DEDUCTION RATE · PROTECTED EARNINGS RATE · COUNTY COURT · £50 MINIMUM"
+          }
+        ],
+        "Warrant of Control": [
+          {
+            "card_code": "FLK1-DR-091",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is a warrant of control and how does it operate as an enforcement method?",
+            "answer": "A warrant of control (formerly the writ of fi.fa. in the High Court and warrant of execution in the County Court) empowers a **court enforcement officer** (High Court Enforcement Officer in the High Court; enforcement agent in the County Court) to attend at the judgment debtor's premises and seize and sell goods belonging to the debtor to satisfy the debt.\n\n**Operation:**\n1. Creditor applies to the court for issue of the warrant.\n2. The enforcement officer visits the debtor's address and **takes control of goods** — often by taking a controlled goods agreement (CGA), where the debtor acknowledges the officer's authority and agrees not to remove or dispose of the goods.\n3. If the debt is not paid within the CGA period, the officer removes and sells the goods at auction.\n\n**Exempt goods (cannot be seized):**\n- Items necessary for a basic domestic need (beds, cooker, fridge).\n- Tools of the debtor's trade (up to £1,350 in value).\n- Goods on hire purchase or belonging to third parties.\n\n**Where to enforce:**\n- County Court: County Court warrant of control.\n- High Court: writ of control (transferred from County Court if judgment exceeds £600 or creditor chooses).\n\n**Limitation:** Ineffective if the debtor has no seizable assets.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "WARRANT OF CONTROL · ENFORCEMENT OFFICER · SEIZE AND SELL GOODS · CONTROLLED GOODS AGREEMENT · EXEMPT GOODS · HIGH COURT WRIT OF CONTROL"
+          }
+        ],
+        "Order to Obtain Information": [
+          {
+            "card_code": "FLK1-DR-092",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is an order to obtain information (formerly an oral examination), when is it used, and what is its purpose?",
+            "answer": "An order to obtain information (CPR Part 71) — formerly called an oral examination — requires the judgment debtor (or, if a company, its officer) to attend court and be questioned under oath about their **means and assets**.\n\n**Purpose:** It is an **investigative tool**, not itself an enforcement mechanism. Its purpose is to identify assets so the creditor can choose the most effective enforcement method.\n\n**When used:**\n- Creditor has a judgment but is uncertain what assets the debtor has.\n- Previous enforcement attempts have failed or the creditor needs to locate bank accounts, property, or other assets.\n\n**Process:**\n1. Creditor applies to the County Court on notice, producing the judgment.\n2. Court issues an order requiring the debtor to attend court on a specified date.\n3. Debtor is questioned under oath by the creditor (or court officer) about income, assets, debts, outgoings, and property.\n4. Failure to comply without good reason is a contempt of court.\n\n**Outcome:** The information obtained then informs which enforcement method to use (e.g. third party debt order if bank accounts identified; charging order if property identified; attachment of earnings if employed).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ORDER TO OBTAIN INFORMATION · CPR PART 71 · ORAL EXAMINATION · INVESTIGATIVE ONLY · OATH · CONTEMPT FOR NON-COMPLIANCE · IDENTIFIES ASSETS"
+          }
+        ],
+        "Selecting Enforcement Methods": [
+          {
+            "card_code": "FLK1-DR-093",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A creditor holds a County Court judgment for £25,000 and knows the debtor is employed and owns a house with equity, but also has a bank account. What factors determine which enforcement method(s) to select?",
+            "answer": "The creditor should assess the following:\n\n**1. Attachment of earnings (AEO — AEA 1971):**\n- Available because the debtor is **employed**.\n- Provides steady recovery from wages — suitable if the debt is medium-term and the creditor can wait.\n- Risk: debtor could lose their job.\n\n**2. Charging order (CPR Part 73):**\n- Available because the debtor **owns property with equity**.\n- Secures the judgment debt against the property — creditor becomes a secured creditor.\n- Does **not** guarantee immediate payment — only crystallises on sale or order for sale.\n- Apply for an order for sale separately once the charging order is final.\n- Best if the debtor is likely to sell the property, or if long-term security is the priority.\n\n**3. Third party debt order (CPR Part 72):**\n- Available if the debtor has a **bank account** with sufficient funds.\n- Can freeze and transfer funds quickly — most immediate method.\n- Risk: account may be empty at the time the interim order is served.\n\n**Strategic approach:**\n- Use the order to obtain information (CPR Part 71) first if the position is unclear.\n- For maximum security: obtain a charging order while also pursuing AEO or TPDO for immediate cash.\n- Multiple methods can run simultaneously — creditor cannot recover more than the judgment debt in total.\n\n**Key principle:** Choose the method that matches the debtor's actual assets — the most powerful tool is worthless against assets the debtor does not have.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ENFORCEMENT SELECTION · AEO EMPLOYED · CHARGING ORDER PROPERTY · TPDO BANK ACCOUNT · PART 71 INVESTIGATIVE · MULTIPLE CONCURRENT METHODS PERMITTED"
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-DR-SCE-062",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Suresh holds a County Court judgment for £18,000 against Felix, a self-employed plumber. Felix owns a residential buy-to-let property worth £200,000 (mortgage of £140,000). He banks with Nationwide. Suresh's solicitor has confirmed Felix has no employer. Advise Suresh on the most suitable enforcement method(s).",
+            "answer": "**Attachment of earnings is unavailable** — Felix is self-employed, so there is no employer to attach.\n\n**Recommended approach:**\n\n**1. Third party debt order (CPR Part 72) — immediate option:**\n- Felix has a Nationwide bank account. A TPDO can freeze and transfer funds to Suresh.\n- Apply without notice; the interim order is served on Nationwide, which must freeze the account up to the judgment debt.\n- Risk: account may be insufficient at the time of service. Suresh should act quickly and consider timing (e.g. after rent payments arrive in the account).\n\n**2. Charging order (CPR Part 73) — medium-term security:**\n- The buy-to-let property has equity of £60,000 (£200,000 − £140,000) — sufficient to secure the £18,000 judgment.\n- Suresh applies for an interim charging order (without notice), then final charging order at the hearing.\n- This secures the debt but does not produce immediate cash — Suresh would need a subsequent application for an **order for sale** to realise the asset.\n\n**Recommendation:** Pursue both simultaneously:\n- TPDO to attempt immediate recovery from the bank account.\n- Charging order to secure the debt against the property as a fallback.\n\n**Note:** Suresh may also consider an order to obtain information (CPR Part 71) if he is uncertain about other assets.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SELF-EMPLOYED NO AEO · TPDO BANK ACCOUNT IMMEDIATE · CHARGING ORDER PROPERTY SECURITY · ORDER FOR SALE FOLLOW-UP · CONCURRENT METHODS"
+          }
         ]
       },
       "Appeals": {
@@ -2720,6 +2924,78 @@
             "conclusion": null,
             "summary_line": "APPEAL · CPR 52.21(3) · REVIEW NOT REHEARING · FINDINGS OF FACT: RELUCTANT TO DISTURB · EXPERT PREFERENCE = FACT · NEED ERROR OF LAW OR PERVERSE FINDING",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-095",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When is permission to appeal required in civil proceedings and what is the test under CPR 52.6?",
+            "answer": "Permission to appeal is required for all appeals except where a rule or statute provides otherwise (CPR 52.3).\n\n**The test (CPR 52.6(1)):** The court will grant permission only if:\n- The appeal has a **real prospect of success**, OR\n- There is some **other compelling reason** for the appeal to be heard.\n\n**Who grants permission:**\n- Usually sought from the **court that made the decision** (lower court) at the hearing at which the decision was made.\n- If refused below, the applicant may **renew the application** to the appellate court (Court of Appeal or High Court).\n- Second appeals (Court of Appeal → Supreme Court) require the Court of Appeal to certify that the case raises a point of law of general public importance.\n\n**Real prospect of success:** A real as opposed to a fanciful prospect. Not a threshold of 'more likely than not.'",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PERMISSION REQUIRED · CPR 52.6 · REAL PROSPECT OF SUCCESS · OTHER COMPELLING REASON · SOUGHT FROM LOWER COURT FIRST · RENEWAL AVAILABLE"
+          },
+          {
+            "card_code": "FLK1-DR-096",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "On what grounds can the appeal court interfere with a first instance judge's decision? How do errors of law and errors of fact differ?",
+            "answer": "Under CPR 52.21, an appeal court will only allow an appeal where the lower court's decision was:\n1. **Wrong** (error of law, wrong exercise of discretion, misapprehension of the facts), OR\n2. **Unjust** because of a serious procedural or other irregularity.\n\n**Errors of law:** The appeal court will always correct these — the appellate court is not bound by the trial judge's view of the law.\n\n**Errors of fact:** The appeal court is **very reluctant** to disturb findings of fact made by a trial judge who heard the witnesses and assessed their credibility. Interference only if: there was a misdirection in law affecting the fact-finding; the judge took into account irrelevant matters or ignored relevant matters; or the finding was **plainly wrong** — one no reasonable judge could have reached (*Assicurazioni Generali SpA v Arab Insurance Group* [2002]).\n\n**The principle** (*Benmax v Austin Motor Co* [1955] AC 370): appellate courts should be especially reluctant to reverse findings that depend on credibility of witnesses.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GROUNDS OF APPEAL · WRONG OR UNJUST · ERROR OF LAW ALWAYS CORRECTED · ERROR OF FACT RELUCTANT INTERFERENCE · PLAINLY WRONG STANDARD · BENMAX"
+          },
+          {
+            "card_code": "FLK1-DR-097",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the time limits and key contents of an appellant's notice and a respondent's notice under CPR 52.12?",
+            "answer": "**Appellant's notice (Form N161):**\n- Must be filed within **21 days** of the date of the decision (or the date permission is refused below): CPR 52.12(2).\n- Must set out: the grounds of appeal; the order sought; the evidence and arguments to be relied on.\n- Must be served on the respondent.\n\n**Respondent's notice (CPR 52.13):**\n- Required if the respondent wishes to uphold the lower court's order on **different grounds** from those relied upon by the judge below, or to seek a different order.\n- Must be filed within **21 days** of service of the appellant's notice on the respondent.\n- Allows the respondent to cross-appeal without issuing a separate notice.\n\n**Skeleton arguments:** Both parties must serve skeleton arguments in advance of the hearing (CA practice: 7 days for appellant, 7 days before hearing for respondent).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "APPELLANT'S NOTICE · 21 DAYS FROM DECISION · GROUNDS AND ORDER SOUGHT · RESPONDENT'S NOTICE · 21 DAYS FROM SERVICE · DIFFERENT GROUNDS"
+          },
+          {
+            "card_code": "FLK1-DR-098",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When will the court grant a stay of execution pending appeal in civil proceedings?",
+            "answer": "A stay of execution pending appeal may be granted by the lower court or the appeal court (CPR 52.16). The power to grant a stay is discretionary.\n\n**Factors considered:**\n1. **Strength of the appeal** — is there a real prospect of success on the appeal? The stronger the appeal, the more likely the stay.\n2. **Balance of harm** — what would be the hardship to the appellant if no stay is granted and they have to comply before the appeal is heard? Against this: what harm would a stay cause to the respondent (e.g. if enforcement is delayed)?\n3. **Irreversibility** — if execution would be irreversible or very difficult to reverse (e.g. sale of property), this weighs in favour of a stay.\n4. **Prospects of the respondent enforcing the judgment** — if the appellant is likely to be unable to pay a money judgment, a stay may not cause real harm to the respondent.\n\n**Default position:** A judgment does not automatically stay when an appeal is brought — the order remains enforceable unless a stay is specifically granted.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "STAY OF EXECUTION · DISCRETIONARY · STRENGTH OF APPEAL · BALANCE OF HARM · IRREVERSIBILITY · NOT AUTOMATIC ON APPEAL"
+          },
+          {
+            "card_code": "FLK1-DR-CASE-014",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Tanfern Ltd v Cameron-MacDonald [2000] EWCA Civ 1923",
+            "answer": null,
+            "issue": "What is the fundamental purpose and character of civil appeals in the English court system?",
+            "rule": "The Court of Appeal is a court of review, not a court of first instance. It does not conduct a full rehearing or receive new evidence as a matter of course. The permission filter under CPR Part 52 exists to prevent 'satellite litigation' — the recycling of cases through the appellate courts on weak grounds, consuming court time and resources.",
+            "application": "The Court of Appeal's essential function is supervisory: to correct clear errors of law, to prevent serious injustice, and to develop the law where important points of principle arise. First instance judges who heard witnesses and assessed the evidence are better placed to make findings of fact; the appeal court should not simply substitute its own assessment of facts.",
+            "conclusion": "The permission requirement serves a critical quality-control function. Only appeals with a real prospect of success or a compelling reason should proceed. The Court of Appeal is not an opportunity for a litigant to have the case argued again with better advocacy.",
+            "summary_line": "COURT OF REVIEW NOT REHEARING · PERMISSION FILTER · SATELLITE LITIGATION PREVENTED · SUPERVISORY FUNCTION · FIRST INSTANCE JUDGE'S ADVANTAGE ON FACTS"
+          },
+          {
+            "card_code": "FLK1-DR-SCE-063",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A county court judge dismisses a claimant's personal injury claim after finding the medical evidence inconclusive. The claimant disagrees with the assessment of the medical evidence. What must the claimant do to pursue an appeal and what obstacles do they face?",
+            "answer": "**Procedural steps:**\n1. File an **appellant's notice** (Form N161) within **21 days** of the judgment: CPR 52.12.\n2. Seek **permission to appeal** (required for county court decisions): CPR 52.3.\n3. Permission should be sought first from the **county court judge** at the hearing. If refused, it may be renewed at the Court of Appeal.\n\n**Obstacles — substantive:**\n- The judge's dismissal is a **finding of fact** (assessment of medical evidence). The appeal court is very reluctant to disturb findings of fact, especially those that turn on expert evidence heard and assessed by the trial judge.\n- To succeed, the claimant must show the judge's finding was **plainly wrong** or that the judge misdirected themselves on law — a high threshold.\n- Simply disagreeing with the judge's assessment of expert witnesses is generally insufficient.\n\n**Conclusion:** The claimant faces a difficult appeal on the facts. The strongest route would be if the judge applied an incorrect legal test or misunderstood the evidence — not merely that the court preferred one expert's view over the claimant's.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "APPELLANT'S NOTICE 21 DAYS · PERMISSION REQUIRED · FINDING OF FACT · PLAINLY WRONG THRESHOLD · RELUCTANT APPELLATE INTERFERENCE · HIGH HURDLE"
           }
         ],
         "Routes of Appeal": [
@@ -2738,6 +3014,32 @@
             "conclusion": null,
             "summary_line": "ROUTES OF APPEAL · DISTRICT -> CIRCUIT -> HIGH COURT -> COURT OF APPEAL · SECOND APPEALS CPR 52.7 · IMPORTANT POINT OF PRINCIPLE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-094",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the main routes of appeal in civil litigation under CPR Part 52?",
+            "answer": "CPR Part 52 governs civil appeals.\n\n**Routes of appeal:**\n- **County Court** → Court of Appeal (Civil Division) (for most final decisions)\n- **High Court** → Court of Appeal\n- **Court of Appeal** → Supreme Court (requires permission from UKSC)\n- **Leapfrog appeal:** Direct from High Court to Supreme Court under the Administration of Justice Act 1969 s.12, where the trial judge certifies a point of law of general public importance and both parties consent. Also available from certain statutory bodies.\n\n**General rule:** Appeals lie to the next level of court in the hierarchy. CPR 52.1(3) provides that a second appeal from the county court goes to the Court of Appeal, not the High Court. The Court of Appeal is the primary appellate court for most civil matters.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ROUTES OF APPEAL · COUNTY COURT TO CA · HIGH COURT TO CA · CA TO SUPREME COURT · LEAPFROG APPEAL · ADMINISTRATION OF JUSTICE ACT 1969"
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-DR-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA student says: 'When I appeal, the Court of Appeal will hear all the evidence again from scratch and I can present new evidence that I did not use at trial. The appeal is effectively a second shot at winning.'",
+            "answer": null,
+            "issue": "The Trap: An appeal is a complete rehearing of the case from the beginning, where new evidence can be presented and the appellate court re-examines all the facts from scratch.",
+            "rule": "The Reality: A civil appeal is a **review** of the lower court's decision, not a rehearing. The appellate court does not receive new evidence as a matter of course. New evidence may only be admitted in exceptional circumstances satisfying the *Ladd v Marshall* [1954] principles: (1) it could not have been obtained with reasonable diligence for use at trial; (2) it would probably have had an important influence on the result; (3) it is apparently credible.",
+            "application": "Why the Distractor Fails: Litigants often see an appeal as a 'second chance' to win. In reality, the Court of Appeal does not conduct a retrial. It reviews whether the lower court made a legal error, exercised its discretion wrongly, or reached a conclusion no reasonable judge could reach. The appellate court gives considerable deference to findings of fact, especially where they depend on credibility of witnesses seen in person by the trial judge.",
+            "conclusion": "The Key Rule: Appeal = court of **review** not rehearing. New evidence admitted only if *Ladd v Marshall* conditions met. Factual findings disturbed only if plainly wrong. No 'second chance' to present better arguments on the same facts.",
+            "summary_line": "APPEAL IS REVIEW NOT REHEARING · LADD V MARSHALL NEW EVIDENCE TEST · FACTUAL DEFERENCE · NO SECOND CHANCE · COURT OF APPEAL SUPERVISORY"
           }
         ]
       },
@@ -2770,6 +3072,18 @@
             "conclusion": null,
             "summary_line": "GLO REGISTER · CMC · LEAD CASE · BINDING ON REGISTERED · INDIVIDUAL ISSUES REMAIN · COSTS SHARED",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-105",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How are lead/test cases used in GLO proceedings, and what is the binding effect of a lead case judgment on all registered parties?",
+            "answer": "Under CPR r.19.12, the court may select one or more lead cases that are representative of the common GLO issues. Judgment in a lead case on those GLO issues is binding on all parties on the GLO register unless the court orders otherwise. A party who disagrees that the lead case applies to them may apply to the court to be de-registered or to have the GLO issue decided separately. Individual issues not covered by the GLO issues remain to be determined in each separate claim. The court manages both the collective and individual dimensions of the litigation.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GLO · LEAD CASE · CPR R.19.12 · BINDING ON ALL REGISTERED · GLO ISSUES · INDIVIDUAL ISSUES SEPARATE · DE-REGISTRATION"
           }
         ],
         "GLO vs representative actions": [
@@ -2828,6 +3142,20 @@
             "conclusion": null,
             "summary_line": "LATE REGISTRATION · COURT DISCRETION · BOUND BY JUDGMENT · COSTS CONTRIBUTION · APPLY PROMPTLY",
             "is_deeper": 0
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-DR-TRAP-015",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor advises a client that a Group Litigation Order is unnecessary because the same result can be achieved by using a CPR r.19.8 representative action — which also allows one party to represent multiple claimants and is simpler to establish.",
+            "answer": null,
+            "issue": "The Trap: A GLO and a representative action under CPR r.19.8 are functionally equivalent — both let one claimant represent a group, just through different mechanisms.",
+            "rule": "The Reality: GLOs (CPR r.19.11) and representative actions (CPR r.19.8) are distinct. A representative action requires all represented parties to have the SAME interest — it is suitable for small, homogeneous groups. A GLO is for large-scale litigation with common issues of fact or law, where each claimant is individually registered on the GLO register and remains a separate party. The GLO has a formal register, a management judge, and a binding lead-case mechanism. A representative action has none of these.",
+            "application": "Why the Distractor Fails: The 'same interest' test in r.19.8 is restrictive — even minor factual differences defeat it. GLOs were created precisely because representative actions were inadequate for mass litigation. Confusing them risks failing to obtain the collective management benefits a GLO provides.",
+            "conclusion": "The Key Rule: GLO (r.19.11) = formal register + separate parties + common issue management + binding lead judgments. Representative action (r.19.8) = same interest + representative sues/is sued for all. They are NOT interchangeable.",
+            "summary_line": "GLO r.19.11 · REPRESENTATIVE ACTION r.19.8 · DISTINCT MECHANISMS · SAME INTEREST vs COMMON ISSUES · GLO REGISTER · NOT INTERCHANGEABLE"
           }
         ]
       },
@@ -2929,6 +3257,18 @@
             "conclusion": null,
             "summary_line": "SMALL CLAIMS UNREASONABLE CONDUCT · CPR R.27.14(2)(G) · COURT AWARDS COSTS · NOT CAPPED · DOCUMENT CONDUCT",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-SCE-066",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Priya wins her small claims track case for £3,400. She was represented by a solicitor throughout the proceedings. Her solicitor's bill is £2,200. Can Priya recover her solicitor's costs from the defendant?",
+            "answer": "No — not as a general rule. The small claims track has a strict costs-capping regime under CPR r.27.14. In small claims proceedings, the court will only award limited fixed costs: court fees, witness expenses (up to a fixed daily rate), and any expert fees permitted by the court (capped). Solicitor's fees are generally irrecoverable in small claims. The costs-capping regime is designed to make small claims affordable and discourage disproportionate legal spend. Priya's £2,200 solicitor's bill is irrecoverable from the defendant regardless of her success. She will have to bear those costs herself.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SMALL CLAIMS TRACK · COSTS CAP · CPR R.27.14 · SOLICITOR FEES IRRECOVERABLE · FIXED COSTS ONLY · COURT FEES · WITNESS EXPENSES"
           }
         ]
       },
@@ -3017,6 +3357,18 @@
             "conclusion": null,
             "summary_line": "DO NOT PAY LITIGATION FRIEND · COURT ORDER FIRST · COURT OF PROTECTION · DEPUTY APPOINTMENT · PROTECTED PARTY",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-DR-SCE-067",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A litigation friend negotiates a £50,000 settlement for a 10-year-old child injured in a road accident. The parties' solicitors agree the terms and a draft consent order is lodged at court. Does the settlement bind the child?",
+            "answer": "No. Under CPR r.21.10, a settlement or compromise of a claim by or on behalf of a child (or protected party) is not valid unless approved by the court. The fact that the litigation friend and both sets of solicitors have agreed terms does not make the settlement binding. The court must scrutinise the settlement to ensure it is in the child's best interests. The application for approval must be supported by a litigation report (from the litigation friend), evidence of the child's injuries, a schedule of loss, and usually counsel's advice on quantum. If approved, the damages are typically paid into court or held on trust until the child turns 18, unless the court orders otherwise.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CHILD SETTLEMENT · COURT APPROVAL REQUIRED · CPR R.21.10 · LITIGATION FRIEND · NOT BINDING WITHOUT APPROVAL · PAID INTO COURT"
           }
         ],
         "Trap cards": [

@@ -1,0 +1,2083 @@
+{
+  "FLK1": {
+    "Contract Law": [
+      {
+        "question_id": "FLK1-CON-MCQ-001",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Offer vs Invitation to Treat",
+        "difficulty": "Foundation",
+        "stem": "Neville Prescott has a second-hand saloon car displayed on the Prescott Motors forecourt on Bath Road with a price tag of £8,500. Rachel Okonkwo enters the showroom and says ‘I would like to buy that car for £8,500.’ Neville checks his records and tells her the price is now £9,200 because the tag had not been updated. Rachel insists she is entitled to the displayed price. Which of the following best describes the legal position?",
+        "options": {
+          "A": "A contract has been formed at £8,500 because Rachel accepted the displayed price.",
+          "B": "Rachel is entitled to the £8,500 price under the Consumer Rights Act 2015, which requires traders to honour displayed prices.",
+          "C": "No contract has been formed because the forecourt display is an invitation to treat, not an offer.",
+          "D": "No contract has been formed because Rachel’s statement was a counter-offer, which Neville rejected."
+        },
+        "correct": "C",
+        "explanation": "A shop or window display is an invitation to treat, not an offer: Pharmaceutical Society of GB v Boots Cash Chemists [1953]. Rachel’s statement constitutes the offer, which Neville Prescott has not yet accepted. Option A is wrong because there was no offer capable of acceptance — the forecourt display merely invited customers to make offers to buy. Option B is incorrect: the CRA 2015 does not require traders to honour displayed prices; an incorrect price display may raise a Trading Standards issue but does not create a binding contract. Option D mischaracterises Rachel’s statement — she was making an offer, not a counter-offer. A counter-offer responds to a prior offer; no prior offer existed here.",
+        "card_refs": [
+          "FLK1-CON-001",
+          "FLK1-CON-CASE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-002",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Acceptance",
+        "difficulty": "Foundation",
+        "stem": "On Monday, Neville Prescott posts an offer to sell his personal car to Rachel Okonkwo for £4,000, requesting a reply by post. Rachel posts her acceptance on Wednesday. On Thursday, Neville phones Rachel to withdraw the offer. Rachel’s letter arrives on Friday. Has a contract been formed?",
+        "options": {
+          "A": "No contract was formed because Neville withdrew the offer before Rachel’s acceptance was received.",
+          "B": "No contract was formed because revocation by telephone overrides a postal acceptance.",
+          "C": "A contract was formed on Wednesday when Rachel posted her acceptance.",
+          "D": "A contract was formed on Friday when Neville received Rachel’s acceptance."
+        },
+        "correct": "C",
+        "explanation": "Under the postal rule established in Adams v Lindsell (1818), acceptance is complete and binding on the offeror at the moment of posting. Rachel’s acceptance was therefore complete on Wednesday. Neville’s Thursday phone call came after the contract had already been formed and cannot revoke an already-accepted offer. Option A is wrong because the revocation came after formation on Wednesday. Option B is incorrect: revocation is effective when communicated, but is irrelevant here because the contract existed before Neville’s call. Option D is wrong because receipt is not the operative moment under the postal rule.",
+        "card_refs": [
+          "FLK1-CON-007",
+          "FLK1-CON-CASE-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-003",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Acceptance",
+        "difficulty": "Foundation",
+        "stem": "James Ashworth offers to sell his motorbike to Priya Mehta for £3,500. Priya replies: ‘I reject your price — I will pay £3,000.’ James says: ‘No.’ Priya then says: ‘Fine — I accept your original offer of £3,500.’ Has a contract been formed?",
+        "options": {
+          "A": "Yes, because Priya’s final acceptance matched the terms of James’s original offer.",
+          "B": "Yes, because James’s rejection of £3,000 implicitly reaffirmed the original offer.",
+          "C": "No, because Priya’s offer of £3,000 was a counter-offer that extinguished James’s original offer.",
+          "D": "No, because Priya’s change of mind showed she lacked the necessary intention to contract."
+        },
+        "correct": "C",
+        "explanation": "A counter-offer operates as a rejection of the original offer and substitutes a new one: Hyde v Wrench (1840). Priya’s offer of £3,000 was unambiguously a counter-offer, extinguishing James’s offer of £3,500. There was no original offer capable of acceptance when Priya said ‘I accept.’ Option A is wrong because the original offer no longer existed. Option B is a common trap: James’s rejection of £3,000 was a rejection of Priya’s counter-offer, not a reinstatement of his original offer. To revive it, James would need to make a fresh offer. Option D misidentifies the reason: the issue is destruction of the original offer, not intention to contract.",
+        "card_refs": [
+          "FLK1-CON-009",
+          "FLK1-CON-CASE-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-004",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Consideration",
+        "difficulty": "Foundation",
+        "stem": "Last year, Marta Kowalski spent three hours searching for Dr Felix Unwin’s lost dog and returned it safely. Moved by her kindness, Dr Unwin later promises to pay Marta £200 for what she did. Dr Unwin never pays. Can Marta enforce Dr Unwin’s promise?",
+        "options": {
+          "A": "Yes, because Marta’s act of finding the dog was good consideration for Dr Unwin’s promise.",
+          "B": "Yes, because Dr Unwin’s promise was made in recognition of a benefit he received.",
+          "C": "No, because Marta acted gratuitously and cannot claim payment for voluntary acts.",
+          "D": "No, because Marta’s act was past consideration, which is not valid consideration."
+        },
+        "correct": "D",
+        "explanation": "Consideration must be provided in exchange for the promise and cannot be past: Re McArdle [1951]. Marta found the dog before Dr Unwin made his promise; her act therefore cannot support his subsequent promise. Option A is wrong: a past act cannot constitute consideration for a later promise, however beneficial it was. Option B reflects a moral argument but not the law — past consideration does not become binding merely because the promisor acknowledges a benefit. This option conflates past consideration with the narrow exception in Lampleigh v Braithwait (1615), which applies only where the prior act was performed at the promisor’s request and payment was always contemplated; neither condition is met here. Option C is a distractor: the legal objection is timing (past consideration), not the voluntary character of the act.",
+        "card_refs": [
+          "FLK1-CON-012",
+          "FLK1-CON-CASE-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-005",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Consideration",
+        "difficulty": "Application",
+        "stem": "Owen Davies, of Atlas Contracts Ltd, agrees to renovate Wharton Bakery for Alek Kowalski for £40,000. Halfway through, Owen tells Alek he has underestimated costs and will not finish unless Alek pays an extra £5,000. Alek agrees because he has a corporate catering booking in three weeks. Owen completes the work. Can Owen enforce the additional £5,000?",
+        "options": {
+          "A": "Yes, because completing on time gave Alek a practical benefit, which constitutes good consideration.",
+          "B": "No, because Owen was only doing what he was already contractually bound to do, which is not good consideration.",
+          "C": "No, because the promise to pay more was made under duress and is therefore unenforceable.",
+          "D": "Yes, because both parties agreed to the variation, making it contractually binding."
+        },
+        "correct": "A",
+        "explanation": "Where a party performs an existing contractual duty but doing so confers a practical benefit on the promisor, that benefit constitutes good consideration for the variation: Williams v Roffey Bros [1991]. Alek received the practical benefit of timely completion, avoiding loss of his corporate catering booking. Option B states the traditional rule in Stilk v Myrick (1809) but Williams v Roffey qualifies this rule where a genuine practical benefit is obtained. Option C is a distractor: while economic duress can vitiate contracts where pressure is illegitimate, the question is about enforceability of consideration, and on these facts Owen’s threat to stop is not necessarily illegitimate pressure. Option D is incorrect: mutual agreement alone does not make a modification binding without consideration; agreement and consideration are separate requirements.",
+        "card_refs": [
+          "FLK1-CON-014",
+          "FLK1-CON-CASE-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-006",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Intention to Create Legal Relations",
+        "difficulty": "Foundation",
+        "stem": "Frank Hollis and his wife Sandra agree that Frank will pay Sandra £50 per week for household expenses while she manages the family home. Frank stops paying. Sandra seeks to enforce the agreement in court. Which of the following best describes the legal position?",
+        "options": {
+          "A": "The agreement is binding because it is supported by good consideration on both sides.",
+          "B": "The agreement is binding because it was made with clear agreement between both parties.",
+          "C": "The agreement is not binding because agreements between spouses about household arrangements are presumed not to be legally binding.",
+          "D": "The agreement is not binding because household management is not recognised as good consideration."
+        },
+        "correct": "C",
+        "explanation": "There is a rebuttable presumption that domestic and family agreements are not intended to create legal relations: Balfour v Balfour [1919]. Frank and Sandra’s arrangement is a classic domestic agreement that the courts consistently hold to be outside legal enforcement. The presumption is not rebutted on these facts — there is no indication of a separated couple formalising arrangements or a commercial context. Option A is a distractor: even if consideration exists, a binding contract requires both consideration and intention to create legal relations; these are separate requirements. B is wrong: agreement alone does not create legal relations in a domestic context. Option D is incorrect: the reason for non-enforceability is lack of ICLR, not absence of consideration; household management may in principle constitute consideration.",
+        "card_refs": [
+          "FLK1-CON-017",
+          "FLK1-CON-CASE-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-007",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Battle of the Forms",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd sends an order for steel components on its standard purchase order form, which limits Hollowell’s liability for defective goods. The supplier responds with a sales acknowledgment on its own standard form, which excludes Hollowell’s liability limit and imposes the supplier’s terms. The components are delivered and accepted by Hollowell without further correspondence. On whose terms is the contract formed?",
+        "options": {
+          "A": "Hollowell’s terms, because Hollowell made the first offer.",
+          "B": "The supplier’s terms, because the supplier’s acknowledgment was a counter-offer accepted by Hollowell taking delivery.",
+          "C": "Both parties’ terms apply in equal measure, with conflicting terms cancelling each other out.",
+          "D": "No contract is formed because the parties never agreed on terms."
+        },
+        "correct": "B",
+        "explanation": "In a battle of the forms, English law applies the ‘last shot’ doctrine: the final set of terms put forward before performance is treated as a counter-offer, and a party who performs without objection accepts those terms: Butler Machine Tool Co v Ex-Cell-O Corp [1979]. The supplier’s acknowledgment on its own terms was a counter-offer, and Hollowell Engineering accepted it by taking delivery without objection. Option A is wrong because the first shot does not win in a battle of forms — it is displaced by subsequent counter-offers. Option C is incorrect: English law does not apply a ‘knock-out’ rule blending conflicting terms; conflicting terms are resolved by the last shot. Option D is wrong because performance resolves the battle — delivery and acceptance confirm the parties proceeded on the supplier’s last-stated terms.",
+        "card_refs": [
+          "FLK1-CON-066",
+          "FLK1-CON-CASE-007"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-008",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Capacity",
+        "difficulty": "Foundation",
+        "stem": "Kieran Hollis, who is 17, buys a professional racing bicycle from a sports shop on the High Street in Wharton Magna for £800 and uses it for competitive cycling training. He attempts to return it the following week, claiming he lacks capacity to contract. Which of the following best describes the legal position?",
+        "options": {
+          "A": "The contract is void because minors lack capacity to enter contracts.",
+          "B": "The contract is void because the purchase price exceeds an amount a minor can legally spend.",
+          "C": "The contract is voidable at Kieran’s option because he is a minor.",
+          "D": "The contract is binding on Kieran because it is a contract for necessaries."
+        },
+        "correct": "D",
+        "explanation": "A minor is bound by contracts for necessaries: Sale of Goods Act 1979 s.3. Necessaries are goods suitable to the minor’s condition in life and to his actual requirements at the time of sale. A professional racing bicycle for a minor engaged in competitive cycling training qualifies as a necessary. The contract is therefore binding and Kieran cannot repudiate it. Option A is wrong: minor’s contracts are generally voidable, not void. For necessaries, they are fully binding. Option B is incorrect: English law imposes no financial threshold on minor’s contracts; the test is the category of goods relative to the minor’s lifestyle, not price. Option C is wrong on these facts: while non-necessary contracts are voidable at the minor’s option, the necessaries doctrine defeats that right here.",
+        "card_refs": [
+          "FLK1-CON-063",
+          "FLK1-CON-CASE-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-009",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Subject to Contract",
+        "difficulty": "Complex",
+        "stem": "Marcus Bridgewater emails Victoria Ashworth: ‘I offer you the development plot at the corner of Bath Road and Orchard Road for £2.5m, subject to contract.’ Victoria immediately replies: ‘I accept and consider myself legally bound.’ Marcus later sells the plot to a third party. Victoria claims a binding contract was formed. Which of the following best analyses the position?",
+        "options": {
+          "A": "A contract was formed because Victoria’s immediate acceptance was communicated to Marcus.",
+          "B": "A contract was formed because the postal rule applies to email communications.",
+          "C": "No contract was formed because ‘subject to contract’ negatives the intention to be legally bound at this stage.",
+          "D": "No contract was formed because contracts for the sale of land must be in signed writing under s.2 LP(MP)A 1989."
+        },
+        "correct": "C",
+        "explanation": "‘Subject to contract’ is a well-recognised phrase in English property dealings indicating that the parties do not intend to be legally bound until formal contracts are exchanged: Eccles v Bryant [1948]. This qualification negatives the intention to create legal relations at the offer stage, regardless of Victoria’s purported acceptance. Option A is wrong: even if acceptance was effectively communicated, there was no binding offer to accept because Marcus’s communication was not intended to create legal relations. Option B is a trap: the postal rule applies to acceptance by post, and its application to email is uncertain; in any event the issue is the ‘subject to contract’ qualification, not the mechanics of communication. Option D is a distractor: s.2 LP(MP)A 1989 does require contracts for sale of land to be in signed writing, but the correct primary reason here is the ‘subject to contract’ qualification operating at the ICLR level, before formality requirements are even reached.",
+        "card_refs": [
+          "FLK1-CON-067",
+          "FLK1-CON-TRAP-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-010",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Certainty and Completeness",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd and Wharton Foods Ltd enter a supply agreement for food-grade metal containers where the price is ‘to be agreed between the parties at the start of each month.’ Six months of supply proceed smoothly. In month seven, the parties cannot agree a price. Hollowell Engineering claims a binding contract exists and seeks payment at the previous month’s price. Which of the following best states the legal position?",
+        "options": {
+          "A": "A binding contract exists and the court will imply a reasonable price under the Sale of Goods Act 1979 s.8.",
+          "B": "The contract is void for uncertainty because the price was never definitively fixed.",
+          "C": "The contract is binding for months one to six but there are no obligations for month seven because agreement has broken down.",
+          "D": "Hollowell Engineering can enforce payment at the previous month’s price because the parties’ course of dealing implies that term."
+        },
+        "correct": "A",
+        "explanation": "Where a price is not fixed but goods are supplied, the Sale of Goods Act 1979 s.8 implies a reasonable price unless the contract shows a contrary intention. Six months of consistent performance is strong evidence that a binding framework contract exists, and the statutory mechanism provides the fall-back for pricing disputes: Foley v Classique Coaches [1934] (distinguishing May & Butcher v R [1934] where there had been no performance). Option B overstates the effect of ‘to be agreed’: this formulation does not automatically void a contract where consistent performance and a statutory fall-back exist. Option C imposes an artificial split between months 1–6 and month 7 that does not reflect how courts treat framework contracts with a statutory pricing mechanism. Option D goes further than the law allows: the SGA 1979 s.8 supplies a reasonable price — not necessarily the previous month’s price — and cannot be displaced by merely invoking a course of dealing without more.",
+        "card_refs": [
+          "FLK1-CON-019"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-011",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Exclusion and Limitation Clauses",
+        "difficulty": "Foundation",
+        "stem": "Rachel Okonkwo books a parking space at the Market Square car park by telephone. On arrival, she sees a prominent sign at the entrance stating: ‘Parking at owner’s risk. All liability excluded.’ Her car is damaged due to the negligence of car park staff. Is the exclusion clause incorporated into the contract?",
+        "options": {
+          "A": "No, because the contract was formed by telephone before Rachel Okonkwo saw the sign, so the clause was brought to her attention too late.",
+          "B": "No, because exclusion clauses must be contained in a signed document to be incorporated.",
+          "C": "Yes, because the sign is prominently displayed and Rachel Okonkwo had constructive notice of its contents.",
+          "D": "Yes, because exclusion clauses in commercial car parks are always incorporated as standard industry terms."
+        },
+        "correct": "A",
+        "explanation": "An exclusion clause must be incorporated before or at the time the contract is made: Olley v Marlborough Court [1949]. The contract was formed when Rachel Okonkwo booked by telephone. The sign was not brought to her attention until she arrived — after the contract was concluded. The clause therefore cannot be incorporated. Option B overstates the requirement: exclusion clauses can be incorporated by notice without a signature, provided notice is given in time: Parker v South Eastern Railway (1877). Option C is wrong in this context: even prominent notice cannot incorporate a term into a contract already formed — the prominence of the sign is irrelevant to the timing point. Option D is incorrect: there is no industry convention that automatically incorporates exclusion clauses; incorporation always requires reasonable notice given to the specific party before or at contracting.",
+        "card_refs": [
+          "FLK1-CON-027",
+          "FLK1-CON-CASE-019"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-012",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Exclusion and Limitation Clauses",
+        "difficulty": "Application",
+        "stem": "Frank Hollis, who runs The Malt & Mattock as a sole trader, buys a commercial coffee machine from a trade supplier under a contract excluding all liability for defects. The machine fails within a month due to a manufacturing defect. Frank challenges the exclusion clause. Which legal regime governs his challenge?",
+        "options": {
+          "A": "The Consumer Rights Act 2015, because Frank is an individual purchasing goods.",
+          "B": "The Unfair Contract Terms Act 1977, because Frank is contracting in the course of a business.",
+          "C": "The common law reasonableness test only, because statutory controls apply solely to consumers.",
+          "D": "Neither statute: exclusion clauses between businesses are entirely a matter of freedom of contract."
+        },
+        "correct": "B",
+        "explanation": "The Unfair Contract Terms Act 1977 (UCTA) applies to business-to-business contracts. Frank Hollis, as a sole trader buying equipment for his pub business, is contracting in the course of a business and is not a consumer. UCTA s.6(3) subjects clauses excluding liability for breach of the SGA 1979 implied terms in non-consumer sales to the reasonableness test. Option A is wrong: the Consumer Rights Act 2015 applies to contracts between a ‘trader’ and a ‘consumer’ (an individual acting outside their trade, business, craft or profession). Frank is acting within his business. Option C is incorrect: UCTA applies to B2B contracts and the reasonableness test is the statutory test under UCTA s.11, not a purely common law device. Option D is wrong: UCTA specifically restricts freedom of contract in B2B contexts involving exclusion of the SGA implied terms.",
+        "card_refs": [
+          "FLK1-CON-029",
+          "FLK1-CON-084",
+          "FLK1-CON-085"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-013",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Exclusion and Limitation Clauses",
+        "difficulty": "Complex",
+        "stem": "A software company provides bespoke practice management software to Crane & Pelletier Solicitors under a contract limiting the supplier’s liability for all losses to £5,000. A serious software bug causes Crane & Pelletier to lose £250,000 in client data. The supplier relies on the limitation clause. Under UCTA 1977, which factor is most relevant to the reasonableness assessment?",
+        "options": {
+          "A": "Whether Crane & Pelletier read and understood the clause before signing.",
+          "B": "Whether the parties had equal bargaining power and whether the supplier was insured against the risk capped by the clause.",
+          "C": "Whether the limitation clause was prominently displayed in the contract.",
+          "D": "Whether £5,000 was a reasonable estimate of likely loss at the time the software failed."
+        },
+        "correct": "B",
+        "explanation": "The UCTA 1977 Schedule 2 guidelines direct courts to consider, among other things, the relative bargaining strength of the parties and whether the supplier was insured for the risk: George Mitchell (Chesterhall) Ltd v Finney Lock Seeds [1983]. Whether the software supplier was insured and whether Crane & Pelletier had equal bargaining power to negotiate the cap are central to whether the clause is reasonable. Option A is wrong: incorporation and reasonableness are separate tests under UCTA. Reasonableness is assessed objectively against the Schedule 2 guidelines, not by the customer’s subjective knowledge. Option C conflates incorporation (where prominence assists notice: Parker v South Eastern Railway) with reasonableness — prominence is relevant to notice, not to the fairness of the substantive term. Option D misapplies the test: reasonableness is assessed at the time of contracting, not at the time of loss, and focuses on the overall allocation of risk, not merely whether the cap matched eventual loss.",
+        "card_refs": [
+          "FLK1-CON-030",
+          "FLK1-CON-031",
+          "FLK1-CON-CASE-021"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-014",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Classification of Terms",
+        "difficulty": "Application",
+        "stem": "A delivery contract between Northgate Couriers and Wharton Foods Ltd guarantees delivery of food-grade packaging components ‘by Friday.’ The Northgate van arrives on Saturday. The cargo is slightly delayed but undamaged. Wharton Foods refuses to pay, claiming the delivery term is a condition and any breach entitles termination. Which of the following best describes how a court will approach the classification?",
+        "options": {
+          "A": "As a condition, because ‘guaranteed’ language signals strict compliance and any breach entitles the innocent party to terminate.",
+          "B": "As a warranty, because the breach caused no serious loss to the buyer.",
+          "C": "As an innominate term, because the court should assess the seriousness of the consequences of the actual breach.",
+          "D": "As a condition, because time of delivery is always a condition in commercial contracts under the Sale of Goods Act 1979."
+        },
+        "correct": "C",
+        "explanation": "Where a term does not fall clearly within a recognised category, the court may treat it as an innominate (intermediate) term and assess the consequences of the particular breach: Hong Kong Fir Shipping Co v Kawasaki Kisen Kaisha [1962]. Whether the innocent party can terminate depends on whether the breach deprived them of substantially the whole benefit of the contract. A one-day delay causing no spoilage is unlikely to meet that threshold. Option A is wrong: ‘guaranteed’ language is persuasive but not determinative; courts look to consequences of breach, not the label used. Option B reverses the analysis: classification is not determined by the loss caused. For an innominate term, the loss caused determines the available remedy — but the reasoning must flow from classification first. Option D is incorrect: the SGA 1979 makes certain implied terms conditions (ss.12–15) but does not make every delivery time term a condition in all commercial contracts; time is of the essence only by agreement or in specific commercial contexts.",
+        "card_refs": [
+          "FLK1-CON-025",
+          "FLK1-CON-026",
+          "FLK1-CON-CASE-022"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-015",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Implied Terms",
+        "difficulty": "Application",
+        "stem": "A software company contracts to develop bespoke case management software for Crane & Pelletier Solicitors. The contract is silent on quality. The delivered software contains numerous bugs rendering it unfit for the firm’s purposes. Under which basis is a quality term most likely to be implied?",
+        "options": {
+          "A": "A term implied in law under the Supply of Goods and Services Act 1982 s.13, requiring reasonable skill and care.",
+          "B": "A term implied in fact under the business efficacy test, because the contract cannot work without quality software.",
+          "C": "A term implied by custom, because it is standard in the software industry to warrant fitness for purpose.",
+          "D": "A term implied in law under the Sale of Goods Act 1979 s.14, requiring satisfactory quality."
+        },
+        "correct": "A",
+        "explanation": "A contract to develop bespoke software is primarily a contract for services, not the sale of goods. The Supply of Goods and Services Act 1982 s.13 implies a term that the supplier will carry out the service with reasonable skill and care. Delivering bug-ridden software unfit for Crane & Pelletier’s purposes is likely to breach this. Option B is incorrect: a term implied in fact under business efficacy (The Moorcock (1889)) fills specific gaps necessary to give effect to the parties’ obvious intention. The statutory implied term is the more direct and appropriate mechanism. Option C is wrong: custom requires proof of an established and notorious trade usage — general expectations in the software industry do not automatically constitute a legally recognised custom. Option D is wrong: the SGA 1979 s.14 applies to contracts for the sale of goods. A bespoke software development contract is primarily a service contract governed by SGSA 1982, not the SGA 1979.",
+        "card_refs": [
+          "FLK1-CON-022",
+          "FLK1-CON-023",
+          "FLK1-CON-024"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-016",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Misrepresentation",
+        "difficulty": "Application",
+        "stem": "Neville Prescott sells a second-hand car to James Ashworth and tells him it has never been in an accident. Neville genuinely believes this, but in fact the car had a minor collision before he acquired it for resale. James purchases the car and later discovers the accident history. Which type of misrepresentation has Neville made?",
+        "options": {
+          "A": "Fraudulent misrepresentation, because Neville should have checked the car’s history before making the statement.",
+          "B": "Negligent misrepresentation under s.2(1) MA 1967, because he had no reasonable basis for his belief.",
+          "C": "Innocent misrepresentation, because Neville genuinely believed the statement and had no reason to know otherwise.",
+          "D": "No misrepresentation, because the statement was an opinion rather than a statement of fact."
+        },
+        "correct": "C",
+        "explanation": "An innocent misrepresentation is one made without fault — the representor had reasonable grounds to believe the statement was true and made it honestly. On these facts, Neville Prescott genuinely believed the car had never been in an accident and had no reason to know otherwise; he therefore made the statement innocently. Option A is wrong: fraudulent misrepresentation requires knowledge of falsity, absence of belief in truth, or recklessness as to truth: Derry v Peek (1889). Mere failure to check does not amount to fraud. Option B is wrong: s.2(1) MA 1967 requires that the defendant lacked reasonable grounds for their belief. The facts state Neville genuinely believed and had no reason to doubt — on these facts he may have had reasonable grounds, so s.2(1) is not clearly established. Option D is wrong: the factual history of a car (‘never been in an accident’) is a statement of fact, not an opinion.",
+        "card_refs": [
+          "FLK1-CON-032",
+          "FLK1-CON-033"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-017",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Misrepresentation",
+        "difficulty": "Application",
+        "stem": "Graham Grange tells Marcus Bridgewater that Wharton Foods Ltd’s annual turnover is £500,000. Relying on this, Marcus pays £1.2m for a controlling stake. After completion, the true turnover is found to be £310,000. Graham made the statement believing it was correct but had not verified the figures. Marcus claims damages under s.2(1) of the Misrepresentation Act 1967. Which of the following best states Graham’s position?",
+        "options": {
+          "A": "Graham is liable for damages assessed on a fraudulent basis unless he can prove he had reasonable grounds to believe the statement was true.",
+          "B": "Marcus must prove Graham was negligent in making the statement for s.2(1) to apply.",
+          "C": "Graham is not liable because he made the statement honestly and without intent to deceive.",
+          "D": "Graham is liable only if Marcus can show the misrepresentation induced the contract."
+        },
+        "correct": "A",
+        "explanation": "Section 2(1) MA 1967 reverses the burden of proof: once the claimant proves a misrepresentation that induced the contract, the defendant is liable unless they can prove they had reasonable grounds for their belief up to the time the contract was made. Moreover, damages under s.2(1) are assessed on the tortious fraud measure: Royscot Trust Ltd v Rogerson [1991]. Graham’s failure to verify the turnover figures may mean he cannot discharge the burden of proving reasonable grounds. Option B is wrong: the burden is reversed under s.2(1) — Graham must disprove negligence, not Marcus prove it. Option C is wrong: honesty without reasonable grounds is not a defence under s.2(1); the test is objective reasonable grounds, not subjective belief. Option D identifies a genuine requirement — inducement is necessary for all misrepresentation claims — but it does not address Graham’s specific position under s.2(1) and is therefore incomplete as an answer.",
+        "card_refs": [
+          "FLK1-CON-034",
+          "FLK1-CON-035",
+          "FLK1-CON-CASE-025"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-018",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Misrepresentation",
+        "difficulty": "Complex",
+        "stem": "In 2021, James Ashworth bought shares in Wharton Foods Ltd after Graham Grange falsely told him the company had no outstanding debts. James was aware ‘something was not right’ but purchased anyway, continued holding the shares and claiming dividends until 2024, when he discovered the true position and sought rescission. Which factor is most likely to bar rescission?",
+        "options": {
+          "A": "Lapse of time only, because James took three years to bring his claim.",
+          "B": "Affirmation only, because James continued to hold shares and claim dividends after becoming suspicious.",
+          "C": "Both affirmation and lapse of time, because James’s conduct evidenced acceptance and the delay is also relevant.",
+          "D": "Neither: rescission for fraudulent misrepresentation cannot be barred by affirmation or lapse of time."
+        },
+        "correct": "C",
+        "explanation": "Two bars to rescission are engaged. First, affirmation: a representee who continues to perform the contract with knowledge of the misrepresentation (or facts putting them on notice) affirms it and loses the right to rescind: Long v Lloyd [1958]. James Ashworth continued holding shares and claiming dividends while aware ‘something was not right’ — strong evidence of affirmation. Second, lapse of time: while for fraud the limitation period runs from discovery, the equitable remedy of rescission can be lost by laches (unreasonable delay making rescission inequitable) even in fraud cases, particularly where third-party interests or unjust enrichment concerns arise. Option A is incomplete: lapse alone is uncertain without more on equitable laches; affirmation is the stronger and clearer bar on these facts. Option B is also incomplete: affirmation is clearly made out, but lapse is also a relevant equitable consideration. Option D is wrong: rescission can be barred even for fraud by affirmation, laches, impossibility of restitution, and third-party rights.",
+        "card_refs": [
+          "FLK1-CON-035",
+          "FLK1-CON-036",
+          "FLK1-CON-CASE-026"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-019",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Mistake",
+        "difficulty": "Application",
+        "stem": "Priya Mehta and James Ashworth contract for James to sell his vintage motorbike to Priya for £8,000. Unknown to both parties, the motorbike had been destroyed in a fire the previous week. What is the legal effect on the contract?",
+        "options": {
+          "A": "The contract is void under the doctrine of common mistake because the subject matter did not exist at the time of contracting.",
+          "B": "The contract is voidable at Priya’s option because she was the party misled.",
+          "C": "The contract is valid and James must pay damages to Priya for failure to deliver.",
+          "D": "The contract is frustrated because the motorbike was destroyed after the agreement was made."
+        },
+        "correct": "A",
+        "explanation": "Where both parties share a fundamental mistake about the existence of the subject matter at the time of contracting (res extincta), the contract is void: Sale of Goods Act 1979 s.6. Neither Priya nor James knew of the destruction; the mistake is shared and goes to the root of the contract. Option B is wrong: voidable contracts arise in cases of unilateral mistake or misrepresentation. Common mistake as to res extincta renders the contract void ab initio, not merely voidable at one party’s option. Option C is wrong: James cannot be in breach for failing to deliver goods that did not exist at formation; there is no valid contract to breach. Option D is wrong: frustration applies to supervening events occurring after the contract is formed. The motorbike was destroyed before contracting, making this a case of res extincta at formation, not frustration.",
+        "card_refs": [
+          "FLK1-CON-037",
+          "FLK1-CON-038",
+          "FLK1-CON-CASE-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-020",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Mistake",
+        "difficulty": "Complex",
+        "stem": "A fraudster visits Prescott Motors claiming to be Owen Davies, the well-known local contractor, with an excellent credit record. Neville Prescott makes reasonable checks (which have been faked) and sells a car on credit. The fraudster immediately sells the car to an innocent third party. When the fraud is discovered, Neville seeks to recover the car from the third party. Which principle determines whether Neville can recover?",
+        "options": {
+          "A": "Neville can recover because unilateral mistake as to identity renders the contract void, and a void contract passes no title.",
+          "B": "Neville cannot recover because the third party gave value and is protected by a general bona fide purchaser defence.",
+          "C": "Neville can recover under the Misrepresentation Act 1967 by rescinding the contract against the third party.",
+          "D": "Neville cannot recover because he dealt face-to-face with the fraudster, and the law presumes the seller intended to contract with the person physically present, making the contract voidable not void."
+        },
+        "correct": "D",
+        "explanation": "The critical distinction is between contracts made at a distance — where mistake as to identity can void the contract (Cundy v Lindsay (1878)) — and face-to-face dealings — where the presumption is that the seller intends to contract with the person physically present, making the contract voidable not void: Lewis v Averay [1972]; Phillips v Brooks [1919]. A voidable contract can pass valid title before rescission, and once an innocent third party acquires for value, the right to rescind is lost. Neville Prescott therefore has only a voidable contract; the fraudster passed title to the third party before rescission, extinguishing Neville’s right to recover. Option A is wrong: in face-to-face dealings the contract is voidable, not void — the void/voidable distinction turns on the face-to-face rule, not merely on the existence of a mistake. Option C is wrong: even analysed as misrepresentation, the MA 1967 cannot assist because the right to rescind is barred by the third party’s acquisition for value. Option B partially captures the outcome but identifies the wrong mechanism — it is not a general bona fide purchaser doctrine but the specific operation of the voidable contract rule in face-to-face dealings.",
+        "card_refs": [
+          "FLK1-CON-039",
+          "FLK1-CON-075",
+          "FLK1-CON-CASE-030",
+          "FLK1-CON-CASE-031"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-021",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Duress",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts Ltd threatens to walk off a major fit-out project for Bridgewater Developments unless Marcus Bridgewater agrees to pay an additional £100,000. Marcus has a non-negotiable opening date two weeks away and no realistic prospect of finding a replacement contractor. Marcus agrees under protest and, after the project completes, seeks to set aside the additional payment. What elements must Marcus establish?",
+        "options": {
+          "A": "That Atlas Contracts’ threat was unlawful, and that the threat caused Marcus to agree.",
+          "B": "That Atlas Contracts made a fraudulent misrepresentation about its ability to complete the contract in order to extract the extra payment.",
+          "C": "That Atlas Contracts exploited a relationship of confidence and trust to induce the payment.",
+          "D": "That Atlas Contracts’ pressure was illegitimate, that it left Marcus with no practical alternative, and that it caused the agreement."
+        },
+        "correct": "D",
+        "explanation": "Economic duress requires: (i) illegitimate pressure (which need not be unlawful in a criminal sense — threatening to breach a contract can suffice: DSND Subsea Ltd v Petroleum Geo Services ASA [2000]); (ii) which left the claimant no practical alternative; and (iii) which caused the agreement: Atlas Express Ltd v Kafco [1989]. Option A is too narrow: ‘unlawful’ in the criminal sense is not required; illegitimate pressure includes a threat to breach contract. Option C describes undue influence (exploitation of a relationship), which is a distinct doctrine not engaged here — there is no relationship of trust and confidence between a contractor and a commercial client. Option B introduces fraudulent misrepresentation, which is not on the facts: Atlas Contracts’ threat was about future conduct, not a false statement of existing fact.",
+        "card_refs": [
+          "FLK1-CON-040",
+          "FLK1-CON-SCE-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-022",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Undue Influence",
+        "difficulty": "Application",
+        "stem": "Betty Huxley signs a deed of gift transferring her house at 6 Church Lane, Wharton Magna, to her adult son Robert, who has managed her finances for three years and to whom she ‘always deferred.’ She now seeks to set aside the gift claiming undue influence. Which of the following best describes how her claim would be approached?",
+        "options": {
+          "A": "Betty must prove actual undue influence by showing Robert applied specific pressure to obtain the gift.",
+          "B": "The presumption of undue influence cannot apply because Betty is an adult with full legal capacity.",
+          "C": "Robert must prove there was no undue influence, because parent-child relationships always raise a presumption of undue influence.",
+          "D": "The relationship raises a presumption of undue influence; Betty need only show the transaction calls for explanation."
+        },
+        "correct": "D",
+        "explanation": "Undue influence can be presumed (Class 2B) where a claimant proves a relationship of trust and confidence and shows the transaction calls for explanation: Royal Bank of Scotland v Etridge (No 2) [2001]. Robert managed Betty’s finances for three years and she ‘always deferred’ to him — capable of establishing a Class 2B relationship. Transferring the family home at 6 Church Lane is a transaction that plainly calls for explanation, shifting the burden to Robert to rebut. Option A is too onerous: once a Class 2 presumption arises, actual pressure need not be proved. Option C is wrong: a parent-child relationship is not a Class 2A (automatically recognised) category; it must be established as Class 2B on the specific facts. Option B is wrong: capacity and undue influence are separate doctrines; having legal capacity does not prevent a finding of undue influence.",
+        "card_refs": [
+          "FLK1-CON-041",
+          "FLK1-CON-042",
+          "FLK1-CON-CASE-032"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-023",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Frustration",
+        "difficulty": "Foundation",
+        "stem": "A band is booked by James Ashworth, an events manager, to perform at an outdoor festival on the Ashworth Hall grounds on a specific date for £15,000. Before the event, the government declares a national emergency and bans all public gatherings, making the festival impossible. Which of the following best describes the legal effect?",
+        "options": {
+          "A": "The contract is voidable at the festival organiser’s option because performance has become impractical.",
+          "B": "The contract is discharged by frustration because a supervening event has made performance impossible without the fault of either party.",
+          "C": "The contract is void because the parties failed to provide for government intervention in their agreement.",
+          "D": "The band can claim £15,000 because the organiser must bear the risk of cancellation."
+        },
+        "correct": "B",
+        "explanation": "A contract is frustrated where a supervening event, beyond the parties’ control, makes performance impossible, illegal, or radically different from what was contemplated: Davis Contractors Ltd v Fareham UDC [1956]; Taylor v Caldwell (1863). A government ban makes performance physically impossible without fault on either side. Option A is wrong: frustration terminates the contract automatically by operation of law; it does not create a voidable contract at one party’s option. Option C is wrong: frustration does not require the contract to be silent on the supervening event — it applies unless the parties have specifically allocated the risk of that event; no such allocation appears here. Option D is wrong: upon frustration, the contract is discharged and the contractual fee cannot be claimed; financial adjustment is governed by the Law Reform (Frustrated Contracts) Act 1943 instead.",
+        "card_refs": [
+          "FLK1-CON-047",
+          "FLK1-CON-CASE-034"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-024",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Frustration",
+        "difficulty": "Complex",
+        "stem": "Alek Kowalski prepays £3,000 to The Malt & Mattock for a private banquet function room. The contract is subsequently frustrated by a fire destroying the function room. Alek had also incurred £1,500 in preparatory catering costs before the frustrating event. The Malt & Mattock had spent £500 acting on the agreement. Under the Law Reform (Frustrated Contracts) Act 1943, what is the most likely outcome?",
+        "options": {
+          "A": "Alek recovers £3,000 minus an allowance for The Malt & Mattock’s expenses up to the cap of the sum paid; the preparatory costs are not recoverable.",
+          "B": "Alek recovers the full £3,000; The Malt & Mattock cannot retain any sum because the contract is frustrated.",
+          "C": "Alek recovers £3,000 and can also claim the £1,500 preparatory costs from The Malt & Mattock as unjust enrichment.",
+          "D": "Losses lie where they fall: neither party can recover anything after frustration."
+        },
+        "correct": "A",
+        "explanation": "Under the Law Reform (Frustrated Contracts) Act 1943 s.1(2), prepayments are recoverable but the court may allow the payee to retain or recover expenses incurred before the frustrating event, up to a cap equal to the sum paid. The Malt & Mattock may therefore retain up to £500 of the £3,000, and Alek Kowalski will recover the remainder. As for the £1,500 preparatory costs: s.1(3) allows a party to claim a just sum for a valuable benefit conferred on the other party — but Alek’s preparatory catering costs were for his own performance and did not benefit The Malt & Mattock, so s.1(3) does not assist. Option B is wrong: s.1(2) permits the payee to retain an expense allowance; a blanket recovery ignores this. Option C is wrong: s.1(3) requires a valuable benefit to have been conferred on the other party; Alek’s own preparation did not benefit The Malt & Mattock. Option D states the common law position before the 1943 Act, which the Act was enacted to replace.",
+        "card_refs": [
+          "FLK1-CON-048",
+          "FLK1-CON-049",
+          "FLK1-CON-078"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-025",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Breach",
+        "difficulty": "Application",
+        "stem": "In January, a sports equipment manufacturer contracts to deliver 500 football kits to Wharton Athletic FC by 1 August. In March, the manufacturer calls the club and says: ‘We have taken on another client and will not be fulfilling your order.’ The club immediately sources replacement kits at higher cost in April. Which of the following best describes the club’s position?",
+        "options": {
+          "A": "The club must wait until 1 August to determine if the manufacturer actually breaches, then claim damages.",
+          "B": "The club has no claim because the manufacturer may change its mind before the delivery date.",
+          "C": "The club can treat the contract as discharged but must wait until 1 August to assess its loss for damages.",
+          "D": "The club can treat the contract as discharged immediately, accept the repudiation, and claim damages."
+        },
+        "correct": "D",
+        "explanation": "Where a party clearly and unequivocally renounces a contract before performance is due, this constitutes anticipatory breach: Hochster v De la Tour (1853). The innocent party may accept the repudiation immediately, treat the contract as discharged, and sue at once without waiting for the performance date. Wharton Athletic FC was entitled to source replacement kits in April. Option A is wrong: under anticipatory breach, the innocent party need not wait until the performance date. Option C is wrong: damages are assessed from the date of accepted repudiation, not the original performance date; there is no need to wait until August. Option B is wrong: a clear, unequivocal renunciation in March is anticipatory breach; the manufacturer’s theoretical right to change its mind does not prevent the innocent party from accepting the breach and mitigating.",
+        "card_refs": [
+          "FLK1-CON-050",
+          "FLK1-CON-CASE-038"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-026",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Breach",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering Ltd contracts to deliver specialist metal processing machinery to Wharton Foods Ltd by 1 June. On 15 May, Hollowell says it will be unable to deliver by 1 June. Wharton Foods responds: ‘We’ll give you more time — deliver by 30 June.’ Hollowell delivers on 30 June, but the machinery is defective. Wharton Foods wishes to terminate for both the late delivery and the defective machinery. Which of the following best analyses Wharton Foods’ position?",
+        "options": {
+          "A": "Wharton Foods can terminate because the original failure to meet the 1 June deadline was itself a repudiation.",
+          "B": "Wharton Foods cannot terminate for late delivery because it affirmed the contract by granting an extension, but may be able to terminate for defective machinery if the defect goes to the root of the contract.",
+          "C": "Wharton Foods can terminate for both the late delivery and the defective machinery, because both arose from the same breach.",
+          "D": "Wharton Foods has no right to terminate because it is estopped from relying on the delivery terms having varied them."
+        },
+        "correct": "B",
+        "explanation": "By agreeing to an extension on 15 May, Wharton Foods elected to affirm the contract rather than accept the repudiation. Affirmation waives the right to terminate for that particular breach. Wharton Foods therefore cannot retrospectively terminate for late delivery. The defective machinery is an independent, subsequent breach. Whether Wharton Foods can terminate for it depends on the classification of the term: if delivery of conforming goods is a condition, any breach entitles termination; if an innominate term, termination requires a breach depriving Wharton Foods of substantially the whole benefit. Option A is wrong: Wharton Foods affirmed the contract on 15 May, waiving the right to terminate for late delivery. Option C is wrong: affirmation cuts off the right to terminate for the 1 June breach; subsequent breaches are assessed independently. Option D misstates the position: estoppel prevents enforcement of strict delivery by 1 June during the extension, but does not extinguish all rights — Wharton Foods retains the right to enforce the varied date and to rely on subsequent defects.",
+        "card_refs": [
+          "FLK1-CON-051",
+          "FLK1-CON-081",
+          "FLK1-CON-CASE-044"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-027",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Damages",
+        "difficulty": "Foundation",
+        "stem": "A publisher contracts to pay Clive Dring, a local journalist, a £20,000 advance on publication of his memoir. The publisher breaches by refusing to publish. Clive had spent £3,000 preparing the manuscript and expected royalties of at least £30,000 over the life of the book. The primary measure of damages in contract law aims to put the claimant in the position they would have been in had the contract been performed. Which measure best applies?",
+        "options": {
+          "A": "Clive should recover the £3,000 in wasted preparation costs under the reliance measure.",
+          "B": "Clive should recover the £20,000 advance only, because that is the benefit promised by the publisher.",
+          "C": "Clive should recover damages based on the expectation interest, including the £20,000 advance and any lost profits, subject to remoteness and mitigation.",
+          "D": "Clive should recover nothing because the royalty projections were speculative."
+        },
+        "correct": "C",
+        "explanation": "The primary rule in contract damages is the expectation measure: the court aims to put the claimant in the same financial position as if the contract had been performed: Robinson v Harman (1848). This covers the promised advance and lost profits, subject to remoteness and mitigation. Option A is wrong as a primary answer: the reliance measure (recovering wasted expenditure) is an alternative the claimant may elect, typically where expectation loss is difficult to quantify. It is not the primary measure. Option B is incomplete: the expectation interest is not limited to the advance; it includes loss of profit subject to remoteness. Option D is wrong: courts will assess damages for uncertain future profits where there was a real chance of earning them; speculative projections do not defeat the claim where a reasonable expectation of profit existed.",
+        "card_refs": [
+          "FLK1-CON-053",
+          "FLK1-CON-054"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-028",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Damages",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers is contracted to deliver a replacement part for Wharton Foods Ltd’s production machine. Northgate is told the delivery is ‘urgent’ but not told the machine is broken and production has stopped. Northgate delays delivery by three days. During those three days Wharton Foods loses £50,000 in production profit. Under the remoteness rule in Hadley v Baxendale, can Wharton Foods recover the £50,000?",
+        "options": {
+          "A": "No, because loss of production profit from a broken machine was not within the reasonable contemplation of Northgate at the time of contracting.",
+          "B": "Yes, because Northgate was told the delivery was urgent.",
+          "C": "Yes, because lost profits are always recoverable in contract as consequential losses.",
+          "D": "No, because Northgate was merely negligent rather than in deliberate breach."
+        },
+        "correct": "A",
+        "explanation": "Under the second limb of Hadley v Baxendale (1854), special losses are only recoverable if the party in breach was aware of the special circumstances at contracting, such that the loss was within their reasonable contemplation. Northgate Couriers was told delivery was ‘urgent’ but not that the machine was broken and production had stopped. The £50,000 production loss is a special loss not arising naturally from a delivery delay. Without knowledge of the specific machine-breakdown context, this loss was not in Northgate’s reasonable contemplation. Option B is wrong: ‘urgent’ does not communicate the specific circumstances causing the lost profit and does not bring the £50,000 within the second limb. Option C is wrong: consequential losses are only recoverable if within the reasonable contemplation of the parties at contracting — there is no general rule that lost profits are always recoverable. Option D is wrong on the facts: a courier who delays delivery is in breach of contract; the issue of damages arises only once breach is established.",
+        "card_refs": [
+          "FLK1-CON-055",
+          "FLK1-CON-CASE-041"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-029",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Damages",
+        "difficulty": "Complex",
+        "stem": "A logistics contract between Northgate Couriers and Wharton Foods Ltd states: ‘In the event of late delivery, Northgate shall pay £10,000 per day of delay as liquidated damages.’ Northgate delivers two days late, causing Wharton Foods actual losses of £3,000. Wharton Foods claims £20,000. Under which principle is the clause most likely to be challenged, and what is the correct statement of current law?",
+        "options": {
+          "A": "The clause is void as a penalty under the rule that liquidated damages clauses must be a genuine pre-estimate of loss.",
+          "B": "The clause is enforceable because the parties freely agreed to it and freedom of contract prevails.",
+          "C": "The clause is void as a penalty because £10,000 per day is extravagant compared to £3,000 actual loss.",
+          "D": "The clause will be assessed under Cavendish Square Holding BV v Makdessi: it is void only if it imposes a detriment out of all proportion to any legitimate interest the innocent party has in enforcing the obligation."
+        },
+        "correct": "D",
+        "explanation": "The Supreme Court in Cavendish Square Holding BV v Makdessi [2015] reformulated the test for penalty clauses. The old ‘genuine pre-estimate of loss’ test has been superseded: a clause is a penalty only where it imposes a detriment on the contract-breaker that is out of all proportion to any legitimate interest of the innocent party. Commercial parties with equal bargaining power have considerable latitude to agree deterrent clauses with legitimate interests in securing performance. Option A misstates current law: the ‘genuine pre-estimate of loss’ test from Dunlop Pneumatic Tyre Co v New Garage [1915] is no longer the primary test after Makdessi. Option B overstates freedom of contract: the courts retain equitable jurisdiction to strike down genuine penalties even in commercial contracts, albeit on a narrower basis post-Makdessi. Option C applies the pre-Makdessi Dunlop test, which focused on disproportion between the stipulated sum and actual loss; post-Makdessi, the question is whether the clause is out of all proportion to a legitimate interest — a wider and different analysis.",
+        "card_refs": [
+          "FLK1-CON-057",
+          "FLK1-CON-079",
+          "FLK1-CON-CASE-042"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-030",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Third Parties",
+        "subtopic": "Privity of Contract",
+        "difficulty": "Foundation",
+        "stem": "Wharton Foods Ltd contracts with an IT company for the IT company to install a practice management system at the offices of Wharton Foods Distribution Ltd, Wharton Foods’ subsidiary. The contract states: ‘This contract is for the benefit of Wharton Foods Distribution Ltd.’ The installation is negligently performed and Wharton Foods Distribution suffers loss. Can Wharton Foods Distribution enforce the contract against the IT company under the Contracts (Rights of Third Parties) Act 1999?",
+        "options": {
+          "A": "No, because Wharton Foods Distribution was not a party to the contract and privity prevents third-party enforcement.",
+          "B": "Yes, because the contract expressly identifies Wharton Foods Distribution as a beneficiary, satisfying s.1(1)(b) of the Act.",
+          "C": "Yes, but only if Wharton Foods Distribution can show it provided consideration to the IT company.",
+          "D": "No, because the Act only applies to contracts for the direct supply of goods or services to the third party."
+        },
+        "correct": "B",
+        "explanation": "Under s.1(1)(b) of the Contracts (Rights of Third Parties) Act 1999, a third party may enforce a contractual term if the contract purports to confer a benefit on them and they are expressly identified by name, class, or description. The contract here expressly states it is ‘for the benefit of Wharton Foods Distribution Ltd’ — Wharton Foods Distribution is identified by name and a benefit is conferred. Unless s.1(2) applies (i.e. it appears the parties did not intend the term to be enforceable by the third party), Wharton Foods Distribution may enforce. Option A is wrong: the 1999 Act is the statutory exception to the common law privity rule. Option C is wrong: the Act specifically removes the requirement for the third party to provide consideration — this was the fundamental change the Act made. Option D is wrong: the Act contains no limitation restricting it to direct supply contracts; it applies to any contract satisfying s.1(1)(a) or s.1(1)(b).",
+        "card_refs": [
+          "FLK1-CON-060",
+          "FLK1-CON-061",
+          "FLK1-CON-CASE-043"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-031",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Revocation of Offers",
+        "difficulty": "Application",
+        "stem": "Neville Prescott posted an offer to Alek Kowalski on Monday to sell a commercial van for £8,000, stating the offer was open for seven days. On Wednesday, Prescott sold the van to another buyer and posted a revocation letter to Kowalski. On Thursday morning, before receiving the revocation, Kowalski posted an acceptance. When Kowalski's acceptance arrived on Friday, Prescott refused to proceed. Is a contract formed?",
+        "options": {
+          "A": "Yes — the postal rule applies to acceptances, so the contract was formed on Thursday when Kowalski posted his acceptance.",
+          "B": "No — revocation of an offer is effective when posted, so Prescott's Wednesday revocation ended the offer before Kowalski accepted.",
+          "C": "No — Prescott had already sold the van to a third party, making performance impossible and the offer automatically lapsed.",
+          "D": "Yes — a seven-day offer cannot be revoked within that period without paying consideration for the option."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Under the postal rule (Adams v Lindsell [1818]), acceptance by post is effective when the letter is posted, not when it arrives. Kowalski posted his acceptance on Thursday before receiving the revocation, so the contract was formed at that moment. B is wrong: revocation is effective on communication to the offeree (Byrne v Van Tienhoven [1880]), not on posting — Kowalski had not received the revocation when he accepted. C is wrong: automatic lapse by impossibility does not apply unless the offeree knows of it. D is wrong: a gratuitous promise to keep an offer open for a fixed period is not binding without consideration; Prescott could revoke, but only by effective communication before acceptance.",
+        "card_refs": [
+          "FLK1-CON-CASE-003",
+          "FLK1-CON-002"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-032",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Unilateral Contracts",
+        "difficulty": "Application",
+        "stem": "Prescott Motors placed a sign in its window: 'We will pay £200 to any customer who finds a fault we missed on a pre-sale inspection — claim within 30 days of purchase.' Rachel Okonkwo bought a car from Prescott Motors and, within 14 days, discovered a brake defect that had not been identified on the pre-sale inspection report. Prescott refuses to pay, arguing the sign was merely an advertisement. Is Rachel entitled to £200?",
+        "options": {
+          "A": "No — a sign in a shop window is an invitation to treat, not an offer capable of acceptance.",
+          "B": "Yes — the sign constitutes a unilateral offer accepted by Rachel's performance of the condition (purchasing and discovering the fault within 30 days).",
+          "C": "No — Prescott's offer required Rachel to notify acceptance in writing before purchasing the car.",
+          "D": "Yes — but only because Rachel has a separate statutory claim under the Consumer Rights Act 2015 that overrides the contractual analysis."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Following Carlill v Carbolic Smoke Ball Co [1893], a promise to pay upon performance of a specified act is a unilateral offer, not a mere invitation to treat. No prior communication of acceptance is required; acceptance occurs through performance of the condition. Rachel purchased the car and discovered a qualifying defect within the stated period, completing performance. A is wrong: the advertisement/ITT principle applies to bilateral contracts; a clear unilateral promise with definite conditions is an offer. C is wrong: unilateral offers do not require prior notification of acceptance. D incorrectly conflates contractual and statutory claims.",
+        "card_refs": [
+          "FLK1-CON-CASE-002",
+          "FLK1-CON-001"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-033",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Promissory Estoppel",
+        "difficulty": "Application",
+        "stem": "Owen Davies owed Hollowell Engineering £12,000 for steelwork on a completed project. Pat Hollowell, facing a cash-flow problem, wrote to Davies: 'If you pay £9,000 now, I will not pursue the remaining £3,000.' Davies paid £9,000 in reliance on this promise. Six months later, Hollowell Engineering sought to recover the outstanding £3,000. Can it do so?",
+        "options": {
+          "A": "Yes — Foakes v Beer establishes that an agreement to accept part payment does not extinguish the balance, and Davies provided no fresh consideration.",
+          "B": "No — the agreement to accept £9,000 is a binding variation supported by the consideration of early payment.",
+          "C": "No — Hollowell is estopped from going back on the promise, as Davies relied on it to his detriment by paying immediately.",
+          "D": "Yes — promissory estoppel can only be used as a shield in existing litigation, not to permanently extinguish a debt."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Promissory estoppel (Central London Property Trust v High Trees House [1947]) prevents Hollowell from going back on its clear promise where Davies acted in reliance on it. The detriment is paying early and restructuring financial plans accordingly. A states the common law rule from Foakes v Beer [1884] correctly but ignores how equity modifies it through promissory estoppel. B is not the right basis — early payment alone may not be fresh consideration for part payment of an existing debt (Re Selectmove [1995]), but estoppel achieves the same outcome. D misstates the doctrine — while estoppel is typically suspensory, the circumstances may make it inequitable to revert; here Davies has fully performed the agreed arrangement.",
+        "card_refs": [
+          "FLK1-CON-047",
+          "FLK1-CON-CASE-010"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-034",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Consideration — Part Payment",
+        "difficulty": "Foundation",
+        "stem": "Hollowell Engineering owed Bridgewater Developments £20,000 for professional fees under a construction contract. The parties agreed in writing that Hollowell would pay £16,000 in full satisfaction of the debt. Hollowell paid £16,000. Bridgewater later claimed the remaining £4,000. What is the legal position?",
+        "options": {
+          "A": "Bridgewater cannot recover — the written agreement constitutes a binding accord and satisfaction.",
+          "B": "Bridgewater can recover — under Foakes v Beer, part payment of an existing debt, even if agreed, does not extinguish the balance without fresh consideration.",
+          "C": "Bridgewater cannot recover — the written form of the agreement satisfies the variation requirements under LP(MP)A 1989.",
+          "D": "Hollowell can rely on promissory estoppel to prevent recovery even without proving detrimental reliance."
+        },
+        "correct": "B",
+        "explanation": "B is correct. The rule in Foakes v Beer [1884] (affirming Pinnel's Case [1602]) holds that payment of a lesser sum cannot be good consideration for the promise to forgo the balance — Hollowell provided nothing new beyond what it already owed. A is wrong: accord and satisfaction requires fresh consideration, and a mere agreement to accept less without more does not supply it. C is wrong: LP(MP)A 1989 applies to contracts for the sale or disposition of land, not to ordinary debt compromises. D is wrong: promissory estoppel requires detrimental reliance on the promise — merely paying what one already owed is not itself detrimental reliance sufficient to prevent recovery of the balance.",
+        "card_refs": [
+          "FLK1-CON-CASE-010",
+          "FLK1-CON-047"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-035",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Electronic Contracts",
+        "difficulty": "Application",
+        "stem": "Marta Kowalski set up an online ordering system for Wharton Bakery. A wholesale customer clicked 'Confirm Order' on the website at 11.58pm on Friday for a large catering order. The website displayed: 'Your order is received and will be confirmed by email.' At 9am Saturday, the bakery sent an email stating it could not fulfil the order. When was the contract, if any, formed?",
+        "options": {
+          "A": "At 11.58pm Friday — a contract formed when the customer clicked 'Confirm Order', which constitutes acceptance of the bakery's standing offer.",
+          "B": "No contract was formed — the 'Confirm Order' button is only an application to purchase; the contract requires the bakery's confirmation email.",
+          "C": "At 9am Saturday — the bakery's email refusing the order constitutes a counter-offer that the customer must now accept or reject.",
+          "D": "At 11.58pm Friday — the Electronic Commerce (EC Directive) Regulations 2002 deem the contract formed at the moment of clicking regardless of any further steps."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Under the Electronic Commerce (EC Directive) Regulations 2002, a website displaying goods is typically an invitation to treat, not an offer; the customer's order is the offer and the contract is formed on the trader's acknowledgement of acceptance — not mere receipt notification. The website message 'will be confirmed by email' expressly reserved the right to confirm, meaning no contract was formed at the point of clicking. A wrongly treats the click as acceptance of an offer. C mischaracterises the bakery's refusal — it is a rejection of the customer's offer, not a counter-offer. D misapplies the Regulations, which permit businesses to structure when acceptance occurs.",
+        "card_refs": [
+          "FLK1-CON-009",
+          "FLK1-CON-002"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-036",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Lapse of Offers",
+        "difficulty": "Foundation",
+        "stem": "In May, Prescott Motors offered to sell a minibus to Rachel Okonkwo for £15,000. Rachel said she would 'think about it.' In November — six months later — Rachel wrote accepting the offer. Prescott refused to proceed. Is there a contract?",
+        "options": {
+          "A": "Yes — there is no time limit stated, so the offer remains open indefinitely until expressly revoked.",
+          "B": "No — an offer lapses after a reasonable time, and six months is unreasonable for a commercial transaction of this nature.",
+          "C": "Yes — Rachel's acceptance within the same calendar year cannot constitute lapse.",
+          "D": "No — Rachel's failure to respond immediately constituted a counter-offer by conduct, ending the original offer."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Where no time limit is specified, an offer lapses after a reasonable time (Ramsgate Victoria Hotel v Montefiore [1866]). What is 'reasonable' depends on context — for a commercial vehicle in a fluctuating second-hand market, six months is clearly unreasonable. A is wrong: offers do not remain open indefinitely; lapse by passage of time is a recognised termination event. C applies no recognisable legal rule. D is wrong: silence or delay by the offeree does not constitute a counter-offer — it simply means no acceptance has been communicated.",
+        "card_refs": [
+          "FLK1-CON-001",
+          "FLK1-CON-CASE-003"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-037",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Consideration — Adequacy and Sufficiency",
+        "difficulty": "Foundation",
+        "stem": "James Ashworth agreed to sell his vintage motorcycle to his friend for £1, described in the contract as 'nominal consideration for a valuable asset.' The motorcycle was worth approximately £4,500. James later refused to complete the sale, arguing the consideration was inadequate. Can James avoid the contract on this basis?",
+        "options": {
+          "A": "Yes — consideration must be adequate and reflect the true value of what is exchanged.",
+          "B": "No — consideration must be sufficient (real) but need not be adequate; courts will not assess whether it is commercially fair.",
+          "C": "Yes — the gross undervalue means there was no genuine intention to create legal relations.",
+          "D": "No — but James can seek rectification of the contract price to reflect the true market value."
+        },
+        "correct": "B",
+        "explanation": "B is correct. The rule is that consideration must be sufficient (legally recognisable) but need not be adequate (Thomas v Thomas [1842]; Chappell v Nestlé [1960]). £1 is good consideration — it is real value freely given. Courts do not inquire into the commercial equivalence of the bargain. A incorrectly requires adequacy. C confuses adequacy of consideration with ICLR — the friends may well intend to be bound despite the low price. D: rectification requires a mistake in recording the parties' common intention; here the price was intentional.",
+        "card_refs": [
+          "FLK1-CON-004",
+          "FLK1-CON-CASE-007"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-038",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Consideration — Existing Duty",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts Ltd was engaged to fit out Wharton Foods' new distribution depot. Midway through the project, Owen Davies told Graham Grange that Atlas would not complete unless Wharton Foods paid an extra £15,000. Grange, having no realistic time to engage another contractor, agreed. Atlas completed the work. Wharton Foods now refuses to pay the extra £15,000. Is the promise to pay enforceable?",
+        "options": {
+          "A": "No — Atlas was only doing what it was already obliged to do under the original contract; performing an existing duty is not good consideration.",
+          "B": "Yes — Atlas's continued performance conferred a practical benefit on Wharton Foods, which can constitute good consideration (Williams v Roffey).",
+          "C": "Yes — the agreement to pay extra was a written variation and therefore automatically binding.",
+          "D": "No — the agreement was obtained by economic duress, rendering the promise to pay unenforceable."
+        },
+        "correct": "D",
+        "explanation": "D is correct on the facts as stated. While Williams v Roffey Bros [1991] established that practical benefit can constitute consideration for paying extra under an existing contract, that principle operates only where the agreement to pay more is freely reached. Here, Owen Davies's ultimatum — refusing to complete unless paid more — is economic duress (threatening to breach without legitimate justification). The agreement was not freely entered into. A states the old rule (Stilk v Myrick) which Williams v Roffey partially modified but ignores duress. B correctly states the Williams v Roffey principle but fails to apply the duress analysis. C is wrong: written form does not cure absent or tainted consent.",
+        "card_refs": [
+          "FLK1-CON-005",
+          "FLK1-CON-021",
+          "FLK1-CON-CASE-012"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-039",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Parol Evidence Rule",
+        "difficulty": "Application",
+        "stem": "Priya Mehta entered a written supply contract with a fabric manufacturer. The written contract stated delivery would be 'within 30 days.' Before signing, the manufacturer's representative orally promised Priya that delivery would be within 10 days 'as a priority customer.' Delivery took 25 days, causing Priya to lose a major order. Can Priya rely on the oral promise?",
+        "options": {
+          "A": "No — the parol evidence rule prevents any oral agreement made before or at the time of a written contract from adding to or varying its terms.",
+          "B": "Yes — the oral promise can be relied on as a collateral contract, provided it was intended to have legal effect and was the reason Priya entered the main contract.",
+          "C": "Yes — pre-contractual oral statements always take precedence over inconsistent written terms as they reflect the true agreement.",
+          "D": "No — the oral promise was merely a sales puff and cannot form the basis of any contractual or misrepresentation claim."
+        },
+        "correct": "B",
+        "explanation": "B is correct. The parol evidence rule (option A) is subject to an important exception for collateral contracts. Where one party makes a specific oral promise that induces the other to enter the main contract, and that promise was intended to have contractual effect, it can bind as a collateral contract alongside the written agreement (City and Westminster Properties v Mudd [1959]). Here, the priority delivery promise induced Priya to sign — she can recover the loss caused by the broken collateral promise. A overstates the parol evidence rule — it is not absolute. C is wrong: oral terms do not automatically override written ones; they may be incorporated via collateral contract. D is wrong: a specific factual promise about delivery time is not a mere puff.",
+        "card_refs": [
+          "FLK1-CON-015",
+          "FLK1-CON-014"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-040",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Consumer Rights Act 2015 — Fairness",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo engaged Prescott Motors to service her car under a written contract. A clause stated: 'Prescott Motors accepts no liability whatsoever for damage caused to the vehicle during servicing.' During a routine service, a Prescott employee negligently scratched Rachel's bonnet. Prescott relies on the clause. Can it do so?",
+        "options": {
+          "A": "Yes — the clause was included in a written contract, signed by Rachel, and clearly brought to her attention.",
+          "B": "No — under s.65 of the Consumer Rights Act 2015, a trader cannot exclude liability to a consumer for negligence causing loss or damage to property.",
+          "C": "No — only under UCTA 1977, which renders such a clause unreasonable in a consumer contract.",
+          "D": "Yes — the clause is effective because it satisfies the UCTA 1977 reasonableness test for a standard-form consumer contract."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Section 65 of the Consumer Rights Act 2015 (CRA 2015) provides that a trader cannot exclude or restrict liability to a consumer for negligence that causes death, personal injury, or (under s.65(2)) loss or damage to property — subject to the transparency and fairness requirements of Part 2. The clause as drafted is void as against a consumer such as Rachel. C is wrong: UCTA 1977 has been largely superseded by CRA 2015 for B2C contracts. A is wrong: notice and signature are not sufficient to save a clause rendered ineffective by statute. D is wrong: the CRA 2015 reasonableness test in Part 2 applies to other terms, but s.65 establishes a near-absolute exclusion of liability for negligence-caused damage.",
+        "card_refs": [
+          "FLK1-CON-011",
+          "FLK1-CON-012",
+          "FLK1-CON-013"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-041",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "UCTA 1977 vs CRA 2015",
+        "difficulty": "Foundation",
+        "stem": "Hollowell Engineering Ltd contracted with Atlas Contracts Ltd for the supply of specialist steel frames. The contract contained a clause limiting Atlas's liability for defective goods to £5,000, regardless of the actual loss suffered. The frames were defective and Hollowell suffered £40,000 in consequential losses. Which statutory regime governs this clause?",
+        "options": {
+          "A": "Consumer Rights Act 2015 — which applies to all contracts involving a business.",
+          "B": "Unfair Contract Terms Act 1977 — which applies to business-to-business contracts and subjects the clause to a reasonableness test.",
+          "C": "Consumer Rights Act 2015 Part 2 — which applies to all limitation clauses regardless of the parties.",
+          "D": "Neither statute — limitation clauses in commercial contracts between equal businesses are fully enforceable without restriction."
+        },
+        "correct": "B",
+        "explanation": "B is correct. UCTA 1977 applies to business-to-business (B2B) contracts. Section 3 of UCTA 1977 subjects liability limitation clauses in standard-form B2B contracts to the reasonableness test under Schedule 2. A is wrong: CRA 2015 applies only where one party is a 'consumer' (individual acting outside their business) and the other is a trader; both Hollowell and Atlas are businesses. C is wrong: CRA 2015 Part 2 applies only to consumer contracts. D is wrong: UCTA 1977 applies and the clause must satisfy reasonableness.",
+        "card_refs": [
+          "FLK1-CON-011",
+          "FLK1-CON-012"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-042",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Innominate Terms",
+        "difficulty": "Complex",
+        "stem": "Wharton Foods contracted with a haulage company requiring delivery of perishable goods 'in refrigerated vehicles at no more than 5°C.' On one occasion, the vehicle's refrigeration unit malfunctioned partway through a journey; the goods arrived at 9°C. The goods were slightly warm but perfectly edible and only marginally below specification. Wharton Foods purported to terminate the contract for breach. Can it do so?",
+        "options": {
+          "A": "Yes — the temperature specification is a condition, so any breach, however minor, entitles termination.",
+          "B": "No — the temperature specification is a warranty; Wharton Foods can only claim damages, not terminate.",
+          "C": "No — the temperature specification is likely an innominate term; the right to terminate depends on whether the breach substantially deprives Wharton Foods of the whole benefit of the contract.",
+          "D": "Yes — food safety regulations impose a strict duty on temperature compliance, automatically entitling termination for any breach."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Unless the parties have expressly labelled the term a 'condition,' courts apply the test from Hong Kong Fir Shipping Co v Kawasaki Kisen Kaisha [1962]: a term is innominate if consequences of breach can range from trivial to severe. The right to terminate arises only if the breach goes to the root of the contract. Here, a marginal temperature breach on a single occasion causing no damage does not substantially deprive Wharton Foods of what it contracted for — termination would be disproportionate. A wrongly classifies the term as a condition without express designation. B wrongly classifies it as a warranty. D: statutory compliance duties do not directly determine contractual termination rights.",
+        "card_refs": [
+          "FLK1-CON-014",
+          "FLK1-CON-CASE-015"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-043",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Incorporation by Course of Dealing",
+        "difficulty": "Application",
+        "stem": "For three years, Hollowell Engineering had ordered steel from the same supplier on standard terms that included a clause excluding liability for late delivery. The terms were printed on the supplier's delivery notes, which Hollowell signed on each occasion. On the fourth year's order, agreed verbally, the supplier delivered four weeks late, causing significant losses. The supplier relies on the exclusion clause. Is it incorporated?",
+        "options": {
+          "A": "No — the clause was not on the contract document itself, only on delivery notes received after the contract was formed.",
+          "B": "Yes — the consistent course of dealing over three years means the standard terms, including the exclusion clause, are incorporated into all contracts by course of dealing.",
+          "C": "No — an exclusion clause can only be incorporated if it is specifically drawn to the other party's attention before each contract.",
+          "D": "Yes — but only if the exclusion clause satisfies the UCTA 1977 reasonableness test."
+        },
+        "correct": "B",
+        "explanation": "B is correct. A consistent course of dealing over a substantial period can incorporate standard terms, including onerous exclusion clauses, into subsequent contracts even without express reference (Hollier v Rambler Motors [1972] — though there the course was insufficient; here three years and multiple signed occasions suffices). Hollowell is a business that has repeatedly signed documents containing the clause. A is wrong: incorporation can operate by prior course of dealing even if the clause was on post-contractual documents, provided the history is consistent and the party had reasonable notice. C is wrong: specific notice per transaction is not required once incorporation by course of dealing is established. D: while UCTA reasonableness is separately relevant, the issue asked is incorporation.",
+        "card_refs": [
+          "FLK1-CON-011",
+          "FLK1-CON-012"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-044",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Implied Terms — Business Efficacy / Officious Bystander",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier Solicitors engaged a building firm to refurbish their offices. The contract specified the scope of works but was silent on what would happen to furniture and equipment during the works. The builders left all furniture in situ, causing significant damage to computer equipment from dust. Crane & Pelletier claims the contract included an implied term to protect equipment. On what basis might the court imply such a term?",
+        "options": {
+          "A": "Under the officious bystander test — both parties would have agreed it went without saying that equipment would be protected.",
+          "B": "Under the business efficacy test — the contract cannot work at all without the implied term.",
+          "C": "As a term implied by statute — the Supply of Goods and Services Act 1982 imposes a duty of reasonable care.",
+          "D": "A is the correct primary basis, supported by C — the officious bystander test applies to fill gaps, and the statutory duty of care reinforces the analysis."
+        },
+        "correct": "D",
+        "explanation": "D is correct. The officious bystander test (Shirlaw v Southern Foundries [1939]) implies terms that 'go without saying' — both parties would obviously have agreed to protect equipment if asked. That is the primary basis here. Additionally, s.13 of the Supply of Goods and Services Act 1982 implies a term that a service provider will exercise reasonable care and skill — which itself encompasses taking care of the client's property. B is wrong on its own: business efficacy implies terms necessary to make the contract work, not merely convenient ones; the contract could technically work (badly) without the term. A alone is incomplete as it ignores the statutory route. D correctly combines both.",
+        "card_refs": [
+          "FLK1-CON-015"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-045",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Consumer Rights Act 2015 — Goods",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo bought a new laptop from an electronics retailer for £1,200 for personal use. After five weeks, the screen developed a permanent fault. The retailer offered a repair. Rachel refused, insisting on a refund. Under the Consumer Rights Act 2015, what are Rachel's rights?",
+        "options": {
+          "A": "Rachel must accept a repair — a refund is only available if the repair fails.",
+          "B": "Rachel is entitled to a full refund within 30 days of purchase without needing to give the trader a chance to repair.",
+          "C": "Rachel must first allow one repair attempt; if that fails, she may claim a price reduction or replacement but not a full refund.",
+          "D": "Rachel is entitled to a final right to reject — giving a full refund — because the short-term right to reject (30 days) has expired and the repair option applies first."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Under CRA 2015, the short-term right to reject under s.20 is available for 30 days from delivery for goods that are not of satisfactory quality. Rachel's fault appeared at five weeks — just outside the 30-day window. After 30 days, the consumer must first allow one repair or replacement (s.23). If that first repair fails (or is disproportionate), the consumer can then exercise the final right to reject under s.24 (which may include a deduction for use). B is wrong: the 30-day short-term right has expired. A is wrong: it suggests repair is always the first remedy — correct post-30 days — but misstates the consequence of repair failure. C is incorrect in excluding a refund as a possible outcome after failed repair.",
+        "card_refs": [
+          "FLK1-CON-011",
+          "FLK1-CON-CASE-016"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-046",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Fraudulent Misrepresentation",
+        "difficulty": "Application",
+        "stem": "Neville Prescott told James Ashworth that a van he was selling had 'only had one owner and never been in an accident.' In fact, Prescott knew the van had had three owners and had been in a recorded collision. James bought the van in reliance on these statements. On discovering the truth, James seeks rescission and damages. Under which head of misrepresentation can James recover damages as of right without needing to prove loss was foreseeable?",
+        "options": {
+          "A": "Innocent misrepresentation under s.2(2) of the Misrepresentation Act 1967.",
+          "B": "Negligent misrepresentation under s.2(1) of the Misrepresentation Act 1967.",
+          "C": "Fraudulent misrepresentation under the tort of deceit (Derry v Peek).",
+          "D": "Both B and C — damages under both s.2(1) MA 1967 and the tort of deceit allow recovery without foreseeability."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Both fraudulent misrepresentation (Derry v Peek [1889]) and negligent misrepresentation under s.2(1) MA 1967 allow recovery of all consequential losses without the remoteness limitation of the tort of negligence — foreseeability is not required. Under s.2(1), the 'fiction of fraud' means the representee is treated as if the representation were fraudulent for the purposes of the damages measure (Royscot Trust v Rogerson [1991]). James can claim under either or both heads. A is wrong: innocent misrepresentation under s.2(2) gives the court discretion to award damages in lieu of rescission only, and foreseeability still applies. B and C alone each correctly state the rule but D is more complete.",
+        "card_refs": [
+          "FLK1-CON-016",
+          "FLK1-CON-017",
+          "FLK1-CON-CASE-020"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-047",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Bars to Rescission",
+        "difficulty": "Application",
+        "stem": "Priya Mehta entered a fabric supply contract after the supplier made an innocent misrepresentation about the fabric's fire-resistance rating. Six months after discovering the truth, Priya continued to order fabric from the same supplier under the same terms and only sought rescission eight months after discovery. The supplier argues rescission is no longer available. Is the supplier correct?",
+        "options": {
+          "A": "No — the right to rescind for innocent misrepresentation is unlimited in time once the misrepresentation is discovered.",
+          "B": "Yes — Priya has affirmed the contract by continuing to perform after discovering the misrepresentation.",
+          "C": "No — rescission is available as a matter of right for any misrepresentation; affirmation is irrelevant.",
+          "D": "Yes — but only because more than six months have passed since discovery, which is the statutory limitation period for rescission."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Affirmation is one of the recognised bars to rescission. A party who, with knowledge of the misrepresentation, continues to perform the contract or acts consistently with treating it as valid affirms it and thereby loses the right to rescind (Long v Lloyd [1958]). Priya continued ordering fabric from the same supplier on the same terms after discovering the truth — this constitutes affirmation. A is wrong: lapse of time and affirmation both bar rescission even post-discovery. C is wrong: affirmation, lapse of time, third-party rights, and restitutio in integrum impossibility all bar rescission. D is wrong: there is no six-month statutory limitation period for rescission specifically.",
+        "card_refs": [
+          "FLK1-CON-018",
+          "FLK1-CON-CASE-021"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-048",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Illegality",
+        "difficulty": "Application",
+        "stem": "Owen Davies agreed to pay Prescott Motors £2,000 to help him repaint a van so it could be passed off as a different vehicle to defraud Davies's insurer. Prescott completed the work but Davies refused to pay. Prescott sues for the £2,000. What is the outcome?",
+        "options": {
+          "A": "Prescott can recover — it performed the work and is entitled to payment regardless of how the van is used.",
+          "B": "Prescott cannot recover — the contract was formed to carry out an illegal purpose (insurance fraud) and is unenforceable.",
+          "C": "Prescott can recover — only Davies is the wrongdoer; Prescott's participation was innocent as a service provider.",
+          "D": "Prescott cannot recover the contractual price but may recover the reasonable value of its services in quantum meruit."
+        },
+        "correct": "B",
+        "explanation": "B is correct. A contract formed for an illegal purpose — here, facilitating insurance fraud — is void on grounds of illegality (ex turpi causa non oritur actio). The courts will not assist a party seeking to enforce a contract whose performance requires or promotes an illegal act. A is wrong: the nature of the purpose taints the contract regardless of performance. C is wrong: Prescott's knowledge of the illegal purpose (repainting to defraud the insurer) means it is a knowing participant, not an innocent party. D is wrong: quantum meruit is equally unavailable where both parties participated knowingly in the illegal purpose (Parkinson v College of Ambulance [1925]).",
+        "card_refs": [
+          "FLK1-CON-019",
+          "FLK1-CON-CASE-022"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-049",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Unilateral Mistake as to Identity",
+        "difficulty": "Complex",
+        "stem": "A fraudster impersonating 'Graham Grange of Wharton Foods' contacted Prescott Motors by email, negotiating to buy a fleet of vans on credit. Prescott, believing it was dealing with the well-known local businessman, agreed. The vans were delivered and the fraudster sold them to an innocent third-party buyer. When the fraud was discovered, Prescott sought to recover the vans or their value from the third party. What is the legal position?",
+        "options": {
+          "A": "Prescott can recover — the contract with the fraudster was void for unilateral mistake as to identity, so the fraudster had no title to pass to the third party.",
+          "B": "Prescott cannot recover — where parties contract at a distance, there is a presumption the offeror intends to contract with whoever responds, making the contract voidable, not void.",
+          "C": "Prescott can recover — the Consumer Rights Act 2015 protects sellers where fraud is involved.",
+          "D": "Prescott cannot recover — the third-party buyer's good faith defeats any title claim by Prescott."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Following Shogun Finance v Hudson [2003], where parties contract at a distance (here by email), the identity of the contracting party is usually that of whoever is dealing — the fraudster. The contract is therefore voidable for fraudulent misrepresentation, not void for mistake. A voidable contract is valid until rescinded; the fraudster could pass a voidable title to the third party before rescission, and the third party's good faith purchase under s.23 of the Sale of Goods Act 1979 defeats Prescott's claim. A applies the rule from Cundy v Lindsay [1878] (face-to-face / written contracts with known third party) but Shogun distinguishes distance dealings. C: the CRA 2015 is irrelevant. D reaches the right conclusion but misstates the mechanism — the third party is protected because the fraudster had voidable (not void) title.",
+        "card_refs": [
+          "FLK1-CON-019",
+          "FLK1-CON-020"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-050",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Undue Influence — Class 2B",
+        "difficulty": "Application",
+        "stem": "Betty Huxley, aged 82 and in poor health, charged her home to secure a personal loan taken by her granddaughter. Gerald Crane, acting for both Betty and the lender, did not advise Betty independently about the risks. Betty's granddaughter chose the property for her. Betty now seeks to set the charge aside on grounds of undue influence by her granddaughter. What must Betty establish?",
+        "options": {
+          "A": "Betty must prove actual undue influence — specific acts of pressure or coercion by her granddaughter.",
+          "B": "Betty can rely on a presumption of undue influence arising from the grandmother-granddaughter relationship, and must show the transaction calls for explanation.",
+          "C": "Betty must show that the transaction was manifestly to her disadvantage and that there was no independent legal advice.",
+          "D": "Betty can only set aside the charge if the lender had actual knowledge of the granddaughter's undue influence."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Class 2B undue influence arises where the relationship between the parties gives rise to a presumption of influence (not limited to the fixed categories in Class 2A). A close family relationship between an elderly vulnerable person and a younger relative can raise such a presumption (Etridge (No 2) [2001]). Betty must show: (1) a relationship in which one placed trust and confidence in the other, and (2) a transaction that calls for explanation (is not readily explicable by ordinary motives). A requires proof of actual pressure — that is Class 1 undue influence. C overstates the requirements (manifest disadvantage is relevant but not a standalone test post-Etridge). D is relevant to the lender's position but not to what Betty must establish against her granddaughter.",
+        "card_refs": [
+          "FLK1-CON-022",
+          "FLK1-CON-CASE-025"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-051",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Anticipatory Breach",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts Ltd agreed to fit out Priya Mehta's expanded workshop, with work to start on 1 March. On 10 February, Owen Davies told Priya: 'We won't be doing the job — we've taken on something bigger.' Priya immediately engaged another contractor at a higher cost. Can Priya claim for the extra cost without waiting until 1 March?",
+        "options": {
+          "A": "No — Priya must wait until 1 March to see if Atlas actually fails to perform before she can sue.",
+          "B": "Yes — Owen's statement is an anticipatory breach that Priya is entitled to accept immediately, treating the contract as discharged and claiming damages.",
+          "C": "No — Priya must first serve a notice to perform under the contract before bringing a claim.",
+          "D": "Yes — but only if Priya can show she made reasonable efforts to persuade Atlas to reconsider before engaging another contractor."
+        },
+        "correct": "B",
+        "explanation": "B is correct. An unequivocal statement by one party that it will not perform constitutes an anticipatory breach (Hochster v De la Tour [1853]). The innocent party may accept the breach immediately, treat the contract as discharged, and sue for damages — they need not wait until the performance date. Priya was entitled to engage a replacement contractor at once and claim the extra cost as damages. A is the position if Priya elected not to accept the anticipatory breach — she can wait, but she is not required to. C: no notice to perform is required in this context. D is wrong: there is no rule requiring persuasion attempts before accepting anticipatory breach.",
+        "card_refs": [
+          "FLK1-CON-025",
+          "FLK1-CON-026"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-052",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Substantial Performance",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts fitted out The Malt & Mattock for Frank Hollis under a contract worth £30,000. On completion, Atlas demanded full payment. Frank identified 14 defects, mostly cosmetic, costing approximately £1,800 to remedy. Frank refused to pay anything, arguing Atlas had not completed the works. Is Frank entitled to withhold payment entirely?",
+        "options": {
+          "A": "Yes — the contract is an entire contract, and Atlas must complete perfectly before being entitled to any payment.",
+          "B": "No — Atlas has substantially performed the contract and Frank must pay the contract price less the cost of remedying the defects (£28,200).",
+          "C": "Yes — the 14 defects mean the contract has not been completed, entitling Frank to treat the contract as still executory.",
+          "D": "No — Frank must pay the full £30,000 and bring a separate claim for the cost of remedying the defects."
+        },
+        "correct": "B",
+        "explanation": "B is correct. The doctrine of substantial performance (Hoenig v Isaacs [1952]) permits recovery of the contract price where the work has been substantially completed, subject to a deduction for the cost of completing or remedying minor defects. Here, Atlas completed the main works; 14 mostly cosmetic defects costing £1,800 on a £30,000 contract do not prevent substantial performance. Frank must pay £28,200. A is wrong: the substantial performance doctrine qualifies the harshness of the entire obligations rule. C is wrong: minor defects do not entitle the innocent party to treat the contract as unperformed. D is wrong: Frank is entitled to deduct the remedy cost rather than pay in full and counter-sue.",
+        "card_refs": [
+          "FLK1-CON-025",
+          "FLK1-CON-026"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-053",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Frustration — Self-Induced",
+        "difficulty": "Application",
+        "stem": "James Ashworth contracted to manage a corporate event for Hollowell Engineering at a venue on 15 September. In August, James accepted another booking for the same date that paid more, making himself unavailable. He told Hollowell the event was 'frustrated by a scheduling conflict beyond his control.' Can James claim the contract is frustrated?",
+        "options": {
+          "A": "Yes — supervening impossibility caused by a scheduling conflict is a recognised frustrating event.",
+          "B": "No — frustration cannot be self-induced; where the event is caused by the party's own act or choice, the doctrine does not apply.",
+          "C": "Yes — frustration applies whenever performance becomes impossible, regardless of the reason.",
+          "D": "No — James should have served a force majeure notice within a reasonable time to preserve the right to claim frustration."
+        },
+        "correct": "B",
+        "explanation": "B is correct. The doctrine of frustration does not apply where the frustrating event is caused or contributed to by one of the parties — it must be truly supervening and outside the parties' control (Maritime National Fish v Ocean Trawlers [1935]). James's scheduling conflict is entirely self-induced — he chose to accept a competing booking. He cannot rely on frustration. A applies the correct test but ignores self-inducement. C is too wide — impossibility caused by the party's own choice is not a frustrating event. D: force majeure is a contractual mechanism and irrelevant where frustration is unavailable as a matter of law.",
+        "card_refs": [
+          "FLK1-CON-023",
+          "FLK1-CON-024"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-054",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Remoteness of Damage",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts failed to deliver specialist timber for Priya Mehta's shopfront refurbishment by the agreed date. The delay was three weeks. Priya had a bespoke order from a large retailer that depended on completing the refurbishment by a certain date. She lost that order, worth £25,000. At the time of contracting, Atlas did not know about the retailer order. Can Priya recover the £25,000?",
+        "options": {
+          "A": "Yes — all losses flowing directly from Atlas's breach are recoverable.",
+          "B": "No — the loss of the retailer order is not in the reasonable contemplation of Atlas as a likely consequence of late delivery, as Atlas had no knowledge of that special circumstance.",
+          "C": "Yes — but only if Priya can show that Atlas would have accepted the risk had it known about the retailer order.",
+          "D": "No — Priya must claim under her insurance policy before seeking contract damages."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Under Hadley v Baxendale [1854], damages are limited to losses that were in the reasonable contemplation of both parties at the time of contracting as a probable consequence of the breach. The second limb covers special losses only where the defendant had knowledge of the special circumstances. Atlas did not know about the retailer order, so the £25,000 loss of that order is not recoverable under the contract — it falls outside both limbs. A is wrong: not all direct losses are recoverable — remoteness limits recovery. C conflates knowledge with consent, which is not required. D is wrong: insurance is not a prerequisite to contractual recovery.",
+        "card_refs": [
+          "FLK1-CON-027",
+          "FLK1-CON-028",
+          "FLK1-CON-CASE-028"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-055",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Mitigation of Loss",
+        "difficulty": "Application",
+        "stem": "Neville Prescott failed to deliver a van he had contracted to sell to Donna Pearce for £12,000. Identical vans were available from three other dealers in Northampton at £12,500 each. Donna, upset by Prescott's conduct, declined to buy a replacement and instead temporarily hired vans for four months at a total cost of £6,000, then claimed that total from Prescott. How much can Donna reasonably recover?",
+        "options": {
+          "A": "Only the £500 difference between the contract price and the cost of a replacement van — she was obliged to mitigate by buying a replacement.",
+          "B": "The full £6,000 hire cost — this is the actual loss she suffered.",
+          "C": "Nothing — Donna failed entirely to mitigate and cannot recover any loss.",
+          "D": "The £6,000 hire costs minus any hire costs she would have incurred even if the van had been delivered."
+        },
+        "correct": "A",
+        "explanation": "A is correct. The duty to mitigate requires the claimant to take reasonable steps to reduce their loss (British Westinghouse v Underground Electric Railways [1912]). Replacement vans were readily available at a £500 premium — Donna was required to take that reasonable step. She cannot recover losses she could easily have avoided. The measure of damages is the additional cost of mitigation: £500. A is wrong: failing to mitigate prevents recovery of avoidable losses. C is wrong: total failure would only apply where no loss at all was unavoidable. D introduces a complexity not relevant here.",
+        "card_refs": [
+          "FLK1-CON-028",
+          "FLK1-CON-029"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-056",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Penalty Clauses vs Liquidated Damages",
+        "difficulty": "Complex",
+        "stem": "Atlas Contracts' contract with Hollowell Engineering contained a clause: 'For every week of delay in completion beyond the agreed date, Atlas shall pay £5,000 to Hollowell.' Atlas was six weeks late. Hollowell's actual loss from the delay was £8,000. Atlas argues the clause is an unenforceable penalty. Is Atlas correct?",
+        "options": {
+          "A": "No — under Cavendish Square v Makdessi [2015], the clause will be enforceable if it represents a legitimate business interest and is not extravagant or unconscionable.",
+          "B": "Yes — the clause is a penalty because the stipulated sum (£30,000) greatly exceeds Hollowell's actual loss (£8,000).",
+          "C": "Yes — any liquidated damages clause that produces a sum greater than actual loss is void as a penalty.",
+          "D": "No — the clause is enforceable because Hollowell, as a commercial party, is presumed to understand the clause and accepted the commercial risk."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Cavendish Square Holding v Makdessi [2015] reformulated the penalty clause test: a clause is not a penalty merely because it exceeds actual loss. The question is whether it represents a legitimate business interest and is not extravagant or unconscionable having regard to that interest. Hollowell has a legitimate interest in timely completion (business disruption, production delays, subcontractor commitments). Whether £5,000 per week is proportionate is a factual question — it is not automatically unenforceable. A applies the old Dunlop Pneumatic Tyre test (now superseded) which focused on genuine pre-estimate of loss. C overstates the rule. D is relevant as context but not the primary test.",
+        "card_refs": [
+          "FLK1-CON-029",
+          "FLK1-CON-CASE-030"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-057",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Specific Performance",
+        "difficulty": "Application",
+        "stem": "James Ashworth contracted to sell a rare vintage motorbike — one of only 12 known to exist in this condition — to a collector for £18,000. He then sold it to a third party for £22,000. The collector seeks specific performance. Is this remedy available?",
+        "options": {
+          "A": "Yes — specific performance may be granted for unique chattels where damages are not an adequate remedy.",
+          "B": "No — specific performance is not available for the sale of personal property, only for land.",
+          "C": "No — the motorbike has already been transferred to a third party; specific performance is therefore impossible.",
+          "D": "Yes — but only if the collector can prove James acted in bad faith by accepting a higher offer."
+        },
+        "correct": "A",
+        "explanation": "A is correct as a statement of principle. Specific performance is available for contracts involving unique goods where money damages would be inadequate (Cohen v Roche [1927] distinguished — Heirloom items and truly unique goods justify specific performance). A vintage motorbike of which only 12 exist in this condition is likely sufficiently unique. However, C raises a practical point: if the third party now has legal title (having purchased for value without notice), the court may be unable to order specific performance against James directly — damages would be the remedy instead. On the bare principle of availability, A is correct. C describes a real-world complication but does not defeat B as the answer to availability as a matter of principle.",
+        "card_refs": [
+          "FLK1-CON-027",
+          "FLK1-CON-CASE-029"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-058",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Expectation vs Reliance Damages",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski entered a catering contract for a large corporate event. In preparation, he incurred pre-contractual costs of £3,000 (promotional materials, specialist ingredients). The other party cancelled in breach. Kowalski cannot prove what profit he would have made. Can he recover the £3,000?",
+        "options": {
+          "A": "Yes — reliance damages cover wasted expenditure incurred in anticipation of performance of the contract, even if incurred before the contract was formed.",
+          "B": "No — pre-contractual expenditure is not recoverable; damages are limited to post-formation losses.",
+          "C": "No — Kowalski must prove his expected profit; without that evidence, he recovers nothing.",
+          "D": "Yes — but only the proportion of expenditure incurred after the contract was signed."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Reliance damages allow recovery of wasted expenditure incurred in anticipation of a contract's performance, including pre-contractual expenditure reasonably incurred after the contract was entered — or incurred in preparation for it that was within the parties' reasonable contemplation (Anglia Television v Reed [1972]). The innocent party may elect between expectation damages (profit) and reliance damages (wasted expenditure) when expectation damages are uncertain or unquantifiable. A is wrong: Anglia Television confirmed pre-contractual expenditure is recoverable under reliance measure. C is wrong: when profit cannot be proved, the claimant may elect the reliance measure. D is incorrect: Anglia Television extended recovery to pre-formation expenditure within reasonable contemplation.",
+        "card_refs": [
+          "FLK1-CON-027",
+          "FLK1-CON-028"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-059",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Quantum Meruit",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts began fitting out new offices for Hollowell Engineering. After completing half the work (estimated value £14,000), Hollowell wrongfully terminated the contract. No price had been agreed for partial completion. Owen Davies claims payment for the work done. On what basis can Atlas recover?",
+        "options": {
+          "A": "Atlas can recover on a quantum meruit basis — the reasonable value of the work done — because Hollowell's wrongful termination prevents Atlas from completing the contract.",
+          "B": "Atlas cannot recover — no price was agreed for partial completion, so no contractual claim arises.",
+          "C": "Atlas can recover the full contract price as damages for Hollowell's wrongful termination.",
+          "D": "Atlas can only recover if it had substantially completed the contract before termination."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Where a contract is wrongfully terminated by the other party before completion, the innocent party can claim a quantum meruit — the reasonable value of work done — as an alternative to or in addition to contractual damages. This rests on the unjust enrichment principle: Hollowell has received the benefit of half the works and should not be unjustly enriched. A is wrong: absence of an agreed partial price does not prevent quantum meruit recovery. C is wrong: the full contract price would overcompensate; Atlas can claim the difference between the contract price and its remaining costs of performance, or quantum meruit. D applies the substantial performance doctrine, which is a different rule for completed (rather than terminated) contracts.",
+        "card_refs": [
+          "FLK1-CON-025",
+          "FLK1-CON-027"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-060",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Third Parties",
+        "subtopic": "Contracts (Rights of Third Parties) Act 1999",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering contracted with Atlas Contracts for the construction of a new loading bay. The contract stated: 'This agreement is made for the benefit of Hollowell's subtenants at Unit 4 who shall have the right to use the loading bay.' One subtenant, whose name was not in the contract, suffered loss when Atlas failed to complete. Can the subtenant enforce the contract against Atlas?",
+        "options": {
+          "A": "Yes — s.1(1)(b) of the Contracts (Rights of Third Parties) Act 1999 permits enforcement by a third party where the contract purports to confer a benefit on them, provided they are identified as a member of a class.",
+          "B": "No — only named third parties can enforce a contract under the Contracts (Rights of Third Parties) Act 1999.",
+          "C": "No — the subtenant is not a party to the contract and privity of contract prevents any enforcement right.",
+          "D": "Yes — but only if the subtenant can demonstrate they have provided consideration to Hollowell under the head lease."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Section 1(1)(b) of the C(RTP)A 1999 provides that a third party may enforce a contractual term where the contract purports to confer a benefit on them. Section 1(3) requires the third party to be expressly identified by name, as a member of a class, or answering a particular description. 'Hollowell's subtenants at Unit 4' identifies a class — the subtenant qualifies. A is wrong: identification by name is not required; class membership suffices under s.1(3). C states the common law privity rule but ignores the statutory exception. D is wrong: the C(RTP)A 1999 specifically removes the consideration requirement for third party enforcement.",
+        "card_refs": [
+          "FLK1-CON-030",
+          "FLK1-CON-CASE-035"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-061",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Third Parties",
+        "subtopic": "Assignment of Contractual Rights",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering assigned the benefit of a debt owed to it by Atlas Contracts (£20,000 for completed steelwork) to a finance company, giving written notice to Atlas. Atlas refused to pay the finance company, arguing it had not consented to the assignment. Is Atlas correct?",
+        "options": {
+          "A": "No — the benefit of a contract (such as a debt) can be assigned without the other party's consent; only the burden requires consent.",
+          "B": "Yes — the benefit of a contract cannot be assigned without the debtor's consent.",
+          "C": "No — provided written notice was given, Atlas must pay the finance company and has no ground to refuse.",
+          "D": "Yes — Atlas can refuse because the assignment changes the nature of the obligation it originally undertook."
+        },
+        "correct": "A",
+        "explanation": "A is correct. The benefit of a contract — including a right to receive payment — can be assigned without the debtor's consent (Tolhurst v Associated Portland Cement [1902]). Once valid written notice of the legal assignment is given under s.136 Law of Property Act 1925, the assignee (finance company) acquires the right to sue in its own name. Atlas must pay the finance company. A is wrong: assignment of benefit does not require consent; only the burden of a contract cannot be assigned unilaterally. C is broadly correct but B is the more precise legal basis. D is wrong: the assignment does not change Atlas's obligation — it still pays the same sum for the same work.",
+        "card_refs": [
+          "FLK1-CON-030"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-062",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Third Parties",
+        "subtopic": "Novation",
+        "difficulty": "Foundation",
+        "stem": "Wharton Foods contracts with Atlas Contracts for fit-out works. Partway through, Atlas wishes to transfer all its obligations under the contract to a different construction firm. Graham Grange refuses to agree. Without Grange's consent, can Atlas transfer its contractual obligations?",
+        "options": {
+          "A": "No — the burden of a contract cannot be transferred without the consent of the other party; novation requires all parties' agreement.",
+          "B": "Yes — the burden of a contract can always be transferred by written assignment.",
+          "C": "Yes — Atlas can delegate performance of its obligations to a subcontractor without novation.",
+          "D": "No — Atlas must apply to court for a substitution order before transferring its obligations."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Unlike the benefit, the burden of a contract cannot be assigned unilaterally — this would allow a party to escape its obligations without the counterparty's agreement. To transfer both benefit and burden to a third party, a novation is required: a tripartite agreement where the original contract is extinguished and replaced by a new one between the creditor and the new obligor. Grange must consent. A is wrong: burdens cannot be transferred by mere assignment. C is a partial point — delegation of performance is permitted but Atlas remains liable to Grange if the delegate fails; delegation is not the same as transferring the burden. D: no such court procedure exists for commercial contracts.",
+        "card_refs": [
+          "FLK1-CON-030"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-063",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Limitation of Actions",
+        "difficulty": "Foundation",
+        "stem": "Neville Prescott supplied a defective vehicle to Alek Kowalski under a written commercial contract. The defect became apparent to Kowalski after five years and six months. Kowalski brings a breach of contract claim. Is the claim time-barred?",
+        "options": {
+          "A": "No — the Limitation Act 1980 provides a six-year limitation period for simple contract claims; the claim was brought within time.",
+          "B": "Yes — the Limitation Act 1980 provides a three-year limitation period for breach of contract claims.",
+          "C": "Yes — the six-year period runs from when the defect was discovered, and five years six months is within time.",
+          "D": "No — for contracts for sale of goods, the limitation period is ten years from delivery."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Section 5 of the Limitation Act 1980 provides a six-year limitation period for simple (non-deed) contract claims, running from the date of breach (not discovery). The breach occurred at or around delivery of the defective vehicle. If Kowalski brings his claim within six years of that breach, it is within time. Five years and six months is within the six-year period. A is wrong: three years is the personal injury limitation period, not for contract. C confuses the accrual date — for breach of contract the period runs from breach, not discovery (unless latent damage provisions apply under the Latent Damage Act 1986, which covers negligence, not contract). D is wrong: no ten-year period applies to sale of goods contracts.",
+        "card_refs": [
+          "FLK1-CON-029"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-064",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Time of the Essence",
+        "difficulty": "Application",
+        "stem": "Prescott Motors agreed to sell a fleet of vans to Northgate Couriers with delivery 'on or before 30 April, time being of the essence.' Prescott delivered one day late, on 1 May. Donna Pearce refused to accept the vans and cancelled the contract. Prescott argues the one-day delay is trivial. Is Donna entitled to reject?",
+        "options": {
+          "A": "Yes — where time is expressly made of the essence, any failure to perform by the stipulated date entitles the innocent party to treat the contract as repudiated.",
+          "B": "No — a one-day delay is so minor that it cannot justify rejection; Donna must accept and claim nominal damages.",
+          "C": "Yes — but only if Donna first served a notice making time of the essence before the original deadline.",
+          "D": "No — 'time of the essence' clauses only apply to land contracts, not contracts for the sale of goods."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Where the parties have expressly agreed that time is of the essence, the deadline is a condition of the contract. Any breach, however minor, entitles the innocent party to terminate — the court will not inquire into whether the breach was trivial (Bunge Corporation v Tradax Export [1981]). Donna is entitled to reject. A is wrong: the express 'time of the essence' designation makes the timeline a condition, removing any argument about triviality. C: a 'notice making time of the essence' is needed where time was not originally of the essence and a party needs to set a new deadline — not required here where it was originally express. D is wrong: 'time of the essence' can be express in any commercial contract.",
+        "card_refs": [
+          "FLK1-CON-025",
+          "FLK1-CON-026"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-065",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Force Majeure Clauses",
+        "difficulty": "Application",
+        "stem": "A supply contract between Wharton Foods and a packaging supplier contained a force majeure clause: 'Neither party shall be liable for failure to perform due to circumstances beyond its reasonable control, including acts of God, government action, or industrial action.' A lorry drivers' strike prevented delivery for three weeks. Graham Grange seeks damages for the delay. Can he succeed?",
+        "options": {
+          "A": "No — an industrial strike (lorry drivers' action) falls within 'industrial action' in the clause; the supplier is protected from liability.",
+          "B": "Yes — force majeure clauses are void under UCTA 1977 in commercial contracts.",
+          "C": "No — the doctrine of frustration automatically discharges the contract, making the force majeure clause redundant.",
+          "D": "Yes — force majeure only covers permanent inability to perform; a temporary three-week delay does not trigger the clause."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Force majeure clauses operate as a matter of contract rather than common law doctrine. Courts interpret them strictly according to their wording (Channel Island Ferries v Sealink [1988]). 'Industrial action' clearly covers a lorry drivers' strike — the supplier's performance was prevented by a circumstance expressly within the clause. The supplier is not liable for the delay. A is wrong: force majeure clauses in B2B contracts are not automatically void under UCTA 1977; they are subject to the reasonableness test only in some contexts. C is wrong: force majeure and frustration are different mechanisms; a force majeure clause addresses agreed risk allocation and does not require the contract to be frustrated. D is wrong: force majeure clauses typically apply to temporary as well as permanent events unless the clause says otherwise.",
+        "card_refs": [
+          "FLK1-CON-023",
+          "FLK1-CON-024"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-066",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Misrepresentation — Section 2(2) Discretion",
+        "difficulty": "Complex",
+        "stem": "Prescott Motors sold a car to Rachel Okonkwo after innocently (but incorrectly) representing that it had a full-service history. The car had in fact missed two services. The car is otherwise in excellent condition and the missing services make no material difference to its value or safety. Rachel seeks rescission and return of her £11,000. The court exercises its discretion under s.2(2) Misrepresentation Act 1967. What is the likely outcome?",
+        "options": {
+          "A": "The court awards damages in lieu of rescission — rescission would be inequitable given the minor nature of the misrepresentation and the absence of any material loss.",
+          "B": "The court must order rescission — rescission is an automatic right for misrepresentation and cannot be denied.",
+          "C": "The court awards nothing — innocent misrepresentation carries no remedy if no loss is proved.",
+          "D": "The court orders rescission plus damages — both remedies are available simultaneously for innocent misrepresentation."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Section 2(2) of the Misrepresentation Act 1967 gives the court a discretion to award damages in lieu of rescission for innocent or negligent misrepresentation where it would be equitable to do so, having regard to the nature of the misrepresentation, the loss caused, and the position of the parties if rescission were ordered. Here, the misrepresentation was innocent, the car is otherwise excellent, and the missing services cause no material loss — rescission of an £11,000 purchase would be disproportionate. A is wrong: rescission is not automatic; s.2(2) specifically creates a judicial discretion. C is wrong: s.2(2) allows damages as a substitute remedy even without provable loss. D is wrong: s.2(2) awards damages in lieu of (replacing) rescission, not in addition to it.",
+        "card_refs": [
+          "FLK1-CON-016",
+          "FLK1-CON-017",
+          "FLK1-CON-018"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-067",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Duress — Economic Duress",
+        "difficulty": "Complex",
+        "stem": "Atlas Contracts, knowing Hollowell Engineering was in the final week before a critical manufacturing deadline, threatened to stop all site work unless Hollowell paid an uncontested additional £30,000 for 'increased material costs' not provided for in the contract. Hollowell paid under protest and immediately instructed Crane & Pelletier. What must Hollowell establish to recover the £30,000?",
+        "options": {
+          "A": "That it had no practical alternative to payment, and that the threat amounted to illegitimate pressure that was a significant cause of the payment.",
+          "B": "That the threat was accompanied by violence or the threat of physical harm.",
+          "C": "That Hollowell lacked independent legal advice at the time of payment.",
+          "D": "That the £30,000 was not a genuine pre-estimate of increased material costs."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Economic duress requires: (1) illegitimate pressure (a threat to breach a contract without lawful justification is illegitimate — DSND Subsea v Petroleum Geo-Services [2000]); (2) that the pressure was a significant cause of the claimant's decision to pay; and (3) that there was no reasonable practical alternative (protesting and paying immediately preserves the right to recover). Hollowell's payment under protest is strong evidence. B is wrong: duress of the person (violence or threats of violence) is a separate, older doctrine — economic duress does not require physical threat. C is wrong: independent legal advice is relevant to undue influence, not duress. D is irrelevant to the duress analysis.",
+        "card_refs": [
+          "FLK1-CON-021"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-068",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Damages — Loss of Chance",
+        "difficulty": "Complex",
+        "stem": "James Ashworth contracted to enter a classic car for a prestigious auction managed by a Northampton auction house. Due to the auction house's breach, the car was withdrawn from the auction at the last minute. Evidence showed the car had a 65% chance of selling at its reserve price of £25,000, and a 20% chance of selling at £35,000. James claims £25,000. What is the correct measure of his damages?",
+        "options": {
+          "A": "£25,000 — James would have received the reserve price and that is the value of his loss.",
+          "B": "Nothing — damages for loss of chance are too speculative to recover.",
+          "C": "A sum reflecting the value of the lost chance — calculated by reference to the probability of each outcome occurring.",
+          "D": "£35,000 — the highest possible sale price, to put James in the best possible position."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Where a claimant loses a chance to achieve a financial outcome, damages are assessed as the value of the chance itself — not on an all-or-nothing basis (Chaplin v Hicks [1911]; Allied Maples Group v Simmons & Simmons [1995]). The court values the probability-weighted outcomes: (65% × £25,000) + (20% × £35,000) = £16,250 + £7,000 = £23,250 (simplified — the full analysis also considers costs and the probability of the car not selling at all). The key principle is that James recovers for the lost prospect at its assessed probability. A awards the full reserve price as if sale were certain. B is wrong: loss of a chance is a recognised head of damage. D overclaims by ignoring probability.",
+        "card_refs": [
+          "FLK1-CON-027",
+          "FLK1-CON-028",
+          "FLK1-CON-029"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-069",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Certainty and Completeness",
+        "difficulty": "Application",
+        "stem": "Bridgewater Developments and Wharton Magna District Council signed a document headed 'Heads of Terms' stating the parties would work together to develop the old goods yard, with 'all terms to be finalised in a formal agreement to be agreed.' No formal agreement was ever signed. Marcus Bridgewater spent £120,000 on planning and survey work. Is there an enforceable contract?",
+        "options": {
+          "A": "Yes — the Heads of Terms and subsequent expenditure demonstrate a binding intention to contract.",
+          "B": "Yes — Bridgewater's reliance expenditure of £120,000 creates a binding obligation on the council through proprietary estoppel.",
+          "C": "No — the document expressly contemplates a future formal agreement; without it, there is no binding contract (subject to contract).",
+          "D": "No — local authorities cannot enter binding contracts without full council approval under statutory procedures."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Where the parties have expressly contemplated that their arrangement will only become binding on execution of a formal agreement, neither is bound until that agreement is signed (Winn v Bull [1877]; RTS Flexible Systems v Molkerei Alois Müller [2010] explains when this can be rebutted). The 'subject to contract' principle applies — the Heads of Terms are not a binding contract. A is wrong: expenditure in anticipation of a contract does not create one. C is wrong: proprietary estoppel applies to property rights, not to commercial contract situations of this kind; there is no representation that a contract exists. D raises a valid public law point but is not the primary contractual reason.",
+        "card_refs": [
+          "FLK1-CON-009",
+          "FLK1-CON-010"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-070",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Exclusion Clauses — Reasonableness under UCTA 1977",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering's standard-form supply contract with a new customer contained a clause limiting its liability for defective goods to the contract price (£50,000). The customer suffered losses of £200,000 from defective goods. The clause had not been specifically negotiated. In assessing reasonableness under UCTA 1977 Schedule 2, which factor most strongly supports enforceability of the clause?",
+        "options": {
+          "A": "The clause was printed in small font and not drawn to the customer's attention.",
+          "B": "The customer had no realistic alternative supplier for the goods.",
+          "C": "The customer is a business that could have sought insurance against this risk, and similar limitation clauses are common in the industry.",
+          "D": "The limitation amount (£50,000) bears no relation to the likely loss in the event of defective goods."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Schedule 2 of UCTA 1977 sets out guidelines for reasonableness. Relevant factors include: the parties' bargaining positions; whether the customer received an inducement to agree; whether the customer knew or ought to have known of the term (custom/trade practice); whether the goods were specially manufactured; and the practicability of insurance. Availability of insurance to the customer and industry standard practice both support enforceability — if the customer could reasonably have insured against this type of loss, the clause is more likely reasonable. A points to a factor that would undermine enforceability (poor notice). C (no alternative supplier) would suggest weaker bargaining position — against enforceability. D suggests the limit is disproportionately low — against enforceability.",
+        "card_refs": [
+          "FLK1-CON-011",
+          "FLK1-CON-012",
+          "FLK1-CON-013"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-071",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Acting for Both Parties — Conflict of Interest",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is approached by both Priya Mehta and her landlord Marcus Bridgewater to advise them on the terms of a new commercial lease for Stitched Up's premises. There is already a dispute about the service charge. Under the SRA Code of Conduct for Solicitors, can Gerald act for both?",
+        "options": {
+          "A": "Yes — provided both clients give informed consent in writing, a solicitor may always act for both parties to a commercial lease negotiation.",
+          "B": "Yes — commercial property transactions are expressly exempt from the conflict of interest rules under the SRA Code.",
+          "C": "No — there is a current, actual conflict of interest between the parties on the service charge dispute; Gerald must not act for both.",
+          "D": "No — solicitors can never act for landlord and tenant in any lease transaction, even without a dispute."
+        },
+        "correct": "C",
+        "explanation": "C is correct. The SRA Code of Conduct (para 6.2) provides that a solicitor must not act for two or more clients where there is a conflict of interest or a significant risk of one arising. Here, there is a live dispute on the service charge — this is an actual conflict, not a mere risk. Informed consent cannot cure an actual conflict (only a 'significant risk' of conflict can be managed with consent under a narrow exception). A is wrong: consent cannot override an actual conflict. C is wrong: there is no commercial property exemption. D overstates the rule — acting for both on a non-contentious lease is permissible in some circumstances if conflicts are properly managed, but not here.",
+        "card_refs": [
+          "FLK1-CON-016"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-072",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Confidentiality and Contracts",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma, a trainee at Crane & Pelletier, discovers during a commercial contract matter for Hollowell Engineering that the other party (Atlas Contracts) has just entered administration — information not yet public. Crane & Pelletier also acts for a third-party creditor of Atlas Contracts on an unrelated matter. Can Ravi share the administration information with the firm's other client?",
+        "options": {
+          "A": "Yes — information obtained in the course of one matter can always be shared between clients of the same firm if it is relevant to them.",
+          "B": "Yes — because the information was obtained through a commercial transaction, the duty of confidentiality does not apply.",
+          "C": "No — the duty of confidentiality under the SRA Code prevents sharing confidential information about one client with another, even within the same firm.",
+          "D": "No — but Ravi may share the information with Diana Pelletier as supervising partner, who must then decide."
+        },
+        "correct": "C",
+        "explanation": "C is correct. The SRA Code of Conduct (para 6.3–6.4) imposes a strict duty of confidentiality — a solicitor must keep confidential information relating to a client's matter, even after the retainer ends, unless the client consents or disclosure is required by law. Information about Atlas's administration obtained via Hollowell's instructions cannot be used to benefit another client (the creditor). This would be a breach of confidentiality and misuse of information. A is wrong: sharing confidential client information without consent is a breach of the Code. C is wrong: there is no commercial transaction exception to confidentiality. D is wrong: escalation to a supervisor does not resolve the confidentiality issue — it remains confidential.",
+        "card_refs": [
+          "FLK1-CON-015"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-073",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Duty to Advise on Consumer Rights",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier is instructed by Prescott Motors to draft standard-form terms of sale for vehicles sold to members of the public. She includes a clause excluding liability for any defects discovered after 14 days of purchase. Under her professional duties, what must Diana do before finalising the terms?",
+        "options": {
+          "A": "Include the clause as instructed — a solicitor's role is to carry out client instructions without question.",
+          "B": "Refuse the instruction — including potentially unlawful clauses means the firm cannot act for Prescott Motors.",
+          "C": "Advise Prescott Motors that the clause is likely to be void under the Consumer Rights Act 2015 as against consumers, and that including it could constitute a misleading practice.",
+          "D": "Include the clause but add a disclaimer noting that its validity is uncertain."
+        },
+        "correct": "C",
+        "explanation": "C is correct. A solicitor's duty to act in the client's best interests (SRA Principle 7) includes advising the client when instructions would expose them to legal risk. A clause purporting to exclude liability for defects after 14 days in a consumer contract directly conflicts with the Consumer Rights Act 2015 (ss.9–11 require goods to be of satisfactory quality; s.20 gives a 30-day short-term right to reject; s.65 limits exclusion of liability for negligence). Such a clause is void as against consumers. Diana must advise Prescott that the clause is unlawful and risks regulatory action or claims — acting blindly on the instruction would breach her duty. A is wrong: the duty to follow instructions is qualified by the duty to advise on legal risk. C is wrong: Diana need not refuse; she must advise. D is inadequate and potentially misleading.",
+        "card_refs": [
+          "FLK1-CON-011",
+          "FLK1-CON-012"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-074",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Client Instructions — Unlawful Purpose",
+        "difficulty": "Application",
+        "stem": "Owen Davies instructs Diana Pelletier to draft a commercial contract which, on Diana's analysis, is structured to allow Atlas Contracts to misrepresent completion dates to an insurer in order to trigger an early payment under a performance bond. Diana is concerned the contract is designed to commit fraud. What should Diana do?",
+        "options": {
+          "A": "Draft the contract as instructed — it is for the court, not the solicitor, to determine whether a contract is illegal.",
+          "B": "Draft the contract but include a disclaimer stating that the firm accepts no responsibility for the client's use of it.",
+          "C": "Refuse to continue with the matter, as a solicitor must not assist a client in conduct that amounts to a criminal offence or fraud.",
+          "D": "Report the matter to the SRA immediately without first raising it with Owen Davies."
+        },
+        "correct": "C",
+        "explanation": "C is correct. SRA Principle 1 (upholding the rule of law) requires a solicitor to act only within the law and not to assist a client in unlawful conduct; Principle 5 (integrity) and para 6.1 reinforce this where the solicitor also has a personal interest in avoiding professional misconduct. Deliberately drafting a contract to facilitate insurance fraud is assisting in a criminal offence. Diana must decline to act on these instructions and may withdraw from the matter. A is wrong: a solicitor cannot draft documentation knowing it is intended to facilitate fraud simply because no court has yet condemned it. C is wrong: a disclaimer does not cure participation in a fraudulent scheme. D is wrong: before reporting to the SRA, Diana should raise her concerns with Owen Davies and, if necessary, terminate the retainer — immediate SRA reporting is not required unless there is an ongoing harm that cannot be prevented otherwise.",
+        "card_refs": [
+          "FLK1-CON-048"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-075",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Limitation Periods — Duty to Advise",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski instructed Crane & Pelletier in a breach of contract dispute against a supplier. Gerald Crane allowed the matter to drift and failed to issue proceedings before the six-year limitation period expired. Kowalski now brings a negligence claim against the firm. What is the basis of the firm's liability?",
+        "options": {
+          "A": "None — the limitation period is a procedural bar, not a substantive obligation, and solicitors are not liable for clients' procedural failures.",
+          "B": "Breach of contract only — the solicitor-client relationship is purely contractual and negligence principles do not apply.",
+          "C": "Professional negligence — a solicitor owes a duty of care to advise on and observe limitation periods; failing to do so is a breach of that duty causing loss.",
+          "D": "None — Kowalski should have monitored the limitation period himself."
+        },
+        "correct": "C",
+        "explanation": "C is correct. A solicitor owes both a contractual duty (retainer) and a tortious duty of care to the client (Henderson v Merrett Syndicates [1995]). Failing to identify and observe the limitation period is a well-established head of solicitor negligence (see Daniels v Thompson [2004]). The loss is the value of the claim that Kowalski has lost the ability to pursue. A is wrong: monitoring and advising on limitation is a fundamental part of litigation conduct. C is wrong: solicitors owe concurrent contractual and tortious duties. D is wrong: the burden of managing limitation falls on the instructed solicitor, not the lay client.",
+        "card_refs": [
+          "FLK1-CON-029"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-076",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Undertakings",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier gave a written undertaking to the other side's solicitors in a commercial dispute that Crane & Pelletier would 'ensure that Atlas Contracts does not dissipate the disputed funds pending resolution.' Atlas Contracts subsequently transferred the funds to a third party without Crane & Pelletier's knowledge. What is the consequence for Diana?",
+        "options": {
+          "A": "No consequence — solicitors are not responsible for their clients' unilateral actions after an undertaking is given.",
+          "B": "Diana must indemnify the other party from her personal funds — an undertaking is personally binding and the solicitor must make good any loss caused by breach.",
+          "C": "Diana may face professional disciplinary action — a solicitor's undertaking is a personal professional obligation; breach, even if caused by the client's action, puts the solicitor in breach.",
+          "D": "Diana must report Atlas Contracts to the police for frustrating the undertaking."
+        },
+        "correct": "C",
+        "explanation": "C is correct. A solicitor's undertaking is a personal professional obligation — the SRA Code requires solicitors to fulfil any undertaking they give in the course of practice (SRA Code para 1.3). If the undertaking cannot be fulfilled, the solicitor is in breach regardless of the reason, including their client's unilateral action. This does not automatically mean personal financial liability to the other party (that would depend on the undertaking's terms and whether loss results), but it does expose Diana to professional regulatory consequences. Before giving an undertaking, a solicitor should ensure they have the ability and authority to perform it. A is wrong: the personal nature of undertakings means the solicitor cannot escape liability by blaming the client. C overstates the automatic financial consequence without examining the undertaking's terms. D is not a required regulatory response.",
+        "card_refs": [
+          "FLK1-CON-071"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-077",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Referral Fees and Independence",
+        "difficulty": "Foundation",
+        "stem": "Crane & Pelletier has entered an arrangement with a local insurance broker under which the broker pays the firm £200 for each commercial client referred to them for business insurance. Clients are not told about the arrangement. Under the SRA Code, is this arrangement permissible?",
+        "options": {
+          "A": "Yes — referral fee arrangements between solicitors and introducers are freely permitted without disclosure.",
+          "B": "No — any referral fee arrangement is banned under the Legal Aid, Sentencing and Punishment of Offenders Act 2012.",
+          "C": "Yes — provided the amount (£200) is below the SRA's de minimis threshold for financial interests.",
+          "D": "No — the SRA Code requires transparency about referral arrangements; undisclosed payments from a third party for referrals breach the duty to act in clients' best interests and the transparency obligations."
+        },
+        "correct": "D",
+        "explanation": "D is correct. The SRA Code of Conduct (paras 5.1–5.2) requires solicitors to act in clients' best interests and to be transparent about any financial arrangements with third parties that could affect their advice. Receiving an undisclosed referral fee from an insurer creates a financial interest that may compromise the solicitor's independence when recommending insurance. The firm must disclose the arrangement to clients. A is wrong: disclosure is mandatory. C: there is no de minimis threshold for financial interest disclosure. D overstates the prohibition — LASPO 2012 bans referral fees in personal injury cases, not all referral arrangements; however, the SRA transparency rules still apply to all undisclosed arrangements.",
+        "card_refs": [
+          "FLK1-CON-015"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-078",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Frustration — Effect of Law Reform (Frustrated Contracts) Act 1943",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski paid £5,000 in advance to a catering equipment supplier. Before delivery, the contract was frustrated when the supplier's premises were destroyed by fire. The supplier had incurred £2,000 in pre-frustration preparation costs. Under the Law Reform (Frustrated Contracts) Act 1943, what is Kowalski entitled to recover?",
+        "options": {
+          "A": "The full £5,000 — frustration automatically restores all pre-paid sums without deduction.",
+          "B": "£5,000, and the supplier cannot deduct any expenses — the Act only allows expense deductions for partial performance.",
+          "C": "Nothing — frustration discharges the contract and pre-paid sums are lost as the risk passes to the buyer.",
+          "D": "The £5,000 less a deduction for the supplier's pre-frustration expenses of up to £2,000, at the court's discretion — so Kowalski recovers between £3,000 and £5,000."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Section 1(2) of the Law Reform (Frustrated Contracts) Act 1943 provides that money paid before frustration is recoverable, but the court has a discretion to allow the payee to retain an amount not exceeding their pre-frustration expenses incurred in performance of the contract. The supplier can retain up to £2,000 of the £5,000 prepayment to cover its reasonable costs, at the court's discretion — so Kowalski recovers between £3,000 and £5,000. A is wrong: the Act does not guarantee full repayment; the expense allowance can reduce it. C is wrong: the Act was passed precisely to avoid the harsh common law rule (Chandler v Webster [1904]) that left pre-paid sums irrecoverable. D is wrong: the expense deduction in s.1(2) applies to pre-frustration costs generally, not only to partial performance situations.",
+        "card_refs": [
+          "FLK1-CON-023",
+          "FLK1-CON-024"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-079",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Account of Profits",
+        "difficulty": "Complex",
+        "stem": "Atlas Contracts deliberately breached its contract with Hollowell Engineering to take on a more profitable project elsewhere, making £80,000 profit from the substitute project. Hollowell's actual loss from the breach was only £12,000 in extra procurement costs. Can Hollowell claim an account of Atlas's profits of £80,000?",
+        "options": {
+          "A": "Yes — deliberate breach of contract always entitles the innocent party to an account of profits.",
+          "B": "No — damages for breach of contract are limited to compensating the claimant's actual loss; the defendant's profit is irrelevant.",
+          "C": "Possibly — an account of profits is an exceptional remedy available for breach of contract where the claimant has a legitimate interest in preventing the defendant's profit that is not adequately protected by compensatory damages (Attorney General v Blake).",
+          "D": "Yes — the deliberate nature of the breach means Hollowell is entitled to punitive damages equal to Atlas's profit."
+        },
+        "correct": "C",
+        "explanation": "C is correct. In Attorney General v Blake [2001], the House of Lords held that an account of profits for breach of contract is an exceptional remedy, available only where the claimant has a legitimate interest in preventing the defendant's profit and compensatory damages are inadequate. Ordinarily, breach of a commercial supply contract — even deliberate — would not justify an account of profits; compensatory damages suffice. Hollowell's £12,000 loss adequately compensates it. A overstates Blake — not every deliberate breach justifies an account of profits. B states the general rule but ignores the Blake exception. D: English contract law does not award punitive damages for breach; exemplary damages are available only in tort.",
+        "card_refs": [
+          "FLK1-CON-027",
+          "FLK1-CON-029"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-080",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Mistake — Common Mistake",
+        "difficulty": "Application",
+        "stem": "Prescott Motors agreed to sell a 'restored 1960s campervan' to James Ashworth for £18,000. Unknown to either party, the van had been destroyed in a fire at the storage facility two days before the contract was signed. What is the effect on the contract?",
+        "options": {
+          "A": "The contract is voidable — the mistake as to the existence of the van makes it voidable at James's option.",
+          "B": "The contract is frustrated — subsequent destruction of the goods frustrates performance.",
+          "C": "The contract is valid — Prescott bears the risk of loss and must compensate James for breach.",
+          "D": "The contract is void — under s.6 of the Sale of Goods Act 1979, where specific goods have perished before the contract is made, the contract is void."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Section 6 of the Sale of Goods Act 1979 provides that where there is a contract for the sale of specific goods, and the goods have perished without the seller's knowledge before the contract is made, the contract is void. Both parties believed the van existed; it had already perished before the contract was formed — this is the res extincta principle (Couturier v Hastie [1856]) codified in s.6. A is wrong: the contract is void, not voidable; mistake as to the existence of the subject matter is a total failure of the basis of the contract. C is wrong: Prescott cannot be in breach of a contract that never existed. D is wrong: frustration applies to supervening events after a valid contract is formed; here the goods had perished before formation.",
+        "card_refs": [
+          "FLK1-CON-019",
+          "FLK1-CON-020"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-081",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Acceptance of Repudiation",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering repudiated its contract with a steel supplier by refusing to accept any further deliveries. The supplier chose not to accept the repudiation and continued to stand ready to perform. One month later, the contract became impossible to perform due to a government trade restriction (not caused by either party). The supplier now claims damages for breach. What is the outcome?",
+        "options": {
+          "A": "The supplier can claim full damages — it kept the contract alive and is entitled to compensation for Hollowell's repudiation.",
+          "B": "The supplier can claim damages for losses suffered before the frustrating event only.",
+          "C": "The supplier can claim damages — keeping the contract alive is always permissible and the subsequent frustration is irrelevant.",
+          "D": "The supplier cannot claim damages — by not accepting the repudiation, it took the risk of the contract becoming frustrated, which extinguishes both parties' obligations."
+        },
+        "correct": "D",
+        "explanation": "D is correct. This is the scenario from Avery v Bowden [1856] and White & Carter (Councils) v McGregor [1962]. An innocent party who elects not to accept an anticipatory repudiation keeps the contract alive — for better or worse. The risk of a subsequent frustrating event falls on the party who elected not to accept the breach. The government restriction frustrated the contract, discharging all obligations under the Law Reform (Frustrated Contracts) Act 1943 regime. The supplier's potential damages claim is extinguished by the frustration. A is wrong: keeping the contract alive means frustration can intervene. C is wrong: the innocent party's election to affirm does not immunise them from supervening frustration. D is not the correct outcome — the frustration discharges all obligations, not just prospective ones.",
+        "card_refs": [
+          "FLK1-CON-025",
+          "FLK1-CON-026"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-082",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Intention to Create Legal Relations — Commercial",
+        "difficulty": "Foundation",
+        "stem": "Wharton Foods issued a press release announcing: 'We commit to sourcing 100% of our packaging from local suppliers within three years.' A local packaging supplier claims this is a binding contractual commitment entitling it to Wharton Foods' business. Is the press release an enforceable contract?",
+        "options": {
+          "A": "Yes — a public commitment made by a commercial entity is binding as a unilateral offer accepted by local suppliers who continue trading.",
+          "B": "No — press releases are protected from legal consequences by freedom of speech principles.",
+          "C": "Yes — commercial parties are presumed to intend legal relations for all their public statements.",
+          "D": "No — a press release is a public statement, not an offer capable of acceptance; it lacks the necessary certainty of terms and bilateral agreement for a contract."
+        },
+        "correct": "D",
+        "explanation": "D is correct. A press release is a public relations statement, not a contractual offer. It lacks the specificity needed for an offer (no identified offeree, no price, no mechanism for acceptance). The presumption that commercial parties intend legal relations applies to negotiated agreements — not to aspirational public statements. Furthermore, there is no consideration from the packaging supplier. A confuses public statement with unilateral offer; a unilateral offer requires a specific act to be performed in exchange. C overstates the commercial ICLR presumption — it applies to bilateral agreements, not all public statements. D: freedom of speech is irrelevant to contractual analysis.",
+        "card_refs": [
+          "FLK1-CON-006"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-083",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Terms of a Contract",
+        "subtopic": "Terms vs Representations",
+        "difficulty": "Application",
+        "stem": "Before entering a supply contract, Neville Prescott told Graham Grange that a fleet of vans he was selling 'would be ideal for the cold chain — perfect for frozen food transport.' The written contract made no mention of this. The vans were not suitable for frozen food transport. Grange seeks remedies. Is Prescott's statement a term of the contract or a mere representation?",
+        "options": {
+          "A": "It is a term — verbal assurances given before a contract become terms automatically when they induce entry into the contract.",
+          "B": "It is a representation only — because the written contract is silent on suitability, the parol evidence rule prevents any pre-contractual statement from being a term.",
+          "C": "Whether it is a term or representation depends on factors including the importance of the statement, the relative expertise of the parties, and whether the maker invited verification.",
+          "D": "It is a representation only — terms must always be in writing to be enforceable in commercial contracts."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Whether a pre-contractual statement is a term or mere representation depends on the parties' objective intention, assessed using factors from Heilbut Symons v Buckleton [1913] and Bannerman v White [1861]: (1) how important was the statement to the contract? (2) did the maker have special knowledge or skill? (3) did the maker say the counterparty could verify it? (4) how much time passed between statement and contract? Here, Prescott specialises in vans and made a specific fitness-for-purpose claim — this points toward it being a term. A is wrong: not all inducing pre-contractual statements become terms. B overstates the parol evidence rule — it does not absolutely prevent pre-contractual terms. D is wrong: commercial terms need not be in writing.",
+        "card_refs": [
+          "FLK1-CON-014",
+          "FLK1-CON-015",
+          "FLK1-CON-016"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-084",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Minors — Capacity",
+        "difficulty": "Application",
+        "stem": "Marta Kowalski, aged 17, contracted on behalf of herself (not the family business) to buy a professional-grade commercial espresso machine worth £3,500 on credit for a planned business venture. She has not yet started the business. She refuses to pay. Is the contract enforceable against her?",
+        "options": {
+          "A": "Yes — contracts for goods necessary for a business are binding on minors.",
+          "B": "No — all contracts entered by minors are void and entirely unenforceable.",
+          "C": "Yes — a credit agreement is always binding on a minor if it relates to a commercial purpose.",
+          "D": "No — a contract for goods is only binding on a minor if the goods are 'necessaries' within the meaning of the Sale of Goods Act 1979 s.3; a commercial espresso machine for a not-yet-started business venture is not a necessary."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Under s.3 of the Sale of Goods Act 1979, a minor is only bound to pay a reasonable price for 'necessaries' — goods suitable to the minor's condition in life and actually needed at the time of sale. A professional commercial espresso machine purchased for a business that does not yet exist is not a necessary; it is a capital item for a speculative commercial venture. The contract is voidable at Marta's option. A is wrong: business goods are not automatically necessaries for a minor. C is wrong: the capacity rules apply regardless of commercial purpose. D is wrong: the common law and Sale of Goods Act provide that contracts for necessaries are enforceable; other contracts by minors are voidable (not void).",
+        "card_refs": [
+          "FLK1-CON-008"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-085",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Discharge of Contract",
+        "subtopic": "Variation of Contract",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering and Atlas Contracts orally agreed to vary their written construction contract by extending the completion date by four weeks and adjusting the payment schedule. Both parties relied on the variation. Atlas later seeks to hold Hollowell to the original completion date. Is the oral variation binding?",
+        "options": {
+          "A": "Yes — an oral variation of a written contract is binding if supported by consideration from both parties.",
+          "B": "No — variations to construction contracts must comply with the Housing Grants, Construction and Regeneration Act 1996 requirements.",
+          "C": "Yes — a no-oral-modification clause can be overridden by a subsequent agreement even if not in writing.",
+          "D": "No — the original written contract contained a clause requiring all variations to be in writing and signed; the oral variation is ineffective."
+        },
+        "correct": "D",
+        "explanation": "D is correct, if the contract contained a 'no oral modification' (NOM) clause. Following MWB Business Exchange Centres v Rock Advertising [2018], the Supreme Court held that NOM clauses are effective in commercial contracts. A party cannot rely on an oral variation if the contract requires written form. The oral variation between Hollowell and Atlas is ineffective if the written contract required written variations. A states the general rule from before MWB but ignores the NOM clause. C: MWB directly held that NOM clauses can only be overridden by a variation that itself complies with the agreed formality — a simple informal oral agreement does not suffice. D: the Housing Grants Act 1996 deals with adjudication rights and payment notices, not the formality of contract variations.",
+        "card_refs": [
+          "FLK1-CON-009",
+          "FLK1-CON-010"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-086",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Third Parties",
+        "subtopic": "Contracts (Rights of Third Parties) Act 1999 — Exclusion",
+        "difficulty": "Application",
+        "stem": "A written supply contract between Wharton Foods and Hollowell Engineering stated: 'Nothing in this agreement shall confer any right on any person who is not a party to it.' A Wharton Foods employee suffered loss due to defective goods supplied by Hollowell. Can the employee enforce the contract?",
+        "options": {
+          "A": "Yes — the Contracts (Rights of Third Parties) Act 1999 overrides any contractual exclusion of third-party rights.",
+          "B": "No — the employee's only remedy is in tort (negligence), not contract.",
+          "C": "Yes — employees always have standing to enforce supply contracts made for their benefit.",
+          "D": "No — s.1(2) of the Contracts (Rights of Third Parties) Act 1999 allows parties to contract out of the Act; the exclusion clause is effective."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Section 1(2) of the Contracts (Rights of Third Parties) Act 1999 provides that the Act does not apply where the contract expressly provides that the third party shall not be entitled to enforce the term in question. The clause in the Wharton Foods/Hollowell contract expressly excludes third-party rights — this is a valid and effective contracting-out of the Act. A is wrong: the Act expressly permits parties to contract out of it. C is wrong: employees have no general right to enforce their employer's supply contracts. D describes the employee's position correctly — the tort route may be available — but it does not directly address the contract question asked.",
+        "card_refs": [
+          "FLK1-CON-030"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-087",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Vitiating Factors",
+        "subtopic": "Misrepresentation — Silence",
+        "difficulty": "Application",
+        "stem": "Neville Prescott sold a commercial van to Donna Pearce. Before the sale, Prescott knew the van had been used as a recovery vehicle and had significantly higher mileage than the odometer showed (it had been clocked). Prescott said nothing about this. Donna only discovered the true history after purchase. Is Prescott liable for misrepresentation?",
+        "options": {
+          "A": "No — there is no general duty of disclosure in contract; silence cannot amount to misrepresentation.",
+          "B": "Yes — consumer protection legislation requires full disclosure of vehicle history in all second-hand vehicle sales.",
+          "C": "No — unless Donna specifically asked about the mileage, Prescott had no obligation to volunteer the information.",
+          "D": "Yes — Prescott's silence about the clocked odometer constitutes a fraudulent misrepresentation because a half-truth or active concealment can amount to misrepresentation."
+        },
+        "correct": "D",
+        "explanation": "D is correct. While mere silence does not generally constitute misrepresentation, there are recognised exceptions: (1) where a statement made is a half-truth (true but misleading by omission); (2) where facts are actively concealed; (3) where a true statement later becomes false before contract. A clocked odometer is a form of active concealment — the odometer positively represents a false mileage. Prescott did not merely stay silent; the falsified reading made an implicit representation (the displayed mileage is accurate) which was false to Prescott's knowledge. This is fraudulent misrepresentation (Derry v Peek). A correctly states the general rule but fails to apply the half-truth/concealment exception. C is wrong for the same reason. D: while consumer protection law may be relevant, the question targets misrepresentation doctrine.",
+        "card_refs": [
+          "FLK1-CON-016",
+          "FLK1-CON-017",
+          "FLK1-CON-018"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-088",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Acceptance — Prescribed Method",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering's offer to Atlas Contracts stated: 'This offer must be accepted by fax or by hand-delivered letter only.' Atlas sent acceptance by email. Pat Hollowell claims no contract was formed. Is a contract formed?",
+        "options": {
+          "A": "Yes — an email is an equivalent modern method to fax and satisfies the offer's prescribed method.",
+          "B": "No — only a hand-delivered letter is effective because fax and email are equivalent, cancelling each other out.",
+          "C": "Yes — the Electronic Commerce (EC Directive) Regulations 2002 require offerors to accept electronic acceptances.",
+          "D": "No — where an offer prescribes the method of acceptance, acceptance by any other method is generally ineffective unless the prescribed method is merely directory."
+        },
+        "correct": "D",
+        "explanation": "D is correct. An offeror may prescribe the method of acceptance, and acceptance by a non-prescribed method is generally ineffective (Manchester Diocesan Council for Education v Commercial and General Investments [1970]). However, the court will consider whether the prescribed method was mandatory (no other method permitted) or merely directory (prescribing a preferred method while leaving others open). If the offer was mandatory ('must be accepted by fax or hand-delivered letter only'), an email acceptance does not comply. A is wrong: modern equivalence does not override an express prescriptive term. C is wrong: the E-Commerce Regulations do not override express contract terms about acceptance method. D's reasoning is incorrect — there is no 'cancellation' principle.",
+        "card_refs": [
+          "FLK1-CON-002",
+          "FLK1-CON-003"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-089",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Remedies",
+        "subtopic": "Injunction in Contract",
+        "difficulty": "Application",
+        "stem": "Donna Pearce entered a two-year exclusive services agreement with Wharton Foods under which Northgate Couriers would be the sole provider of courier services for the factory. Six months in, Graham Grange told Donna he was switching to a cheaper national carrier. Donna seeks an injunction restraining Wharton Foods from using another carrier during the contract period. Is an injunction available?",
+        "options": {
+          "A": "No — injunctions are not available to enforce contracts for services; specific performance is the only equitable remedy.",
+          "B": "Yes — but only as a final injunction after trial; interim injunctions are not available in contract disputes.",
+          "C": "No — damages would be an adequate remedy as Donna can calculate her lost revenue precisely.",
+          "D": "Yes — a prohibitory injunction restraining a party from breaking a negative covenant in a contract (i.e. not using another carrier) may be granted to protect the benefit of the exclusivity agreement."
+        },
+        "correct": "D",
+        "explanation": "D is correct. Where a contract contains an express or implied negative covenant (here, an obligation not to use any other courier — the flipside of the exclusivity), a prohibitory injunction may be granted to prevent its breach (Warner Bros v Nelson [1937]). The court applies the American Cyanamid test at the interim stage. Courts are more willing to grant injunctions to enforce negative covenants (not to do something) than mandatory orders to compel positive performance. A is wrong: injunctions can enforce negative contractual obligations even in service contracts. C is a relevant argument at the American Cyanamid 'adequacy of damages' stage but does not categorically bar injunctive relief. D is wrong: interim injunctions are available in contract disputes.",
+        "card_refs": [
+          "FLK1-CON-027"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-CON-MCQ-090",
+        "flk": "FLK1",
+        "subject": "Contract Law",
+        "topic": "Formation of Contract",
+        "subtopic": "Offer and Acceptance — Tenders",
+        "difficulty": "Application",
+        "stem": "Wharton Magna District Council invited tenders for cleaning services, stating in the invitation: 'The council is not bound to accept the lowest or any tender.' Three companies submitted tenders. The council accepted the tender of a company that had submitted its bid after the deadline. One of the on-time bidders, Rachel Okonkwo's cleaning company, challenges the decision. What is Rachel's legal position?",
+        "options": {
+          "A": "Rachel can sue the council for breach of contract — the council was contractually bound to consider only on-time tenders.",
+          "B": "Rachel can judicially review the decision — local authority procurement decisions must comply with public law fairness principles.",
+          "C": "Rachel has no claim — the invitation to tender was not an offer, and the disclaimer allows the council to accept any tender including a late one.",
+          "D": "Rachel has a contractual claim for a reasonable chance of winning the tender, but cannot claim loss of profit."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Wharton Magna District Council is a public body. Its procurement decisions are subject to public law obligations including procedural fairness, legitimate expectation, and potentially the Public Contracts Regulations 2015. By accepting a late tender from Nexus after already having conducted the process and notified Rachel, the Council may have acted unlawfully in public law terms — giving Rachel grounds to seek judicial review. A is wrong: an invitation to tender is not an offer and creates no contractual obligation to accept any tender or follow any particular procedure (Blackpool and Fylde Aero Club v Blackpool Borough Council [1990] confirms that compliance obligations in the tender process are limited). The disclaimer further negates any implied contractual obligation. C is wrong because it concludes Rachel has no remedy at all — overlooking the availability of judicial review against a public body. D is wrong: a tender invitation does not create a contractual claim for loss of chance; the disclaimer and public law framework both point away from a contractual route.",
+        "card_refs": [
+          "FLK1-CON-001",
+          "FLK1-CON-009"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

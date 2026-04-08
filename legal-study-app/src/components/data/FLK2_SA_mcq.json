@@ -1,0 +1,1986 @@
+{
+  "FLK2": {
+    "Solicitors' Accounts": [
+      {
+        "question_id": "FLK2-SA-MCQ-001",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "The SRA Accounts Rules — Foundations",
+        "subtopic": "Purpose and application of the Rules",
+        "difficulty": "Complex",
+        "stem": "Under the SRA Accounts Rules 2019, which of the following best describes the primary duty of a solicitor when holding client money?",
+        "options": {
+          "A": "To keep client money separate from office money in a designated client account",
+          "B": "To invest client money to generate returns for the client",
+          "C": "To pay interest on all client money held for more than one month",
+          "D": "To deliver a monthly reconciliation statement to every client"
+        },
+        "correct": "A",
+        "explanation": "Rule 2.1 of the SRA Accounts Rules 2019 requires solicitors to keep client money separate from office money in a designated client account. This is the foundational duty underpinning all other Rules.",
+        "card_refs": [
+          "FLK2-SA-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-002",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "The SRA Accounts Rules — Foundations",
+        "subtopic": "Who the Rules apply to",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is an SRA-authorised firm. The firm employs both solicitors and non-qualified fee earners. Diana, a paralegal, regularly handles client funds as part of her work. The firm's COFA is reviewing compliance obligations. To whom do the SRA Accounts Rules 2019 apply?",
+        "options": {
+          "A": "Only to the firm's partners and qualified solicitors who are named on the SRA register.",
+          "B": "To all SRA-authorised bodies and to any person who holds or receives client money in connection with regulated legal services — including paralegals such as Diana.",
+          "C": "Only to firms with annual client account receipts exceeding a specified threshold.",
+          "D": "To solicitors individually but not to the firm itself as an entity."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. The SRA Accounts Rules 2019 apply to all SRA-authorised bodies and to any person (whether a solicitor or not) who holds or receives client money in connection with regulated legal services carried on by an authorised body (Rule 1). Diana the paralegal, by handling client funds, falls within the scope of the Rules. The Rules are not limited to qualified lawyers or to those on the individual register. Option A is wrong: the Rules extend beyond qualified solicitors to all who handle client money within an authorised firm. Option C is wrong: there is no financial threshold in the Rules for their application. Option D is wrong: the Rules apply to the authorised body (the firm) as well as to individuals within it.",
+        "card_refs": [
+          "FLK2-SA-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-003",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "Definition of client money",
+        "difficulty": "Foundation",
+        "stem": "Which of the following is the correct definition of 'client money' under the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "Money paid by a client in response to a delivered bill from the firm",
+          "B": "Money held or received by a firm from or on behalf of a client in connection with regulated legal services",
+          "C": "Only money paid by the client directly to the firm; third-party payments are excluded",
+          "D": "Money received as a fixed fee earned in full on receipt"
+        },
+        "correct": "C",
+        "explanation": "Client money is money held or received by a firm from or on behalf of a client in connection with regulated legal services. Critically, this includes money received from third parties on behalf of a client.",
+        "card_refs": [
+          "FLK2-SA-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-004",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "What is not client money (office money, out-of-scope)",
+        "difficulty": "Foundation",
+        "stem": "A firm delivers a bill for £2,500 to its client on 1 June. The client pays £2,500 on 3 June in response to that bill. Into which account must the firm pay this money?",
+        "options": {
+          "A": "The client account, as it is a payment from the client",
+          "B": "The office account, as it is payment in response to a delivered bill",
+          "C": "The office account initially, then transfer to client account after 14 days",
+          "D": "Either account, as the firm may choose its accounting treatment"
+        },
+        "correct": "C",
+        "explanation": "Money paid in response to a delivered bill is office money — it belongs to the firm from the moment of receipt and must be paid into the office account.",
+        "card_refs": [
+          "FLK2-SA-015"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-005",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "Definition of client money",
+        "difficulty": "Application",
+        "stem": "A client sends a firm £3,000 'on account of costs.' No bill has been delivered. The firm issues a bill for £1,500 on day 10. How should the firm account for the payment?",
+        "options": {
+          "A": "Transfer £3,000 to the office account on day 1",
+          "B": "Hold £3,000 in client account; transfer £1,500 to office account on day 10 after bill is delivered; hold remaining £1,500 in client account as residual balance",
+          "C": "Transfer £3,000 to office account immediately upon receipt of the bill",
+          "D": "Keep £3,000 in client account indefinitely as it is described as 'on account'"
+        },
+        "correct": "A",
+        "explanation": "A payment on account is client money until a bill is delivered. On day 1, the £3,000 is client money and must be held in the client account. On day 10, when a bill for £1,500 is delivered, that amount may be transferred to the office account.",
+        "card_refs": [
+          "FLK2-SA-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-006",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "Mixed receipts",
+        "difficulty": "Foundation",
+        "stem": "A firm receives a single cheque for £4,000. It comprises £2,000 for anticipated disbursements and £2,000 as fees against a delivered bill. What is the correct treatment?",
+        "options": {
+          "A": "Pay £2,000 to the office account and £2,000 to the client account immediately",
+          "B": "Pay the full £4,000 to the client account, then transfer £2,000 to the office account once the split is confirmed",
+          "C": "Pay the full £4,000 to the office account and transfer £2,000 to client account later",
+          "D": "Hold the full £4,000 in a suspense account until the client clarifies the split"
+        },
+        "correct": "C",
+        "explanation": "This is a mixed receipt. The protective default is to pay the entire mixed receipt into the client account if the split is not immediately clear, then transfer the office element out once identified.",
+        "card_refs": [
+          "FLK2-SA-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-007",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "Definition of client money",
+        "difficulty": "Application",
+        "stem": "A defendant's liability insurer pays £50,000 damages directly to the firm's client account on behalf of the claimant client, without the client instructing the insurer. Is this client money?",
+        "options": {
+          "A": "No, because the payer (the insurer) is not the firm's client",
+          "B": "Yes, because it is money received on behalf of a client in connection with regulated legal services",
+          "C": "No, because it is paid directly to the bank account, not received by the firm in person",
+          "D": "Yes, but only if the client has given prior written consent to receipt"
+        },
+        "correct": "D",
+        "explanation": "Money received from a third party on behalf of a client is client money under the Rules, even though the payer is not the firm's client. The key test is whether the money is held or received on behalf of a client in connection with regulated legal services.",
+        "card_refs": [
+          "FLK2-SA-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-008",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "Residual client balances",
+        "difficulty": "Application",
+        "stem": "A matter concludes and the firm holds £300 in client account that has not yet been returned to the client. What obligation arises?",
+        "options": {
+          "A": "The firm must hold the money indefinitely as it may be required in future",
+          "B": "The firm must return the client money promptly, or take steps to locate the client and return it",
+          "C": "The firm may transfer the money to the office account to cover partner drawings",
+          "D": "The firm must pay interest on the balance at the statutory rate"
+        },
+        "correct": "D",
+        "explanation": "The SRA Accounts Rules require a firm to return client money promptly once it is no longer needed for the purpose for which it was held. If the matter has concluded and a balance remains, the firm must take active steps to return it without delay.",
+        "card_refs": [
+          "FLK2-SA-023"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-009",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "Residual client balances",
+        "difficulty": "Foundation",
+        "stem": "A firm holds a residual client balance of £40 for a former client it cannot locate despite reasonable efforts over 18 months. The firm applies to the SRA for permission to pay the balance to charity. Which statement is correct?",
+        "options": {
+          "A": "The firm may keep the money as fees owed by the client",
+          "B": "The firm may pay to charity with SRA permission after exhausting tracing steps, provided records are kept",
+          "C": "The firm must pay to the Legal Services Commission without seeking SRA permission",
+          "D": "The firm may pay to charity only if the client is deceased"
+        },
+        "correct": "C",
+        "explanation": "Where a residual client balance cannot be returned because the client cannot be located, a firm may apply to the SRA for permission to pay the balance to an SRA-nominated charity, provided all reasonable steps to return the money to the client have been taken.",
+        "card_refs": [
+          "FLK2-SA-024"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-010",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Money",
+        "subtopic": "What is not client money (office money, out-of-scope)",
+        "difficulty": "Complex",
+        "stem": "A court awards damages to the claimant, and the defendant pays the compensation directly to the claimant's personal bank account (not through the firm). Must the firm account for this money under the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "Yes, because it relates to a legal matter the firm handled",
+          "B": "No, because the money never passes through the firm's hands and thus was never 'held or received' by it",
+          "C": "Yes, but only if the claimant later asks the firm to manage the funds",
+          "D": "No, because the defendant is not the firm's client"
+        },
+        "correct": "B",
+        "explanation": "The SRA Accounts Rules apply only to money 'held or received' by the firm. If money is paid directly to the client and never passes through the firm's accounts, the Rules are not engaged.",
+        "card_refs": [
+          "FLK2-SA-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-011",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Account",
+        "subtopic": "Paying into client account",
+        "difficulty": "Application",
+        "stem": "A firm receives £5,000 from a client on 1 June. The money must be paid into the client account. By when must payment be made to satisfy the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "Within 7 days of receipt",
+          "B": "Without delay; the money must be in the client account by the end of the business day of receipt or the next working day",
+          "C": "Within 14 days of receipt",
+          "D": "Within 2 weeks of the month following receipt"
+        },
+        "correct": "A",
+        "explanation": "Rule 2.1 of the SRA Accounts Rules 2019 requires client money to be paid into a client account 'without delay.' The SRA interprets this as meaning payment must be made by the end of the business day of receipt, or the next working day if receipt occurs late in the day.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-012",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Account",
+        "subtopic": "Paying into client account",
+        "difficulty": "Application",
+        "stem": "A firm receives a cheque for £6,000 made out to 'the firm as client account' for conveyancing disbursements. The cheque bounces 5 days later. What has occurred?",
+        "options": {
+          "A": "No breach, as the cheque was not cleared",
+          "B": "A breach of Rule 2.1, as the firm treated cleared money as having been paid into client account when it had not",
+          "C": "A breach of Rule 4.1, as the firm failed to ensure the client account is held at a bank or building society",
+          "D": "No breach if the firm discovers and corrects the error within 14 days"
+        },
+        "correct": "D",
+        "explanation": "The firm must ensure money is actually received and cleared in the client account, not merely that a cheque has been presented. If a cheque bounces, the money was never in the client account. This is a breach of Rule 2.1.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-013",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Client ledger entries",
+        "difficulty": "Foundation",
+        "stem": "A firm receives £2,000 from a client for anticipated disbursements. What entry is made in the client's ledger account?",
+        "options": {
+          "A": "Debit: £2,000 (to reflect money paid in)",
+          "B": "Credit: £2,000 (to reflect money received for the client)",
+          "C": "Debit: £1,000; Credit: £1,000 (to split the entry)",
+          "D": "No entry, as the ledger is only used for fees, not for client money"
+        },
+        "correct": "B",
+        "explanation": "In the client ledger, money received from or on behalf of the client is recorded as a Credit. The client ledger reflects the client's account — from the client's perspective, a credit represents money the firm is holding for them.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-014",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Client ledger entries",
+        "difficulty": "Application",
+        "stem": "A firm pays £1,500 from the client account to discharge a client's mortgage on their behalf. What entry is made in the client's ledger account?",
+        "options": {
+          "A": "Credit: £1,500 (to record the payment)",
+          "B": "Debit: £1,500 (to record money paid out on the client's behalf)",
+          "C": "Credit: £1,500, then Debit: £1,500 (offsetting entries)",
+          "D": "No entry, as the payment was made from the client account, not the ledger"
+        },
+        "correct": "C",
+        "explanation": "When money is paid out from the client account on the client's behalf (a disbursement), the entry in the client ledger is a Debit. Debits in the client ledger represent money paid to or for the client.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-015",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Reconciliation of accounts",
+        "difficulty": "Foundation",
+        "stem": "Rule 8 of the SRA Accounts Rules 2019 requires reconciliation of client account. How frequently must this be done?",
+        "options": {
+          "A": "At least once per calendar year",
+          "B": "At least once every 5 weeks",
+          "C": "At least once per calendar month",
+          "D": "At least once every 2 weeks"
+        },
+        "correct": "A",
+        "explanation": "Rule 8 requires that the client account be reconciled at least once every 5 weeks. The reconciliation must compare the firm's accounting records with the actual balance held at the bank.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-016",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Reconciliation of accounts",
+        "difficulty": "Application",
+        "stem": "A firm's reconciliation on 10 June shows the client ledger total as £45,000 and the bank statement balance as £44,500. What should the firm do?",
+        "options": {
+          "A": "Accept the variance of £500 as within normal tolerance",
+          "B": "Investigate the discrepancy immediately to identify the cause and correct it",
+          "C": "Report the discrepancy to the SRA within 7 days",
+          "D": "Request the bank to issue a revised statement"
+        },
+        "correct": "B",
+        "explanation": "Any discrepancy between the client ledger total and the bank balance must be investigated immediately. Even small variances indicate either an error in the accounting records or a missing transaction.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-017",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Interest on Client Money",
+        "subtopic": "When interest must be accounted for",
+        "difficulty": "Foundation",
+        "stem": "Under the SRA Accounts Rules 2019, when must a firm account to a client for interest earned on money held in the client account?",
+        "options": {
+          "A": "Only if the interest exceeds £100",
+          "B": "When interest is received or accrued (subject to de minimis thresholds)",
+          "C": "Only if the client specifically requests it in writing",
+          "D": "At the end of each calendar year in the annual statement"
+        },
+        "correct": "D",
+        "explanation": "Rule 5 requires a firm to account to the client for interest received on money held in the client account. A de minimis exemption applies — currently, the SRA guidance indicates that no account need be given for interest below £50.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-018",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Interest on Client Money",
+        "subtopic": "When interest must be accounted for",
+        "difficulty": "Application",
+        "stem": "A firm holds £25,000 in client account for 4 months. The bank credits interest of £45 to the account. What must the firm do with this interest?",
+        "options": {
+          "A": "Retain the interest as office money, as it is below the £50 de minimis threshold",
+          "B": "Account to the client for the interest, as it is money received in connection with client money held",
+          "C": "Pay the interest to the SRA",
+          "D": "Deduct the interest from the client's final bill as a credit"
+        },
+        "correct": "C",
+        "explanation": "The firm must account to the client for the interest of £45. Although the SRA de minimis guidance allows no account to be given for interest below £50, the interest of £45 is still client money and should be credited to the client's ledger account.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-019",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Interest on Client Money",
+        "subtopic": "When interest must be accounted for",
+        "difficulty": "Complex",
+        "stem": "A client holds a substantial balance (£100,000+) in client account for 12 months. The client and firm agree in writing that the firm may retain half of any interest earned above the statutory rate. Is this permitted?",
+        "options": {
+          "A": "No, because Rule 5 does not permit the firm to retain any portion of interest earned on client money",
+          "B": "Yes, as long as it is agreed in writing and the statutory rate is exceeded",
+          "C": "Yes, but only if the client has been given independent legal advice",
+          "D": "No, because interest on client account may only be dealt with by the SRA"
+        },
+        "correct": "A",
+        "explanation": "Rule 5 permits a firm to account to the client for a fair and reasonable sum of interest, or such amount as agreed. If a client agrees in writing to allow the firm to retain part of the interest, this is permissible.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-020",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Office Account and Business Money",
+        "subtopic": "What constitutes office money",
+        "difficulty": "Application",
+        "stem": "During a busy Friday afternoon at Crane & Pelletier, the cashier receives four payments: (1) £500 from a client as a payment on account of future costs; (2) £1,200 representing the firm's profit costs on a bill already delivered and paid; (3) £8,000 in damages received on behalf of a personal injury client; (4) £300 from a third party as a contribution to the client's disbursements. Which of these must be paid into the firm's office account?",
+        "options": {
+          "A": "Payment (1) — money received on account of future costs is office money.",
+          "B": "Payment (2) — profit costs received against a delivered bill are the firm's own money and go into the office account.",
+          "C": "Payment (3) — damages belong to the client and go into the office account for onward transmission.",
+          "D": "Payment (4) — third-party contributions are always office money regardless of purpose."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Under SRA Accounts Rules 2019 Rule 2.1, 'client money' is money held or received for a client. Office money is money belonging to the firm. Profit costs received against a bill already delivered and paid are the firm's own money — the bill has been rendered and the entitlement established. This is not client money and must be paid into the office account. Option A is wrong: payment on account of future costs is client money under Rule 2.1 until earned — it must go into the client account. Option C is wrong: damages received on behalf of a client are client money and must go into the client account. Option D is wrong: the third-party contribution received for the client's disbursements is client money (received for a client) and must go into the client account.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-021",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Office Account and Business Money",
+        "subtopic": "Transfers between client and office account",
+        "difficulty": "Application",
+        "stem": "A firm delivers a bill for £1,200 to a client on 1 June. The client had previously paid £1,500 on account on 15 May (before any bill was delivered). What is the correct accounting treatment on 1 June?",
+        "options": {
+          "A": "Transfer the full £1,500 to the office account",
+          "B": "Transfer only £1,200 to the office account (matching the bill amount); hold the £300 surplus in client account",
+          "C": "Hold the full £1,500 in client account until the client requests withdrawal",
+          "D": "Deduct the fee from the payment on account and return the remainder immediately"
+        },
+        "correct": "C",
+        "explanation": "The £1,500 payment on 15 May is client money and must be held in the client account. On 1 June, when a bill for £1,200 is delivered, the firm may transfer £1,200 from client account to office account. The remaining £300 is a residual client balance.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-022",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Disbursements and costs",
+        "difficulty": "Foundation",
+        "stem": "A firm pays counsel's fees of £800 from the client account after the client has paid that amount into the firm. Is this treated as a disbursement from client money?",
+        "options": {
+          "A": "No, because counsel's fees are the firm's own costs and must be paid from the office account",
+          "B": "Yes, if the client has advanced the money for that specific purpose, it is a client money disbursement",
+          "C": "Only if counsel is an associate of the firm",
+          "D": "Only if the client requests payment in writing"
+        },
+        "correct": "B",
+        "explanation": "If a client has paid money into the firm for the purpose of paying counsel's fees, and that money remains unspent, it is client money. When the firm pays counsel from the client account, this is a disbursement from client money.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-023",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Disbursements and costs",
+        "difficulty": "Application",
+        "stem": "A firm instructs counsel and agrees to pay the fee of £500. Before the client has paid any money, the firm pays the fee from its office account. Later, the client pays £500 to reimburse the firm's costs. What is the correct treatment?",
+        "options": {
+          "A": "Credit client ledger £500 (money received); Debit office account when counsel was paid",
+          "B": "Debit client ledger £500 (cost paid on behalf); Credit client account when payment is received",
+          "C": "Hold the £500 in client account pending counsel payment",
+          "D": "Transfer the £500 immediately to the office account as reimbursement of costs"
+        },
+        "correct": "D",
+        "explanation": "When the firm pays counsel from its own resources before receiving the client's money, this is a business expense. The firm records a cost receivable. When the client pays £500 as reimbursement, this is received as payment of the cost and should go to the office account as office money (or be treated as satisfying the client's liability for costs).",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-024",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "The Reporting Accountant",
+        "subtopic": "When a report is required",
+        "difficulty": "Foundation",
+        "stem": "Under the SRA Accounts Rules 2019, when is an annual accountant's report required?",
+        "options": {
+          "A": "For all SRA-authorised firms, every year",
+          "B": "If the firm has held an average of more than £10,000 in client money on any one day during the reporting year, or more than £250,000 in aggregate",
+          "C": "Only if the firm has committed a breach of the Rules",
+          "D": "Only for firms with more than 10 partners"
+        },
+        "correct": "B",
+        "explanation": "Rule 12 requires an annual accountant's report to be filed if during the reporting year the firm has held client money with an average balance exceeding £10,000 on any one day, or more than £250,000 in aggregate.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-025",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "The Reporting Accountant",
+        "subtopic": "The accountant's qualification and report",
+        "difficulty": "Application",
+        "stem": "A firm's reporting accountant discovers a breach of the SRA Accounts Rules during their audit — the firm failed to pay client money into a client account for 3 days. What must the accountant do?",
+        "options": {
+          "A": "Advise the firm informally and suggest remediation without reporting to the SRA",
+          "B": "Issue an unqualified report stating the firm is compliant",
+          "C": "Issue a qualified report identifying the breach and report it to the SRA",
+          "D": "Issue a qualified report but allow the firm to decide whether to report to the SRA"
+        },
+        "correct": "A",
+        "explanation": "If a reporting accountant discovers a breach of the SRA Accounts Rules, they must issue a qualified report. The accountant must also report the breach to the SRA. Professional reporting obligations override confidentiality.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-026",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "The Reporting Accountant",
+        "subtopic": "The accountant's qualification and report",
+        "difficulty": "Application",
+        "stem": "A small firm with £8,000 average client balance per day does not file an accountant's report. It discovers it made an error 18 months ago — client money was temporarily held in an office account for 5 days before being transferred. Does the firm have an obligation to report this breach?",
+        "options": {
+          "A": "No, because the firm is below the reporting threshold and thus not subject to audit",
+          "B": "Yes, any breach of the Rules — including holding office money in client account — must be reported to the SRA by the COFA",
+          "C": "Yes, but only if the client suffered loss",
+          "D": "No, de minimis breaches under £1,000 are not reportable"
+        },
+        "correct": "D",
+        "explanation": "The absence of a requirement to file a reporting accountant's report does not exempt a firm from the SRA Accounts Rules themselves. All breaches of the Rules must be reported to the SRA by the firm.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-027",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Account",
+        "subtopic": "Types of client account",
+        "difficulty": "Application",
+        "stem": "A firm uses a designated client account at a bank. The account title is 'ABC Law Firm — Client Account.' The firm also holds separate designated accounts for two specific clients with substantial assets, each titled 'ABC Law Firm — Client Account [Client Name].' Are the separate accounts permissible?",
+        "options": {
+          "A": "No, the Rules require a single pooled client account for all clients",
+          "B": "Yes, separate designated accounts for individual clients are permissible if properly recorded and reconciled",
+          "C": "No, separate accounts create confusion and are prohibited",
+          "D": "Yes, but only with SRA written permission"
+        },
+        "correct": "B",
+        "explanation": "Rule 4.1 permits a firm to operate a single pooled account serving all clients, or to use separate designated accounts for individual clients. The key requirement is that the account must be at a bank or building society and properly designated.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-028",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Accounting entries and reconciliation",
+        "difficulty": "Complex",
+        "stem": "A firm receives £3,000 from a client on 5 June, pays £800 to counsel on 8 June from the client account, and on 10 June delivers a bill for £1,500. The firm then transfers £1,500 from client account to office account. What is the client ledger balance at the end of 10 June?",
+        "options": {
+          "A": "£2,200 (£3,000 - £800)",
+          "B": "£700 (£3,000 - £800 - £1,500)",
+          "C": "£3,000 (no change until the client pays the bill)",
+          "D": "£1,500 (only the balance on the bill matters)"
+        },
+        "correct": "A",
+        "explanation": "The client ledger records: Credit £3,000 (money received on 5 June); Debit £800 (counsel paid on 8 June); Debit £1,500 (amount transferred to office account on 10 June). The net balance is £700.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-029",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Ledgers and Bookkeeping",
+        "subtopic": "Accounting entries and reconciliation",
+        "difficulty": "Complex",
+        "stem": "A firm's reconciliation on 30 June reveals: Client ledger total £50,000; Client account bank statement balance £49,500. Investigation shows a cheque for £500 was drawn on 25 June but has not yet cleared. After clearing, what will be the reconciliation position?",
+        "options": {
+          "A": "£50,000 (bank balance will match the ledger)",
+          "B": "£49,500 (the cheque has been recorded in the ledger but not yet cleared by the bank)",
+          "C": "£50,000 (once the cheque clears, the bank will match the ledger figure recorded on 30 June)",
+          "D": "£49,500 (uncleared cheques are not reconciled to the ledger)"
+        },
+        "correct": "C",
+        "explanation": "On 30 June, the firm correctly recorded the cheque as a debit in the client ledger, but the bank has not yet cleared it. This is a timing difference. Once the cheque clears, the bank balance will become £49,500, matching the accounting records at that point.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-SA-MCQ-030",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Office Account and Business Money",
+        "subtopic": "Breaches and remediation",
+        "difficulty": "Complex",
+        "stem": "A firm discovers it mistakenly held £600 of office money (deferred fee income) in the client account for 8 days before transferring it to the office account. The fund was adequately secured and no loss occurred. Must the firm report this breach to the SRA?",
+        "options": {
+          "A": "No, because no loss occurred and the money was recovered within 14 days",
+          "B": "Yes, any breach of the Rules — including holding office money in client account — must be reported to the SRA by the COFA",
+          "C": "Only if the amount exceeds £1,000",
+          "D": "No, de minimis breaches under £1,000 are not reportable"
+        },
+        "correct": "B",
+        "explanation": "Any breach of the SRA Accounts Rules must be reported to the SRA, regardless of whether loss occurred or was promptly remedied. The Rules are strict liability. There is no de minimis exemption for breaches.",
+        "card_refs": [
+          "FLK2-SA-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "SA-031",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Client Money — Definition",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives £5,000 from James Ashworth as a payment on account of fees before any work is done. Under the SRA Accounts Rules 2019, how must this money be treated?",
+        "options": {
+          "A": "It can be paid into the firm's office account immediately as it is an advance payment for fees",
+          "B": "It must be paid into the client account as it is client money — not yet earned",
+          "C": "It can be held in either account at the firm's discretion",
+          "D": "It must be held in a separate designated client account in James's name"
+        },
+        "correct": "B",
+        "explanation": "Under SRA Accounts Rules 2019 rule 2.1, client money includes money received from or on behalf of a client in connection with legal services, including payments on account of costs. A payment on account of fees received before the work is done (or before a bill is delivered) is client money and must be held in the client account. The firm cannot transfer it to office account until a bill is delivered or a proper transfer is made under rule 4.3. The obligation to use a designated account only applies where held for a specific purpose exceeding 8 weeks.",
+        "card_refs": [
+          "SA-C031"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-032",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Promptly — Rule 2.3",
+        "difficulty": "Foundation",
+        "stem": "Diana Pelletier sends a cheque of £10,000 to Crane & Pelletier for a property purchase. The firm receives the cheque on Monday. What does 'promptly' require under the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "The cheque must be paid in the same day",
+          "B": "The cheque must be paid in within 2 business days",
+          "C": "The cheque must be paid in the next business day",
+          "D": "Promptly means without undue delay — the SRA does not specify a precise number of days"
+        },
+        "correct": "D",
+        "explanation": "SRA Accounts Rules 2019 rule 2.3 requires firms to pay client money promptly into a client account (unless a permitted exception applies). The Rules do not define a specific number of days for 'promptly' — the SRA's guidance indicates it means as soon as reasonably practicable, usually the day of receipt or the next working day. In practice, most firms aim to bank on the day of receipt or the next working day. The word 'promptly' is a principle-based standard, not a precise day count.",
+        "card_refs": [
+          "SA-C032"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-033",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Exceptions to Client Account — Rule 2.2",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives £250 from Rachel Okonkwo for court fees. The firm wishes to avoid opening a client account for this small sum. Is there an exception permitting this?",
+        "options": {
+          "A": "No — all client money must go into the client account without exception",
+          "B": "Yes — rule 2.2(c) permits a firm to make a payment to a third party on behalf of a client without first putting the money in client account, if it is impractical to do so and the amount is small",
+          "C": "Yes — rule 2.2(d) allows firms to hold client money in office account for amounts under £500",
+          "D": "No — only bills rendered can be held in office account"
+        },
+        "correct": "B",
+        "explanation": "SRA Accounts Rules 2019 rule 2.2 sets out exceptions to the client account obligation. Rule 2.2(c) allows a firm to make a payment to a third party on behalf of a client without routing the money through a client account where it is impractical, for example where the money is received and paid out on the same day (same-day transactions). This is the most applicable exception for small court fee payments received and immediately disbursed. Rule 2.2(d) permits firms to hold client money in office account in certain regulated situations. The key is whether the payment is immediate.",
+        "card_refs": [
+          "SA-C033"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-034",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Double Entry — Ledger Entries",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives £3,000 from Victoria Ashworth for conveyancing fees (billed). What are the correct ledger entries?",
+        "options": {
+          "A": "DR Cash account (office) £3,000; CR Victoria Ashworth office ledger £3,000",
+          "B": "DR Victoria Ashworth client ledger (client side) £3,000; CR Cash account (client) £3,000",
+          "C": "DR Cash account (office) £3,000; CR Office receipts ledger £3,000",
+          "D": "DR Cash account (client) £3,000; CR Victoria Ashworth client ledger (client side) £3,000"
+        },
+        "correct": "A",
+        "explanation": "Once a bill is delivered and the client pays the billed amount, the payment is office money (not client money) — the firm has earned the fee. The entries are: DR Cash account (office) £3,000 (the firm's bank account is increased) and CR Victoria Ashworth office ledger £3,000 (reducing the debt owed by Victoria on the office side). This is a standard double-entry recording the receipt of office money. Client account ledger entries are only used for client money held on behalf of the client before billing.",
+        "card_refs": [
+          "SA-C034"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-035",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Transfer from Client to Office — Rule 4.3",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier has completed work for Hassan Nazari and delivered a bill for £2,000. Hassan's client ledger shows a balance of £3,000 (client side). What must the firm do to transfer the £2,000 to office account?",
+        "options": {
+          "A": "Transfer £2,000 directly — no notification to Hassan is required once a bill is delivered",
+          "B": "Transfer £2,000 under rule 4.3 promptly after delivering the bill; give Hassan notice of the transfer if the bill is not paid",
+          "C": "Obtain Hassan's prior written consent before any transfer from client account",
+          "D": "Apply to the SRA for permission to make the transfer"
+        },
+        "correct": "B",
+        "explanation": "SRA Accounts Rules 2019 rule 4.3 permits a firm to transfer from client to office account the amount of costs once a bill has been given or a written notification of costs has been provided. The transfer should be made promptly. No prior written consent from the client is required — the right to payment arises on delivery of the bill. However, the firm should give the client clear information about costs and the transfer. The remaining £1,000 stays in client account as it still belongs to Hassan.",
+        "card_refs": [
+          "SA-C035"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-036",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Disbursements — VAT",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier pays a barrister's fee of £1,000 plus VAT (£200) on behalf of James Ashworth. The firm is VAT registered. What is the correct accounting treatment for the VAT?",
+        "options": {
+          "A": "The full £1,200 is a disbursement — all paid from client account",
+          "B": "£1,000 is a disbursement from client account; £200 VAT is an office expense",
+          "C": "The firm reclaims the £200 VAT as input tax; £1,000 is charged to the client",
+          "D": "Whether VAT is a disbursement or a firm expense depends on VAT treatment: if the firm is the principal for VAT purposes, the £200 is a firm cost; if the firm acts as agent, the £1,200 is a disbursement"
+        },
+        "correct": "D",
+        "explanation": "The VAT treatment of disbursements depends on whether the firm is acting as principal or agent. Where the firm is agent (the expense is the client's direct liability — e.g. court fees, barrister's fees where the client directly instructed), the full amount including VAT is a disbursement paid from client account and passed on to the client as a disbursement on the bill. Where the firm is principal (the expense is the firm's own liability), the VAT is the firm's input tax and only the net amount is billed to the client. Barrister's fees instructed by the firm on behalf of the client are typically treated as disbursements with the full amount from client account.",
+        "card_refs": [
+          "SA-C036"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-037",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Client Account — Designated Accounts",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is holding £500,000 for Ashworth Developments Ltd in connection with a large property transaction expected to complete in 3 months. Should the firm open a designated client account?",
+        "options": {
+          "A": "Yes — a designated account is mandatory for any sum exceeding £50,000",
+          "B": "No — all client money can be held in the general client account",
+          "C": "Yes — a designated client account is required where a client requests it or where the firm considers it necessary to safeguard the client's interests given the amount and duration",
+          "D": "No — designated accounts are only required for sums held for longer than 12 months"
+        },
+        "correct": "C",
+        "explanation": "SRA Accounts Rules 2019 rule 7 requires firms to consider whether interest should be paid and on what basis. A designated (or separate) client account is one held in the client's name, generating interest specifically for that client. The firm must consider whether a separate account is needed based on the amount held, the length of time it will be held, and the client's interests. £500,000 held for 3 months would typically generate material interest — the firm should open a designated account or pay the client a sum equivalent to interest. There is no fixed monetary threshold in the Rules.",
+        "card_refs": [
+          "SA-C037"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-038",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Interest — Rule 7",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier holds £50,000 for Ravi Sharma in client account for 4 months. The firm pays no interest. What is the position under the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "The firm has no obligation to pay interest on client money",
+          "B": "The firm must pay interest to Ravi if it is fair and reasonable to do so in all the circumstances — the amount and period are factors in this assessment",
+          "C": "The firm must automatically pay the Bank of England base rate on all client money",
+          "D": "Interest is only payable if Ravi makes a specific written demand"
+        },
+        "correct": "B",
+        "explanation": "SRA Accounts Rules 2019 rule 7 requires firms to pay clients a fair sum in lieu of interest or to account for actual interest earned. Whether a payment is required depends on whether it is fair and reasonable in the circumstances — relevant factors include the amount held, the length of time held, and the prevailing interest rates. For £50,000 held for 4 months, it would typically be fair and reasonable to pay interest. The firm should have a written policy on interest (rule 7.1). Failure to pay interest where required can amount to misconduct.",
+        "card_refs": [
+          "SA-C038"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-039",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Reconciliation",
+        "subtopic": "Client Account Reconciliation — Rule 8.3",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo as COFA of Crane & Pelletier is reviewing the firm's compliance with SRA Accounts Rules 2019. How frequently must client account reconciliations be carried out?",
+        "options": {
+          "A": "Daily",
+          "B": "Weekly",
+          "C": "At least every 5 weeks",
+          "D": "Monthly"
+        },
+        "correct": "C",
+        "explanation": "SRA Accounts Rules 2019 rule 8.3 requires the COFA (Compliance Officer for Finance and Administration) to ensure that client account reconciliations are carried out at least every 5 weeks. The reconciliation compares the firm's client ledger balances with the actual bank statement balances. The 5-week maximum interval ensures prompt identification of discrepancies, shortfalls, or errors. A daily or weekly reconciliation is good practice but the minimum required by the Rules is 5 weeks.",
+        "card_refs": [
+          "SA-C039"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-040",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Reconciliation",
+        "subtopic": "Reconciliation — Shortfall",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier's client account reconciliation shows that the total client ledger balances are £200,000 but the bank statement shows only £195,000. What is this and what must the firm do?",
+        "options": {
+          "A": "A credit balance — the firm can recover the excess from clients' matters",
+          "B": "A client account shortfall — the firm must immediately pay in monies from office account to make good the shortfall and investigate the cause",
+          "C": "A timing difference — the firm should wait for outstanding transactions to clear",
+          "D": "A reconciliation error — the firm should adjust the ledger balances"
+        },
+        "correct": "B",
+        "explanation": "A shortfall arises where the bank balance is less than the total of client ledger balances — the firm does not hold sufficient money to meet all its obligations to clients. Under SRA Accounts Rules 2019 rule 6.1, a firm must ensure that office money is not used to make payments out of client account — and where a shortfall arises, it must be remedied immediately by topping up the client account from the firm's own office funds. The cause must be investigated. A shortfall may indicate misappropriation, dishonesty, or accounting error — serious regulatory breaches.",
+        "card_refs": [
+          "SA-C040"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-041",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Mixed Receipts — Rule 4.1",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives a cheque for £5,000 from a client comprising £3,000 fees (billed) and £2,000 on account of anticipated disbursements. How should the cheque be allocated?",
+        "options": {
+          "A": "The whole £5,000 must go into client account",
+          "B": "The whole £5,000 must go into office account",
+          "C": "£3,000 goes to office account (billed fees); £2,000 goes to client account (on account of disbursements); or the whole cheque can be banked into client account and £3,000 promptly transferred to office",
+          "D": "The cheque must be split into two separate payments before banking"
+        },
+        "correct": "C",
+        "explanation": "SRA Accounts Rules 2019 rule 4.1 deals with mixed receipts. A mixed payment contains both office money (the billed fees) and client money (the disbursement on account). The firm can either: (1) split the payment — £3,000 to office, £2,000 to client account; or (2) pay the whole into client account and promptly (within 14 days under old rules, as soon as practicable under 2019 rules) transfer the office element (£3,000) out. The client money element (£2,000) must not be paid directly into office account.",
+        "card_refs": [
+          "SA-C041"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-042",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Residual Balances — Rule 2.5",
+        "difficulty": "Application",
+        "stem": "After completing Hassan Nazari's conveyancing, Crane & Pelletier cannot return £75 remaining in client account to Hassan as he cannot be located. What options does the firm have under the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "Transfer the £75 to office account immediately as the matter is complete",
+          "B": "Hold the £75 indefinitely in client account until Hassan is found",
+          "C": "After reasonable attempts to return the money and a reasonable time has passed, the firm can apply to the SRA for permission to withdraw the residual balance, or donate it to a charity with the SRA's agreement",
+          "D": "Pay the £75 to the Legal Aid Agency as unclaimed client funds"
+        },
+        "correct": "C",
+        "explanation": "Rule 2.5 of the SRA Accounts Rules 2019 addresses residual balances. A firm cannot simply transfer unclaimed client money to office account. After making all reasonable attempts to return the money to the client (documented searches, letters, etc.), and after a reasonable period, the firm should contact the SRA for guidance. The SRA may give permission to withdraw the balance or direct it to a charity. The firm must keep records of all steps taken. Simply leaving the money in client account indefinitely or transferring to office are not compliant approaches.",
+        "card_refs": [
+          "SA-C042"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-043",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Third Party Managed Accounts",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is considering using a third-party managed account (TPMA) for one client's matter rather than its own client account. What rule governs this and what does the client need to know?",
+        "options": {
+          "A": "TPMAs are not permitted under SRA Accounts Rules 2019",
+          "B": "Rule 11 permits the use of a TPMA with the client's prior informed consent; the client must be told they are no longer protected by the firm's client account safeguards",
+          "C": "TPMAs can be used without client consent as they are regulated by the FCA",
+          "D": "Rule 11 permits TPMAs only for sums below £10,000"
+        },
+        "correct": "B",
+        "explanation": "SRA Accounts Rules 2019 rule 11 specifically deals with third-party managed accounts. A firm may hold client money in a TPMA (an account operated by an authorised third party such as a licensed escrow provider) as an alternative to its own client account. The firm must obtain the client's prior written informed consent, explaining that: (1) the money will not be in the firm's client account; (2) the SARS protections (Compensation Fund backstop, SRA oversight) will not apply in the same way; and (3) the risks involved. No monetary threshold applies.",
+        "card_refs": [
+          "SA-C043"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-044",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Duty to Report Breaches — Rule 8",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo as COFA discovers that a fee earner has been using client money to pay office expenses over several months. What must Rachel do?",
+        "options": {
+          "A": "Deal with it internally — dismiss the fee earner and make good the client account",
+          "B": "Report the matter to the SRA promptly as it is a material breach of the SRA Accounts Rules 2019",
+          "C": "Report to the police only — the SRA need not be involved unless criminal proceedings result",
+          "D": "Notify the affected clients only and make good the client account"
+        },
+        "correct": "B",
+        "explanation": "Under SRA Accounts Rules 2019 rule 8.7, the COFA must ensure the firm reports to the SRA any material information about the firm's compliance. SRA Code of Conduct (Firms) paragraph 3.9 requires firms to report to the SRA promptly if they have a reason to suspect that the firm or anyone in it is or has been involved in a serious breach of the regulatory requirements. Using client money to pay office expenses is a serious breach (misappropriation) — it must be reported to the SRA promptly. Internal remediation alone is insufficient. The SRA's Compensation Fund may be implicated.",
+        "card_refs": [
+          "SA-C044"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-045",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Accountant's Report",
+        "difficulty": "Application",
+        "stem": "When must Crane & Pelletier obtain and deliver an accountant's report to the SRA under the SRA Accounts Rules 2019?",
+        "options": {
+          "A": "Annually — regardless of the level of client money held",
+          "B": "Only if the SRA specifically requests one",
+          "C": "The firm must obtain an accountant's report for each accounting period if it holds or receives client money; it must be delivered to the SRA if qualified (containing a finding)",
+          "D": "The accountant's report is no longer required under the 2019 rules"
+        },
+        "correct": "C",
+        "explanation": "Under SRA Accounts Rules 2019 rule 12, a firm that has, or has had in the accounting period, an obligation to hold client money must obtain an accountant's report for that period. The report is prepared by a qualified accountant (Reporting Accountant) and must be delivered to the SRA only if it is 'qualified' — i.e. it contains a finding of a material breach or departure from the rules. An unqualified report is retained by the firm but need not be delivered to the SRA. This is a significant change from the pre-2019 regime of mandatory annual delivery.",
+        "card_refs": [
+          "SA-C045"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-046",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Ledger Entries — Completion Statement",
+        "difficulty": "Complex",
+        "stem": "On completion of a residential property purchase for Victoria Ashworth, Crane & Pelletier transfers £400,000 to the seller's solicitors. Victoria had paid £400,000 into the firm's client account. What are the completion ledger entries?",
+        "options": {
+          "A": "DR Victoria Ashworth client ledger (client side) £400,000; CR Cash account (client) £400,000",
+          "B": "DR Cash account (client) £400,000; CR Victoria Ashworth client ledger (client side) £400,000",
+          "C": "DR Victoria Ashworth office ledger £400,000; CR Cash account (office) £400,000",
+          "D": "No entries needed — transfers between clients' accounts are netting transactions"
+        },
+        "correct": "A",
+        "explanation": "At completion, client money is paid out of client account to the seller's solicitors. The accounting entries record: (1) the DR on Victoria's client ledger — DR Victoria Ashworth client ledger (client side) £400,000 — reduces the firm's liability to Victoria (the firm owes Victoria less money); and (2) the CR on the cash account — CR Cash account (client) £400,000 — reduces the client bank balance as the money leaves the firm's client bank account. Convention: on the client account, the client ledger is treated as a liability account (the firm owes the client); DR = liability decreases; CR = liability increases. The cash account is an asset account: DR = increases; CR = decreases.",
+        "card_refs": [
+          "SA-C046"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-047",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Withdrawals from Client Account",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is a solicitor and sole principal of Crane & Pelletier. He wishes to make a withdrawal from client account to pay a personal debt. What is the position?",
+        "options": {
+          "A": "Permitted — as sole principal he has authority over the firm's accounts",
+          "B": "Not permitted — client money can only be withdrawn to make payments to or on behalf of the client, to pay professional disbursements, or to transfer to office account for earned fees",
+          "C": "Permitted with the agreement of the COFA",
+          "D": "Permitted if the amount is less than £500 and repaid within 7 days"
+        },
+        "correct": "B",
+        "explanation": "SRA Accounts Rules 2019 rule 5.1 specifies the permitted purposes for which client money may be withdrawn from client account: to pay it to or on behalf of the client; to carry out the client's instructions; to pay disbursements on behalf of the client; or to transfer to office account for earned fees after billing. Withdrawing client money for personal debts is not a permitted purpose — it is misappropriation of client funds, a serious regulatory breach that may constitute dishonesty. Gerald's status as principal provides no authority for this.",
+        "card_refs": [
+          "SA-C047"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-048",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Petty Cash — Office Expenses",
+        "difficulty": "Foundation",
+        "stem": "Crane & Pelletier needs to pay a £15 photocopying charge for James Ashworth's matter. The charge is on the firm's list of agreed disbursements to be recovered from the client. Where should this be recorded?",
+        "options": {
+          "A": "Paid from client account as a disbursement on James's behalf",
+          "B": "Paid from office account as an office expense — then billed to James on the final invoice",
+          "C": "Paid from petty cash and reimbursed from client account",
+          "D": "Not charged to the client — photocopying is not a recoverable disbursement"
+        },
+        "correct": "B",
+        "explanation": "Office expenses (including photocopying, printing, and similar overheads) are incurred by the firm and billed to the client as part of the fee or as a recoverable expense on the bill. They are paid from office account — not client account. Client account is only used for money belonging to the client or held on behalf of the client for specific purposes. The firm incurs the photocopying cost, pays from office funds, and recovers it on the bill. Paying from client account for the firm's own expenses would be using client money for office purposes — a breach of the Rules.",
+        "card_refs": [
+          "SA-C048"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-049",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Who Can Operate Client Account — Rule 8.1",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier employs a non-solicitor accounts manager to sign client account cheques. The manager is not regulated by the SRA. Is this permissible?",
+        "options": {
+          "A": "No — only solicitors can sign client account cheques",
+          "B": "Yes — any employee can operate client account if authorised by the firm",
+          "C": "Yes — non-solicitor managers can operate client account provided appropriate supervision and oversight are in place, and the firm's principals remain responsible",
+          "D": "No — the COFA must personally authorise every client account transaction"
+        },
+        "correct": "C",
+        "explanation": "SRA Accounts Rules 2019 do not restrict who may operate client account to qualified solicitors. Rule 8.1 provides that the authorised body (the firm) must ensure its client account is operated properly. Non-solicitor staff can operate client accounts under appropriate supervision. The firm's managers and the COFA remain responsible for compliance. Adequate supervision, clear authorisation protocols, and oversight are key. The firm's principals and the COFA have personal regulatory responsibility even when day-to-day operations are delegated.",
+        "card_refs": [
+          "SA-C049"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-050",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Money Laundering — Interaction with Accounts Rules",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier receives £100,000 cash from a new client for a property purchase. The source of funds cannot be verified. What should the firm do?",
+        "options": {
+          "A": "Accept the funds into client account — the SRA Accounts Rules 2019 does not prohibit cash receipts",
+          "B": "Refuse to accept the funds and report a suspicious activity report (SAR) to the National Crime Agency if there is suspicion of money laundering",
+          "C": "Accept the funds but limit any transaction to £10,000",
+          "D": "Request a signed declaration from the client about the source of funds before accepting"
+        },
+        "correct": "B",
+        "explanation": "The Proceeds of Crime Act 2002 and Money Laundering, Terrorist Financing and Transfer of Funds Regulations 2017 impose obligations on law firms. Large cash receipts (particularly in property transactions) are a high-risk indicator of money laundering. If the firm suspects the money may represent the proceeds of crime, it must not proceed (tipping off prohibition) and must submit a Suspicious Activity Report (SAR) to the National Crime Agency. Accepting the funds could constitute money laundering under POCA 2002 ss.327-329. The SRA Accounts Rules cannot override the criminal law obligations.",
+        "card_refs": [
+          "SA-C050"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-051",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Bill of Costs — Delivery and Entries",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier delivers a final bill to Pat Hollowell for £4,000 plus VAT (£800). What are the correct ledger entries on delivery of the bill?",
+        "options": {
+          "A": "DR Pat Hollowell office ledger £4,800; CR Office costs £4,000; CR VAT account £800",
+          "B": "DR Cash account (office) £4,800; CR Pat Hollowell office ledger £4,800",
+          "C": "DR Pat Hollowell client ledger £4,800; CR Client account £4,800",
+          "D": "No entries until the bill is paid"
+        },
+        "correct": "A",
+        "explanation": "On delivery of the bill (before payment), the firm records the debt owed by the client. The correct double-entry is: DR Pat Hollowell office ledger £4,800 (the debtor account — Pat now owes the firm money); CR Office costs (income) £4,000 (recognising the fee income); CR VAT account £800 (recognising the VAT liability to HMRC). When Pat pays, the entry is: DR Cash account (office) £4,800; CR Pat Hollowell office ledger £4,800 (settling the debt). The bill creates a debt — entries are in the office ledger, not client account.",
+        "card_refs": [
+          "SA-C051"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-052",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Advance Costs Payments — Unearned Costs",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives a £10,000 payment on account from Victoria Ashworth at the start of a matter. The firm later terminates the retainer having done £6,000 of work (billed). What happens to the remaining £4,000?",
+        "options": {
+          "A": "The firm retains the full £10,000 as reasonable costs",
+          "B": "The £4,000 unearned balance must be returned to Victoria from client account",
+          "C": "The £4,000 can be retained in client account indefinitely",
+          "D": "The firm can apply £4,000 to any other matter for Victoria"
+        },
+        "correct": "B",
+        "explanation": "A payment on account is client money held on trust for the client. Once billed and earned, £6,000 can be transferred to office account under rule 4.3. The remaining £4,000 remains client money and must be returned to Victoria. The firm cannot retain unearned client money after termination of the retainer. This is client money held for a purpose that no longer exists — it must be returned promptly under rule 1.2 (client money belongs to the client). Retention would be misappropriation.",
+        "card_refs": [
+          "SA-C052"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-053",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Holding Money as Stakeholder vs. Agent",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier holds a deposit of £50,000 as stakeholder in a property transaction for Ashworth Developments Ltd (buyer) and the seller. The transaction falls through. What is the stakeholder's position?",
+        "options": {
+          "A": "The stakeholder returns the deposit to the buyer as it is their money",
+          "B": "The stakeholder pays the deposit to the seller as it is earnest money",
+          "C": "As stakeholder, the firm holds the deposit for whoever becomes entitled under the contract; it cannot release the deposit without agreement from both parties or a court order",
+          "D": "The stakeholder is free to return the deposit to whichever party it considers most deserving"
+        },
+        "correct": "C",
+        "explanation": "A stakeholder holds money on behalf of both parties to a transaction — they are neutral custodians. Unlike an agent (who holds for the principal alone), a stakeholder cannot release the deposit without either (1) agreement from both parties; or (2) a court order determining entitlement. If the transaction falls through, there will often be a contractual dispute about whether the buyer or seller is entitled to the deposit (e.g. whether there has been a breach by buyer or seller). The stakeholder must not take sides. Releasing to one party without agreement or court order would be a breach of duty.",
+        "card_refs": [
+          "SA-C053"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-054",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Controlled Trusts",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is a trustee of the Hollowell Family Trust and uses Crane & Pelletier to administer the trust. The trust holds funds in a bank account. Do the SRA Accounts Rules 2019 apply to these trust funds?",
+        "options": {
+          "A": "No — trust funds are governed by trust law, not the SRA Accounts Rules",
+          "B": "Yes — money held by a solicitor in their capacity as trustee in a controlled trust is subject to the SRA Accounts Rules 2019",
+          "C": "No — only money received in the course of legal practice is regulated",
+          "D": "Yes — but only if the trust funds are commingled with client account money"
+        },
+        "correct": "B",
+        "explanation": "Under the SRA Accounts Rules 2019, a 'controlled trust' is a trust of which the solicitor (alone or with others) is a trustee and has control or co-control of the trust money. Money held by a solicitor as trustee in a controlled trust is treated as client money for the purposes of the Rules. It must therefore be held in the client account (or a designated account) and the full protections of the Rules apply. This ensures trust money held by solicitor-trustees has the same safeguards as other client money.",
+        "card_refs": [
+          "SA-C054"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-055",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Financial Crime — Tipping Off",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo submits a SAR to the NCA regarding suspicious funds held for James Ashworth. Before consent is received from the NCA, James calls demanding the funds be released. What must Rachel do?",
+        "options": {
+          "A": "Release the funds — the client has an absolute right to their money",
+          "B": "Obtain a defence against money laundering (DAML) consent from the NCA before releasing the funds; do not tip off James that a SAR has been submitted",
+          "C": "Tell James a SAR has been submitted and await his response",
+          "D": "Release the funds but note the suspicious activity on file"
+        },
+        "correct": "B",
+        "explanation": "Where a solicitor submits a SAR, POCA 2002 s.335 requires the solicitor to obtain consent from the NCA (or wait for the 7-day 'moratorium period' plus any further extension) before proceeding with the transaction. Proceeding without consent could constitute money laundering. Critically, POCA 2002 s.333A prohibits 'tipping off' — telling James that a SAR has been submitted (or that the NCA has been notified) could alert him to the investigation, which is a criminal offence. Rachel must give an innocent explanation for any delay (e.g. internal compliance procedures) without disclosing the SAR.",
+        "card_refs": [
+          "SA-C055"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-056",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Ledger — Receipts and Payments",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives a bank transfer of £15,000 from a third party (not the client) for a personal injury settlement on behalf of Diana Pelletier. What is the correct first entry?",
+        "options": {
+          "A": "DR Cash account (office) £15,000; CR Office income £15,000",
+          "B": "DR Cash account (client) £15,000; CR Diana Pelletier client ledger (client side) £15,000",
+          "C": "DR Diana Pelletier client ledger (client side) £15,000; CR Cash account (client) £15,000",
+          "D": "DR Cash account (client) £15,000; CR Third party account £15,000"
+        },
+        "correct": "B",
+        "explanation": "Settlement money received from a third party for a client's benefit is client money — it belongs to Diana, not the firm. The correct entries record receipt into client account: DR Cash account (client) £15,000 (the firm's client bank balance increases) and CR Diana Pelletier client ledger (client side) £15,000 (recording that the firm now owes Diana £15,000 from client account). The DR/CR convention in legal accounts records the cash account as an asset (DR = increase); the client ledger as a liability (CR = increase in what the firm owes).",
+        "card_refs": [
+          "SA-C056"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-057",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Overcharging — Professional Conduct",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier bills Donna Pearce £10,000 for a straightforward will that took 2 hours to draft. The partner in charge knows the fee is significantly above the market rate. What is the principal professional conduct concern?",
+        "options": {
+          "A": "Overcharging is permitted where the client has agreed the fee in advance",
+          "B": "The firm must ensure its costs are fair and reasonable; a clearly excessive fee may breach the SRA Code of Conduct requirement to act in the client's best interests and to behave with integrity",
+          "C": "Overcharging is a matter for the client to challenge through the Legal Ombudsman only — it does not engage professional conduct",
+          "D": "The fee is valid provided a bill is delivered and a costs information letter was sent"
+        },
+        "correct": "B",
+        "explanation": "SRA Principle 2 requires solicitors to uphold public trust and confidence in the profession. SRA Principle 5 requires solicitors to act with integrity. Charging a manifestly excessive fee for simple work raises conduct concerns under: Principle 7 (failing to act in the client's best interests); Principle 5 (lack of integrity); and para 1.2 (taking unfair advantage of the client). The duty to provide transparent costs information is also reinforced by para 8.6 of the Code. The client can challenge through the Legal Ombudsman and can apply for a detailed assessment of the bill. The solicitor may face regulatory investigation.",
+        "card_refs": [
+          "SA-C057"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-058",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "COFA — Role and Responsibilities",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is appointed as COFA of Crane & Pelletier. What are her primary responsibilities under the SRA's regulatory framework?",
+        "options": {
+          "A": "To personally sign off every client account transaction",
+          "B": "To ensure the firm's compliance with the SRA Accounts Rules 2019; to record and report to the SRA any material breaches; and to take appropriate action to remedy compliance failures",
+          "C": "To maintain the firm's client account in her personal name",
+          "D": "To conduct the annual accountant's report personally"
+        },
+        "correct": "B",
+        "explanation": "The COFA (Compliance Officer for Finance and Administration) is appointed under SRA Authorisation of Firms Rules rule 9. The COFA must: (1) ensure the firm's compliance with the SRA Accounts Rules 2019 and any conditions attached to the firm's authorisation; (2) record all failures to comply with the Rules; and (3) report promptly to the SRA any material breaches. The COFA need not personally sign every transaction — the role is oversight and compliance. The COFA is personally responsible for these obligations and can face regulatory sanction if they fail to discharge them.",
+        "card_refs": [
+          "SA-C058"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-059",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Solicitor not Holding Client Money",
+        "difficulty": "Foundation",
+        "stem": "Crane & Pelletier is a litigation firm that never holds client money — all costs are paid in advance and all damages are paid directly to clients by third parties. Must the firm maintain a client account?",
+        "options": {
+          "A": "Yes — all SRA-regulated firms must maintain a client account",
+          "B": "No — a firm that never holds client money is not required to maintain a client account, though it must have a written policy and procedures in place",
+          "C": "No — firms can opt out of the SRA Accounts Rules entirely if they wish",
+          "D": "Yes — the firm may receive client money unexpectedly and must be prepared"
+        },
+        "correct": "B",
+        "explanation": "The SRA Accounts Rules 2019 apply to firms that hold or receive client money. A firm that has a client money avoidance policy (confirmed by rule 2.2 exceptions and specific practice management) and genuinely never holds client money does not need to maintain a client account. The firm must have clear procedures and a policy confirming this approach, and must be able to demonstrate compliance. If the firm unexpectedly receives client money, it must bank it promptly in a client account (which may need to be opened). This position is specifically acknowledged in the SRA's guidance to the 2019 Rules.",
+        "card_refs": [
+          "SA-C059"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-060",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Professional Conduct",
+        "subtopic": "Costs Information — Professional Conduct",
+        "difficulty": "Application",
+        "stem": "Gerald Crane takes on a new client matter for Alek Kowalski but gives no information about costs at the outset, then delivers a bill for £8,000 without prior warning. Which SRA obligation has Gerald breached?",
+        "options": {
+          "A": "SRA Code of Conduct paragraph 8.6 — solicitors must give clients the best possible information about costs at the outset and as the matter progresses",
+          "B": "None — costs information is only required for publicly funded work",
+          "C": "The Legal Aid, Sentencing and Punishment of Offenders Act 2012",
+          "D": "The Consumer Rights Act 2015 — costs must be agreed in advance as a term"
+        },
+        "correct": "A",
+        "explanation": "SRA Code of Conduct for Solicitors (2019) paragraph 8.6 requires that solicitors give clients the best possible information about likely overall costs (and how they are calculated) at the outset and updates as the matter progresses. This is reinforced by the SRA Transparency Rules and Principle 5 (integrity), which together require honest and clear communication about costs. Failing to give any costs information before delivering an unexpectedly large bill breaches these obligations, may entitle the client to challenge the bill (detailed assessment), and can result in a complaint to the Legal Ombudsman and SRA investigation.",
+        "card_refs": [
+          "SA-C060"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-061",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Crane & Pelletier — Property Transaction Receipts",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier acts for Ravi Sharma purchasing a flat. On the day of exchange, the firm receives £25,000 deposit from Ravi and simultaneously pays a 10% deposit of £35,000 to the seller's solicitors (the firm had bridged the gap from office funds). What is the correct accounting sequence?",
+        "options": {
+          "A": "DR Cash (client) £25,000; CR Ravi client ledger £25,000; then DR Ravi client ledger £35,000; CR Cash (client) £35,000; and separately record the office bridging",
+          "B": "DR Cash (office) £25,000; CR Ravi office ledger £25,000; pay deposit from client account",
+          "C": "Receive the £25,000 into office account; pay the £35,000 from client account; reconcile on completion",
+          "D": "No accounting entries until completion"
+        },
+        "correct": "A",
+        "explanation": "Ravi's £25,000 is client money — it must go into client account: DR Cash (client) £25,000; CR Ravi client ledger £25,000. The £35,000 deposit paid to the seller's solicitors is also client money being paid out: DR Ravi client ledger £35,000; CR Cash (client) £35,000 (noting the client account is overdrawn for Ravi's matter by £10,000). The £10,000 shortfall bridged from office funds must be recorded separately (DR Cash (client) £10,000; CR Cash (office) £10,000 — recording office money transferred in to cover the client account shortfall, with a corresponding entry: DR Ravi client ledger (client side) £10,000; CR Cash (client) £10,000 when that bridged amount is applied to the matter) and recovered on completion. Using office money to fund a client account shortfall must be temporary and recorded.",
+        "card_refs": [
+          "SA-C061"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-062",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Crane & Pelletier — Completion Accounting",
+        "difficulty": "Complex",
+        "stem": "On completion of Diana Pelletier's property sale (price £300,000), Crane & Pelletier receives the balance from the buyer's solicitors. Diana's client ledger shows: mortgage redemption £180,000; estate agent fees £9,000; Crane & Pelletier costs £3,000 + VAT £600. After paying these, what balance is returned to Diana?",
+        "options": {
+          "A": "£107,400",
+          "B": "£108,000",
+          "C": "£107,000",
+          "D": "£109,000"
+        },
+        "correct": "A",
+        "explanation": "Sale proceeds: £300,000. Deductions: mortgage redemption £180,000; estate agent fees £9,000; Crane & Pelletier costs £3,000 + VAT £600 = £3,600. Total deductions: £180,000 + £9,000 + £3,600 = £192,600. Balance to Diana: £300,000 - £192,600 = £107,400. The VAT on the firm's costs must be included in the deduction as it is payable by Diana. The firm transfers £3,600 from client to office account (under rule 4.3) and returns the £107,400 balance to Diana from client account.",
+        "card_refs": [
+          "SA-C062"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-063",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Conveyancing — Mortgage Advance Before Completion",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier acts for Hassan Nazari buying a flat for £280,000. The lender sends the mortgage advance of £210,000 to the firm two days before the completion date. Where must this money be held, and can the firm treat it as available for the client's other matters?",
+        "options": {
+          "A": "In client account; it is client money and must not be used for other matters — it must be held specifically for the completion of Hassan's purchase",
+          "B": "In office account; it is the lender's money until completion",
+          "C": "In a designated separate account in the lender's name as it belongs to the lender",
+          "D": "In client account; the firm can use it for other client matters until the day of completion"
+        },
+        "correct": "A",
+        "explanation": "The mortgage advance is client money (SRA Accounts Rules 2019 rule 2.1 — money received from or on behalf of a client in connection with legal services). It must be placed in the client account on receipt. It belongs specifically to Hassan's transaction and must not be used to fund other matters. Using it for other purposes would be a misuse of client money. The firm must treat it as ring-fenced for the completion it was sent to fund.",
+        "card_refs": [
+          "SA-C063"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-064",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Abortive Transaction — Accounting Treatment",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier instructs Crane & Pelletier on a property purchase. She pays £3,000 on account. The purchase falls through. The firm has done £1,200 of work (billed). The SDLT search fee of £250 was paid from client account. What is the correct accounting on closing the matter?",
+        "options": {
+          "A": "Transfer £1,200 to office account for earned fees; return £1,550 (£3,000 − £1,200 − £250 search fee) to Diana from client account",
+          "B": "Return the full £3,000 to Diana; the firm absorbs the abortive costs",
+          "C": "Transfer £1,450 to office account (fees + search fee); return £1,550 to Diana",
+          "D": "Retain the full £3,000 until Diana agrees the final bill"
+        },
+        "correct": "A",
+        "explanation": "On an abortive transaction the firm bills for work done (£1,200) and transfers that sum from client to office account under rule 4.3. The search fee of £250 was a disbursement already paid from client account — that is already spent. The remaining balance (£3,000 − £1,200 billed fees − £250 already disbursed = £1,550) is unearned client money and must be returned to Diana promptly. The firm cannot retain unearned money. The search fee does not go to office account — it was paid out of client account already.",
+        "card_refs": [
+          "SA-C064"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-065",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Debit Balance on Client Ledger",
+        "difficulty": "Complex",
+        "stem": "After completing a conveyancing matter for James Ashworth, Crane & Pelletier's client ledger for James shows a debit balance of £500 (client side). What does this mean and what must the firm do?",
+        "options": {
+          "A": "A debit balance on the client side means the firm has paid out £500 more than it held for James — this is a breach of the Rules; the firm must immediately remedy the shortfall by transferring £500 from office to client account",
+          "B": "A debit balance on the client side is normal — it shows money owed to James",
+          "C": "A debit balance means James owes the firm £500 in fees",
+          "D": "A debit balance arises when the client overpays; the £500 should be transferred to office account"
+        },
+        "correct": "A",
+        "explanation": "On the client side of the client ledger, a debit balance means the firm has paid out more from client account than it received for that client — the firm has used another client's money to fund James's matter (a breach of rule 6.1) or there has been an accounting error. A debit balance on the client side is always a red flag and constitutes a breach of the SRA Accounts Rules 2019. The firm must immediately pay in sufficient office funds to eliminate the debit balance and investigate the cause. It cannot simply leave a debit balance uncorrected.",
+        "card_refs": [
+          "SA-C065"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-066",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Damages Receipt — Personal Injury Matter",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier recovers £60,000 damages for Marcus Bridgewater in a personal injury claim. The cheque is made payable to Crane & Pelletier. The firm's costs are £8,000 + VAT (£1,600). After deducting costs, how should the balance be handled and what are the entries?",
+        "options": {
+          "A": "Bank the full £60,000 into client account; transfer £9,600 (costs + VAT) to office account after delivering the bill; pay the remaining £50,400 to Marcus from client account",
+          "B": "Bank the full £60,000 into office account; pay Marcus the net balance",
+          "C": "Bank £9,600 into office account and £50,400 into client account simultaneously",
+          "D": "Bank the full £60,000 into client account; pay Marcus in full; send a separate bill for costs"
+        },
+        "correct": "A",
+        "explanation": "Damages received on behalf of a client are client money — the entire £60,000 must be banked into client account: DR Cash (client) £60,000; CR Marcus client ledger (client side) £60,000. After delivering the bill for £9,600 (fees + VAT), the firm transfers £9,600 to office account under rule 4.3: DR Marcus client ledger (client side) £9,600; CR Cash (client) £9,600; DR Cash (office) £9,600; CR Marcus office ledger £9,600. The remaining £50,400 is paid to Marcus: DR Marcus client ledger (client side) £50,400; CR Cash (client) £50,400.",
+        "card_refs": [
+          "SA-C066"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-067",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Bill Reduction — Credit Note Accounting",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier delivers a bill to Victoria Ashworth for £5,000 + VAT (£1,000). Victoria complains and the firm agrees to reduce the bill by £1,000 + VAT (£200). What is the correct accounting treatment for the reduction?",
+        "options": {
+          "A": "Issue a credit note for £1,200; DR Office costs £1,000; DR VAT account £200; CR Victoria Ashworth office ledger £1,200",
+          "B": "Transfer £1,200 from office to client account as a refund",
+          "C": "Reduce the bill retrospectively with no accounting entry needed",
+          "D": "Issue a new bill for £4,000 + VAT (£800) and cancel the original"
+        },
+        "correct": "A",
+        "explanation": "When a firm reduces a bill by agreement, it issues a credit note. The credit note reverses part of the income recognised: DR Office costs (income) £1,000 (reducing income); DR VAT account £200 (reducing VAT liability as less is now owed to HMRC); CR Victoria Ashworth office ledger £1,200 (reducing the debt Victoria owes). The net bill is now £4,000 + VAT £800 = £4,800. If Victoria has already paid the full £6,000, the £1,200 credit must be refunded to her — this would involve a transfer from office to client account and then payment to Victoria.",
+        "card_refs": [
+          "SA-C067"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-068",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Electronic Transfers — Same-Day Payments",
+        "difficulty": "Foundation",
+        "stem": "Crane & Pelletier needs to send £350,000 completion funds to a seller's solicitors by 1pm on completion day. The firm has the funds in its client account. Which payment method should the firm use and why?",
+        "options": {
+          "A": "Faster Payments — it is free and works for all amounts",
+          "B": "A cheque — to create a clear paper trail for audit purposes",
+          "C": "CHAPS (Clearing House Automated Payment System) — it guarantees same-day settlement and is suitable for large, time-critical property transactions",
+          "D": "BACS — it is the standard method for large solicitor payments"
+        },
+        "correct": "C",
+        "explanation": "CHAPS is the appropriate method for large, time-critical payments such as completion funds in property transactions. CHAPS guarantees same-day settlement (provided payment is initiated before the bank's cut-off time — typically mid-afternoon). Faster Payments handles amounts up to £1 million for most banks but is near-instant and suitable where certainty of delivery is required; however, CHAPS is the industry standard for completion funds due to the guaranteed same-day nature. BACS takes 3 business days and is not suitable. A cheque would take several days to clear. The firm must ensure the payment reaches the recipient's client account on completion day.",
+        "card_refs": [
+          "SA-C068"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-069",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Office Money Paid into Client Account in Error",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier accidentally pays a cheque for £2,000 (which is office money — payment from the firm's own insurer for a professional indemnity claim) into its client account. What must the firm do?",
+        "options": {
+          "A": "Leave the money in client account — it makes no difference which account it is in",
+          "B": "Apply the £2,000 to the nearest client matter with a similar balance",
+          "C": "Notify the SRA immediately as this constitutes a breach requiring mandatory reporting",
+          "D": "Transfer the £2,000 from client account to office account as promptly as possible, documenting the error"
+        },
+        "correct": "D",
+        "explanation": "Under SRA Accounts Rules 2019 rule 2.4, a firm must not use the client account to provide banking facilities to clients, and office money must not remain in client account. When office money is accidentally paid into client account, it must be transferred out as soon as the error is identified. Rule 6.3 specifically permits withdrawal from client account of money that was not client money but was paid in by mistake. The firm should document the error and the correction. A single accidental error, promptly corrected, is unlikely to require mandatory SRA reporting, though it should be recorded in the COFA's compliance log.",
+        "card_refs": [
+          "SA-C069"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-070",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Acting for Buyer and Lender — Accounting",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier acts for both Rachel Okonkwo (buyer) and her mortgage lender. The purchase price is £200,000. Rachel pays a £40,000 deposit from her own funds. The lender sends the £160,000 mortgage advance. On completion, the full £200,000 is sent to the seller. How many client ledger accounts does the firm maintain?",
+        "options": {
+          "A": "One — for Rachel only, as the lender's funds are treated as Rachel's money",
+          "B": "One — for the lender only, as the lender is providing the majority of funds",
+          "C": "None — completion funds pass straight through and do not need to be ledgered",
+          "D": "Two — a separate client ledger for Rachel and a separate client ledger for the lender, reflecting their distinct interests"
+        },
+        "correct": "D",
+        "explanation": "When acting for both buyer and lender, the firm must maintain separate client ledger accounts for each client. Rachel's ledger records her £40,000 deposit and the disbursements/costs relating to her. The lender's ledger records receipt of the £160,000 mortgage advance and its payment out on completion. The lender is a separate client with separate interests — it is not simply Rachel's agent. The SRA Accounts Rules require the firm to be able to account separately to each client. This is also required by the Council of Mortgage Lenders (now UK Finance) Lenders' Handbook.",
+        "card_refs": [
+          "SA-C070"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-071",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Crane & Pelletier — Ledger Scenario",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier's client ledger for Marcus Bridgewater shows: Opening balance £0. Receipts: £50,000 (client funds for matter). Payments: court fee £500; barrister fee £2,000; transfer to office (bill paid) £5,000. What is the closing client account balance?",
+        "options": {
+          "A": "£42,500",
+          "B": "£43,000",
+          "C": "£42,000",
+          "D": "£44,500"
+        },
+        "correct": "A",
+        "explanation": "Opening balance: £0. Add receipt: £50,000. Total: £50,000. Less payments: court fee £500 + barrister fee £2,000 + transfer to office £5,000 = £7,500. Closing balance: £50,000 - £7,500 = £42,500. All payments (court fee, barrister fee, and the costs transfer) are legitimate withdrawals from client account in accordance with the SRA Accounts Rules 2019. The court fee and barrister fee are disbursements; the £5,000 is the firm's earned costs properly transferred after billing.",
+        "card_refs": [
+          "SA-C071"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-072",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Completion Ledger — Full Purchase Sequence",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier acts for Ravi Sharma on a purchase for £320,000 (10% deposit £32,000 paid at exchange; mortgage advance £256,000; balance £32,000 from Ravi). Firm costs: £2,400 + VAT £480; SDLT: £9,600; HMLR fee: £270. What is the total required from client account on completion day (excluding the deposit already paid)?",
+        "options": {
+          "A": "£298,750",
+          "B": "£300,750",
+          "C": "£288,000",
+          "D": "£302,370"
+        },
+        "correct": "A",
+        "explanation": "Funds needed on completion day: Balance of purchase price = £320,000 − £32,000 deposit = £288,000. SDLT = £9,600. HMLR fee = £270. Firm costs + VAT = £2,880 (transferred to office account). Total from client account: £288,000 + £9,600 + £270 + £2,880 = £300,750. But wait — the firm costs are paid from client to office account (not to a third party). The amount leaving the client bank account is £288,000 (to seller) + £9,600 (to HMRC SDLT) + £270 (to HMLR) = £298,750. The £2,880 moves to office account as a client-to-office transfer rather than leaving the firm entirely. Total outgoing from client account to external parties: £298,750.",
+        "card_refs": [
+          "SA-C072"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-073",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Prohibition on Banking Facilities — Rule 3.3",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell asks Crane & Pelletier to receive £200,000 into client account and hold it 'for safekeeping' while she considers how to invest it. There is no legal matter involved. What should the firm do?",
+        "options": {
+          "A": "Accept — holding money for clients is a core service for solicitors",
+          "B": "Accept — the money is safe in a regulated client account",
+          "C": "Decline — SRA Accounts Rules 2019 rule 3.3 prohibits firms from using client account to provide banking facilities to clients where there is no legitimate legal service being provided",
+          "D": "Accept but charge a fee to make the arrangement a legitimate legal service"
+        },
+        "correct": "C",
+        "explanation": "SRA Accounts Rules 2019 rule 3.3 explicitly prohibits firms from using their client account to provide banking facilities to clients (or third parties) where there is no legitimate underlying legal matter. Holding £200,000 'for safekeeping' with no associated legal work is using the client account as a bank — this is prohibited regardless of the client's reason. Accepting such deposits exposes the firm to money laundering risk and regulatory sanction. The firm should decline and advise Pat to use a regulated bank or investment firm for safekeeping purposes.",
+        "card_refs": [
+          "SA-C073"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-074",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Mixed Receipt — Office and Client Money",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives a single bank transfer of £7,500 from Alek Kowalski comprising £5,000 billed fees (office money) and £2,500 on account for anticipated disbursements (client money). The payment arrives as a single transfer. Which approach is compliant?",
+        "options": {
+          "A": "Pay the full £7,500 into office account and later transfer £2,500 to client account",
+          "B": "Pay £5,000 into office account and £2,500 into client account simultaneously (split at receipt)",
+          "C": "Ask Alek to send two separate transfers — the Rules prohibit single transfers covering both types of money",
+          "D": "Pay the full £7,500 into client account; transfer £5,000 to office account promptly after receipt; retain £2,500 in client account"
+        },
+        "correct": "D",
+        "explanation": "SRA Accounts Rules 2019 rule 4.1 addresses mixed receipts. Where a single payment contains both office money and client money, the firm has two options: (1) split the payment at receipt — the office element to office account, the client element to client account; or (2) pay the entire mixed receipt into client account and transfer the office element (earned fees) out promptly afterwards. Option B (simultaneous split) is also compliant. Option D is correct and the more common practice. Option A (paying client money into office account) is not permissible — client money cannot go into office account even temporarily.",
+        "card_refs": [
+          "SA-C074"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-075",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Ledger — Service Charge and Ground Rent",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier acts for Clive Dring buying a leasehold flat. On completion, the firm is required to pay the apportioned ground rent of £150 and service charge of £850 to the management company from the funds held. Where should these payments come from and how are they recorded?",
+        "options": {
+          "A": "Both payments are disbursements paid from client account: DR Clive client ledger (client side) £1,000; CR Cash (client) £1,000",
+          "B": "Ground rent is paid from office account; service charge from client account",
+          "C": "Both are paid from office account as they are the firm's liability to the management company",
+          "D": "Both are deducted from the purchase price before it is paid to the seller"
+        },
+        "correct": "A",
+        "explanation": "Apportioned ground rent and service charge on a leasehold purchase are disbursements — payments made on behalf of the client as part of the transaction. They are paid from client account (from the completion funds held for Clive). The ledger entries record the payments out of client account: DR Clive Dring client ledger (client side) £1,000 (reducing the firm's liability to Clive); CR Cash (client) £1,000 (reducing the client bank balance). These are not the firm's liabilities — they are the client's obligations under the lease being transferred, paid by the firm on the client's behalf.",
+        "card_refs": [
+          "SA-C075"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-076",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Client Account — Firm Cannot Charge Bank Charges to Client Account",
+        "difficulty": "Foundation",
+        "stem": "Crane & Pelletier's bank charges the firm £45 for a CHAPS transfer made from client account on behalf of Hassan Nazari. The firm wishes to debit the £45 from Hassan's client ledger. Is this permissible?",
+        "options": {
+          "A": "Yes — the bank charge is a disbursement incurred on Hassan's behalf and can be paid from client account",
+          "B": "Yes — firms can charge all bank fees directly to client account",
+          "C": "No — bank charges on the client account are office costs; they must be paid from office account and then recovered via the firm's bill, not taken directly from client account",
+          "D": "Yes — provided the charge is under £100 and the client has been notified"
+        },
+        "correct": "C",
+        "explanation": "Bank charges on the client account are the firm's own operating costs — they are not disbursements made on behalf of the client. Taking bank charges directly from client account would be using client money to pay the firm's own expenses — a breach of the SRA Accounts Rules 2019 (treating client money as if it were office money). The firm must pay bank charges from office account and may recover them from the client as part of the firm's costs on the bill. The distinction is that a CHAPS fee is the bank's charge to the firm for maintaining and using the client account — it is not a client disbursement.",
+        "card_refs": [
+          "SA-C076"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-077",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Third Party Overpayment — Return of Funds",
+        "difficulty": "Application",
+        "stem": "The buyer's solicitors accidentally send £400,000 instead of £360,000 to Crane & Pelletier's client account on completion of a sale for Victoria Ashworth. The firm spots the error immediately. What should the firm do with the £40,000 overpayment?",
+        "options": {
+          "A": "Return the £40,000 from office account and keep the £40,000 client money as a windfall",
+          "B": "Retain the full £400,000 and ask Victoria to instruct what to do with the surplus",
+          "C": "Return the £40,000 to the buyer's solicitors from client account promptly, as it was received in error and does not belong to Victoria or the firm",
+          "D": "Transfer the £40,000 to the designated client account pending the buyer's solicitors' written request"
+        },
+        "correct": "C",
+        "explanation": "The £40,000 overpayment is not Victoria's money — it was sent in error by the buyer's solicitors. The firm has no entitlement to retain it and it would be wrong to treat it as client money belonging to Victoria (who is only entitled to the agreed sale proceeds). The firm should contact the buyer's solicitors to confirm the error and return the £40,000 from client account promptly. Retaining money received in error amounts to unjust enrichment and would breach rule 1.2 of the SRA Accounts Rules (firm must not retain client money it is not entitled to hold). All of this should be documented.",
+        "card_refs": [
+          "SA-C077"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-078",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "End of Matter — Closing the Ledger",
+        "difficulty": "Application",
+        "stem": "After completing James Ashworth's litigation matter and distributing all funds, Crane & Pelletier notices a credit balance of £22 remaining in client account on James's ledger. James cannot be located by normal means. What are the firm's obligations?",
+        "options": {
+          "A": "Transfer the £22 to office account as the matter is now closed",
+          "B": "Write off the £22 as a minor administrative amount",
+          "C": "Make reasonable efforts to return the £22 to James; if unsuccessful after a reasonable period, comply with the SRA's process for residual balances under rule 2.5, which may involve SRA approval to withdraw and donate to charity",
+          "D": "Hold the £22 in client account indefinitely without further action"
+        },
+        "correct": "C",
+        "explanation": "Rule 2.5 of the SRA Accounts Rules 2019 specifically addresses residual balances. A firm cannot simply transfer unclaimed client money to office account — it remains the client's money. The firm must: (1) take reasonable steps to return the money to the client (letters, searches, Companies House checks); (2) document all steps taken; and (3) if unable to return the money after a reasonable time, contact the SRA. The SRA's guidance allows firms to close a residual balance to office account or donate to charity in certain circumstances, but this requires following the approved process — not unilateral action. The amount being small (£22) does not change the obligation.",
+        "card_refs": [
+          "SA-C078"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-079",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Crane & Pelletier — Insolvency of Client",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier holds £30,000 for Hollowell Engineering in client account. Hollowell Engineering enters administration. The administrator demands the money be released to the administrator. Must the firm comply?",
+        "options": {
+          "A": "No — client account money is protected and cannot be claimed by administrators",
+          "B": "Yes — an administrator has authority over all company assets including money held by solicitors on behalf of the company",
+          "C": "The firm should comply with the administrator's demand once identity and authority are verified — the client money belongs to the company and the administrator steps into the company's shoes",
+          "D": "The firm must pay into court pending resolution of the administration"
+        },
+        "correct": "C",
+        "explanation": "Client money held by a solicitor belongs beneficially to the client (Hollowell Engineering). On administration, the administrator takes control of the company's assets on behalf of the creditors. The £30,000 is a company asset — it has not been separated from the company's estate by any trust mechanism specific to it. Once the firm verifies the administrator's identity and authority (Insolvency Act 1986 Schedule B1), the firm must comply with the administrator's lawful instructions and release the money. The client account protection means the money is not at risk from the firm's insolvency — not from the client's own insolvency.",
+        "card_refs": [
+          "SA-C079"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-080",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Crane & Pelletier — Proceeds of Crime",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier receives the proceeds of a civil fraud settlement (£500,000) for Clive Dring into client account. After the settlement, it becomes apparent the settlement proceeds represent the proceeds of Clive's own fraud against a third party. What is the firm's exposure?",
+        "options": {
+          "A": "The firm has no liability — it received the money innocently",
+          "B": "The firm's liability is limited to regulatory sanction — no criminal exposure",
+          "C": "The firm must immediately return the money to the third party victim",
+          "D": "The firm may have committed money laundering offences under POCA 2002 ss.327-329 by receiving the proceeds of crime; the firm must consider whether it had knowledge or suspicion and whether a SAR is required"
+        },
+        "correct": "D",
+        "explanation": "POCA 2002 s.327 (concealing/disguising criminal property), s.328 (arrangements facilitating acquisition of criminal property), and s.329 (acquiring criminal property) can apply to solicitors who receive or deal with the proceeds of crime. If the firm had knowledge or suspicion that the settlement money represented proceeds of Clive's fraud, receiving it into client account could constitute a money laundering offence. The firm must: (1) consider the extent of its knowledge at the time; (2) consider whether consent was obtained from the NCA before the receipt; (3) consider whether a retrospective SAR is required; and (4) take specialist advice. The 'tipping off' prohibition applies throughout.",
+        "card_refs": [
+          "SA-C080"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-081",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Funds Received Before Exchange — Holding as Stakeholder",
+        "difficulty": "Application",
+        "stem": "On a residential sale, the buyer's solicitors send a 10% deposit of £25,000 to Crane & Pelletier (acting for the seller) to be held as stakeholder. Exchange takes place. The transaction then fails due to the buyer's breach. The seller wishes to forfeit the deposit. Can the firm release it to the seller immediately?",
+        "options": {
+          "A": "Yes — as stakeholder for the seller, the firm can release funds to the seller on breach by the buyer",
+          "B": "Yes — the seller's solicitor has authority to instruct the firm to release on forfeiture",
+          "C": "Yes — once exchange has taken place, the deposit automatically belongs to the seller",
+          "D": "No — a stakeholder holds for both parties; the firm cannot release the deposit to the seller without the buyer's written agreement or a court order, even where the seller claims the buyer is in breach"
+        },
+        "correct": "D",
+        "explanation": "A stakeholder holds money neutrally for both parties — neither party has an immediate entitlement to require payment until either (1) both agree; or (2) the court adjudicates. Even where the seller argues the buyer is in breach (entitling the seller to forfeit the deposit under the Standard Conditions of Sale), the stakeholder cannot act on that claim unilaterally. The buyer may dispute the alleged breach. Releasing the funds without agreement or court order would expose the firm to liability to the buyer if the forfeiture is later found to be wrongful. The firm must await agreement or seek a court order.",
+        "card_refs": [
+          "SA-C081"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-082",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Ledger — Acting for Lender and Buyer: Split Billing",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier acts for both Northgate Couriers (buyer) and its mortgage lender on a commercial property purchase. The firm charges Northgate £6,000 + VAT (£1,200) for the whole transaction but the lender's portion of the work is worth £1,200 + VAT (£240). How should the costs be allocated in the ledgers?",
+        "options": {
+          "A": "Charge the full £7,200 to Northgate's ledger — the lender pays nothing",
+          "B": "Split the total bill equally between Northgate and the lender",
+          "C": "Charge the full £7,200 to the lender as it is benefiting most from the transaction",
+          "D": "Raise two bills: £4,800 + VAT £960 to Northgate; £1,200 + VAT £240 to the lender — each client is billed for the work attributable to them, with separate office ledger entries for each"
+        },
+        "correct": "D",
+        "explanation": "Where a firm acts for two clients in the same transaction, each client is a separate client with a separate ledger. The firm must bill each client for the work done specifically for them. The lender's work (reviewing title, approving the mortgage, requisitions on title) is separate from the buyer's work — and the lender typically has a separate engagement. The lender's bill (£1,440 including VAT) is recorded: DR Lender office ledger £1,440; CR Office costs £1,200; CR VAT £240. Northgate's bill (£5,760 including VAT) is similarly recorded on its own ledger. Each client should receive a separate bill clearly showing what they are being charged for.",
+        "card_refs": [
+          "SA-C082"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-083",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Client Account — Payments to Counsel",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives a fee note from counsel for £3,500 + VAT (£700) for a hearing. The firm is acting as agent for the client and pays from client account. The firm then includes this as a disbursement on the client's bill. Is the VAT on counsel's fee recoverable as input tax by Crane & Pelletier?",
+        "options": {
+          "A": "Yes — all VAT on disbursements paid by solicitors is recoverable as input tax",
+          "B": "No — counsel's fees are exempt from VAT and no VAT is charged",
+          "C": "Yes — the firm recovers the VAT and bills the client only the net fee of £3,500",
+          "D": "No — when the firm acts as agent for the client in paying counsel's fees, the VAT is the client's input tax (if registered) or irrecoverable cost; the firm passes the full £4,200 through as a disbursement and does not recover the VAT itself"
+        },
+        "correct": "D",
+        "explanation": "Where a solicitor acts as agent for the client in instructing counsel (the client is the principal), the VAT on counsel's fee is the client's liability — not the firm's. The firm pays the full £4,200 out of client account and passes it through as a disbursement (£4,200) on the bill. The firm does not claim input tax recovery on agency disbursements. If the client is VAT-registered, the client may recover the VAT on their own return. If the firm were the principal (instructing counsel on its own account), it could recover input tax. The correct VAT treatment depends entirely on the agency/principal analysis.",
+        "card_refs": [
+          "SA-C083"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-084",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Crane & Pelletier — SRA Compensation Fund",
+        "difficulty": "Application",
+        "stem": "Clive Dring loses £40,000 of his savings when a dishonest fee earner at Crane & Pelletier steals client money. The firm is insolvent. What is Clive's remedy?",
+        "options": {
+          "A": "Clive has no remedy as the firm is insolvent",
+          "B": "The SRA Compensation Fund is only available for losses caused by the firm's own insolvency, not dishonesty",
+          "C": "Clive must claim against the firm's professional indemnity insurance only",
+          "D": "Clive can claim from the SRA Compensation Fund, which can award compensation for losses caused by solicitors' dishonesty or failure to account for client money"
+        },
+        "correct": "D",
+        "explanation": "The SRA Compensation Fund (formerly the Solicitors Compensation Fund) provides a safety net for those who suffer loss as a result of dishonesty by a solicitor or their employees, or a failure to account for client money. Under the SRA Compensation Fund Rules, eligible claimants can receive grants from the Fund where the solicitor's firm is unable to make good the loss (e.g. due to insolvency). The maximum grant per claim can be substantial — the Fund compensates genuine victims of dishonesty. Professional indemnity insurance (PI) is the primary source for negligence claims; the Compensation Fund covers dishonesty where PI is exhausted or inapplicable.",
+        "card_refs": [
+          "SA-C084"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-085",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Crane & Pelletier — SRA Intervention",
+        "difficulty": "Application",
+        "stem": "The SRA intervenes in Crane & Pelletier following the discovery of widespread misappropriation of client funds. What happens to client files and money on intervention?",
+        "options": {
+          "A": "Client files are destroyed and money is returned to clients immediately",
+          "B": "The firm's partners are personally liable to return all client money immediately",
+          "C": "A receiver is appointed by the court to manage the distribution",
+          "D": "The SRA takes control of the practice; client files and money vest in the SRA; the SRA arranges for files to be transferred and money to be returned to clients or held securely"
+        },
+        "correct": "D",
+        "explanation": "Under Schedule 1 to the Solicitors Act 1974, on intervention the SRA takes control of the practice. Client money vests in the SRA and is held for clients. The SRA arranges: (1) for client files and papers to be transferred to new solicitors appointed by the clients; (2) for client money to be accounted for and returned; and (3) for the Compensation Fund to be available to compensate those who have suffered loss. Intervention is a drastic step — the SRA uses it where the solicitor is dishonest, incapacitated, or where there is a risk to the public or client money.",
+        "card_refs": [
+          "SA-C085"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-086",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Accountant's Report — Qualification Triggers",
+        "difficulty": "Application",
+        "stem": "The Reporting Accountant for Crane & Pelletier discovers during the annual review that the firm paid office expenses from client account on three occasions totalling £1,800, all of which have been corrected. Must the accountant qualify the report?",
+        "options": {
+          "A": "No — corrected breaches do not need to be reported",
+          "B": "No — the accountant only qualifies if the breach is ongoing at the date of the report",
+          "C": "Yes — under rule 12, a qualified report is required where the accountant finds a material breach of the SRA Accounts Rules, even if corrected; misuse of client account (however corrected) is a material breach",
+          "D": "No — the total of £1,800 is below the materiality threshold of £5,000"
+        },
+        "correct": "C",
+        "explanation": "Under SRA Accounts Rules 2019 rule 12, the Reporting Accountant must qualify the report if they have found a material breach of the Rules (or breaches that, taken together, are material) during the period — even if corrected before the report is prepared. Using client account to pay office expenses three times totalling £1,800 is a material breach (misuse of client money) regardless of correction. A qualified report must be delivered to the SRA. There is no monetary materiality threshold specified in the Rules — materiality is assessed in context. The SRA then follows up with the firm. Correction is a mitigating factor but not a reason to issue an unqualified report.",
+        "card_refs": [
+          "SA-C086"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-087",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "Client Ledger",
+        "subtopic": "Client Account — Receipt of Indemnity Insurance Payment",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier receives £15,000 from a third-party insurer representing indemnity for loss suffered by Diana Pelletier in a property transaction. The cheque is payable to Crane & Pelletier as trustee for Diana. What is the correct accounting treatment?",
+        "options": {
+          "A": "Pay into office account — it is a firm receipt from the insurer",
+          "B": "Pay into office account — indemnity payments are not client money",
+          "C": "Pay into a designated account in the insurer's name pending confirmation of entitlement",
+          "D": "Pay into client account — the money is received on behalf of Diana as client money and the firm holds it on trust for her"
+        },
+        "correct": "D",
+        "explanation": "Money received on behalf of a client in connection with legal services is client money under SRA Accounts Rules 2019 rule 2.1. The indemnity payment is received by Crane & Pelletier on behalf of Diana — the cheque is payable to the firm as trustee for Diana, confirming she is the beneficial owner. It must be paid into client account: DR Cash (client) £15,000; CR Diana Pelletier client ledger (client side) £15,000. The firm then distributes it to Diana in accordance with her instructions (less any outstanding costs, once billed). Paying it into office account would be a misappropriation of client money.",
+        "card_refs": [
+          "SA-C087"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-088",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Retention of Funds Pending Resolution of Dispute",
+        "difficulty": "Application",
+        "stem": "After completing Hollowell Engineering's commercial lease transaction, a dispute arises between Hollowell Engineering and the landlord about a deposit. Crane & Pelletier holds £10,000 in client account that both parties claim. What should the firm do with the £10,000 while the dispute is unresolved?",
+        "options": {
+          "A": "Pay the £10,000 to Hollowell Engineering as it is the firm's client",
+          "B": "Pay the £10,000 to the landlord to avoid conflict",
+          "C": "Transfer the £10,000 to office account until the dispute is resolved",
+          "D": "Retain the £10,000 in client account, notify both parties that the funds are held pending resolution, and obtain their agreement or a court order before releasing — consider paying into court if no resolution is reached"
+        },
+        "correct": "D",
+        "explanation": "Where a solicitor holds money that is the subject of a dispute between parties, the firm must not release the funds to either party without (1) agreement from both parties; or (2) a court order. The money remains in client account — it cannot be transferred to office account (which would be misappropriation). The firm should notify both parties clearly that the funds are held, that they will not be released without resolution, and suggest they seek agreement or apply to court. If the position becomes untenable, the firm may consider paying the funds into court for the court to adjudicate the claim. Acting unilaterally in favour of either party would be a serious breach.",
+        "card_refs": [
+          "SA-C088"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-089",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "General Client Account vs Designated Client Account — Interest",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier holds £100,000 for Ashworth Developments Ltd in its general client account for 6 months. Interest earned on the general client account pool is £3,200 but only £800 is attributable to Ashworth's funds. The firm pays Ashworth £800. Is this compliant?",
+        "options": {
+          "A": "Yes — the firm pays interest attributable to the specific client's funds and keeps the rest",
+          "B": "No — the firm must pay Ashworth the full £3,200 pool interest",
+          "C": "No — the firm must open a designated account for any amount over £50,000",
+          "D": "Yes — rule 7 requires only that the amount paid is a 'fair sum', which may be calculated on the firm's own methodology provided it reflects the client's funds and time held"
+        },
+        "correct": "D",
+        "explanation": "SRA Accounts Rules 2019 rule 7 requires firms to pay clients a fair sum in lieu of interest, or to account for actual interest. The firm is not required to account for the exact pro-rata share of interest earned on the pool if it has a fair methodology — it can use a calculated rate applied to the amount held and the time period. If £800 represents a fair calculation of what Ashworth would have earned (applying reasonable rates), this is compliant. The firm retains the difference as part of the float benefit of operating a pooled account. However, the firm's interest policy must be fair and the calculation transparent. There is no fixed £50,000 threshold in the Rules for requiring a designated account.",
+        "card_refs": [
+          "SA-C089"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "SA-090",
+        "flk": "FLK2",
+        "subject": "Solicitors' Accounts",
+        "topic": "SRA Accounts Rules 2019",
+        "subtopic": "Authorised Withdrawals from Client Account — Rule 5",
+        "difficulty": "Foundation",
+        "stem": "Which of the following is NOT a permitted reason to withdraw money from a client account under SRA Accounts Rules 2019 rule 5?",
+        "options": {
+          "A": "To pay a sum of money to or on behalf of the client",
+          "B": "To pay a disbursement on behalf of the client",
+          "C": "To transfer earned costs to office account after a bill has been delivered",
+          "D": "To fund the firm's general operating expenses because the office account is temporarily overdrawn"
+        },
+        "correct": "D",
+        "explanation": "Rule 5.1 of the SRA Accounts Rules 2019 sets out the exhaustive list of permitted withdrawals from client account: (a) to make a payment to or on behalf of the client; (b) to carry out the client's instructions; (c) to pay a disbursement on behalf of the client; (d) in satisfaction of a firm's costs where a bill has been given or notification of costs has been provided; and (e) to reimburse the firm for money it has paid out of its own funds on behalf of the client. Funding the firm's general operating expenses is not a permitted purpose — this would constitute misuse of client money, a serious breach of the Rules regardless of the firm's financial position or intention to repay.",
+        "card_refs": [
+          "SA-C090"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

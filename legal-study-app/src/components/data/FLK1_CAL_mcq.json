@@ -1,0 +1,1869 @@
+{
+  "FLK1": {
+    "Constitutional & Administrative Law": [
+      {
+        "question_id": "FLK1-CAL-MCQ-001",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "The UK Constitution",
+        "subtopic": "Constitutional conventions",
+        "difficulty": "Foundation",
+        "stem": "Which of the following best describes the Jennings test for establishing a constitutional convention?",
+        "options": {
+          "A": "A convention requires three elements: precedents, belief of being bound, and a reason for the rule",
+          "B": "A convention exists if the government has acted in accordance with it on at least two occasions",
+          "C": "A convention is any practice that the courts decide has become law through usage",
+          "D": "A convention can only be established by statute or in works of authority"
+        },
+        "correct": "A",
+        "explanation": "Option A is correct — the Jennings test (from Sir Ivor Jennings' 'The Law and the Constitution') requires: (1) What are the precedents? (2) Did the actors believe themselves bound? (3) Is there a reason for the rule? (FLK1-CAL-004). B is incorrect because the Jennings test requires more than just repetition; it requires evidence of subjective belief in obligation and a reasoned basis. Option C is incorrect — conventions remain non-legal even if courts recognise them; they do not become law through usage. Option D is incorrect — conventions are distinct from statutory rules and may not appear in works of authority.",
+        "card_refs": [
+          "FLK1-CAL-004"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-002",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "The UK Constitution",
+        "subtopic": "Nature and sources of the constitution",
+        "difficulty": "Application",
+        "stem": "What is the key difference between the UK constitution being 'uncodified' rather than 'unwritten'?",
+        "options": {
+          "B": "Uncodified means that most of the constitution is recorded on paper, whereas unwritten means it relies entirely on oral tradition",
+          "A": "Uncodified means the constitution is not contained in a single legal document of higher status, although many sources are written",
+          "C": "Uncodified means the constitution cannot be changed, whereas unwritten means it can be amended by Act of Parliament",
+          "D": "Uncodified refers only to common law constitutional principles, whereas unwritten includes statutory sources"
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The UK constitution is better described as uncodified — it lacks a single codified document of higher legal status — but many sources are written (statutes like HRA 1998, case law, authoritative works) (FLK1-CAL-052). B is incorrect; 'unwritten' does not mean oral — many constitutional sources are written. Option C is incorrect — both uncodified and written constitutions can be changed; the uncodified status means change is easier (by ordinary Act). Option D is incorrect — uncodified encompasses all sources; it is not a distinction between types of source.",
+        "card_refs": [
+          "FLK1-CAL-052"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-003",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Parliamentary Sovereignty",
+        "subtopic": "Doctrine and limitations",
+        "difficulty": "Complex",
+        "stem": "A recent Act of Parliament provides: 'Notwithstanding any other Act, the government shall not negotiate any international trade agreement without a referendum.' Six months later, Parliament passes the 'Trade Facilitation Act 2026', which authorises the government to negotiate and ratify trade agreements at its discretion, with no mention of referenda. Which principle of constitutional law best explains the courts' likely response?",
+        "options": {
+          "B": "The courts would strike down the 2026 Act because it violates the rule of law by removing a fundamental safeguard",
+          "A": "The courts would apply the principle of implied repeal — later inconsistent legislation impliedly repeals earlier legislation unless the latter is a constitutional statute",
+          "C": "The courts would refuse to interfere because both Acts are supremely valid and there is no hierarchical relationship between them",
+          "D": "The courts would apply the principle of express repeal — the 2026 Act is only valid if it explicitly states it repeals the earlier Act"
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. This scenario tests the doctrine of parliamentary sovereignty and implied repeal. If the earlier Act is not a constitutional statute, a later inconsistent Act will impliedly repeal it — even without express words. The courts cannot strike down either Act (rejecting A). There is an implied repeal doctrine that applies to ordinary statutes (C is therefore incomplete/incorrect in suggesting no hierarchy). Option D is wrong because implied repeal does not require express words — that is precisely what distinguishes it from express repeal (FLK1-CAL-002, FLK1-CAL-010).",
+        "card_refs": [
+          "FLK1-CAL-002",
+          "FLK1-CAL-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-004",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Royal Prerogative",
+        "subtopic": "Nature and scope",
+        "difficulty": "Application",
+        "stem": "The Prime Minister announces that Parliament will be prorogued for five weeks to allow the government to prepare its legislative programme, without seeking parliamentary approval. A claimant argues the prorogation is unlawful. The government contends it acted within the royal prerogative. Which of the following best describes the nature of the royal prerogative?",
+        "options": {
+          "A": "Residual common law powers of the Crown not derived from statute, subject to judicial review where they affect legal rights.",
+          "B": "Powers vested in the Crown that were once unlimited but are now entirely superseded by statute.",
+          "C": "Powers that the Monarch personally exercises at her own discretion, independently of ministerial advice.",
+          "D": "Powers that exist only where no statute has expressly prohibited their exercise."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The royal prerogative comprises residual common law powers of the Crown that are not derived from statute. They include the power to prorogue Parliament, appoint ministers, declare war, and grant mercy. Following Miller (No.2) [2019], prerogative powers are subject to judicial review where they affect legal rights or constitutional principles — proroguing Parliament to frustrate parliamentary scrutiny was held unlawful. Option B is wrong: the prerogative has not been entirely superseded; many prerogative powers remain in force until abolished by statute. Option C is wrong: the Monarch acts on ministerial advice in all but the most exceptional cases. Option D is wrong: the prerogative may exist even where statute touches the same area, unless the statute expressly or impliedly removes it (A-G v De Keyser's Royal Hotel [1920]).",
+        "card_refs": [
+          "FLK1-CAL-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-005",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Royal Prerogative",
+        "subtopic": "Justiciability and relationship with statute",
+        "difficulty": "Application",
+        "stem": "The Home Secretary proposes to use the royal prerogative to suspend habeas corpus in a particular region to combat terrorism. A prisoner seeks judicial review. Which statement best describes the court's approach under modern law on justiciability of prerogative powers?",
+        "options": {
+          "B": "The court will refuse to hear the case because the prerogative is fundamentally non-justiciable and immune from review",
+          "A": "The court will review the decision under the subject-matter test: some prerogative decisions (e.g. national security, foreign affairs) are non-justiciable, while others (e.g. decisions affecting individual rights like habeas corpus) are justiciable",
+          "C": "The court will strike down the prerogative power because it conflicts with the HRA 1998",
+          "D": "The court will allow the prerogative but require the Home Secretary to secure parliamentary approval first"
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The modern position, established in CCSU v Minister for Civil Service [1985], is that prerogative powers are justiciable subject to a subject-matter test: some areas (national security, foreign affairs, defence) are unsuitable for judicial review due to their nature, while others affecting individual rights (like suspension of habeas corpus) are reviewable (FLK1-CAL-014, FLK1-CAL-CASE-009). B is outdated and too absolute. Option C is incorrect — the court reviews, it does not routinely strike down prerogatives; it applies proportionality under HRA s.6 but does not invalidate the power itself. Option D is incorrect — the court does not impose a requirement to seek parliamentary approval through judicial review; that is a matter of convention.",
+        "card_refs": [
+          "FLK1-CAL-014",
+          "FLK1-CAL-CASE-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-006",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Sections 3 and 4: interpretation and declaration of incompatibility",
+        "difficulty": "Application",
+        "stem": "Under the Human Rights Act 1998, which of the following accurately describes the duty under section 3?",
+        "options": {
+          "A": "Section 3 requires courts to read and give effect to legislation in a way that is compatible with Convention rights, so far as it is possible to do so",
+          "B": "Section 3 allows courts to strike down legislation that is incompatible with Convention rights",
+          "C": "Section 3 permits courts to set aside legislation only by making a declaration of incompatibility, which binds no one",
+          "D": "Section 3 applies only to common law and does not apply to statutory interpretation"
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Section 3(1) of the HRA 1998 requires courts to read and give effect to legislation in a way compatible with Convention rights, 'so far as it is possible to do so' (FLK1-CAL-028, Ghaidan v Godin-Mendoza [2004]). This is a strong interpretive duty, but it has limits — if it would require departing from fundamental features of the legislation, it may not be possible. B is incorrect — s.3 does not allow courts to strike down legislation; that power is limited by parliamentary sovereignty. Option C confuses s.3 with s.4; s.3 is interpretation, s.4 is declaration of incompatibility. Option D is incorrect — s.3 applies to all legislation, not just common law.",
+        "card_refs": [
+          "FLK1-CAL-028"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-007",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Sections 3 and 4: interpretation and declaration of incompatibility",
+        "difficulty": "Application",
+        "stem": "A statute defines 'marriage' as the union of a man and a woman. Under the HRA 1998, a transgender woman challenges this definition. The courts determine that a s.3 interpretation to read the statute as including same-sex marriages would require reading words into the statute that are not there. Which statement best describes the court's next step?",
+        "options": {
+          "C": "The courts must rewrite the statute to conform to Convention rights, even if this requires going beyond s.3 limits",
+          "A": "The courts must strike down the statute because it violates the right to marry under Art 12 ECHR",
+          "B": "The courts have exhausted their duty under s.3 and may make a declaration of incompatibility under s.4, which binds the courts but does not invalidate the statute",
+          "D": "The courts must declare the statute void under the HRA and the matter is conclusively resolved"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. When s.3 interpretation is not possible (because it would depart from fundamental features), courts may make a declaration of incompatibility under s.4 (FLK1-CAL-029, Bellinger v Bellinger [2003]). This declaration does not invalidate the statute but flags the incompatibility and prompts executive/legislative review. Option A is incorrect — courts cannot strike down primary legislation; the remedy is s.4 declaration. Option C is incorrect — courts cannot simply rewrite statutes; s.3 and s.4 set the limits. Option D is incorrect — a s.4 declaration does not void the statute; it is declaratory only.",
+        "card_refs": [
+          "FLK1-CAL-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-008",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Section 6: public authorities and unlawfulness",
+        "difficulty": "Foundation",
+        "stem": "Under section 6 of the HRA 1998, which of the following correctly states what makes an action unlawful?",
+        "options": {
+          "B": "An action by a public authority is unlawful if it is incompatible with a Convention right, subject to exceptions in the ECHR itself and primary legislation",
+          "A": "An action by a public authority is unlawful if it breaches any common law principle, regardless of Convention rights",
+          "C": "An action by a public authority is unlawful only if Parliament has not authorised the action in statute",
+          "D": "An action by a public authority is unlawful if a court declares it to be so after a full trial on the merits"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Section 6(1) of the HRA 1998 makes it unlawful for a public authority to act in a way that is incompatible with a Convention right, subject to exceptions (s.6(2) — where primary legislation requires the incompatibility) (FLK1-CAL-031). Option A is incorrect — s.6 is specific to Convention rights, not all common law. Option C is incorrect — statutory authorisation does not justify breaches of Convention rights (though s.6(2) provides a defence for compliance with primary legislation). Option D is incorrect — unlawfulness exists under s.6 itself; it does not require a separate declaration.",
+        "card_refs": [
+          "FLK1-CAL-031"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-009",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Qualified rights and proportionality",
+        "difficulty": "Application",
+        "stem": "A prison governor restricts a prisoner's access to legal correspondence on grounds of security. The prisoner argues this breaches the right to a fair trial (Art 6 ECHR). Under the HRA 1998, how would a court assess this restriction?",
+        "options": {
+          "C": "The court would apply a proportionality assessment: whether the restriction pursues a legitimate aim, is rationally connected to it, and is not excessive (de Freitas test)",
+          "A": "The court would uphold the restriction automatically because national security is mentioned in the statute",
+          "B": "The court would strike down the restriction because Art 6 is an absolute right that cannot be interfered with",
+          "D": "The court would defer entirely to the prison governor's decision because prison management is a matter of executive discretion"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Art 6 is engaged here (right to a fair trial, including access to legal advice), and while security concerns may be legitimate, the court applies proportionality review under the de Freitas test: is there a legitimate aim, rational connection, and proportionality? (FLK1-CAL-033). This reflects how qualified rights are assessed under HRA s.6 and JR principles. Option A is incorrect — national security does not automatically justify breaches. Option B is incorrect — Art 6 is not absolute; it can be subject to restrictions if proportionate. Option D is incorrect — courts will review the decision for proportionality; deference is not abdication of review.",
+        "card_refs": [
+          "FLK1-CAL-033"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-010",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Illegality: fettering of discretion and improper purpose",
+        "difficulty": "Foundation",
+        "stem": "A local authority policy provides: 'The housing committee shall refuse all applications for housing benefit from applicants whose income exceeds £30,000 per annum, without considering the circumstances of any individual case.' A resident earning £32,000 applies for housing benefit due to a serious illness that prevents work. The committee refuses without considering circumstances. Which principle of JR has been breached?",
+        "options": {
+          "B": "Illegality — the committee has fettered its discretion by adopting a blanket policy that excludes consideration of individual cases",
+          "A": "Procedural impropriety — the committee failed to provide a fair hearing",
+          "C": "Irrationality — the committee's decision is so unreasonable that no reasonable authority would reach it",
+          "D": "Legitimate expectation — the resident had a legitimate expectation of sympathetic consideration"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. The committee has fettered its discretion by adopting an inflexible policy that prevents consideration of individual circumstances (FLK1-CAL-037, R v SSHD ex p Venables [1997]). Discretion must always be exercised by reference to the circumstances of the case; a blanket policy that excludes individual consideration is ultra vires. Option A is incorrect — this is not primarily about procedure but about the exercise of discretion itself. Option C (irrationality) might also apply, but the core breach is fettering of discretion. Option D is incorrect — legitimate expectation applies to procedural rights or substantive entitlements represented as policy, not to sympathetic consideration as such.",
+        "card_refs": [
+          "FLK1-CAL-037"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-011",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Illegality: improper purpose and relevancy",
+        "difficulty": "Application",
+        "stem": "A local authority grants planning permission for a leisure facility on public land. Evidence at judicial review reveals that the real reason for approval was to improve the reputational standing of the council leader (who owns a nearby property). The stated reason was 'to promote local employment and community benefit.' The applicant seeks quashing. Which principle of illegality applies most directly?",
+        "options": {
+          "C": "Acting for an improper purpose — the actual purpose (reputation) differs fundamentally from the statutory purpose (planning and community benefit)",
+          "A": "Fettering of discretion — the authority failed to consider relevant circumstances",
+          "B": "Taking into account irrelevant considerations — the council considered the reputation of the leader",
+          "D": "Procedural impropriety — the council failed to consult properly before deciding"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The council has acted for an improper purpose — the actual purpose (personal reputation of the leader) is inconsistent with the statutory purposes of planning law (FLK1-CAL-038, Wheeler v Leicester CC [1985]). Improper purpose is a sub-category of illegality. Option A is incorrect — fettering of discretion is about failing to exercise discretion, not about motivations. Option B is incorrect — the council considered a relevant factor (employment/community benefit in the stated reason), but the actual motivation was improper. Option D is incorrect — consultation is about procedure; the breach here is substantive (purpose).",
+        "card_refs": [
+          "FLK1-CAL-038"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-012",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Irrationality (Wednesbury unreasonableness)",
+        "difficulty": "Foundation",
+        "stem": "In judicial review, what does 'Wednesbury unreasonableness' require the claimant to prove?",
+        "options": {
+          "A": "That the decision-maker made a factual error that changed the outcome",
+          "B": "That the decision is wrong or that the claimant disagrees with it",
+          "C": "That the decision is so unreasonable that no reasonable decision-maker could have reached it; the decision must be irrational, not merely wrong",
+          "D": "That the decision fails to give proper weight to relevant considerations"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Wednesbury unreasonableness (from Associated Provincial Picture Houses v Wednesbury Corp [1948]) is a high threshold: the decision must be so irrational that no reasonable authority could reach it (FLK1-CAL-039). It is not enough to show the claimant disagrees or the decision is wrong. Option A is incorrect — mere disagreement is insufficient. Option B is incorrect — a factual error might be an error of fact (distinct from Wednesbury), but Wednesbury is about irrationality of process/reasoning. Option D is incorrect — that describes a different ground (taking into account relevant/irrelevant considerations), not Wednesbury unreasonableness itself.",
+        "card_refs": [
+          "FLK1-CAL-039"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-013",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Irrationality and proportionality",
+        "difficulty": "Application",
+        "stem": "A prison governor imposes a blanket ban on all visits to the prison for one month as punishment for a single violent incident by one prisoner. The ban affects hundreds of prisoners and their families, many of whom had no involvement in the incident. A prisoner's mother seeks judicial review. What is the modern approach of English courts?",
+        "options": {
+          "C": "The court applies proportionality review: the ban must be rational and necessary, and the disadvantage to prisoners must be proportionate to the legitimate aim",
+          "A": "The court applies the test of Wednesbury unreasonableness — the ban is only quashed if no reasonable governor could impose it",
+          "B": "The court cannot review the proportionality of disciplinary decisions; this is a matter of prison management discretion",
+          "D": "The court automatically quashes any ban lasting more than one week as arbitrary"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Modern case law (R v MOD ex p Smith [1996]) shows that where fundamental rights are engaged (family life, liberty), courts now apply proportionality review rather than mere Wednesbury unreasonableness (FLK1-CAL-040, FLK1-CAL-CASE-018). The measure must be rationally connected to the aim and not excessive. This reflects HRA 1998 principles. Option A is too lenient; Wednesbury alone may not capture the disproportionality. Option B is incorrect — courts will review even executive decisions on proportionality grounds. Option D is incorrect — there is no bright-line rule about duration; it is about proportionality to the aim.",
+        "card_refs": [
+          "FLK1-CAL-040"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-014",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Procedural impropriety: bias and fair hearing",
+        "difficulty": "Application",
+        "stem": "A planning inspector is appointed to hear an application by Wharton Magna Developments Ltd. It emerges that six months earlier the inspector gave an after-dinner speech at an event organised by the local residents' association that has formally objected to the development. The developer applies to quash the decision on grounds of apparent bias. Which test applies to determine whether the inspector should be disqualified?",
+        "options": {
+          "A": "The inspector is biased if the developer subjectively believes the inspector was not impartial.",
+          "B": "The inspector must be disqualified only if they personally benefited from the outcome.",
+          "C": "The inspector must be disqualified if a fair-minded observer, knowing all the relevant facts, would conclude there was a real possibility of bias.",
+          "D": "The inspector is biased only if they previously expressed a settled view contrary to the developer's position."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The fair-minded observer test, established in Porter v Magill [2001] and affirmed in Helow v SSHD [2008], asks whether a fair-minded and informed observer, having considered all the relevant facts, would conclude there was a real possibility of bias. The test is objective — it does not depend on whether the developer actually believes the inspector was biased (ruling out Option A), nor on personal financial benefit (ruling out B). Option D is wrong: prior expressed views are evidence relevant to the test, but the test is not confined to cases where a settled view was previously expressed. On the facts, the inspector's association with the objectors would be a relevant fact for the fair-minded observer to consider.",
+        "card_refs": [
+          "FLK1-CAL-042"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-015",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Procedural impropriety: natural justice and fair hearing",
+        "difficulty": "Application",
+        "stem": "A student is expelled from university after a disciplinary hearing. The student was not informed of the allegations in advance, was not given an opportunity to hear the evidence against them, and was not allowed to present a defence. The university argues that the decision is a matter of contract law, not public law, and therefore JR does not apply. Which statement best describes the court's likely approach?",
+        "options": {
+          "B": "The court would apply JR principles, requiring the university to comply with natural justice (notice, hearing, fair consideration), because the university is exercising a quasi-judicial power affecting the student's rights",
+          "A": "The court would refuse to hear the claim because the university's internal disciplinary procedures are a matter of private law only",
+          "C": "The court would require the university to prove the student was guilty beyond reasonable doubt, as in criminal proceedings",
+          "D": "The court would uphold the expulsion if the university acted in accordance with its own published procedures, even if those procedures are unfair"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Although the relationship may be contractual, universities are public authorities subject to JR when exercising powers affecting fundamental rights. Natural justice requires notice, an opportunity to be heard, and fair consideration (FLK1-CAL-043). Option A is incorrect — the fact that a relationship is contractual does not exclude JR entirely; quasi-judicial functions can be reviewed. Option C is incorrect — criminal standards of proof do not apply to disciplinary proceedings; the test is balance of probabilities. Option D is incorrect — even if the university followed its own procedures, if those procedures breach natural justice, the decision may be quashed.",
+        "card_refs": [
+          "FLK1-CAL-043"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-016",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Legitimate expectation",
+        "difficulty": "Foundation",
+        "stem": "What is the distinction between procedural and substantive legitimate expectations in judicial review?",
+        "options": {
+          "C": "Procedural expectations require the authority to follow a fair process; substantive expectations require the authority to grant a specific benefit or maintain a particular policy",
+          "A": "Procedural expectations relate to the substance of a benefit, while substantive expectations relate to the process by which a decision is made",
+          "B": "Procedural legitimate expectations are always enforceable, whereas substantive legitimate expectations are never enforceable",
+          "D": "Procedural expectations apply only to statutory authorities, while substantive expectations apply to common law powers"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Procedural legitimate expectation requires the authority to follow a fair process (e.g. a hearing before withdrawal of a benefit); substantive legitimate expectation requires the authority to grant a specific benefit or policy if it has represented it will do so (FLK1-CAL-044, R v NI Council ex p Coughlan [2001]). Option A reverses the definitions. Option B is incorrect — substantive legitimate expectations can be enforceable in appropriate circumstances (when they do not prevent the authority from exercising discretion). Option D is incorrect — both types apply to public authorities generally.",
+        "card_refs": [
+          "FLK1-CAL-044"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-017",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Legitimate expectation",
+        "difficulty": "Application",
+        "stem": "A local authority publishes a planning policy: 'Retirement homes for over-60s will ordinarily be approved in the Green Belt, provided they meet health and safety standards.' A developer submits a planning application for a retirement home that meets all health and safety standards. The authority's planning committee rejects the application, stating that it has changed its policy. The developer argues legitimate expectation. Which statement best reflects the modern law?",
+        "options": {
+          "D": "The developer's claim fails because the authority always retains discretion to change its policies",
+          "A": "The developer has no claim because legitimate expectations cannot arise from published planning policies",
+          "B": "The developer has a procedural legitimate expectation to a fair hearing, but no substantive entitlement to approval under the old policy",
+          "C": "The developer may have a substantive legitimate expectation that the authority will follow its published policy, and the authority may be required to justify the change or grant approval to avoid unfairness"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Published policies can generate substantive legitimate expectations. The authority is not strictly bound, but if it changes policy mid-application, it must justify the change or treat the applicant fairly (e.g. by granting the benefit or providing a transition). The test is whether there is unfairness, not absolute entitlement (FLK1-CAL-044, Bhatt Murphy [2008]). Option A is incorrect — policies do generate expectations. Option B is incorrect — only a procedural expectation understates the position; substantive expectations are possible. Option D is incorrect — while the authority has discretion, this does not negate legitimate expectation; it requires fair exercise of discretion.",
+        "card_refs": [
+          "FLK1-CAL-044"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-018",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review Procedure",
+        "subtopic": "Standing, time limits, and remedies",
+        "difficulty": "Foundation",
+        "stem": "Under the Senior Courts Act 1981 section 31 and CPR Part 54, what is required to establish 'standing' (or 'sufficient interest') in a judicial review claim?",
+        "options": {
+          "A": "The claimant must be the only person affected by the decision",
+          "B": "The claimant must show they have suffered a direct financial loss as a result of the decision",
+          "C": "The claimant must show they have a sufficient interest in the matter to which the claim relates — a flexible test depending on the circumstances",
+          "D": "The claimant must have brought the claim within one week of the decision"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Standing is established by showing 'sufficient interest' in the matter (FLK1-CAL-045). This is a flexible test that depends on the nature of the decision and the claimant's relationship to it. It can include direct personal interests, interests as a member of the public affected by the decision, and campaigning/representative interests. Option A is incorrect — direct financial loss is not required; the test is broader. Option B is incorrect — multiple claimants may have standing. Option D is incorrect — that describes a time limit, not standing.",
+        "card_refs": [
+          "FLK1-CAL-045"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-019",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review Procedure",
+        "subtopic": "Time limits and permission stage",
+        "difficulty": "Application",
+        "stem": "A claimant becomes aware of an unlawful decision by a local authority to grant planning permission for a development in their neighbourhood. The claimant is very busy and does not file a claim until 4 months after the decision. The authority argues that the claim should be struck out for delay. Under CPR Part 54, what is the legal position?",
+        "options": {
+          "D": "The claim may proceed if the claimant pays compensation to the authority for the delay",
+          "A": "The claim must be heard because the claimant has a right to review unlawful decisions regardless of time",
+          "B": "The claim must be struck out because the three-month time limit is absolute and cannot be extended",
+          "C": "The claim must be filed within three months of the date when the claimant knew or ought to have known of the decision; failure to comply means the court may refuse permission unless the claimant can show good reason for delay"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The three-month time limit (known as 'promptly') is set by CPR Part 54 (FLK1-CAL-046). The court may refuse permission for late claims unless there is good reason for the delay and no prejudice to others. The test is discretionary, not absolute. Option A is incorrect — time limits apply even to unlawful decisions. Option B is incorrect — the limit is not absolute; it can be extended in appropriate circumstances. Option D is incorrect — compensation is not a mechanism for overcoming time limits in JR.",
+        "card_refs": [
+          "FLK1-CAL-046"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-020",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review Procedure",
+        "subtopic": "Remedies",
+        "difficulty": "Application",
+        "stem": "After successful judicial review, a planning officer has quashed an unlawful planning permission. However, the authority refuses to reconsider the application or take any further action, citing pressure of work. The claimant seeks to compel reconsideration. Which remedy would be most appropriate?",
+        "options": {
+          "C": "A declaration that the original decision was unlawful",
+          "A": "An injunction preventing the authority from issuing further planning permissions",
+          "B": "A mandatory order requiring the authority to reconsider the application",
+          "D": "Damages for the delay in reconsideration"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. A mandatory order (formerly called an order of mandamus) compels a public authority to perform a public duty (FLK1-CAL-047). Here, the authority has a duty to reconsider after quashing. Option A is incorrect — an injunction is not the appropriate remedy for compelling performance of a specific duty. Option C is incorrect — a declaration has already been made (the permission was quashed). Option D is incorrect — damages are available under HRA s.8 if Convention rights are breached, but not automatically in JR.",
+        "card_refs": [
+          "FLK1-CAL-047"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-021",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Parliamentary Sovereignty",
+        "subtopic": "Doctrine and historical evolution",
+        "difficulty": "Application",
+        "stem": "Parliament passes the Environmental Licences (Override) Act 2025, which expressly provides that its provisions prevail over any earlier Act of Parliament to the contrary. An environmental law organisation argues that the 2025 Act cannot override entrenched protections in the Climate Change Act 2008. According to Dicey's classical formulation of parliamentary sovereignty, which statement is correct?",
+        "options": {
+          "A": "Parliament has power to make or unmake any law whatever; no body can override an Act of Parliament, and no Parliament can bind its successors.",
+          "B": "Parliament may entrench legislation so that later Parliaments cannot repeal it without a special procedure.",
+          "C": "Parliament's power is limited by the rule of law and fundamental rights that courts can enforce.",
+          "D": "Parliament must consult the courts before passing legislation that conflicts with existing statutes."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Dicey's classical formulation identifies three limbs: (1) Parliament may legislate on any subject matter; (2) no Parliament can bind its successors (so the 2025 Act can override the 2008 Act despite its terms); (3) no court may override Parliament's legislation. Applying Dicey strictly, the 2025 Act would override the 2008 Act because a later Parliament cannot be bound by an earlier one — the organisation's argument fails. Option B is wrong: under Dicey's formulation entrenchment is constitutionally impossible. Option C describes a modified or rights-based constitutionalism, not Dicey's classical view. Option D is wrong: Parliament needs no judicial approval before legislating.",
+        "card_refs": [
+          "FLK1-CAL-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-022",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Parliamentary Sovereignty",
+        "subtopic": "Limitations on implied repeal (constitutional statutes)",
+        "difficulty": "Application",
+        "stem": "Parliament passes Statute A, which expressly provides: 'This Act protects the right to a fair trial and may only be repealed by express words in a later Act.' Twenty years later, Parliament passes Statute B, which contains comprehensive new court procedures but makes no mention of the fair trial protections in Statute A. Does Statute B impliedly repeal the relevant provisions of Statute A?",
+        "options": {
+          "D": "No, because Statute A contains an entrenchment clause that binds Parliament",
+          "A": "Yes, because all Acts of Parliament are equal and Statute B, being later, automatically repeal Statute A",
+          "B": "No, because Statute A is a constitutional statute and cannot be impliedly repealed; if Parliament intended to repeal it, it must use express words",
+          "C": "Yes, unless the court finds that Statute A is 'more important' than Statute B"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Although Statute A's own entrenchment clause is not binding (Parliament cannot bind itself), the fact that it is a constitutional statute means the common law doctrine against implied repeal applies (Thoburn v Sunderland [2002]) (FLK1-CAL-009). Express words are required to repeal it. Option A is incorrect — this ignores the distinction between constitutional and ordinary statutes. Option C is incorrect — entrenchment clauses are not binding in the UK, but the common law doctrine still applies. Option D is incorrect — the court does not rank statutes by 'importance'; it applies a rule based on their constitutional character.",
+        "card_refs": [
+          "FLK1-CAL-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-023",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Parliamentary Sovereignty",
+        "subtopic": "Limitations and the Miller cases",
+        "difficulty": "Complex",
+        "stem": "In R (Miller) v Secretary of State for Exiting the EU [2017], the Supreme Court held that the government could not trigger Article 50 without an Act of Parliament. Which constitutional principles did the court rely upon, and does it represent a limitation on parliamentary sovereignty?",
+        "options": {
+          "D": "The court relied on common law requiring consent of the Scottish Parliament; this contradicts Dicey's theory of sovereignty",
+          "A": "The court held that the EU itself had authority to prevent UK withdrawal; this is a limitation on sovereignty because it subordinates Parliament to EU law",
+          "B": "The court struck down the prerogative action as unconstitutional; this represents a fundamental change to the doctrine of parliamentary sovereignty",
+          "C": "The court relied on the principle of legality to require statutory authority for the prerogative action; this does not limit parliamentary sovereignty because Parliament could authorize the action by statute"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Miller [2017] applied the principle of legality: the prerogative cannot be used to change domestic law without statutory authority (FLK1-CAL-011, FLK1-CAL-CASE-012). This does not limit parliamentary sovereignty; it shows sovereignty working through Parliament. If Parliament enacted the trigger, the prerogative would be valid. Option A is incorrect — the court did not subordinate UK law to EU law; it required UK statutory authority. Option B is incorrect — the prerogative action was not deemed unconstitutional; it was simply not authorized by law. Option D is incorrect — while the Sewel convention was discussed, the court's main holding did not turn on it, and it did not override parliamentary sovereignty.",
+        "card_refs": [
+          "FLK1-CAL-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-024",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Illegality and discretionary powers",
+        "difficulty": "Complex",
+        "stem": "A statute gives a minister power to make decisions 'in the interests of public health.' The minister considers not only public health but also wider government economic policy. A campaigner challenges the decision as unlawful, arguing the minister considered irrelevant economic considerations. Under modern principles of JR, which statement best captures the court's likely approach?",
+        "options": {
+          "C": "The court would quash the decision because economic policy is never relevant to health decisions",
+          "A": "The court would refuse to review the decision because the minister has discretion to consider all factors",
+          "B": "The court would apply a test of proportionality: the minister is entitled to balance factors, but only if the decision is rationally connected to the statutory purpose and not disproportionate to the stated aim",
+          "D": "The court would apply the test from Associated Provincial Picture Houses v Wednesbury Corp — the decision is only quashed if it is so irrational that no reasonable minister could reach it"
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Modern law applies a proportionality test to discretionary decisions, especially where fundamental rights or important interests are engaged (FLK1-CAL-040). The minister can consider multiple factors, but the decision must be rationally connected to the statutory purpose and the balance must be proportionate. Option A is incorrect — discretion is not unlimited; it must be exercised for proper purposes and with relevant considerations. Option C is incorrect — economic considerations may be relevant to health, depending on context. Option D is incorrect — while Wednesbury still applies to some decisions, proportionality is now the preferred test where justified.",
+        "card_refs": [
+          "FLK1-CAL-040"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-025",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Sections 3 and 4: the interpretive dialogue",
+        "difficulty": "Complex",
+        "stem": "A statute defines 'parent' as 'a person who has the biological capacity to bear children.' A same-sex couple, who have adopted children, argue this definition violates their right to family life (Art 8 ECHR) and equal treatment (Art 14 ECHR). Can a court cure the incompatibility through s.3 interpretation? Which factor is most important in making this choice?",
+        "options": {
+          "C": "The court can read the definition to include 'adoptive parent' under s.3, as this interpretation is compatible with the statutory scheme and achieves Convention compliance",
+          "A": "The court must always prefer s.3 interpretation, even if it requires reading words into the statute that are not there",
+          "B": "The court must make a s.4 declaration because same-sex couples are not biological parents and cannot meet the literal words of the statute",
+          "D": "The court can proceed under s.3 only if Parliament explicitly consents to the reinterpretation"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Section 3 allows a broad interpretation where it does not fundamentally depart from the statutory purpose. If 'parent' can be read as including adoptive parents (consistent with the overall purpose of protecting family units), s.3 can be applied (FLK1-CAL-028, Ghaidan v Godin-Mendoza [2004]). This is the preferred approach to achieve Convention compliance. Option A is incorrect — s.3 has limits; it cannot be used if it departs from fundamental features. Option B is incorrect — statutory language can be read more broadly if it achieves Convention compatibility. Option D is incorrect — Parliament's consent is not required; the court has the power to interpret.",
+        "card_refs": [
+          "FLK1-CAL-028"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-026",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Procedural impropriety and legitimate expectation",
+        "difficulty": "Complex",
+        "stem": "A prison service policy states: 'Prisoners serving life sentences may apply for parole review after 25 years; all such applications will receive a full, fair hearing.' A prisoner, after 25 years, applies for parole review. The parole board holds a hearing, but pre-judges the outcome without genuinely considering the prisoner's case. The prisoner argues both procedural impropriety and breach of legitimate expectation. Which statement best describes the overlap?",
+        "options": {
+          "D": "The court would dismiss the claim because the parole board has discretion over all parole decisions",
+          "A": "Procedural impropriety and legitimate expectation are identical; the court would apply only one ground",
+          "B": "The prisoner has only a procedural legitimate expectation, not a right to a fair hearing in administrative law",
+          "C": "Procedural impropriety (unfair hearing) and legitimate expectation (entitlement to fair consideration) overlap, and the court may apply both grounds; the breach of either is sufficient to quash and require reconsideration"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Procedural impropriety (breach of natural justice/fair hearing) and procedural legitimate expectation (entitlement to fair process) often overlap in practice (FLK1-CAL-042, FLK1-CAL-044). The court may apply both grounds; a breach of either is sufficient to quash and require a fair reconsideration. Option A is incorrect — they are distinct grounds, though they often coincide. Option B is incorrect — administrative law does protect fair hearing rights. Option D is incorrect — discretion must be exercised fairly; it is not absolute.",
+        "card_refs": [
+          "FLK1-CAL-042",
+          "FLK1-CAL-044"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-027",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Royal Prerogative",
+        "subtopic": "Conflict between prerogative and statute",
+        "difficulty": "Foundation",
+        "stem": "A statute establishes a statutory scheme for approving firefighter pay deals. A separate statute preserves the Crown's prerogative to determine the terms and conditions of civil servants. The government seeks to use the prerogative to override the statutory pay scheme for firefighters. Which principle best explains why this would likely be unlawful?",
+        "options": {
+          "A": "All prerogative powers relating to employment are invalid under the HRA 1998",
+          "B": "The government needs parliamentary consent to use the prerogative",
+          "C": "The statute has impliedly limited the prerogative to the extent it is incompatible; the Crown cannot use the prerogative to frustrate or undermine the statutory scheme",
+          "D": "The prerogative is always superior to statute"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Where a statute establishes a comprehensive scheme, the prerogative cannot be used to frustrate or undermine it (R v SS Home Dept ex p Fire Brigades Union [1995]) (FLK1-CAL-015). The statute limits the prerogative to the extent of incompatibility. Option A is incorrect — there is no blanket requirement; the principle is about incompatibility with an established statutory scheme. Option B is incorrect — the HRA does not automatically invalidate prerogative employment powers; they must be exercised compatibly with Convention rights. Option D is incorrect — statute is superior to prerogative in cases of conflict.",
+        "card_refs": [
+          "FLK1-CAL-015"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-028",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "The UK Constitution",
+        "subtopic": "Rule of law and the principle of legality",
+        "difficulty": "Foundation",
+        "stem": "What does the 'principle of legality' require in the interpretation of legislation affecting fundamental rights?",
+        "options": {
+          "A": "Fundamental rights can only be protected by the HRA 1998, not by common law interpretation",
+          "B": "Courts must strike down any legislation that appears to remove fundamental rights",
+          "C": "Courts must defer to Parliament's stated purpose, even if it removes fundamental rights",
+          "D": "Courts will presume that Parliament did not intend to remove fundamental common law rights unless the statute expresses that intention clearly and explicitly"
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. The principle of legality (R v SSHD ex p Simms [1999], R v SSHD ex p Leech [1994]) holds that courts will not assume Parliament intended to remove fundamental rights unless clear words are used (FLK1-CAL-053). This is a tool of interpretation, not a power to strike down statutes. Option A is incorrect — courts cannot strike down primary legislation. Option B is incorrect — courts do protect rights through interpretation. Option C is incorrect — common law interpretation (the principle of legality) does protect fundamental rights, alongside the HRA 1998.",
+        "card_refs": [
+          "FLK1-CAL-053"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-029",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Devolution",
+        "subtopic": "Legislative competence and the Sewel convention",
+        "difficulty": "Complex",
+        "stem": "The Scottish Parliament has exclusively devolved powers to legislate on education. The UK Parliament passes an Act that amends education law in Scotland without securing the consent of the Scottish Parliament (contrary to the Sewel convention). A Scottish education group seeks judicial review of the UK Act. Based on Miller [2017], what would be the court's likely response?",
+        "options": {
+          "D": "The court would recognise the Sewel convention as a constitutional principle but would not enforce it as law; the Act would remain valid, though the breach may be significant politically",
+          "A": "The court would require the UK Parliament to obtain Scottish consent before the Act becomes law",
+          "B": "The court would not hear the claim because devolution matters are outside the scope of JR",
+          "C": "The court would quash the UK Act as unconstitutional because it breaches the Sewel convention"
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. R (Miller) v SSHD [2017] confirmed that the Sewel convention is recognized by the courts but is not legally enforceable (FLK1-CAL-049). A breach has political consequences, not legal ones. The Act would remain valid. Option A is incorrect — the court cannot impose a legal requirement to obtain consent; that is a political matter. Option B is incorrect — devolution matters are within the scope of JR, but the enforcement of conventions is not. Option C is incorrect — conventions are not enforceable in law.",
+        "card_refs": [
+          "FLK1-CAL-049"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-030",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Fettering of discretion and the balance of competing interests",
+        "difficulty": "Complex",
+        "stem": "A local authority adopts a blanket policy refusing all applications for discretionary rate relief unless applicants first demonstrate 'exceptional hardship'. A small business applies and is turned away at the threshold stage without any consideration of the specific facts of its case. The business seeks judicial review. What is the strongest ground of challenge?",
+        "options": {
+          "A": "Illegality — the authority acted outside its statutory powers by adopting any policy on rate relief",
+          "B": "Proportionality — the threshold of 'exceptional hardship' is disproportionate to the regulatory objective",
+          "C": "Irrationality — no reasonable authority would refuse to consider rate relief applications",
+          "D": "Fettering of discretion — the policy, by imposing a threshold that prevents any individual assessment of an applicant's circumstances, unlawfully fetters the authority's statutory discretion; each application must receive genuine individual consideration"
+        },
+        "correct": "D",
+        "explanation": "Fettering of discretion occurs where a public authority adopts a rigid policy that prevents it from exercising an individual judgment in each case, as required by its statutory power. A discretion cannot be surrendered or fettered by policy: R v Port of London Authority ex parte Kynoch [1919]. The authority may adopt a policy to guide its discretion, but must always be willing to consider exceptions and to look at the individual merits of each case. Refusing all applications that do not meet the threshold without any individual assessment is an unlawful fetter. Note: proportionality (option B) is not a freestanding ground of challenge in domestic judicial review for non-EU/ECHR cases.",
+        "card_refs": [
+          "FLK1-CAL-037"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-031",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Grounds — illegality",
+        "difficulty": "Application",
+        "stem": "Councillor Stubbs, acting as chair of Wharton Magna Planning Committee, refuses Marcus Bridgewater's planning application on the ground that the development 'would not benefit local businesses'. This reason is not found in planning legislation. On what ground of judicial review is this decision most vulnerable?",
+        "options": {
+          "A": "Irrationality — no reasonable committee would reach this conclusion.",
+          "B": "Illegality — the decision-maker has taken into account an irrelevant consideration and/or acted outside the legal powers conferred by the relevant legislation (Council of Civil Service Unions v Minister for the Civil Service [1985]).",
+          "C": "Procedural impropriety — the committee failed to follow its own procedure.",
+          "D": "Proportionality — the refusal is disproportionate to the benefit obtained."
+        },
+        "correct": "B",
+        "explanation": "In CCSU v Minister for the Civil Service [1985] the House of Lords identified three grounds of judicial review: illegality, irrationality (Wednesbury unreasonableness), and procedural impropriety. Illegality encompasses acting outside the scope of legal powers (ultra vires), including taking into account irrelevant considerations or ignoring relevant ones. 'Benefit to local businesses' is not a material planning consideration under the Town and Country Planning Act — it is legally irrelevant and its use renders the decision unlawful on grounds of illegality. Irrationality (A) concerns extreme unreasonableness, not the use of wrong criteria. Procedural impropriety (C) concerns process failures. Proportionality (D) is recognised in HRA/EU contexts but is less straightforwardly applicable here.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-032",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Grounds — irrationality / Wednesbury",
+        "difficulty": "Foundation",
+        "stem": "Which statement correctly describes the Wednesbury unreasonableness ground of judicial review?",
+        "options": {
+          "A": "A decision is unlawful if the court disagrees with the outcome.",
+          "B": "A decision is unlawful if it is so unreasonable that no reasonable authority could ever have come to it (Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948]); the court does not substitute its own view for that of the decision-maker.",
+          "C": "A decision is unlawful if it lacks proportionality.",
+          "D": "A decision is unlawful if the decision-maker failed to give reasons."
+        },
+        "correct": "B",
+        "explanation": "Wednesbury unreasonableness (Associated Provincial Picture Houses v Wednesbury [1948]) is a high threshold: the decision must be so unreasonable that no reasonable authority, properly directing itself on the relevant law and facts, could have reached it. It is not enough for the court to disagree — there must be an extreme or outrageous unreasonableness. This test is deferential to public authorities. Courts have applied a more intensive review in cases involving fundamental rights (R v Ministry of Defence ex parte Smith [1996]). Proportionality (C) is a related but distinct ground. Failure to give reasons (D) is a procedural impropriety point.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-033",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Grounds — procedural impropriety",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater applies for a licence from Wharton Magna Council. The council refuses the application without giving him any opportunity to make representations. Which ground of judicial review is engaged?",
+        "options": {
+          "A": "Illegality — the council acted outside its powers.",
+          "B": "Procedural impropriety — including breach of natural justice (the right to a fair hearing / audi alteram partem); Bridgewater had a legitimate expectation of being heard before an adverse decision was made.",
+          "C": "Irrationality — no reasonable authority would refuse without hearing the applicant.",
+          "D": "Proportionality — the refusal without hearing is disproportionate."
+        },
+        "correct": "B",
+        "explanation": "Procedural impropriety encompasses two main categories: (i) failure to comply with statutory procedural requirements; and (ii) breach of the rules of natural justice (including the right to a fair hearing — audi alteram partem — and the rule against bias — nemo iudex in causa sua). Where a decision significantly affects an individual's rights or legitimate expectations, natural justice requires that person to be given notice and an opportunity to make representations before the decision is taken (Ridge v Baldwin [1964]). Bridgewater had no opportunity to be heard — this is a procedural impropriety. The other grounds do not directly address the procedural defect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-034",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Permission — promptness and standing",
+        "difficulty": "Foundation",
+        "stem": "Marcus Bridgewater wishes to seek judicial review of a planning decision made four months ago. He delayed because he was trying to resolve the matter informally. What time limit applies?",
+        "options": {
+          "A": "Six years — the standard limitation period applies to judicial review.",
+          "B": "An application for judicial review must be made promptly and in any event within three months of the date when the grounds for the claim first arose (CPR r.54.5); planning cases have a shorter period of six weeks; the court may extend time but delay without good reason will be refused.",
+          "C": "There is no fixed time limit — the court has complete discretion.",
+          "D": "One year — the same as for personal injury claims."
+        },
+        "correct": "B",
+        "explanation": "CPR r.54.5 requires a claim for judicial review to be filed promptly and in any event within three months of the date when the grounds for the claim first arose. For planning cases under the Town and Country Planning Act 1990, the statutory period is six weeks. The court may extend time where there is good reason to do so, but a four-month delay to explore informal resolution may or may not be accepted depending on the circumstances. The overriding requirement is promptness even within the three-month window. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-035",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Remedies — certiorari, mandamus, prohibition",
+        "difficulty": "Foundation",
+        "stem": "Marcus Bridgewater wins his judicial review of a planning refusal. The court wishes to quash the unlawful decision. What is the modern name for the remedy formerly called certiorari?",
+        "options": {
+          "A": "Mandatory order.",
+          "B": "Quashing order — formerly certiorari; it sets aside (quashes) the unlawful decision.",
+          "C": "Prohibiting order.",
+          "D": "Declaration."
+        },
+        "correct": "B",
+        "explanation": "The Civil Procedure (Amendment No.4) Rules 2000 renamed the prerogative remedies: (i) certiorari → quashing order (quashes an unlawful decision); (ii) mandamus → mandatory order (compels a public body to perform a public duty); (iii) prohibition → prohibiting order (prevents a public body from acting unlawfully in the future). A declaration (D) is an equitable remedy stating the legal position but not itself quashing the decision. The court grants remedies at its discretion even after a successful judicial review.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-036",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 10 — freedom of expression",
+        "difficulty": "Application",
+        "stem": "The Wharton Magna Council passes a byelaw prohibiting any public protest within 200 metres of the Town Hall. Marcus Bridgewater challenges this as a breach of Article 10 ECHR. The Council argues public order justifies the restriction. Which analysis framework applies?",
+        "options": {
+          "A": "Article 10 is absolute — any restriction is automatically unlawful.",
+          "B": "Article 10 is a qualified right: a restriction is permissible if it is (i) prescribed by law; (ii) pursues a legitimate aim listed in Article 10(2) (including public safety and prevention of disorder); and (iii) is necessary in a democratic society — i.e., proportionate to the legitimate aim (Handyside v UK (1976)).",
+          "C": "The restriction is lawful provided a majority of councillors voted for it.",
+          "D": "Article 10 only protects political speech by elected representatives."
+        },
+        "correct": "B",
+        "explanation": "Article 10 ECHR protects freedom of expression but is a qualified right — restrictions can be justified under Article 10(2). The three-part test is: (i) the restriction must be prescribed by law (clear and accessible legal basis); (ii) it must pursue a legitimate aim from the exhaustive list in Article 10(2); (iii) it must be necessary in a democratic society — pressing social need, proportionate, and with reasons that are relevant and sufficient (Handyside v UK). A blanket 200m exclusion zone may fail the proportionality test. Options A and D misstate the nature and scope of Article 10. Option C is a pure democratic legitimacy argument that does not satisfy the Article 10(2) analysis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-037",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 1 Protocol 1 — protection of property",
+        "difficulty": "Application",
+        "stem": "The government compulsorily acquires Ashworth Hall without paying compensation. Colonel Ashworth challenges this under the ECHR. Which provision protects his property rights?",
+        "options": {
+          "A": "Article 8 — right to respect for home.",
+          "B": "Article 1 of Protocol 1 — every natural or legal person is entitled to the peaceful enjoyment of possessions; deprivation of property is only lawful in the public interest, subject to conditions provided for by law, and subject to compensation.",
+          "C": "Article 6 — right to a fair trial.",
+          "D": "Article 14 — prohibition of discrimination."
+        },
+        "correct": "B",
+        "explanation": "Article 1 of Protocol 1 (A1P1) to the ECHR protects the peaceful enjoyment of possessions. Under A1P1, the state may deprive a person of their possessions only: (i) in the public interest; (ii) subject to conditions provided for by law; and (iii) subject to general principles of international law, which require payment of compensation. The absence of compensation in a compulsory purchase would render the acquisition unlawful under A1P1 (James v UK [1986]). Article 8 (A) may also be engaged regarding the home, but A1P1 is the primary property protection. Articles 6 and 14 are engaged in different contexts.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-038",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Parliamentary Sovereignty",
+        "subtopic": "Entrenchment and the Thoburn principle",
+        "difficulty": "Foundation",
+        "stem": "Victoria Ashworth's law tutor argues that the European Communities Act 1972 was a 'constitutional statute' that could not be implicitly repealed by later inconsistent legislation. What is the legal basis for this argument?",
+        "options": {
+          "A": "The Diceyan principle of parliamentary sovereignty — later Acts always override earlier Acts.",
+          "B": "The principle established in Thoburn v Sunderland CC [2002] that certain Acts of constitutional importance (including the ECA 1972, MCA 1997, HRA 1998) are 'constitutional statutes' that can only be expressly repealed, not implicitly repealed by inconsistent later legislation.",
+          "C": "EU law requires member states to entrench EU-implementing legislation.",
+          "D": "The common law prohibits the repeal of any legislation more than 25 years old."
+        },
+        "correct": "B",
+        "explanation": "In Thoburn v Sunderland CC [2002] Laws LJ argued for a category of 'constitutional statutes' which, by virtue of their fundamental constitutional importance, cannot be implicitly repealed by later inconsistent ordinary legislation — only express repeal would suffice. He identified the ECA 1972, the MCA 1997, and the HRA 1998 as examples. This modifies the traditional Diceyan principle (A) that later legislation automatically prevails over earlier inconsistent Acts. The ECA 1972 has since been repealed expressly by the European Union (Withdrawal) Act 2018, which itself was a constitutional statute. Option C is incorrect as a basis. Option D has no legal basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-039",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Legitimate expectation",
+        "difficulty": "Application",
+        "stem": "The government publishes a policy document promising that existing licence holders will be given 12 months' notice before any change in licensing conditions. Wharton Magna Builders Ltd holds such a licence. The government then changes the conditions with 2 weeks' notice. Which public law principle is engaged?",
+        "options": {
+          "A": "Parliamentary sovereignty — the government can always change policy.",
+          "B": "Legitimate expectation — a clear and unambiguous representation by a public body to an identifiable person or group gives rise to a procedural legitimate expectation that they will be given notice or consulted before the expected benefit is removed (R v North and East Devon HA ex parte Coughlan [2001]).",
+          "C": "Rule of law — changes to legal rules must be published.",
+          "D": "Proportionality — only major changes require notice."
+        },
+        "correct": "B",
+        "explanation": "The doctrine of legitimate expectation protects individuals who have reasonably relied on representations made by public bodies. In R v North and East Devon HA ex parte Coughlan [2001] the Court of Appeal recognised that a clear and unambiguous promise or representation by a public authority gives rise to a legitimate expectation — either procedural (the right to be heard before the benefit is withdrawn) or substantive (the right to the promised benefit itself). A published policy of 12 months' notice creates a clear expectation that licence holders will be consulted or given that notice before a change. Ignoring this expectation without good public interest justification is unlawful. Option A overstates the scope of parliamentary/executive power to override legitimate expectations.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-040",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Ouster clauses",
+        "difficulty": "Foundation",
+        "stem": "A statute provides that the Minister's decision 'shall not be questioned in any court'. Marcus Bridgewater wishes to challenge the decision by judicial review. Can he do so?",
+        "options": {
+          "A": "No — Parliament's express instruction that decisions cannot be reviewed must be followed.",
+          "B": "Yes — courts have historically construed ouster clauses narrowly and refused to allow them to exclude judicial review of jurisdictional errors; the courts protect the rule of law by ensuring the executive remains subject to legal scrutiny (Anisminic Ltd v Foreign Compensation Commission [1969]).",
+          "C": "No — ouster clauses are always effective.",
+          "D": "Yes — but only if the minister acted with bad faith."
+        },
+        "correct": "B",
+        "explanation": "In Anisminic Ltd v Foreign Compensation Commission [1969] the House of Lords held that a statute providing that decisions 'shall not be questioned in any court' did not protect a decision that was made in error of law — because a decision tainted by an error of law was not a 'determination' within the meaning of the statute at all. Courts have consistently read ouster clauses narrowly to preserve judicial review jurisdiction, on the basis that Parliament cannot have intended to oust review of unlawful conduct. The Supreme Court has more recently examined the tension between parliamentary sovereignty and the rule of law in Privacy International [2019]. Option A gives ouster clauses more effect than courts allow. Option C is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-041",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 5 — right to liberty",
+        "difficulty": "Application",
+        "stem": "Frank Hollis is detained by police under terrorism legislation for 48 hours without being brought before a court. Which Article 5 guarantee is directly engaged?",
+        "options": {
+          "A": "Article 5(1) — the right to liberty; detention must be within one of the exhaustive permitted grounds in Article 5(1)(a)-(f).",
+          "B": "Article 5(3) — a person arrested on reasonable suspicion must be brought promptly before a judge; prolonged pre-charge detention without judicial oversight may violate this guarantee.",
+          "C": "Article 5(4) — right to speedily challenge the lawfulness of detention before a court.",
+          "D": "All of the above — all three sub-articles are simultaneously engaged by 48-hour detention without judicial oversight."
+        },
+        "correct": "D",
+        "explanation": "Article 5 ECHR contains multiple inter-related guarantees: (1) Article 5(1) protects the fundamental right to liberty — any deprivation must fall within one of the exhaustive permitted categories; (2) Article 5(3) requires that a person arrested under 5(1)(c) (for criminal offences) be brought promptly before a judge; (3) Article 5(4) gives any detained person the right to challenge the lawfulness of detention speedily before a court (habeas corpus equivalent). Forty-eight hours without any judicial oversight potentially engages all three. Option D is the most complete answer.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-042",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Standing — sufficient interest",
+        "difficulty": "Application",
+        "stem": "A national environmental NGO wishes to challenge a government decision to grant planning permission for a new coal mine in Wharton Magna. The NGO has no property interest near the mine but campaigns on environmental issues. Does it have standing to bring judicial review?",
+        "options": {
+          "A": "No — only persons with a direct property interest have standing in planning cases.",
+          "B": "Yes — under CPR r.54.4, the claimant must have a 'sufficient interest' in the matter to which the application relates (Senior Courts Act 1981 s.31(3)); courts have recognised that pressure groups and NGOs with relevant expertise and concern for the subject matter may have sufficient interest (R v Foreign Secretary ex parte World Development Movement [1995]).",
+          "C": "No — judicial review is only available to individuals, not organisations.",
+          "D": "Yes — any citizen can challenge any government decision by judicial review."
+        },
+        "correct": "B",
+        "explanation": "Senior Courts Act 1981 s.31(3) requires the claimant to have a 'sufficient interest'. In R v Foreign Secretary ex parte World Development Movement [1995] the Divisional Court held that an NGO had sufficient interest to challenge a government decision on overseas aid, despite having no direct financial or property interest. Factors included the importance of vindicating the rule of law and the absence of anyone with a greater personal interest who would challenge the decision. Environmental NGOs with relevant expertise and a demonstrable concern for the subject matter regularly satisfy the sufficient interest test in planning and environmental cases. Option A is too restrictive. Option C is wrong. Option D overstates standing.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-043",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Prerogative powers",
+        "difficulty": "Foundation",
+        "stem": "The Prime Minister exercises prerogative power to deploy armed forces overseas. Marcus Bridgewater seeks judicial review of this decision. What is the court likely to decide?",
+        "options": {
+          "A": "The court will quash the decision as unlawful.",
+          "B": "The deployment of armed forces is a non-justiciable prerogative power; courts will decline to review decisions in this area on the basis that it involves questions of national security and foreign policy that are not susceptible to judicial review (R v Secretary of State for Foreign Affairs ex parte Everett [1989]; CCSU v Minister for the Civil Service [1985]).",
+          "C": "The court will review the decision but apply a lower standard of scrutiny.",
+          "D": "The Prime Minister's prerogative powers are immune from any legal challenge whatsoever."
+        },
+        "correct": "B",
+        "explanation": "In CCSU v Minister for the Civil Service [1985] the House of Lords confirmed that while prerogative powers are in principle reviewable, certain prerogative decisions are non-justiciable — they are not amenable to judicial review because they involve high policy matters (national security, foreign affairs, deployment of armed forces, treaty-making) that courts are institutionally ill-equipped to assess. The deployment of armed forces falls into this category. Courts are not immune from ever reviewing any prerogative exercise (D overstates), but will decline where the subject matter is non-justiciable. Option A overstates judicial willingness to intervene. Option C understates the non-justiciability principle.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-044",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Parliamentary Sovereignty",
+        "subtopic": "Miller (No.1) — prorogation and Parliamentary sovereignty",
+        "difficulty": "Foundation",
+        "stem": "In R (Miller) v Prime Minister [2019] (Miller No.2), the Supreme Court ruled that the Prime Minister's advice to prorogue Parliament for five weeks was unlawful. On what basis?",
+        "options": {
+          "A": "The prorogation breached the European Communities Act 1972.",
+          "B": "The prorogation was unlawful because it had the effect of frustrating Parliament's ability to carry out its constitutional functions without reasonable justification — the prerogative to prorogue cannot be used in a way that defeats the constitutional principles of Parliamentary sovereignty and the accountability of the executive to Parliament.",
+          "C": "The Queen acted unlawfully by proroguing Parliament.",
+          "D": "Prorogation is always unlawful if it lasts more than four weeks."
+        },
+        "correct": "B",
+        "explanation": "In R (Miller) v Prime Minister [2019] the Supreme Court held unanimously that the Prime Minister's advice to prorogue Parliament for five weeks (in a period of acute constitutional importance around Brexit) was unlawful. The Court reasoned that the prerogative to advise prorogation cannot be used in a way that frustrates Parliament from exercising its fundamental constitutional functions (scrutiny of the executive and legislation). There was no reasonable justification for the extended prorogation. The decision was justiciable — courts can review exercises of prerogative power for constitutional lawfulness. Option A is wrong. Option C is wrong — the Queen acted on advice. Option D invents a fixed time limit.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-045",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Devolution",
+        "subtopic": "Legislative consent motions — Sewel Convention",
+        "difficulty": "Foundation",
+        "stem": "The UK Parliament wishes to legislate on a matter that falls within the legislative competence of the Scottish Parliament. What constitutional convention applies?",
+        "options": {
+          "A": "The UK Parliament cannot legislate on devolved matters under any circumstances.",
+          "B": "The Sewel Convention — by convention, the UK Parliament will not normally legislate on devolved matters without the consent of the devolved legislature (expressed through a legislative consent motion); this convention was given statutory recognition in the Scotland Act 2016 s.2 but remains a convention, not a legally enforceable rule.",
+          "C": "The Scottish Parliament must hold a referendum before consenting.",
+          "D": "The UK Parliament must obtain court approval before legislating on devolved matters."
+        },
+        "correct": "B",
+        "explanation": "The Sewel Convention provides that the UK Parliament will not normally legislate with regard to devolved matters without the consent of the relevant devolved legislature. It is expressed through Legislative Consent Motions (LCMs). Scotland Act 2016 s.2 gave the convention statutory recognition ('it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the Scottish Parliament'), but the Supreme Court in R (Miller) v Secretary of State [2017] (Miller No.1) confirmed that it remains a political convention, not a legally enforceable obligation — the UK Parliament retains sovereignty to legislate even without consent. Option A overstates the constraint on the UK Parliament. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-046",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Proportionality in HRA/ECHR cases",
+        "difficulty": "Application",
+        "stem": "The government introduces a restriction on the right to assembly that interferes with Article 11 ECHR. In assessing the lawfulness of the restriction under the HRA 1998, what test does the court apply?",
+        "options": {
+          "A": "Wednesbury unreasonableness only.",
+          "B": "A structured proportionality analysis: (i) is the aim legitimate? (ii) is the restriction rationally connected to the aim? (iii) could a less restrictive measure achieve the aim? (iv) does the restriction strike a fair balance between the rights of the individual and the interests of the community? (De Freitas v Permanent Secretary [1999]; Bank Mellat v Her Majesty's Treasury [2013]).",
+          "C": "The court defers entirely to the government's judgment on national security grounds.",
+          "D": "The restriction is automatically unlawful if it infringes an Article 11 right."
+        },
+        "correct": "B",
+        "explanation": "In HRA 1998 cases involving qualified Convention rights, English courts apply a structured proportionality analysis. In Bank Mellat v Her Majesty's Treasury (No.2) [2013] the Supreme Court set out a four-stage test: (i) whether the objective is sufficiently important to justify limiting the right; (ii) whether the measure is rationally connected to the objective; (iii) whether a less intrusive measure could achieve the same objective; and (iv) whether, balancing the severity of the rights restriction against the importance of the objective, a fair balance has been struck. This is more intensive than Wednesbury (A). Blanket deference (C) is inappropriate for human rights interferences. Automatic invalidity (D) is wrong — Article 11 is a qualified right with permitted restrictions.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-047",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Judicial review — alternative remedies",
+        "difficulty": "Foundation",
+        "stem": "Marcus Bridgewater wishes to challenge a planning inspector's decision by judicial review. An alternative statutory appeal exists under the Town and Country Planning Act 1990 s.288 to the High Court. What is the court likely to do with his judicial review application?",
+        "options": {
+          "A": "Hear the judicial review regardless of the alternative remedy.",
+          "B": "Likely refuse permission for judicial review on the basis that the claimant has an adequate alternative remedy available — courts generally require claimants to exhaust available alternative remedies before granting judicial review.",
+          "C": "Grant judicial review automatically because planning decisions affect property rights.",
+          "D": "Transfer the judicial review application to the planning inspector."
+        },
+        "correct": "B",
+        "explanation": "A fundamental principle governing the grant of permission for judicial review is that the claimant must have no adequate alternative remedy (or must have exhausted available alternatives). Where Parliament has provided a specific statutory right of appeal (such as s.288 TCPA 1990), courts will ordinarily refuse judicial review and require the claimant to use the statutory route. This prevents judicial review from becoming a general appeal mechanism. Exceptions exist (e.g., the statutory route is inadequate or the point is one of pure law) but they are narrow. Options A, C and D ignore the alternative remedy principle.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-048",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 14 — prohibition of discrimination",
+        "difficulty": "Foundation",
+        "stem": "The Wharton Magna Council provides a benefit to married couples but not to unmarried couples in otherwise identical situations. A cohabiting couple challenges this under Article 14 ECHR. What must they show?",
+        "options": {
+          "A": "Article 14 is a free-standing right to equality that applies in all circumstances.",
+          "B": "Article 14 prohibits discrimination in the enjoyment of the rights and freedoms set out in the Convention; the couple must show: (i) they fall within the ambit of another Convention right (e.g., Article 8 — family life); (ii) they have been treated differently from others in an analogous situation; (iii) there is no objective justification for the difference in treatment.",
+          "C": "The couple must show the council intended to discriminate against them.",
+          "D": "Article 14 can only be invoked by persons in protected classes defined by UK statute."
+        },
+        "correct": "B",
+        "explanation": "Article 14 ECHR prohibits discrimination in the enjoyment of Convention rights and freedoms — it is not a free-standing right to equality (A). To invoke Article 14, the claimant must bring the complaint within the ambit of another Convention right. Once within the ambit, the court considers whether: (i) the claimant is treated differently from others in an analogous situation; (ii) there is an objective and reasonable justification for the different treatment (proportionality). Marital status is a ground analogous to those listed in Article 14. Unlike UK equality law, Article 14 does not require proof of intent to discriminate (C). The grounds listed in Article 14 are not exhaustive — 'other status' can include marital/relationship status (D is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-049",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Rule of law — legality principle",
+        "difficulty": "Application",
+        "stem": "A Minister purports to use a wide Henry VIII clause in a statute to repeal primary legislation without Parliamentary approval. Lord Judge (former Lord Chief Justice) criticises this. On what constitutional principle is this criticism based?",
+        "options": {
+          "A": "The rule of law and Parliamentary sovereignty — Henry VIII clauses allow the executive to amend or repeal primary legislation by secondary legislation, bypassing the normal legislative process; this concentrates power in the executive and undermines parliamentary scrutiny and the constitutional principle that primary legislation should only be changed by Parliament.",
+          "B": "Separation of church and state.",
+          "C": "The royal prerogative.",
+          "D": "EU law supremacy."
+        },
+        "correct": "A",
+        "explanation": "Henry VIII clauses (so named after the Statute of Proclamations 1539, which gave Henry VIII power to legislate by proclamation) are provisions in primary legislation that grant ministers power to amend or repeal Acts of Parliament by statutory instrument. Critics argue they breach the constitutional principles of parliamentary sovereignty (primary law should be made by Parliament) and the rule of law (citizens should be governed by democratically enacted rules subject to proper scrutiny). The Delegated Powers and Regulatory Reform Committee and senior judges including Lord Judge have expressed serious concerns. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-050",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Duty to give reasons",
+        "difficulty": "Application",
+        "stem": "Councillor Stubbs's planning committee refuses Marcus Bridgewater's application but gives no written reasons. Is there a general duty to give reasons for administrative decisions?",
+        "options": {
+          "A": "No — there is no general common law duty to give reasons, but a duty may arise in specific contexts: where statute requires it; where the decision affects a fundamental right; where there is a legitimate expectation of reasons; or where fairness demands it (R v Higher Education Funding Council ex parte Institute of Dental Surgery [1994]).",
+          "B": "Yes — there is always a general common law duty to give reasons.",
+          "C": "No — reasons are never required for planning decisions.",
+          "D": "Yes — all public decisions must be accompanied by written reasons under the HRA 1998."
+        },
+        "correct": "A",
+        "explanation": "English common law does not impose a general duty on all public bodies to give reasons for all decisions. However, the courts have recognised that in certain circumstances a duty to give reasons does arise: where statute requires it (e.g., the Town and Country Planning (Development Management Procedure) Order 2012 requires reasons for planning refusals, making this a statutory duty in planning); where the decision affects a person's livelihood or fundamental rights; where there is a legitimate expectation of reasons; and in some cases of important administrative decisions (Stefan v GMC [1999]). Option B overstates the common law position. Option C is wrong — planning refusals specifically require reasons by statute. Option D is wrong — HRA 1998 does not create a blanket reasons obligation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-051",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 2 — right to life",
+        "difficulty": "Application",
+        "stem": "A prisoner dies in Wharton Magna prison in suspicious circumstances. The state's investigation is conducted internally without independent scrutiny. Which Article 2 obligation is engaged beyond the negative duty not to kill?",
+        "options": {
+          "A": "Article 2 imposes a positive procedural obligation to conduct an effective official investigation into deaths where the state may be implicated; the investigation must be independent, adequate, and capable of leading to the identification and punishment of those responsible (Jordan v UK (2001)).",
+          "B": "Article 2 has no positive obligations — only the negative duty not to kill applies.",
+          "C": "Article 3 applies instead of Article 2 where the death occurred in custody.",
+          "D": "The state's internal investigation is always sufficient to discharge Article 2 obligations."
+        },
+        "correct": "A",
+        "explanation": "Article 2 ECHR imposes both substantive and procedural obligations. The substantive obligation includes the negative duty not to take life unlawfully and positive duties to take preventive operational measures where there is a real and immediate risk to life (Osman v UK [1998]). The procedural obligation requires an effective official investigation into deaths where agents of the state are involved or where the state may bear responsibility — the investigation must be independent, adequate, reasonably prompt, and open to public scrutiny (Jordan v UK [2001]). An internal investigation without independence would breach this procedural obligation. Option B is wrong. Option C is wrong — Article 2 applies to deaths, Article 3 to treatment. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-052",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Ministerial responsibility",
+        "difficulty": "Foundation",
+        "stem": "A senior civil servant at the Department for Transport makes a catastrophic error in a major procurement process, costing taxpayers hundreds of millions of pounds. The Minister was unaware. Which constitutional convention is most directly engaged?",
+        "options": {
+          "A": "Individual ministerial responsibility — by convention, ministers are accountable to Parliament for the actions of their departments, including errors by civil servants acting in their name; the extent of personal responsibility depends on whether the minister knew of or directed the error.",
+          "B": "Parliamentary sovereignty — Parliament can investigate the matter.",
+          "C": "The Salisbury Convention — the House of Lords should not block government business.",
+          "D": "Collective Cabinet responsibility — all ministers must collectively support the decision."
+        },
+        "correct": "A",
+        "explanation": "The convention of individual ministerial responsibility requires ministers to be accountable to Parliament for the actions of their departments. However, the extent of personal accountability has evolved: following the Crichel Down Affair (1954), ministers would resign for serious errors even without personal involvement; modern practice is more nuanced — ministers are responsible for explaining errors and providing remedies, but personal resignation may only be expected where the minister was personally involved or where confidence in their leadership has been destroyed. The error by a civil servant engages this convention most directly. The Salisbury Convention (C) concerns Lords-Commons relations. Collective responsibility (D) concerns Cabinet unity.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-053",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Interested parties and interveners",
+        "difficulty": "Foundation",
+        "stem": "A judicial review claim by Marcus Bridgewater challenges a planning permission granted to Ashworth Developments Ltd. The developer has not been named as a defendant. What procedural step should be taken?",
+        "options": {
+          "A": "Ashworth Developments Ltd should be named as an interested party under CPR r.54.6; interested parties are directly affected by the outcome of the claim and are entitled to file an acknowledgment of service and to participate in the hearing.",
+          "B": "The developer has no right to participate in proceedings affecting its permission.",
+          "C": "The developer must issue a separate action to protect its interests.",
+          "D": "Only government departments can be defendants in judicial review."
+        },
+        "correct": "A",
+        "explanation": "CPR r.54.6 requires the claim form in judicial review proceedings to identify any person the claimant considers to be an interested party (a person directly affected by the claim). The permission holder (here Ashworth Developments Ltd) is directly affected by any order quashing the planning permission and must be named. Interested parties may file an acknowledgment of service and participate in the hearing. Option B is wrong — the developer has significant rights at stake and a right to participate. Option C is wrong — there is no need for separate proceedings. Option D is wrong — defendants are public bodies but interested parties can be private persons or companies.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-054",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Horizontal effect",
+        "difficulty": "Foundation",
+        "stem": "Can a private individual sue another private individual directly under the HRA 1998 for breach of a Convention right?",
+        "options": {
+          "A": "No — the HRA 1998 s.6 makes it unlawful for a public authority to act in breach of Convention rights; private individuals cannot directly sue each other under the HRA 1998, though Convention rights may have indirect horizontal effect through courts developing the common law compatibly with Convention rights.",
+          "B": "Yes — the HRA 1998 creates direct rights between all persons.",
+          "C": "Yes — but only for Article 8 (privacy) claims.",
+          "D": "No — only the ECtHR can enforce Convention rights against private parties."
+        },
+        "correct": "A",
+        "explanation": "HRA 1998 s.6 creates a duty only on 'public authorities' not to act incompatibly with Convention rights. A private person cannot sue another private person directly under the HRA 1998 (no 'direct horizontal effect'). However, courts are themselves public authorities and must act compatibly with Convention rights (s.6(3)(a)); this means courts must develop the common law and interpret existing law in a Convention-compatible way even in private litigation (indirect horizontal effect) — as seen in privacy and defamation cases (Campbell v MGN [2004]). Option B overstates the effect. Option C is wrong. Option D is wrong — the ECtHR only has jurisdiction against state parties, not private individuals.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-055",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Injunctive relief — interim relief against the Crown",
+        "difficulty": "Foundation",
+        "stem": "In judicial review proceedings against a government minister, a claimant urgently seeks an interim injunction restraining the minister from implementing a decision pending the outcome of the case. In light of M v Home Office [1993], is an interim injunction available against the Crown?",
+        "options": {
+          "A": "Yes — following M v Home Office [1993] HL, interim injunctions are available against government ministers acting in their official capacity; the Crown is not immune from injunctive relief in public law proceedings.",
+          "B": "No — the Crown has absolute immunity from injunctions.",
+          "C": "Yes — but only for declarations, not injunctions.",
+          "D": "No — only the European Court can grant injunctions against the Crown."
+        },
+        "correct": "A",
+        "explanation": "In M v Home Office [1993] the House of Lords held that courts have jurisdiction to grant injunctions against ministers acting in their official capacity (as distinct from the Crown itself, to which the Crown Proceedings Act 1947 s.21 still limits injunctions). The case also confirmed that ministers can be found in contempt of court for breaching injunctions — maintaining judicial oversight of executive action. Option B incorrectly asserts absolute immunity. Option C is wrong — injunctions, not just declarations, are available. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-056",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Fettering of discretion",
+        "difficulty": "Application",
+        "stem": "A local council adopts a rigid policy that all planning applications in a conservation area will automatically be refused, with no exceptions permitted. Marcus Bridgewater applies and is automatically refused. Is the policy lawful?",
+        "options": {
+          "A": "No — a public authority that has a statutory discretion must genuinely exercise it in each case; adopting a rigid policy that fetters the discretion by allowing no exceptions is unlawful (British Oxygen Co v Board of Trade [1971]).",
+          "B": "Yes — a council may set firm policies to ensure consistency.",
+          "C": "Yes — provided the policy was adopted by a full council vote.",
+          "D": "No — only central government can create planning policies."
+        },
+        "correct": "A",
+        "explanation": "In British Oxygen Co v Board of Trade [1971] the House of Lords held that a public authority may formulate a policy for the exercise of its statutory discretion, but must not so slavishly follow that policy as to refuse to listen to applicants with exceptional cases. A body with a discretion must genuinely consider each case on its merits — a rigid 'no exceptions' policy fetters the discretion and makes the refusal unlawful without proper consideration. The council may have a general presumption against development in conservation areas, but must consider individual applications. Options A and C permit an unlawful rigidity. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-057",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Fixed-term parliaments and dissolution",
+        "difficulty": "Foundation",
+        "stem": "Following the repeal of the Fixed-term Parliaments Act 2011 by the Dissolution and Calling of Parliament Act 2022, how is Parliament now dissolved?",
+        "options": {
+          "A": "Parliament is dissolved by prerogative power — the monarch, on the advice of the Prime Minister, dissolves Parliament; the FTPA 2011's fixed-term and early-election mechanisms have been repealed and the prerogative restored.",
+          "B": "Parliament dissolves automatically at the end of a five-year fixed term.",
+          "C": "Parliament can only be dissolved by a two-thirds vote of the House of Commons.",
+          "D": "Parliament can only be dissolved by Act of Parliament."
+        },
+        "correct": "A",
+        "explanation": "The Fixed-term Parliaments Act 2011 introduced fixed five-year terms and a mechanism for early elections requiring a two-thirds majority. The Dissolution and Calling of Parliament Act 2022 repealed the FTPA 2011 and restored the monarch's prerogative power to dissolve Parliament on the advice of the Prime Minister. The Act also expressly provides that the decision to dissolve and the calling of a new Parliament are non-justiciable. Options A and C describe the now-repealed FTPA regime. Option D is wrong — no Act of Parliament is needed.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-058",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Costs in judicial review — protective costs orders",
+        "difficulty": "Foundation",
+        "stem": "An environmental NGO brings a judicial review challenging a government environmental decision. The NGO is concerned about costs exposure if it loses. What costs protection mechanism may be available?",
+        "options": {
+          "A": "A Protective Costs Order (PCO) / Cost Capping Order under CPR r.46.16-17 — in public interest litigation, a court may cap the claimant's liability for the defendant's costs if the case raises an issue of genuine public importance and it would not be reasonable to expect the claimant to proceed without costs protection (Corner House Research [2005]).",
+          "B": "No costs protection is available in judicial review.",
+          "C": "Legal aid is automatically available to NGOs bringing environmental claims.",
+          "D": "The claimant always pays the defendant's costs in judicial review."
+        },
+        "correct": "A",
+        "explanation": "In R (Corner House Research) v Secretary of State for Trade and Industry [2005] the Court of Appeal set out the criteria for Protective Costs Orders (now Cost Capping Orders under CPR r.46.16-17) in public interest litigation: (i) the case raises issues of genuine public importance; (ii) the public interest requires the case to be resolved; (iii) the claimant has no private interest in the outcome; (iv) the claimant would not proceed without costs protection; (v) it is fair and just in all the circumstances. In Aarhus Convention cases (environmental judicial review), CPR r.45.41-44 provides specific fixed costs protection for qualifying claimants. Option B is wrong. Option C is wrong. Option D is wrong — the normal rule of costs following the event applies, subject to PCO/CCO.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-059",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Damages under the HRA",
+        "difficulty": "Foundation",
+        "stem": "A court finds that a public authority has violated Marcus Bridgewater's Convention rights. In deciding whether to award damages under HRA 1998 s.8, what principle does the court apply?",
+        "options": {
+          "A": "The court may award damages only if it is necessary to afford just satisfaction under s.8(3), having regard to the principles applied by the ECtHR; damages are not automatically awarded — a declaration or other relief may be sufficient.",
+          "B": "Damages are automatically awarded for every Convention breach.",
+          "C": "HRA damages are assessed on the same basis as common law tort damages.",
+          "D": "Only the ECtHR can award damages for Convention breaches."
+        },
+        "correct": "A",
+        "explanation": "HRA 1998 s.8 provides that where a court finds a public authority has acted unlawfully (in breach of s.6), it may grant such relief or remedy as it considers just and appropriate, including damages. However, s.8(3) restricts the power to award damages to cases where it is necessary to afford just satisfaction. The court is guided by the principles of the ECtHR, which often awards modest 'just satisfaction' rather than full compensatory damages. A declaration that rights have been violated may be sufficient in some cases. HRA damages are not assessed the same as common law tort damages (C). Option D is wrong — domestic courts have this power under s.8.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-CAL-MCQ-060",
+        "flk": "FLK1",
+        "subject": "Constitutional & Administrative Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Advising on judicial review — prospects assessment",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is instructed to bring a judicial review on behalf of Marcus Bridgewater. Crane privately thinks the claim has very limited prospects of obtaining permission. He does not share this view with Bridgewater. Which SRA Code obligation is most directly engaged?",
+        "options": {
+          "A": "The duty to act in clients' best interests includes providing an honest assessment of the merits and prospects of litigation, even if this advice is unwelcome; withholding this assessment breaches para 1.2 and para 1.4 (SRA Code).",
+          "B": "No obligation — the client gives instructions and the solicitor follows them.",
+          "C": "The duty of confidentiality prevents Crane from sharing his views.",
+          "D": "The duty to the court requires Crane to disclose his doubts to the Administrative Court."
+        },
+        "correct": "A",
+        "explanation": "SRA Principle 7 requires solicitors to act in the best interests of each client, which includes giving honest advice about the merits and risks of litigation — even when this is unwelcome. Para 1.4 requires solicitors not to mislead or attempt to mislead their clients. Withholding an honest assessment of poor prospects deprives the client of information essential for an informed decision about whether to pursue costly proceedings. SRA Code para 3.4 also requires solicitors not to suppress their professional judgment. The duty of confidentiality (C) concerns disclosure to third parties, not honesty with one's own client. Disclosure to the court (D) is not required — though a solicitor should not make representations about merits they do not believe.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "CAL-061",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Proportionality — depth of review",
+        "difficulty": "Complex",
+        "stem": "Marcus Bridgewater challenges a Home Office decision refusing him indefinite leave to remain on grounds it interferes with his Article 8 ECHR rights. The Upper Tribunal applies proportionality review. Which statement best describes the proportionality analysis under Bank Mellat v HM Treasury (No 2) [2013]?",
+        "options": {
+          "A": "The court applies a structured four-stage test: legitimate aim, rational connection, no less restrictive alternative, and fair balance between individual and community interests.",
+          "B": "The court asks only whether the decision is manifestly disproportionate, deferring entirely to ministerial judgment on necessity.",
+          "C": "Proportionality under the HRA is identical to Wednesbury unreasonableness and adds no additional scrutiny.",
+          "D": "The court may only apply proportionality when the claimant relies on an absolute Convention right such as Article 3."
+        },
+        "correct": "A",
+        "explanation": "Bank Mellat (No 2) [2013] UKSC 39 confirmed a structured four-stage proportionality analysis: (i) sufficiently important objective; (ii) rational connection between measure and objective; (iii) no less restrictive alternative; (iv) fair balance. This is more intensive than Wednesbury and applies across qualified rights. Option B conflates proportionality with an older margin of appreciation approach; C incorrectly equates the tests; D wrongly limits proportionality to absolute rights.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-062",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 9 ECHR — freedom of thought, conscience and religion",
+        "difficulty": "Application",
+        "stem": "Donna Pearce, a care home employee, is dismissed after refusing to work Sunday shifts on religious grounds. She argues her Article 9 ECHR rights were violated. The employer is a private company. Which statement correctly identifies the legal position?",
+        "options": {
+          "A": "Article 9 ECHR binds private employers directly under the HRA 1998, so the dismissal is automatically unlawful.",
+          "B": "Article 9 is an absolute right and cannot be interfered with by any employer, public or private.",
+          "C": "The HRA does not bind private employers directly, but courts as public authorities must develop common law compatibly with Convention rights, and employment tribunals must interpret the Equality Act 2010 compatibly with Article 9.",
+          "D": "Article 9 protection is limited to attendance at religious services and does not extend to refusal to work on a particular day."
+        },
+        "correct": "C",
+        "explanation": "The HRA 1998 s.6 binds public authorities, not private employers directly. However, tribunals as public authorities (s.6) must act compatibly with Convention rights, and s.3 requires legislation (including EA 2010) to be read compatibly. Article 9(2) allows interference for legitimate aims proportionately pursued — it is a qualified, not absolute, right. Courts develop the common law consistently with Convention rights (Campbell v MGN). Options A and C overstate horizontal direct effect; D wrongly narrows the scope of Article 9.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-063",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 11 ECHR — freedom of assembly and association",
+        "difficulty": "Application",
+        "stem": "Councillor Stubbs issues a dispersal order under the Police, Crime, Sentencing and Courts Act 2022 preventing a protest group organised by Rachel Okonkwo from assembling in the town square. Rachel seeks judicial review arguing a breach of Article 11. Which ground is most likely to succeed?",
+        "options": {
+          "A": "The order is unlawful because Article 11 confers an absolute right to peaceful assembly that cannot be restricted.",
+          "B": "Dispersal orders under statute can never be challenged in judicial review as Parliament has authorised them.",
+          "C": "The order may be unlawful if it was not prescribed by law, did not pursue a legitimate aim, or was not necessary in a democratic society — the court applying proportionality review.",
+          "D": "Article 11 does not apply to outdoor protests; its protection is limited to indoor meetings."
+        },
+        "correct": "C",
+        "explanation": "Article 11(2) permits interference with assembly and association rights where it is: (i) prescribed by law; (ii) pursues a legitimate aim (public safety, prevention of disorder, etc.); (iii) necessary in a democratic society (proportionate). Courts apply structured proportionality review under the HRA. The power must be exercised compatibly; a blanket ban without particularised justification may be disproportionate. A is wrong — Article 11 is qualified; C is wrong — statutory powers must be exercised compatibly with HRA; D has no basis in law.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-064",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Judicial deference and the separation of powers",
+        "difficulty": "Complex",
+        "stem": "In a judicial review of a government decision to deploy troops abroad, the court is asked to assess whether the operation is consistent with international law. Which principle best explains why the court is likely to decline to adjudicate the substantive military question?",
+        "options": {
+          "A": "The court lacks jurisdiction over any matter involving the executive branch.",
+          "B": "The principle of parliamentary sovereignty means courts must follow executive decisions on military matters.",
+          "C": "Decisions involving high policy, foreign affairs and national security are non-justiciable or attract a wide margin of appreciation, and courts will not second-guess complex military and political judgments.",
+          "D": "Judicial review is only available for domestic decisions; international matters are entirely excluded from the supervisory jurisdiction."
+        },
+        "correct": "C",
+        "explanation": "Courts recognise areas of non-justiciability — matters so inherently political or requiring specialist expertise (military strategy, foreign policy) that judicial intervention is inappropriate (Council of Civil Service Unions v Minister for the Civil Service [1985]). This is distinct from an absolute bar on jurisdiction; courts retain supervisory jurisdiction but apply a wide margin of appreciation in high-policy areas. A is too absolute — courts have jurisdiction but exercise restraint; C misstates parliamentary sovereignty; D is incorrect — domestic courts can consider international law issues.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-065",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Remedial orders — s.10 HRA",
+        "difficulty": "Complex",
+        "stem": "A declaration of incompatibility has been made in respect of a provision of the Immigration Act. The relevant minister wishes to amend the legislation quickly without a full parliamentary bill. Which mechanism enables this?",
+        "options": {
+          "A": "The minister may unilaterally repeal the incompatible provision by executive order without parliamentary involvement.",
+          "B": "No amendment is possible without a full Act of Parliament — delegated legislation cannot amend primary legislation.",
+          "C": "The minister may use a remedial order under s.10 HRA 1998 to amend primary legislation by statutory instrument, subject to parliamentary scrutiny under Schedule 2.",
+          "D": "The minister must apply to the Supreme Court for an order directing Parliament to legislate."
+        },
+        "correct": "C",
+        "explanation": "Section 10 HRA 1998 provides a 'fast-track' procedure: where a declaration of incompatibility has been made (or a judgment of the ECtHR requires it), a minister may make a remedial order by statutory instrument to amend the incompatible legislation. Schedule 2 HRA sets out parliamentary scrutiny requirements (usually super-affirmative procedure). This is a Henry VIII power specifically created by the HRA. A is wrong — parliamentary involvement is required; C is incorrect — s.10 expressly permits SI amendment of primary legislation; D does not reflect the legal position.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-066",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Devolution",
+        "subtopic": "Welsh devolution — Senedd Cymru competence",
+        "difficulty": "Application",
+        "stem": "The Senedd passes legislation regulating land transactions in Wales. Westminster subsequently passes an Act of Parliament covering the same subject matter without consulting Cardiff. Which statement best describes the constitutional position?",
+        "options": {
+          "A": "The Westminster Act is invalid because devolution permanently transferred land law competence to the Senedd.",
+          "B": "The Senedd has exclusive competence over land law in Wales and Westminster legislation automatically ceases to apply.",
+          "C": "Westminster retains parliamentary sovereignty and may legislate for Wales on any matter, but the Sewel Convention requires it to seek the Senedd's legislative consent for devolved matters.",
+          "D": "Devolved legislation always takes precedence over Westminster Acts in Wales by virtue of the Wales Act 2017."
+        },
+        "correct": "C",
+        "explanation": "Parliamentary sovereignty means Westminster retains legislative competence over all matters including Wales (Wales Act 2017 s.2 restates supremacy). The Sewel Convention (now reflected in Wales Act 2017 s.107(6)) requires Westminster to seek legislative consent from the Senedd before legislating in devolved areas. However, in Miller [2017] the Supreme Court confirmed the convention is not legally enforceable — Parliament may legislate without consent. The Senedd's competence is conferred by statute and subject to reserved matters. A and C are wrong; D misstates the hierarchy.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-067",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Devolution",
+        "subtopic": "Northern Ireland — Belfast Agreement and the Assembly",
+        "difficulty": "Application",
+        "stem": "A Northern Ireland Assembly Act purports to legislate on a 'excepted' matter under Schedule 2 to the Northern Ireland Act 1998. The Attorney General refers the question to the Supreme Court. What is the likely outcome?",
+        "options": {
+          "A": "The Act is valid because the Northern Ireland Assembly has unfettered legislative competence.",
+          "B": "The Supreme Court has no jurisdiction to review Northern Ireland Assembly legislation.",
+          "C": "The Act is outside the Assembly's legislative competence and the court will make a declaration accordingly, with the provision having no effect.",
+          "D": "Excepted matters may be legislated on by the Assembly with the Secretary of State's written consent."
+        },
+        "correct": "C",
+        "explanation": "The Northern Ireland Act 1998 s.6 provides that an Assembly Act is not law to the extent it is outside legislative competence. Schedule 2 lists 'excepted matters' (reserved exclusively to Westminster, e.g., the Crown, international relations, defence). The Supreme Court has jurisdiction to determine legislative competence under s.11 NIA 1998. A provision on an excepted matter has no effect. Option D describes the position for 'reserved matters' (Schedule 3), not excepted matters. Options A and C are incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-068",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Freedom of Information",
+        "subtopic": "FOIA 2000 — qualified exemptions and public interest test",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma makes a FOIA request to Wharton Borough Council for internal communications relating to a planning decision affecting Ashworth Developments Ltd. The council refuses under s.36 FOIA (prejudice to effective conduct of public affairs). What must the council demonstrate?",
+        "options": {
+          "A": "Disclosure would absolutely harm the conduct of public affairs — no balancing exercise is required.",
+          "B": "The information is entirely exempt from disclosure because it relates to a local authority decision.",
+          "C": "The qualified person has given a reasonable opinion that disclosure would or would be likely to inhibit free and frank discussion, and the public interest in maintaining the exemption outweighs the public interest in disclosure.",
+          "D": "The council need only show the information is commercially sensitive to rely on s.36."
+        },
+        "correct": "C",
+        "explanation": "Section 36 FOIA is a qualified exemption applicable to public authorities (other than government departments for s.36(2)(c)). The 'qualified person' (usually the Speaker/minister/monitoring officer) must give a reasonable opinion that one of the specified prejudices would occur. Being qualified, the exemption is subject to the public interest test in s.2 FOIA — the public interest in maintaining the exemption must outweigh the public interest in disclosure. A wrongly treats it as absolute; C and D misstate the basis for the exemption.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-069",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Natural justice — rule against bias (nemo iudex)",
+        "difficulty": "Application",
+        "stem": "A planning inspector conducting an inquiry into an application by Ashworth Developments Ltd is discovered to hold shares in a rival development company. Diana Pelletier, objecting to the development, applies for judicial review. Which test determines whether the inspector is disqualified?",
+        "options": {
+          "A": "Whether the inspector actually allowed the shareholding to influence the decision (subjective bias).",
+          "B": "Whether the inspector's interest is so substantial that it automatically disqualifies them regardless of any appearance (automatic disqualification for pecuniary interest).",
+          "C": "Whether a fair-minded and informed observer would conclude there is a real possibility that the decision-maker was biased (the Porter v Magill objective test).",
+          "D": "Whether the claimant can prove on the balance of probabilities that the inspector consciously preferred the rival company's interests."
+        },
+        "correct": "C",
+        "explanation": "Porter v Magill [2001] UKHL 67 established that the test for apparent bias is whether a fair-minded and informed observer, having considered the facts, would conclude there is a real possibility that the tribunal was biased. A financial interest in a rival (rather than the applicant) would be analysed under this objective test rather than automatic disqualification (which applies to direct financial interests in the outcome — Dimes v Grand Junction Canal). Options A and D require proof of actual bias; B applies to direct financial interests in the proceedings, not a rival company.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-070",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Substantive legitimate expectation",
+        "difficulty": "Complex",
+        "stem": "The Secretary of State for Health publishes a policy document stating that NHS patients who have been waiting more than 18 weeks will receive priority treatment. Hassan Nazari has waited 22 weeks and is told the policy no longer applies following budget cuts. He seeks judicial review. Which statement best reflects the law on substantive legitimate expectation?",
+        "options": {
+          "A": "Substantive legitimate expectations are not recognised in English administrative law; only procedural expectations can be enforced.",
+          "B": "The Secretary of State may freely depart from any published policy without any obligation to Hassan because policy documents are not legally binding.",
+          "C": "A clear and unambiguous promise or established practice may give rise to a substantive legitimate expectation; the authority may only depart from it if there is an overriding public interest justification proportionate to the impact on the individual.",
+          "D": "Once a legitimate expectation arises, the authority is absolutely bound by the original promise and cannot depart from it under any circumstances."
+        },
+        "correct": "C",
+        "explanation": "English courts recognise substantive legitimate expectations following R v North and East Devon HA ex p Coughlan [2001]. Where there is a clear, unambiguous representation to an individual or group, the court may hold the authority to its promise unless: (i) it is unlawful to do so; or (ii) there is a sufficiently overriding public interest justification, proportionately pursued. The court must balance the public interest against the impact on the individual. A is wrong — substantive expectations are recognised; C overstates the freedom to depart; D is too absolute.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-071",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Error of law — jurisdictional review",
+        "difficulty": "Complex",
+        "stem": "A statutory tribunal interprets its enabling Act as excluding a class of applicants from its jurisdiction. The applicant argues this interpretation is wrong in law. Following Anisminic Ltd v Foreign Compensation Commission [1969] and Cart v Upper Tribunal [2011], which proposition correctly states the supervisory jurisdiction of the High Court?",
+        "options": {
+          "A": "The High Court cannot review errors of law made within the tribunal's jurisdiction — only 'excess of jurisdiction' is reviewable.",
+          "B": "Only the Supreme Court can correct errors of law made by specialist tribunals.",
+          "C": "Judicial review of tribunal decisions on legal interpretation is barred by the principle of statutory finality.",
+          "D": "Following Anisminic, all errors of law by inferior tribunals are jurisdictional; the High Court retains supervisory jurisdiction over all errors of law, subject to Cart limitations on upper tribunal review."
+        },
+        "correct": "D",
+        "explanation": "Anisminic [1969] AC 147 collapsed the distinction between jurisdictional and non-jurisdictional errors: any error of law by an inferior body is a jurisdictional error subject to judicial review. Cart v Upper Tribunal [2011] UKSC 28 (subsequently refined by R (Cart) considerations and the Judicial Review and Courts Act 2022) addressed the Upper Tribunal specifically. The general principle remains that superior courts supervise inferior tribunals for legal error. A reflects the pre-Anisminic position; Option D is wrong; C is incorrect — finality clauses are limited by Anisminic.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-072",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Public law remedies — declarations",
+        "difficulty": "Application",
+        "stem": "Priya Mehta obtains a declaration from the Administrative Court that the Secretary of State's policy on welfare benefits is unlawful. The Secretary of State maintains the policy in place. What is the legal effect?",
+        "options": {
+          "A": "The declaration is automatically enforceable and the Secretary of State may be imprisoned for contempt if the policy continues.",
+          "B": "Declarations are only advisory opinions and create no legal obligation whatsoever.",
+          "C": "The effect of a declaration is to immediately and automatically void the impugned policy without further order.",
+          "D": "A declaration is a discretionary remedy that pronounces the legal position but is not directly coercive; in practice, public authorities comply, but non-compliance must be enforced through further proceedings such as mandamus or contempt (if an injunction is also granted)."
+        },
+        "correct": "D",
+        "explanation": "A declaration is a discretionary remedy that authoritatively states the law but does not directly compel action (R v Secretary of State for Employment ex p Equal Opportunities Commission [1995]). Public authorities conventionally comply. Enforcement of compliance requires additional orders — a mandatory order (mandamus) or an injunction — and contempt proceedings may follow breach of a court order, not the declaration itself. M v Home Office [1994] confirmed even the Crown can be found in contempt for breach of an injunction. Option B understates the legal significance; C is incorrect; A overstates the direct enforceability of a bare declaration.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-073",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Carltona principle — delegation within government",
+        "difficulty": "Application",
+        "stem": "A statutory power to grant emergency licences is vested in the Secretary of State for Business. A senior civil servant in the department exercises the power without the Secretary of State's specific awareness of this particular decision. Is this lawful?",
+        "options": {
+          "A": "No — all statutory powers vested in a minister must be personally exercised by that minister and cannot be delegated.",
+          "B": "Yes, but only if the civil servant holds a grade above Deputy Secretary.",
+          "C": "Yes, but only if Parliament has expressly authorised delegation in the enabling Act.",
+          "D": "Yes — under the Carltona principle, civil servants exercising statutory powers vested in a minister act as the minister's alter ego; the minister remains constitutionally responsible."
+        },
+        "correct": "D",
+        "explanation": "The Carltona principle (Carltona Ltd v Commissioners of Works [1943]) holds that powers conferred on a minister may be exercised by officials of appropriate seniority within the department without express statutory authorisation to delegate. The minister remains constitutionally and politically responsible for the exercise of the power. The principle reflects the constitutional reality of modern government. Express statutory authorisation is not required (distinguishing Carltona delegation from delegation to outside bodies). A is wrong; C and D add requirements not found in the Carltona principle.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-074",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Crown immunity and public interest immunity",
+        "difficulty": "Complex",
+        "stem": "In judicial review proceedings brought by Gerald Crane, the government claims public interest immunity (PII) over certain documents on the ground of national security. The court must decide whether to uphold the claim. Which statement best describes the court's role?",
+        "options": {
+          "A": "The court must accept any ministerial certificate claiming PII without further inquiry.",
+          "B": "PII is an absolute right of the executive that cannot be challenged in judicial proceedings.",
+          "C": "PII claims automatically prevail over disclosure obligations in all cases involving national security.",
+          "D": "The court must balance the public interest in non-disclosure against the public interest in the administration of justice, and may inspect the documents privately (in camera) to make that assessment."
+        },
+        "correct": "D",
+        "explanation": "Following Conway v Rimmer [1968] AC 910 and R v Chief Constable of West Midlands Police ex p Wiley [1995], courts do not simply accept ministerial PII certificates. They conduct a balancing exercise: the public interest in non-disclosure (e.g. national security, candour) weighed against the public interest in the administration of justice. The court may inspect documents privately. The Conway v Rimmer decision overruled the House of Lords' earlier deference in Conway v Rimmer and confirmed judicial oversight. Options A, C and D reflect the pre-1968 position, which is no longer law.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-075",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Standing — individuals and associations",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski, a local resident living 3 km from a proposed industrial facility, applies for judicial review of the planning permission granted to Hollowell Engineering by Wharton Borough Council. Has he sufficient standing?",
+        "options": {
+          "A": "Only immediately adjacent neighbours have standing to challenge planning decisions in judicial review.",
+          "B": "Alek must demonstrate he is directly employed in the local area to satisfy the sufficient interest test.",
+          "C": "Standing in planning judicial review is governed by the Town and Country Planning Act 1990 and requires Alek to have made representations at the planning inquiry.",
+          "D": "Under s.31(3) Senior Courts Act 1981, the court grants permission if the claimant has sufficient interest in the matter; proximity, local connection and potential impact on amenity may collectively satisfy this, even at 3 km."
+        },
+        "correct": "D",
+        "explanation": "Section 31(3) Senior Courts Act 1981 requires 'sufficient interest'. Courts have interpreted this broadly (R v IRC ex p National Federation of Self-Employed [1982]). In planning cases, local residents who may be affected by environmental or amenity impacts typically have sufficient interest even without living immediately adjacent. Prior participation in the planning process is relevant but not always required. A and B apply unduly narrow criteria; D incorrectly substitutes a statutory test from TCPA for the JR standing test.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-076",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Delegated Legislation",
+        "subtopic": "Challenge to delegated legislation — ultra vires",
+        "difficulty": "Application",
+        "stem": "The Minister for Housing makes regulations under the Housing Act 2020 s.45, which provides power to make regulations 'for the purposes of this Act'. The regulations introduce a new criminal offence not contemplated by the 2020 Act. Rachel Okonkwo is prosecuted under the regulation. Which ground of challenge is strongest?",
+        "options": {
+          "A": "The regulation is ultra vires because it goes beyond the scope of the enabling power — creating criminal offences requires express Parliamentary authority.",
+          "B": "The regulation is valid because a minister always has implied power to create criminal offences when exercising delegated legislation powers.",
+          "C": "The challenge must be brought within three months of the regulation being made, otherwise Rachel cannot rely on its invalidity at her prosecution.",
+          "D": "Criminal courts cannot consider the vires of delegated legislation; only the Administrative Court can do so."
+        },
+        "correct": "A",
+        "explanation": "Delegated legislation must remain within the scope of the enabling power (the ultra vires doctrine). Courts will not readily imply power to create criminal offences — clear and express statutory language is required for penal provisions (R v Secretary of State for the Home Department ex p Fire Brigades Union [1995]; principle of legality). A general purpose clause does not suffice. B incorrectly implies inherent ministerial power; C is wrong — invalidity of delegated legislation may be raised as a defence in criminal proceedings without a prior JR (Boddington v British Transport Police [1999]); D is incorrect for the same reason.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-077",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "EU law general principles — retained law",
+        "difficulty": "Complex",
+        "stem": "Following the Retained EU Law (Revocation and Reform) Act 2023, a claimant argues that retained EU general principles of law (such as the principle of effectiveness) still apply to challenge a domestic decision made after the end of the transition period. What is the correct legal position?",
+        "options": {
+          "A": "Retained EU general principles of law continue to apply in full and take precedence over domestic law under the European Communities Act 1972.",
+          "B": "EU general principles apply only in cases where the claimant is an EU national.",
+          "C": "EU general principles such as proportionality and effectiveness are now part of the common law and apply with full EU supremacy.",
+          "D": "The Retained EU Law Act 2023 abolished the supremacy of retained EU law (from 1 January 2024) and the general principles of EU law no longer form part of domestic law so as to give rise to free-standing rights of action."
+        },
+        "correct": "D",
+        "explanation": "The Retained EU Law (Revocation and Reform) Act 2023 ended the supremacy of retained EU law from 1 January 2024 (s.3) and provided that retained EU general principles no longer give rise to rights of action or grounds of challenge after that date (s.4–5). Some EU-derived rights remain via separate statutory provisions, but free-standing reliance on EU general principles as such is no longer available. Option A refers to the pre-REUL Act position; C mischaracterises the current status; D has no legal basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-078",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Parliamentary committees and scrutiny",
+        "difficulty": "Application",
+        "stem": "The Joint Committee on Human Rights publishes a report concluding that a Bill before Parliament is incompatible with the ECHR. The government disagrees and proceeds to pass the Bill. What is the legal effect of the Committee's conclusion?",
+        "options": {
+          "A": "The Bill cannot receive Royal Assent until the incompatibility identified by the Committee is resolved.",
+          "B": "The Committee's finding creates a presumption of incompatibility that the courts must apply when interpreting the resulting Act.",
+          "C": "The Committee's report automatically triggers a reference to the ECtHR before the Bill becomes law.",
+          "D": "The Committee's conclusion is not legally binding; Parliament may pass the Bill, but the report informs parliamentary debate and may lead to scrutiny amendments."
+        },
+        "correct": "D",
+        "explanation": "The JCHR scrutinises legislation for Convention compatibility but its conclusions are not legally binding on Parliament. Parliamentary sovereignty (confirmed by AXA General Insurance v Lord Advocate [2011]) means Parliament may legislate even if incompatibility is identified. The s.19 HRA 1998 ministerial statement of compatibility is a political/constitutional requirement but not a legal precondition for validity. Courts will later apply s.3 HRA to read legislation compatibly or make a declaration under s.4 — but the JCHR report has no direct legal effect in itself. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-079",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Constitutional reform — Supreme Court and judicial independence",
+        "difficulty": "Application",
+        "stem": "Which of the following best describes the significance of the Constitutional Reform Act 2005 for judicial independence in England and Wales?",
+        "options": {
+          "A": "It abolished the role of Lord Chancellor and replaced it with an elected Attorney General.",
+          "B": "It incorporated the ECHR into domestic law for the first time.",
+          "C": "It transferred all judicial appointment powers to the Prime Minister.",
+          "D": "It created the Supreme Court of the United Kingdom, separated the judicial functions of the House of Lords, removed the Lord Chancellor's judicial role, and established the Judicial Appointments Commission to depoliticise judicial selection."
+        },
+        "correct": "D",
+        "explanation": "The Constitutional Reform Act 2005 made three principal changes: (i) created the Supreme Court of the UK (replacing the Appellate Committee of the House of Lords, operational from 2009); (ii) reformed the office of Lord Chancellor, ending the Lord Chancellor's judicial role and removing them from presiding over the Lords in a judicial capacity; (iii) established the Judicial Appointments Commission to make judicial selection more transparent and independent of political influence. Option A misstates the outcome — the Lord Chancellor was reformed, not abolished; C is wrong; D describes the HRA 1998.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-080",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Planning enforcement and judicial review",
+        "difficulty": "Application",
+        "stem": "Wharton Borough Council issues an enforcement notice against Ashworth Developments Ltd requiring demolition of a structure erected without planning permission. James Ashworth argues the notice is invalid because it was served out of time under s.171B TCPA 1990. He applies for judicial review. What is the likely outcome on permission?",
+        "options": {
+          "A": "Permission will be refused automatically because planning disputes must be resolved by the Planning Inspectorate and cannot be judicially reviewed.",
+          "B": "Judicial review of enforcement notices is expressly prohibited by the TCPA 1990.",
+          "C": "The High Court will grant permission and hear the substantive challenge immediately without requiring James to exhaust appeal rights.",
+          "D": "Permission is likely to be refused on the ground that James has an adequate alternative remedy — the right of appeal to the Planning Inspector under s.174 TCPA 1990 — making JR the inappropriate route."
+        },
+        "correct": "D",
+        "explanation": "Courts exercise discretion at the permission stage and will ordinarily refuse JR where an adequate alternative remedy exists (R v IRC ex p Preston [1985]). A right of appeal to the Planning Inspector under s.174 TCPA 1990 is the normal mechanism to challenge enforcement notices, including on time-bar grounds. JR is reserved for cases where the alternative remedy is inadequate. The court would normally require James to use the statutory appeal route. A and D overstate a complete bar; C disregards the alternative remedy principle.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-081",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Police Powers and Civil Liberties",
+        "subtopic": "Police powers — stop and search judicial review",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater is stopped and searched by police using a s.60 Criminal Justice and Public Order Act 1994 power authorised by a senior officer for a designated area including the town centre. He seeks judicial review arguing the authorisation was unlawful. Which argument is most likely to succeed?",
+        "options": {
+          "A": "Section 60 powers cannot be subject to judicial review because they are conferred by statute.",
+          "B": "The three-month time limit does not apply to challenges to s.60 authorisations.",
+          "C": "Marcus must show actual racial discrimination to succeed in a judicial review of a s.60 authorisation.",
+          "D": "The authorisation may be challenged if the authorising officer did not have reasonable grounds to believe violence may occur, or if the conditions for authorisation under s.60 were not met — the court applying public law grounds of review."
+        },
+        "correct": "D",
+        "explanation": "Section 60 CJPOA 1994 authorisations are public law decisions subject to judicial review on standard grounds: illegality (conditions not met), irrationality, procedural impropriety. The statute requires the authorising officer (superintendent or above) to reasonably believe incidents involving serious violence may occur. Failure to meet this threshold renders the authorisation unlawful. A is wrong — statutory powers are judicially reviewable; C wrongly limits the grounds to discrimination; D is incorrect — the three-month time limit under CPR r.54.5 applies.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-082",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Public sector equality duty — s.149 Equality Act 2010",
+        "difficulty": "Application",
+        "stem": "Wharton Borough Council proposes to close the only leisure centre in an area with a high elderly population. Priya Mehta brings judicial review arguing the council failed to have 'due regard' to the public sector equality duty under s.149 Equality Act 2010. Which statement is correct?",
+        "options": {
+          "A": "The PSED requires councils to achieve a specific equality outcome; failure to reduce inequality automatically renders the decision unlawful.",
+          "B": "Compliance with the PSED is a political matter beyond judicial supervision.",
+          "C": "The PSED only applies to decisions on employment matters, not service delivery decisions.",
+          "D": "The PSED requires a public authority to have 'due regard' to protected characteristics before making decisions; the court reviews whether the authority consciously addressed the duty — the duty is to consider, not necessarily to achieve any particular outcome."
+        },
+        "correct": "D",
+        "explanation": "Section 149 Equality Act 2010 requires public authorities to have 'due regard' to equality objectives (eliminating discrimination, advancing equality, fostering good relations) when exercising functions. Courts review whether the authority genuinely considered the PSED at the time of decision (R (Brown) v Secretary of State for Work and Pensions [2008]; Bracking v Secretary of State for Work and Pensions [2013]). The duty is procedural — to consider — not to achieve any outcome. A incorrectly treats it as outcome-based; C incorrectly restricts its scope; D wrongly insulates it from judicial review.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-083",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Procedural impropriety — duty to consult",
+        "difficulty": "Application",
+        "stem": "The Secretary of State proposes to close a number of job centres. A public consultation is launched. However, the consultation document contains no information about the projected impact on local communities and no reasonable period for responses. Diana Pelletier challenges the decision. On which ground is she most likely to succeed?",
+        "options": {
+          "A": "Procedural impropriety — the consultation was so unfair as to be unlawful, failing the Gunning principles requiring adequate information, adequate time and genuine consideration of responses.",
+          "B": "Illegality — there is no statutory power to close job centres.",
+          "C": "Wednesbury unreasonableness — no rational minister would close job centres.",
+          "D": "Human rights — the closure violates a positive obligation under Article 1 Protocol 1 to provide employment centres."
+        },
+        "correct": "A",
+        "explanation": "Where a duty to consult exists (statutory or arising from legitimate expectation), it must meet the minimum standards of fairness identified in R v North and East Devon HA ex p Coughlan (and the Gunning criteria from R v Brent LBC ex p Gunning [1985]): (i) the proposal must be at a formative stage; (ii) sufficient reasons/information must be provided; (iii) adequate time must be given; (iv) responses must be conscientiously considered. An inadequate consultation document and insufficient response period render the process unlawful. A, B and D do not fit the scenario as well as the procedural ground.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-084",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Article 6 ECHR — right to a fair trial in civil proceedings",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is involved in a civil dispute with a public authority over planning compensation. The only mechanism to challenge the authority's determination is an internal review with no right to an independent external hearing. He argues a breach of Article 6(1) ECHR. Is his argument sound?",
+        "options": {
+          "A": "Article 6 applies only to criminal proceedings; civil property disputes are outside its scope.",
+          "B": "Planning disputes are specifically excluded from Article 6 by Protocol 1 ECHR.",
+          "C": "Article 6 is satisfied so long as any internal review procedure exists.",
+          "D": "Article 6(1) applies to the determination of civil rights and obligations; access to an independent and impartial tribunal is required. An internal review without external judicial oversight may breach Article 6 unless there is access to a court with full jurisdiction on the merits."
+        },
+        "correct": "D",
+        "explanation": "Article 6(1) ECHR guarantees the right to a fair hearing by an independent and impartial tribunal for the determination of civil rights and obligations (which includes property and planning rights: Sporrong and Lönnroth v Sweden). Where initial decision-making is by an authority without full independence, Article 6 compliance requires that a court with 'full jurisdiction' is available to review the merits (Bryan v UK [1995]). An internal review alone, without access to an independent external body, is likely insufficient. A is wrong; C is wrong; D has no basis in the Convention.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-085",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Interim relief in judicial review",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo applies for an interim injunction to prevent the demolition of a listed building by Wharton Borough Council pending her judicial review application. The council argues the balance of convenience favours demolition. Which test does the court apply?",
+        "options": {
+          "A": "The court grants an interim injunction only if the claimant demonstrates a certainty of success at the final hearing.",
+          "B": "The court grants an injunction automatically on a JR permission grant to preserve the status quo.",
+          "C": "Interim injunctions are never available against public authorities in judicial review proceedings.",
+          "D": "The American Cyanamid test: (i) a serious issue to be tried; (ii) the balance of convenience (adequacy of damages, status quo); and in public law cases consideration of the public interest."
+        },
+        "correct": "D",
+        "explanation": "The American Cyanamid Co v Ethicon [1975] test applies to interim injunctions: (i) there is a serious issue to be tried; (ii) if yes, would damages be an adequate remedy for the claimant? If not, would they be adequate for the defendant? (iii) balance of convenience. In judicial review against public authorities, additional factors include the public interest in the challenged action proceeding (or not). Injunctions against the Crown are available following M v Home Office [1994]. A sets too high a threshold; C is wrong; D is incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-086",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Prerogative powers — treaty-making",
+        "difficulty": "Application",
+        "stem": "The Prime Minister concludes an international trade treaty by exercise of the royal prerogative. Ravi Sharma argues Parliament must approve the treaty before it can become binding in domestic law. Which statement is correct?",
+        "options": {
+          "A": "Treaties concluded by the royal prerogative automatically form part of domestic law without Parliamentary approval.",
+          "B": "Treaties require a formal Act of Parliament for conclusion but not for domestic legal effect.",
+          "C": "The House of Lords has a veto over ratification of all international treaties.",
+          "D": "Treaty-making is a prerogative power; however, under the Constitutional Reform and Governance Act 2010, treaties must be laid before Parliament for 21 sitting days and may be rejected by a resolution of the House of Commons before ratification."
+        },
+        "correct": "D",
+        "explanation": "Treaty-making is a royal prerogative exercisable by the executive. The dualist system means treaties do not automatically form part of domestic law — an Act of Parliament is required to give them domestic legal effect (J H Rayner (Mincing Lane) Ltd v Department of Trade and Industry [1990]). The Constitutional Reform and Governance Act 2010 (CRaG) codified the Ponsonby Rule: treaties must be laid before Parliament for 21 sitting days; the House of Commons may resolve against ratification. The Lords may also resolve against, but the Commons can override. A is wrong (dualism); C overstates the Lords' role; D conflates treaty conclusion with domestic incorporation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-087",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Judicial Review and Courts Act 2022 — prospective quashing orders",
+        "difficulty": "Complex",
+        "stem": "The High Court finds that a statutory instrument made in 2021 was procedurally unlawful. The claimant seeks a quashing order. The court is considering whether to make a 'suspended quashing order' under the Judicial Review and Courts Act 2022. What does this enable the court to do?",
+        "options": {
+          "A": "Nothing — the 2022 Act removed the court's power to quash statutory instruments.",
+          "B": "The 2022 Act requires the court to make a suspended order in all cases where a statutory instrument is found unlawful.",
+          "C": "A suspended quashing order permanently preserves the validity of the impugned instrument.",
+          "D": "The court may delay the effect of the quashing order to a future date or make the order prospective only (not having retrospective effect), allowing the government time to remedy the unlawfulness and protecting intervening transactions."
+        },
+        "correct": "D",
+        "explanation": "The Judicial Review and Courts Act 2022 s.1 inserted new s.29A Senior Courts Act 1981, enabling courts to make 'prospective-only' quashing orders or to suspend quashing orders to a future date. This allows courts to give effect to the quashing while limiting disruption caused by retrospective invalidity — e.g. protecting people who acted in reliance on the instrument. The court has discretion whether to use this power, weighing legal certainty, rights of affected parties and the public interest. A is wrong; C mischaracterises a suspended order; D is wrong — it is discretionary.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-088",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Judicial Review",
+        "subtopic": "Costs in judicial review — public interest litigation",
+        "difficulty": "Application",
+        "stem": "A public interest environmental group, the Wharton Ecology Trust, brings judicial review of a major infrastructure decision. They apply for a Protective Costs Order (PCO) to cap their adverse costs exposure before permission is granted. On what basis may a PCO be granted?",
+        "options": {
+          "A": "PCOs are available as of right to all claimants who can demonstrate financial hardship.",
+          "B": "A PCO automatically prevents any costs order being made against the claimant in judicial review proceedings.",
+          "C": "PCOs are only available after permission has been granted.",
+          "D": "Following R (Corner House Research) v Secretary of State for Trade and Industry [2005], a PCO may be granted where the case raises a public interest issue of general importance, the claimant has no private interest in the outcome, and the financial resources of the parties are such that failure to grant a PCO would stifle the litigation."
+        },
+        "correct": "D",
+        "explanation": "R (Corner House Research) v Secretary of State for Trade and Industry [2005] EWCA Civ 192 established criteria for PCOs (now Aarhus Convention compliance also relevant for environmental cases): (i) the issues are of general public importance; (ii) the public interest requires them to be resolved; (iii) the claimant has no private interest in the outcome; (iv) having regard to the financial resources and the amount of costs, it would be fair and just to make the order. PCOs may be made at permission stage. A is wrong — not available as of right; C is wrong on timing; D overstates the effect — it caps, does not eliminate, adverse costs.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-089",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Constitutional Principles",
+        "subtopic": "Parliamentary privilege — freedom of speech in Parliament",
+        "difficulty": "Application",
+        "stem": "An MP makes statements in the House of Commons about alleged corruption by Ashworth Developments Ltd. James Ashworth wishes to bring a defamation claim based on those statements. What is the constitutional position?",
+        "options": {
+          "A": "The MP can be sued for defamation in respect of statements made in parliamentary proceedings, subject to qualified privilege.",
+          "B": "The MP would be protected only if the statement was made during a formal debate, not during questions or committee proceedings.",
+          "C": "Parliamentary privilege only protects ministers from defamation claims, not backbench MPs.",
+          "D": "Article 9 of the Bill of Rights 1689 provides that proceedings in Parliament shall not be impeached or questioned in any court; the MP's statements in the House are absolutely privileged and cannot found a defamation action."
+        },
+        "correct": "D",
+        "explanation": "Article 9 of the Bill of Rights 1689 — one of the foundational constitutional instruments — provides that 'the freedom of speech and debates or proceedings in Parliament ought not to be impeached or questioned in any court or place out of Parliament'. This confers absolute privilege on all MPs (and peers) for things said in the course of parliamentary proceedings, including questions, debates and committee hearings. No defamation action can be brought (Prebble v Television New Zealand [1994]). Options A, C and D incorrectly limit or qualify this absolute privilege.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CAL-090",
+        "flk": "FLK1",
+        "subject": "Constitutional and Administrative Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Advising public authority clients — duties and conflicts",
+        "difficulty": "Application",
+        "stem": "A solicitor at Crane & Pelletier advises Wharton Borough Council on its response to a judicial review challenge brought by the Wharton Ecology Trust. The council wishes to continue a policy the solicitor believes has less than a 25% prospect of being upheld. Under the SRA Code of Conduct 2019, what is the solicitor's primary obligation?",
+        "options": {
+          "A": "The solicitor must advise the council to immediately concede the proceedings regardless of the council's own assessment.",
+          "B": "The solicitor must withdraw immediately from representing the council if there is any risk the case will fail.",
+          "C": "The solicitor's duty is solely to advance the council's chosen position regardless of its prospects.",
+          "D": "The solicitor must give the council an honest assessment of prospects, including the risk of an adverse costs order, and advise on merits even if this is unwelcome; the solicitor cannot knowingly mislead the court about the strength of the council's case."
+        },
+        "correct": "D",
+        "explanation": "The SRA Code of Conduct 2019 (Principles 2, 4 and 7 and para 6.4) requires solicitors to act with honesty and integrity, to maintain trust in the profession, and to act in clients' best interests. Paragraph 6.4 requires that solicitors do not mislead the court. The duty to the client includes honest advice on prospects (even where unwelcome), including the financial risk of adverse costs. The solicitor must not advance a case they know to be hopeless without disclosing the position candidly. Option A removes client autonomy; C prioritises client wishes over honesty; D is an overreaction — a poor-prospects case is not automatically grounds for withdrawal.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

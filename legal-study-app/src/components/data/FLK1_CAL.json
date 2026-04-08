@@ -130,7 +130,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CRYSTALLISATION · SEWEL · SCOTLAND ACT 2016 · MILLER NO 1 · MCHARG · JENNINGS · WHEARE · FTPA 2011 · FLEXIBILITY",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -246,7 +246,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CRA 2005 · SEPARATION · SUPREME COURT · JAC · LORD CHANCELLOR · LE SUEUR · COMPARATIVE · STRUCTURAL WEAKNESSES",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -444,7 +444,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "SOVEREIGNTY · COMMON LAW · WADE · LAWS · ALLAN · JACKSON OBITER · PRIVACY INTERNATIONAL · UNRESOLVED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -558,7 +558,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "MANNER AND FORM · HEUSTON · TRETHOWAN · JENNINGS · ELLIOTT · EU ACT 2011 · UNRESOLVED · ENTRENCHMENT",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -776,7 +776,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "MILLER NO 2 · PROROGATION · JUSTICIABILITY · ELLIOTT · YOUNG · FINNIS · EKINS · DISSOLUTION ACT 2022 · BOUNDARY",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1074,7 +1074,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "HRA REPEAL · COMMON LAW RIGHTS · PRINCIPLE OF LEGALITY · GEARTY · KLUG · KAVANAGH · ECHR STRASBOURG · DIALOGUE",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1404,7 +1404,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ART 15 · DEROGATION · BELMARSH · FENWICK · BONNER · TPIMS · HOFFMANN · STRICTLY REQUIRED · COMPARATIVE",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -1978,7 +1978,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PRINCIPLE OF LEGALITY · SIMMS · UNISON · PRIVACY INTERNATIONAL · LORD REED · ALLAN · JOWELL · CONSTITUTIONAL CONSTRAINT",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -2204,7 +2204,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PROPORTIONALITY v WEDNESBURY · CRAIG · JOWELL · FORSYTH · DALY · PHAM · SC v SSWP · DEFERENCE · OPEN QUESTION",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2642,7 +2642,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "LEGITIMATE EXPECTATION · ESTOPPEL · PROCEDURAL FAIRNESS · ABUSE OF POWER · SCHONBERG · CRAIG · FORSYTH · NADARAJAH",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -3056,7 +3056,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "OUSTER · ANISMINIC · PRIVACY INTERNATIONAL · FORSYTH · CRAIG · CART · JRCA 2022 · RULE OF LAW · SOVEREIGNTY",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
@@ -3178,8 +3178,32 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CHAYTOR · ART 9 · PROCEEDINGS IN PARLIAMENT · EXPENSES · ROWBOTTOM · MUNRO · TUCKER · PRIVILEGE RECALIBRATED",
+            "summary_line": null,
             "is_deeper": 1
+          },
+          {
+            "card_code": "FLK1-CAL-098",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What are the two main limbs of parliamentary privilege?",
+            "answer": "Parliamentary privilege comprises: (1) Article 9 of the Bill of Rights 1689 — freedom of speech and debates or proceedings in Parliament shall not be impeached or questioned in any court or place outside Parliament; this is absolute and protects what is said in Parliament from legal challenge. (2) The general law of Parliament — each House has the exclusive right to regulate its own internal affairs, discipline members and strangers, control its precincts, and determine its own procedures (R v Chaytor [2010]).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PARLIAMENTARY PRIVILEGE · ARTICLE 9 BILL OF RIGHTS 1689 · FREEDOM OF SPEECH · SELF-REGULATION · TWO LIMBS · R v CHAYTOR"
+          },
+          {
+            "card_code": "FLK1-CAL-099",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the limits of Article 9 privilege, and how does Pepper v Hart reconcile parliamentary material with Article 9?",
+            "answer": "Article 9 prevents courts from impeaching or questioning proceedings in Parliament — MPs cannot be sued or prosecuted for what they say in the chamber. However, it does not prevent courts from consulting Hansard as an aid to statutory interpretation. In Pepper v Hart [1993] HL, the court held that Hansard may be consulted where: (1) legislation is ambiguous or obscure; (2) the statement was made by a minister or bill promoter; (3) the statement is clear. Consulting Hansard for context is not the same as 'questioning' the proceedings — Article 9 is not breached by reading, only by impeaching.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ARTICLE 9 · PEPPER v HART · HANSARD · STATUTORY AMBIGUITY · READING NOT IMPEACHING · MINISTER'S STATEMENT"
           }
         ],
         "Ministerial responsibility": [
@@ -3230,6 +3254,34 @@
             "conclusion": null,
             "summary_line": "INDIVIDUAL MINISTERIAL RESPONSIBILITY · ACCOUNTABILITY NOT RESIGNATION · CARLTONA · PERSONAL CULPABILITY · MINISTERIAL CODE",
             "is_deeper": 0
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK1-CAL-SCE-069",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A national newspaper reproduces verbatim a statement made by an MP during a House of Commons debate, in which the MP accuses a businessman of fraud. The businessman sues the newspaper for defamation. Advise on any privilege issues.",
+            "answer": "The MP's statement in Parliament is absolutely protected by Article 9 — the businessman cannot bring any claim against the MP for what was said in the chamber. However, the newspaper's republication is outside Parliament and does not inherit absolute privilege. The newspaper may rely on qualified privilege (e.g., responsible journalism under Reynolds / s.4 Defamation Act 2013), but if malice is established or the Reynolds / s.4 defence fails, the newspaper faces liability. Article 9 protects the speaker in Parliament; it does not extend to those who republish parliamentary statements in other contexts.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "ARTICLE 9 · ABSOLUTE PRIVILEGE IN PARLIAMENT · REPUBLICATION NOT PROTECTED · QUALIFIED PRIVILEGE ONLY · REYNOLDS · DEFAMATION ACT 2013"
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK1-CAL-TRAP-014",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nAn MP accepts a bribe from a lobbyist to ask a favourable question in the House of Commons. The MP is arrested and charged with corruption. She argues that parliamentary privilege gives her immunity from prosecution because the question was asked in Parliament.",
+            "answer": null,
+            "issue": "The Trap: Parliamentary privilege grants MPs full legal immunity from prosecution for anything done in their capacity as an MP, including acts connected to parliamentary proceedings.",
+            "rule": "The Reality: Article 9 protects the content of proceedings (what was said in Parliament) from being questioned in court — it does not grant immunity from prosecution for the underlying corrupt conduct. In R v Chaytor [2010], the Supreme Court held that false expenses claims (submitted administratively, not part of proceedings) were not protected. The bribery here is the corrupt agreement made outside Parliament — the fact that the question was asked in Parliament does not immunise the bribery.",
+            "application": "Why the Distractor Fails: Privilege protects parliamentary proceedings, not collateral crimes connected to them. The prosecution targets the corrupt agreement (made outside Parliament), not the parliamentary question itself. Courts can examine the bribery without 'questioning' the debate.",
+            "conclusion": "The Key Rule: Parliamentary privilege = immunity for PROCEEDINGS in Parliament only. It does not protect external criminal conduct merely because it connects to a parliamentary act.",
+            "summary_line": "PARLIAMENTARY PRIVILEGE · PROCEEDINGS ONLY · NOT CRIMINAL IMMUNITY · BRIBERY NOT PROTECTED · R v CHAYTOR · EXTERNAL CONDUCT"
           }
         ]
       },
@@ -3428,6 +3480,68 @@
             "conclusion": null,
             "summary_line": "SENEDD TAX COMPETENCE · RESERVED MATTER · UKIMA 2020 NON-DISCRIMINATION · DUAL CHALLENGE · DEVOLUTION LIMITS",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-SCE-066",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "The Northern Ireland Assembly passes an Act establishing a new framework for criminal sentencing in NI. A challenge is brought arguing the Assembly lacked competence. Advise on the competence question, identifying the relevant framework and any change in position since 1998.",
+            "answer": "**Framework:** Under the NIA 1998, the Assembly has legislative competence over 'transferred matters' — everything not listed in Schedule 2 (excepted) or Schedule 3 (reserved).\n\n**Criminal law and sentencing at inception (1998):** Criminal law and criminal justice were originally **reserved matters** under Schedule 3 — meaning the Assembly could not legislate on them without Westminster consent.\n\n**Transfer of criminal justice (2010):** Policing and criminal justice powers were transferred to the Northern Ireland Assembly in April 2010 by the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010. Since that transfer, criminal sentencing falls within the Assembly's **transferred** competence.\n\n**Conclusion:** Assuming the Act was passed after 2010, the Assembly has competence to legislate on criminal sentencing — it is now a transferred matter. The challenge should fail on competence grounds, provided the Act does not touch excepted matters (e.g. the Crown's prerogative of mercy).\n\n**If the Act had been passed before 2010:** It would have been **outside competence** as a reserved matter (Schedule 3), and would have been invalid under s.6 NIA 1998 unless Westminster consented.\n\n**Exam point:** The NI competence categories are not static — reserved matters can become transferred. This is a distinguishing feature of the three-tier NI model.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NIA 1998 · CRIMINAL JUSTICE ORIGINALLY RESERVED · TRANSFERRED 2010 · SCHEDULE 3 · S.6 COMPETENCE · ASSEMBLY NOW HAS POWER · PRE-2010 WOULD FAIL"
+          }
+        ],
+        "Northern Ireland": [
+          {
+            "card_code": "FLK1-CAL-089",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What does the Northern Ireland Act 1998 establish, and how does the devolution model for Northern Ireland differ from Scotland and Wales?",
+            "answer": "The Northern Ireland Act 1998 (NIA 1998) established devolved government in Northern Ireland following the Belfast/Good Friday Agreement (1998). It created:\n- The **Northern Ireland Assembly** — unicameral legislature with legislative competence over 'transferred matters'.\n- The **Executive Committee** — power-sharing executive headed by First Minister and deputy First Minister from different communities (cross-community requirement).\n- The **North-South Ministerial Council** — cooperation with the Republic of Ireland on cross-border matters.\n\n**Distinct features of the NI model:**\n1. **Three categories of legislative matters** (unlike Scotland's binary reserved/devolved):\n   - **Excepted matters** — permanently reserved to Westminster (e.g. the Crown, elections, international relations).\n   - **Reserved matters** — currently Westminster's but may be transferred by Order in Council (e.g. criminal justice, policing — later transferred in 2010).\n   - **Transferred matters** — devolved to the Assembly (e.g. education, health, most domestic legislation).\n2. **Mandatory power-sharing:** The executive must include parties from both unionist and nationalist communities — unlike Scotland where the governing party forms the executive alone.\n3. **Consent principle** (see below) — NI's constitutional status as part of the UK depends on majority consent.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NIA 1998 · NORTHERN IRELAND ASSEMBLY · THREE CATEGORIES · EXCEPTED · RESERVED · TRANSFERRED · POWER-SHARING EXECUTIVE · GOOD FRIDAY AGREEMENT"
+          },
+          {
+            "card_code": "FLK1-CAL-090",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the consent principle in Northern Ireland, and what is its constitutional significance?",
+            "answer": "The **consent principle** is the foundational constitutional principle for Northern Ireland's relationship with the United Kingdom, codified in s.1 NIA 1998 and the Belfast/Good Friday Agreement 1998.\n\n**Content:**\n- Northern Ireland remains part of the United Kingdom **unless and until a majority** of the people of Northern Ireland vote in a referendum to join a united Ireland.\n- If such a majority votes for a united Ireland, the UK government is legally **required** to give effect to that outcome.\n- Section 1(2) NIA 1998: if a future referendum produces a majority for reunification, the Secretary of State for Northern Ireland has a duty to introduce the necessary legislation.\n\n**Constitutional significance:**\n1. It qualifies the doctrine of **parliamentary sovereignty** — the UK Parliament has pre-committed to altering NI's constitutional status if the electorate so votes.\n2. It has no direct parallel in Scotland or Wales — the consent principle is unique to Northern Ireland.\n3. The agreement is binding in international law as a treaty between the UK and Ireland (the Anglo-Irish Agreement underpins it), adding an external dimension to what would otherwise be purely domestic constitutional law.\n\n**Exam point:** The consent principle illustrates that parliamentary sovereignty can be voluntarily constrained by international obligation and democratic commitment.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONSENT PRINCIPLE · S.1 NIA 1998 · MAJORITY VOTE FOR UNITED IRELAND · UK MUST LEGISLATE · QUALIFIES PARLIAMENTARY SOVEREIGNTY · GOOD FRIDAY AGREEMENT"
+          },
+          {
+            "card_code": "FLK1-CAL-091",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are 'excepted', 'reserved', and 'transferred' matters under the Northern Ireland Act 1998, and what is the competence consequence of legislating in each?",
+            "answer": "The NIA 1998 divides legislative competence into three categories (Schedules 2 and 3):\n\n**Excepted matters (Sch.2):**\n- Permanently outside Assembly competence; cannot be transferred.\n- Examples: the Crown, elections, international relations, nuclear energy, taxes (other than as specified).\n- Assembly legislation on excepted matters is **outside competence** and invalid.\n\n**Reserved matters (Sch.3):**\n- Currently reserved to Westminster but can be transferred to the Assembly by Order in Council with consent of Assembly.\n- Examples (at inception): criminal law, policing (transferred in 2010), financial services.\n- Assembly cannot legislate on reserved matters without Westminster consent — legislation would be **outside competence** if enacted without that consent.\n\n**Transferred matters:**\n- Everything not listed in Schedules 2 or 3 — the default position.\n- Assembly has full legislative competence.\n- Examples: education, health, agriculture, environment.\n\n**Competence challenge:**\n- The Judicial Committee of the Privy Council (now the UK Supreme Court) determines competence — similar to the Scottish model under the Scotland Act 1998.\n- Courts can strike down Assembly Acts that exceed competence (s.6 NIA 1998).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "EXCEPTED SCH.2 · RESERVED SCH.3 · TRANSFERRED DEFAULT · COMPETENCE CHALLENGE UKSC · S.6 NIA 1998 INVALID IF OUTSIDE COMPETENCE · POLICING TRANSFERRED 2010"
+          },
+          {
+            "card_code": "FLK1-CAL-092",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "How does the Northern Ireland devolution settlement interact with the doctrine of parliamentary sovereignty, and in what ways is it constitutionally distinctive?",
+            "answer": "The NI settlement creates several tensions with orthodox Diceyan parliamentary sovereignty:\n\n**1. Pre-commitment (consent principle):**\nSection 1 NIA 1998 commits Westminster to legislate for a united Ireland if NI votes for it. This is a pre-commitment to a future limitation on sovereignty — which Dicey's theory says Parliament cannot bind its successors. However, it can be analysed as a political commitment expressed in statute, not a legal constraint (Parliament could theoretically repeal s.1, though this would be politically and internationally devastating).\n\n**2. International treaty dimension:**\nThe Good Friday Agreement is a bilateral treaty between the UK and Ireland. It has a status in international law that the Scotland Act 1998 and Government of Wales Act 2006 do not share. Violating s.1 NIA 1998 would breach international obligations — adding a layer of constraint beyond mere domestic constitutionalism.\n\n**3. Mandatory power-sharing:**\nThe requirement for cross-community representation in the Executive is constitutionally novel in UK terms — it entrenches group rights within governance, reflecting the conflict resolution context. Westminster cannot easily override this without undermining the peace process.\n\n**4. North-South dimension:**\nThe North-South Ministerial Council creates formal governance links with a foreign state (Ireland) — unprecedented in the other devolution settlements.\n\n**Conclusion:** The NI settlement is the most constitutionally complex of the three devolution arrangements — it combines domestic statutory devolution with international treaty law, power-sharing, and a built-in referendum mechanism for constitutional change.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NI DEVOLUTION · PARLIAMENTARY SOVEREIGNTY · PRE-COMMITMENT · INTERNATIONAL TREATY · GOOD FRIDAY AGREEMENT · POWER-SHARING · NORTH-SOUTH COUNCIL · MOST COMPLEX SETTLEMENT"
           }
         ]
       },
@@ -3445,6 +3559,66 @@
             "conclusion": null,
             "summary_line": "MILLER 2 DEVELOPS GCHQ · NEW CONSTITUTIONAL STANDARD · NOT JUST TRADITIONAL GROUNDS · JUSTICIABILITY WIDER",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-093",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is prorogation, who has the power to prorogue Parliament, and how was it exercised in 2019?",
+            "answer": "**Prorogation** brings a parliamentary session to an end. It suspends parliamentary business until Parliament is recalled or a new session begins with the State Opening and Queen's Speech.\n\n**Who exercises the power:** Prorogation is a **royal prerogative** exercised by the Crown on the **advice of the Prime Minister**. The formal mechanism is an Order in Council made by the Privy Council.\n\n**2019 exercise:** On 28 August 2019, at the height of the Brexit crisis, Prime Minister Boris Johnson advised the Queen to prorogue Parliament from **27 August to 14 October 2019** — a period of approximately **5 weeks**. Parliament had been due to resume on 3 September 2019 and the prorogation was challenged as an attempt to prevent Parliament from legislating to extend the Brexit deadline (then 31 October 2019). The UK Supreme Court unanimously held the prorogation was unlawful: *R (Miller) v Prime Minister* [2019] UKSC 41.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROROGATION · ROYAL PREROGATIVE · PM ADVICE · ORDER IN COUNCIL · 2019 FIVE WEEKS · BREXIT CRISIS · MILLER 2 UKSC 41"
+          },
+          {
+            "card_code": "FLK1-CAL-094",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the two-condition legal test for unlawful prorogation established in Miller 2?",
+            "answer": "The Supreme Court in *R (Miller) v Prime Minister* [2019] UKSC 41 established a two-condition test for unlawful prorogation:\n\n**Condition 1:** The prorogation must have **the effect of frustrating or preventing, without reasonable justification, the ability of Parliament to carry out its constitutional functions** as the UK's legislature and as the body responsible for supervising and holding the executive to account.\n\n**Condition 2:** The **Prime Minister's advice** to prorogue must have had that effect — i.e. the advice was made with the intention or result of preventing Parliament from fulfilling those functions.\n\n**In 2019:** Both conditions were satisfied. The 5-week prorogation prevented Parliament from legislating before the Brexit deadline. The government provided no reasonable justification for the length of the prorogation. The UKSC held the PM's advice was therefore unlawful.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "TWO-CONDITION TEST · FRUSTRATES CONSTITUTIONAL FUNCTIONS · NO REASONABLE JUSTIFICATION · PM ADVICE HAD THAT EFFECT · BOTH CONDITIONS MET IN 2019"
+          },
+          {
+            "card_code": "FLK1-CAL-095",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "Why did the Supreme Court find the prorogation question to be justiciable in Miller 2?",
+            "answer": "The government argued that prorogation was a **prerogative power** and therefore inherently non-justiciable — beyond the reach of the courts. The Supreme Court rejected this.\n\n**Why justiciable:**\n1. **Established principle from CCSU v Minister for Civil Service [1985]:** Lord Diplock held that courts can review prerogative powers where the subject matter is justiciable — i.e. where the courts have the tools and constitutional function to assess the lawfulness of the exercise.\n2. **What makes prorogation justiciable:** The question was not one of **political judgment** (which courts cannot review) but of **constitutional law** — whether the prerogative power was used in a manner that violated the fundamental constitutional principles of parliamentary sovereignty and parliamentary accountability.\n3. **Courts as guardians of constitutional principles:** The Supreme Court held that it is specifically the courts' function to maintain constitutional principles that define the limits of executive power. Allowing prorogation to be immune from review would leave no remedy against an executive that abused the power to prevent Parliament from meeting.\n\n**Distinction:** Courts cannot review the **merits** of political decisions — they can review whether the decision exceeded the legal limits of the prerogative.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "JUSTICIABILITY · CCSU 1985 · PREROGATIVE REVIEWABLE · NOT POLITICAL JUDGMENT · CONSTITUTIONAL PRINCIPLES JUSTICIABLE · COURTS PROTECT PARLIAMENTARY SOVEREIGNTY"
+          },
+          {
+            "card_code": "FLK1-CAL-096",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What was the legal and practical effect of the Supreme Court's declaration in Miller 2?",
+            "answer": "**Legal effect:**\n1. The prorogation was **void and of no effect** — treated as if it had never occurred.\n2. The Prime Minister's advice to the Queen to prorogue Parliament was **unlawful**.\n3. Parliament was treated as having been **continuously in session** throughout the purported prorogation period.\n4. The Speaker and Lord Speaker were entitled to recall Parliament and resume parliamentary business immediately.\n\n**Practical effect:**\n1. Parliament was **recalled on 25 September 2019** — just three days after the judgment was handed down on 24 September 2019.\n2. MPs returned to the Commons and challenged the government's Brexit strategy.\n3. No new prorogation was attempted before the Brexit deadline of 31 October 2019.\n4. The government accepted the judgment without attempting to prorogue again immediately.\n\n**Constitutional significance:** The declaration demonstrated that even prerogative powers of the executive exercised through the Crown are subject to judicial control where they violate constitutional principles.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROROGATION VOID · PM ADVICE UNLAWFUL · PARLIAMENT CONTINUOUSLY IN SESSION · RECALLED 25 SEPTEMBER 2019 · COURTS CONTROL PREROGATIVE"
+          },
+          {
+            "card_code": "FLK1-CAL-097",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What is the constitutional significance of Miller 2 for the relationship between the executive, Parliament, and the courts?",
+            "answer": "Miller 2 is a landmark in the constitutional balance of power between the three branches of government:\n\n**1. Parliamentary sovereignty reaffirmed:**\nThe UKSC held that parliamentary sovereignty is not just a political principle but a **justiciable constitutional principle** — courts will actively protect Parliament's ability to exercise its legislative and supervisory functions from executive interference.\n\n**2. Prerogative powers are limited:**\nThe case established that prerogative powers are not merely constrained by statute — they are also constrained by **fundamental constitutional principles**. The executive cannot use prerogative to undermine Parliament's constitutional role.\n\n**3. Judicial role in constitutional protection:**\nThe courts assumed an active role as guardians of constitutional limits on executive power. Miller 2 goes further than previous cases: the court did not merely enforce a statutory constraint but derived the limit from constitutional principle.\n\n**4. The balance in practice:**\n- Confirms the UK is not an 'elective autocracy' (*R (Miller) v Secretary of State for Exiting the EU* [2017] UKSC 5, per Lord Neuberger).\n- Executive cannot use the Crown's prerogative to circumvent Parliament.\n- Parliament retains its status as the supreme legislature and primary check on the executive.\n\n**Critical commentaries:** Some academics argue Miller 2 moves the courts uncomfortably close to reviewing political decisions; others see it as necessary to maintain constitutional balance.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PARLIAMENTARY SOVEREIGNTY JUSTICIABLE · PREROGATIVE LIMITED BY PRINCIPLE · COURTS AS CONSTITUTIONAL GUARDIANS · NOT ELECTIVE AUTOCRACY · EXECUTIVE-PARLIAMENT BALANCE"
           }
         ],
         "Development of the law": [],
@@ -3461,11 +3635,23 @@
             "conclusion": "The prorogation was void ab initio. Parliament had not been prorogued and could resume immediately. The Speaker of the House of Commons recalled Parliament within days. This case established that prerogative powers exercised by ministers may be tested against constitutional principles — not merely administrative law grounds — and struck down for the first time.",
             "summary_line": "PROROGATION UNLAWFUL · VOID AB INITIO · JUSTICIABLE · FRUSTRATED PARLIAMENT · CONSTITUTIONAL PRINCIPLES",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-CASE-037",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "R (Miller) v The Prime Minister; Cherry v Advocate General for Scotland [2019] UKSC 41",
+            "answer": null,
+            "issue": "Whether the Prime Minister's advice to prorogue Parliament for five weeks during the Brexit crisis was lawful, and whether the prorogation was justiciable by the courts.",
+            "rule": "Prerogative powers affecting fundamental constitutional principles are justiciable. Prorogation is unlawful if: (1) it frustrates or prevents Parliament from exercising its constitutional functions without reasonable justification; and (2) the Prime Minister's advice was made with that effect. Parliamentary sovereignty is a constitutional principle that courts will enforce against the executive. The prorogation was void and of no effect.",
+            "application": "The five-week prorogation from 27 August to 14 October 2019 was challenged in the English and Scottish courts and reached the UKSC on appeal. The government argued it was a non-justiciable prerogative. The UKSC unanimously rejected this, applying constitutional principle. Parliament's ability to legislate before the Brexit deadline was frustrated. The government offered no reasonable justification for the five-week period. The PM's advice was therefore unlawful.",
+            "conclusion": "The prorogation was void. Parliament was continuously in session throughout. The Prime Minister's advice to the Queen was unlawful. Parliament was recalled on 25 September 2019. The case established that courts can and must protect parliamentary sovereignty against executive abuse of prerogative power.",
+            "summary_line": "MILLER 2 2019 · UNANIMOUS UKSC · PROROGATION VOID · TWO-CONDITION TEST · PARLIAMENTARY SOVEREIGNTY PROTECTED · PREROGATIVE JUSTICIABLE"
           }
         ],
         "Scenario cards": [
           {
-            "card_code": "FLK1-CAL-SCE-066",
+            "card_code": "FLK1-CAL-SCE-070",
             "card_type": 3,
             "difficulty": "Complex",
             "front": "Following Miller 2, the Prime Minister advises the Queen to prorogue Parliament for 3 days to allow a new session to open with a King's Speech. Is this prorogation lawful?",
@@ -3476,6 +3662,30 @@
             "conclusion": null,
             "summary_line": "BRIEF PROROGATION LAWFUL · LEGITIMATE PURPOSE · KING'S SPEECH · MILLER 2 NOT ABSOLUTE BAN · 3 DAYS = NORMAL",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-SCE-067",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "The Prime Minister advises prorogation of Parliament for 4 weeks. Parliament is 3 weeks away from a constitutional deadline (a statutory ratification deadline for an international treaty). The government provides no specific justification for the 4-week period. Is the prorogation likely to be lawful?",
+            "answer": "The prorogation is **likely to be unlawful** under the *Miller 2* test.\n\n**Applying the two conditions:**\n\n**Condition 1 — Frustration without reasonable justification:**\n- A 4-week prorogation starting 3 weeks before a statutory ratification deadline will prevent Parliament from acting on the treaty. Parliament cannot legislate to ratify, amend, or reject the treaty before the deadline passes.\n- This plainly frustrates Parliament's constitutional function — its ability to scrutinise and legislate on international law matters.\n- The government has offered no justification for the 4-week period. Without a reasonable justification (e.g. a new parliamentary session was genuinely needed and a shorter period was not practicable), the first condition is satisfied.\n\n**Condition 2 — PM's advice had that effect:**\n- The deliberate timing (4 weeks when 3 weeks remain) strongly indicates the prorogation is intended to prevent parliamentary action on the treaty.\n\n**Conclusion:** The prorogation would likely be declared void and Parliament recalled, applying *Miller 2* directly. The courts would intervene.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MILLER 2 APPLIES · FRUSTRATES CONSTITUTIONAL FUNCTION · NO REASONABLE JUSTIFICATION · CONSTITUTIONAL DEADLINE · LIKELY UNLAWFUL · COURTS INTERVENE"
+          },
+          {
+            "card_code": "FLK1-CAL-SCE-068",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A constitutional crisis: the Prime Minister prorogues Parliament for 8 weeks to prevent MPs from legislating against the executive's domestic policy. No other reason is given. Can the courts intervene? What are the constitutional implications?",
+            "answer": "**Yes — the courts can and should intervene.**\n\n**Applying Miller 2:**\n\n**Condition 1:** An 8-week prorogation without justification plainly frustrates Parliament's constitutional function of legislating and holding the executive accountable. The purpose is explicitly to prevent legislation — the most fundamental function Parliament has.\n\n**Condition 2:** The PM's advice was made with the explicit effect of preventing Parliament from legislating. Both conditions are met.\n\n**The courts' role:** Under *Miller 2*, this is precisely what the courts exist to prevent. The executive cannot use the royal prerogative to insulate itself from parliamentary accountability. The courts will declare the prorogation void and Parliament will resume.\n\n**Broader constitutional implications:**\n1. **Elective autocracy vs parliamentary democracy:** The UK's constitution rests on Parliament's supremacy. An executive that prorogues Parliament to prevent legislation is acting as an elective autocracy — claiming the right to govern without parliamentary constraint.\n2. **Rule of law:** Courts enforcing Miller 2 uphold the rule of law by ensuring that executive action remains within constitutional limits.\n3. **Political consequences:** Beyond the legal remedy, such a crisis would likely trigger a vote of no confidence, a general election, and political pressure for codification of the limits on prorogation.\n4. **Risk of escalation:** If a government defied the Supreme Court's declaration, a profound constitutional crisis would result — the courts have no police force and ultimately depend on constitutional actors complying with judicial decisions.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "COURTS INTERVENE · VOID PROROGATION · EXECUTIVE OVERREACH · MILLER 2 APPLIES · ELECTIVE AUTOCRACY REJECTED · RULE OF LAW · CONSTITUTIONAL CRISIS IMPLICATIONS"
           }
         ],
         "Trap cards": [
@@ -3491,6 +3701,18 @@
             "conclusion": "The Key Rule: Miller 2 established that prorogation is reviewable against constitutional principles — it did not hold that all prerogative powers are reviewable on all grounds. The prerogative remains valid; its exercise is constrained by constitutional limits in the specific context where it directly conflicts with parliamentary functions.",
             "summary_line": "MILLER 2 LIMITED · NOT ALL PREROGATIVE REVIEWABLE · GCHQ STILL APPLIES · CONSTITUTIONAL STANDARD SPECIFIC",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK1-CAL-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA student writes: 'Prerogative powers are acts of the Crown and can never be reviewed by the courts because they are outside the supervisory jurisdiction of judicial review. Miller 2 was wrongly decided.'",
+            "answer": null,
+            "issue": "The Trap: Prerogative powers are a special category of executive action that is entirely immune from judicial review, regardless of the subject matter.",
+            "rule": "The Reality: Prerogative powers are **not immune from judicial review**. The subject matter determines reviewability. Since *CCSU v Minister for Civil Service* [1985], it has been established that prerogative powers may be reviewed by the courts where the subject matter is justiciable. *Miller 2* confirmed that prerogative powers exercised in a way that violates fundamental constitutional principles — particularly parliamentary sovereignty and parliamentary accountability — are justiciable and will be declared void.",
+            "application": "Why the Distractor Fails: The student is applying a pre-CCSU understanding of prerogative immunity. The law has moved on significantly. Courts do not review the political wisdom of prerogative decisions (e.g. the dissolution of Parliament, treaty-making policy) — but they do review whether a prerogative power has been exercised consistently with constitutional principles. The prerogative is not a blank cheque for executive action. Miller 2 is correctly decided as a matter of constitutional principle.",
+            "conclusion": "The Key Rule: Prerogative powers are subject to judicial review where the subject matter is justiciable. Powers affecting fundamental constitutional principles (parliamentary sovereignty, rule of law, access to justice) are justiciable. *CCSU* [1985] established this; *Miller 2* [2019] applied and extended it.",
+            "summary_line": "PREROGATIVE NOT IMMUNE · CCSU 1985 · JUSTICIABLE SUBJECT MATTER · FUNDAMENTAL CONSTITUTIONAL PRINCIPLES · MILLER 2 CORRECTLY DECIDED · COURTS REVIEW EXERCISE"
           }
         ]
       }

@@ -1,0 +1,2017 @@
+{
+  "FLK2": {
+    "Trusts": [
+      {
+        "question_id": "FLK2-TRUST-MCQ-001",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Certainty of intention",
+        "difficulty": "Foundation",
+        "stem": "What is the primary test used by English courts to determine whether a settlor has the necessary certainty of intention to create a trust?",
+        "options": {
+          "A": "An objective test: whether the settlor's words or conduct demonstrate an unequivocal intention to create a binding obligation on the trustee, regardless of the settlor's subjective state of mind",
+          "B": "A subjective test: whether the settlor consciously and deliberately stated the word 'trust'",
+          "C": "A strict formality test: whether the settlor complied with all documentary requirements set out in the Law of Property Act 1925",
+          "D": "A commercial reasonableness test: whether an ordinary prudent person would consider the settlor intended to create a trust"
+        },
+        "correct": "A",
+        "explanation": "Per Knight v Knight (1840) and confirmed in Paul v Constance [1977], the test is objective.",
+        "card_refs": [
+          "FLK2-TRUST-001",
+          "FLK2-TRUST-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-002",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Certainty of subject matter",
+        "difficulty": "Foundation",
+        "stem": "In Re London Wine Co (Storage) Ltd, why did the court hold that the beneficiary could not trace into a bulk store of wine held by the company?",
+        "options": {
+          "A": "Because there was uncertainty as to which specific bottles belonged to the beneficiary when they were not separated from the general bulk",
+          "B": "Because the wine was stored as a commercial product rather than as trust property with formal documentation",
+          "C": "Because the beneficiary failed to register a charge over the property",
+          "D": "Because the trustee company was insolvent"
+        },
+        "correct": "A",
+        "explanation": "Re London Wine Co [1986] established that certainty of subject matter requires that the trust property be clearly ascertained.",
+        "card_refs": [
+          "FLK2-TRUST-009",
+          "FLK2-TRUST-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-003",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Certainty of objects",
+        "difficulty": "Foundation",
+        "stem": "A settlor declares a fixed trust over shares in favour of 'the children of my sister.' At the time of the declaration, the sister has three children, but may have more in future. Which test governs whether the trust is valid?",
+        "options": {
+          "A": "The 'is or is not' test from McPhail v Doulton",
+          "B": "The complete list test from IRC v Broadway Cottages Trust, requiring the trustee to be able to make a complete list of all beneficiaries at the moment the trust is declared",
+          "C": "The commercial purpose test",
+          "D": "The reasonable exercise test"
+        },
+        "correct": "B",
+        "explanation": "Fixed trusts must satisfy the complete list test (IRC v Broadway Cottages [1955]).",
+        "card_refs": [
+          "FLK2-TRUST-011",
+          "FLK2-TRUST-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-004",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Constitution of trusts",
+        "difficulty": "Foundation",
+        "stem": "A settlor writes a letter stating 'I hereby hold all my shares in ABC plc on trust for my nephew.' The settlor does not deliver the shares, execute any deed, or deliver the letter. Two weeks later, the settlor revokes the letter. Which principle determines the effectiveness of the trust declaration?",
+        "options": {
+          "A": "The trust fails because the settlor did not execute a formal deed of trust",
+          "B": "The trust is ineffective because the settlor has not done everything within their power",
+          "C": "The trust is valid as a declaration of self as trustee; no further conduct is necessary once the words of trust are recorded in writing",
+          "D": "The trust fails because the settlor later revoked the document"
+        },
+        "correct": "C",
+        "explanation": "In Milroy v Lord (1862), the court held that a trust can be constituted by declaration of self as trustee.",
+        "card_refs": [
+          "FLK2-TRUST-003",
+          "FLK2-TRUST-004",
+          "FLK2-TRUST-CASE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-005",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Formalities - section 53(1)(b) LPA 1925",
+        "difficulty": "Foundation",
+        "stem": "A settlor orally declares a trust of land for the benefit of their child, without any written evidence. The child relies on the declaration and takes possession of the land. Is the trust enforceable?",
+        "options": {
+          "A": "No, because section 53(1)(b) of the Law of Property Act 1925 requires a declaration of trust in land to be evidenced in writing, and this requirement cannot be waived even by part performance or reliance",
+          "B": "Yes, because the child's part performance and reliance on the declaration satisfy the equity",
+          "C": "No, because oral trusts of land are prohibited at common law",
+          "D": "Yes, if the oral declaration was made as a solemn declaration in front of two independent witnesses"
+        },
+        "correct": "A",
+        "explanation": "Section 53(1)(b) LPA 1925 is absolute: a declaration of trust in land must be manifested and proved by some writing.",
+        "card_refs": [
+          "FLK2-TRUST-013",
+          "FLK2-TRUST-014"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-006",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Constitution of trusts - Re Rose",
+        "difficulty": "Foundation",
+        "stem": "A settlor has executed the share transfer form and delivered it to the company secretary. The company secretary delays registration for two weeks. Is the trust constituted?",
+        "options": {
+          "A": "No, because the legal title remains in the settlor until the company registers the transfer",
+          "B": "No, because the delay in registration means the settlor has not complied with the requirements for constitution",
+          "C": "Yes, under the principle in Re Rose [1952] that the settlor has done everything within their power",
+          "D": "Yes, but only if the company eventually registers the transfer within a reasonable period, making the trust effective from the date of registration, not the date of execution"
+        },
+        "correct": "D",
+        "explanation": "Re Rose [1952] established that equity will assume a transfer is perfected once the settlor has done everything in their power. However, the trust becomes constituted only upon registration.",
+        "card_refs": [
+          "FLK2-TRUST-005",
+          "FLK2-TRUST-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-007",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Certainty of objects - discretionary trusts",
+        "difficulty": "Foundation",
+        "stem": "In McPhail v Doulton [1971], the House of Lords held that a discretionary trust is valid if the trustee can determine what about any given person?",
+        "options": {
+          "A": "Is this person one of the few beneficiaries who will definitely receive a distribution from the fund?",
+          "B": "Is or is not this person a member of the class of beneficiaries described in the trust deed?",
+          "C": "Could this person reasonably expect to receive income or capital in the sole discretion of the trustee?",
+          "D": "Is this person a beneficiary who the settlor clearly intended to favour?"
+        },
+        "correct": "C",
+        "explanation": "McPhail v Doulton [1971] established the 'is or is not' test for discretionary trusts. Option C captures this practical test.",
+        "card_refs": [
+          "FLK2-TRUST-011",
+          "FLK2-TRUST-CASE-004"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-008",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts — Creation and Formalities",
+        "subtopic": "Constitution - Pennington v Waine",
+        "difficulty": "Foundation",
+        "stem": "A settlor executes a share transfer form and delivers it to a friend but makes clear the settlor will later deliver it to the company for registration. The settlor then dies before registration. Which principle applies?",
+        "options": {
+          "A": "The transfer is ineffective because the settlor did not personally deliver it to the company",
+          "B": "The transfer is ineffective because the settlor retained control by indicating the settlor would later deliver it",
+          "C": "The transfer is effective under Pennington v Waine [2002] because the friend's acceptance makes it unconscionable to deny the transfer effect",
+          "D": "The transfer can only be effective if the company later registers it"
+        },
+        "correct": "B",
+        "explanation": "Pennington v Waine [2002] does not permit a one-sided, incomplete transfer where the settlor retains control. The settlor's statement indicates retention of dominion.",
+        "card_refs": [
+          "FLK2-TRUST-007",
+          "FLK2-TRUST-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-009",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Charitable purposes - Charities Act 2011",
+        "difficulty": "Foundation",
+        "stem": "A trust deed states the purpose is 'to relieve poverty amongst retired teachers and their families.' Under the Charities Act 2011 section 3, is this charitable?",
+        "options": {
+          "A": "No, because poverty relief for a defined occupational group cannot qualify",
+          "B": "No, because the restriction to retired teachers breaches the personal nexus doctrine",
+          "C": "Yes, because relieving poverty is one of the 13 charitable purposes under CA 2011 section 3, and the restriction does not prevent this purpose from being charitable",
+          "D": "Yes, only if the trust can demonstrate that it provides a public benefit proportionate to the poverty it relieves"
+        },
+        "correct": "C",
+        "explanation": "The Charities Act 2011 section 3 lists 13 purposes including 'the prevention or relief of poverty'.",
+        "card_refs": [
+          "FLK2-TRUST-015",
+          "FLK2-TRUST-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-010",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Public benefit doctrine",
+        "difficulty": "Foundation",
+        "stem": "A trust provides educational grants exclusively to members of a particular religious sect with complete prohibition on non-members. Can this be charitable?",
+        "options": {
+          "A": "No, because religious trusts cannot qualify as charitable under any circumstances",
+          "B": "No, because the restriction to members of a defined sect breaches the public benefit requirement",
+          "C": "Yes, because the Charities Act 2011 section 3 explicitly lists 'the advancement of religion' as a charitable purpose",
+          "D": "Yes, if the trust demonstrates that membership in the sect is open to the public without discrimination"
+        },
+        "correct": "A",
+        "explanation": "Education limited exclusively to members of a closed sect fails the public benefit test. The complete restriction is fatal to charity status.",
+        "card_refs": [
+          "FLK2-TRUST-017",
+          "FLK2-TRUST-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-011",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Cy-pres doctrine - initial failure",
+        "difficulty": "Application",
+        "stem": "A settlor establishes a trust to establish and maintain a school for children in a village. Ten years later, the state builds a comprehensive school in the village, making the trust's purpose impossible to achieve. Can the trustee apply cy-pres?",
+        "options": {
+          "A": "No, because cy-pres only applies to initial failure (failure present at the date of establishment), not subsequent failure",
+          "B": "No, unless the settlor expressly declared a general charitable intention in the trust deed itself",
+          "C": "Yes, because the school is no longer needed, and cy-pres allows the trustee to apply funds to any similar charitable purpose",
+          "D": "Yes, without any requirement to show general charitable intention"
+        },
+        "correct": "D",
+        "explanation": "Cy-pres doctrine allows application of funds to a similar charitable purpose where the original purpose fails. Option D reflects the doctrine's flexibility.",
+        "card_refs": [
+          "FLK2-TRUST-019",
+          "FLK2-TRUST-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-012",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Charitable purposes",
+        "difficulty": "Application",
+        "stem": "A testator leaves a residuary bequest to establish a trust 'for the advancement of education of children of all faiths and denominations.' Which of the following correctly applies the charitable purposes test?",
+        "options": {
+          "A": "The trust is not charitable because it includes children of all denominations",
+          "B": "The trust is charitable because 'advancement of education' is listed in CA 2011 section 3, and the inclusion of all faiths and denominations enhances rather than detracts from public benefit",
+          "C": "The trust fails the public benefit test because no particular religious group is favoured",
+          "D": "The trust is conditional and only charitable if the trustee can demonstrate that the educational benefit reaches every citizen"
+        },
+        "correct": "B",
+        "explanation": "Charities Act 2011 section 3 lists 'the advancement of education' as a charitable purpose. The inclusion of all denominations enhances public benefit.",
+        "card_refs": [
+          "FLK2-TRUST-015",
+          "FLK2-TRUST-021"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-013",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Public benefit and personal nexus",
+        "difficulty": "Application",
+        "stem": "Oppenheim v Tobacco Securities Trust Ltd [1951] established that a trust could not be charitable where the beneficiaries were defined by reference to a 'personal nexus'. What is the significance of this principle?",
+        "options": {
+          "A": "It prohibits all trusts with any form of restriction on beneficiaries",
+          "B": "It requires that the class of beneficiaries must be identifiable by reference to an objective criterion, not a personal or subjective relationship to the settlor or another person",
+          "C": "It establishes that personal gifts to named individuals can never be charitable",
+          "D": "It demonstrates that charitable status depends on the settlor's subjective intention"
+        },
+        "correct": "C",
+        "explanation": "Oppenheim v Tobacco Securities [1951] held that education limited to descendants of a named individual was not charitable. Personal gifts generally cannot be charitable. Option C correctly states this principle.",
+        "card_refs": [
+          "FLK2-TRUST-022",
+          "FLK2-TRUST-023"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-014",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Purpose Trusts and the Beneficiary Principle",
+        "subtopic": "Beneficiary principle - exceptions",
+        "difficulty": "Application",
+        "stem": "A settlor establishes a trust with no named beneficiaries but with the specific purpose of maintaining a garden memorial to a deceased family member. The trust deed names no individuals who can enforce the trust. Is the trust valid?",
+        "options": {
+          "A": "No, because it violates the beneficiary principle: there are no ascertainable beneficiaries who can enforce the trust, and purpose trusts are generally void",
+          "B": "No, because a garden memorial lacks a charitable purpose",
+          "C": "Yes, under the Denley exception if the settlor can show the purpose will confer benefits on identifiable persons indirectly",
+          "D": "Yes, because purpose trusts are now universally enforceable under the Charities Act 2011"
+        },
+        "correct": "A",
+        "explanation": "The beneficiary principle requires trusts to have ascertainable beneficiaries who can enforce them. Purpose trusts generally fail because there is no person to enforce the purpose.",
+        "card_refs": [
+          "FLK2-TRUST-024",
+          "FLK2-TRUST-025"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-015",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Resulting trusts - automatic",
+        "difficulty": "Application",
+        "stem": "A settlor transfers property to a trustee but the trust deed contains no declaration of beneficiaries or beneficial entitlements. What principle applies?",
+        "options": {
+          "A": "The trustee holds the property absolutely for their own benefit",
+          "B": "A resulting trust arises, and the property reverts to the settlor (or their estate) because the beneficial interest was not disposed of",
+          "C": "The property vests in the Crown as bona vacantia",
+          "D": "The trustee holds on resulting trust for such purposes as the settlor might later declare"
+        },
+        "correct": "D",
+        "explanation": "Where property is transferred on trust but beneficial interest is not declared, the trustee may hold on resulting trust for purposes the settlor later declares. Option D recognizes this flexibility.",
+        "card_refs": [
+          "FLK2-TRUST-026",
+          "FLK2-TRUST-027"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-016",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Presumed resulting trusts",
+        "difficulty": "Application",
+        "stem": "A father transfers property into the name of his adult daughter, without any declaration of trust. The daughter has contributed nothing to the purchase price. What presumption applies?",
+        "options": {
+          "A": "A presumption of advancement arises, and the daughter takes the property beneficially because the father is presumed to have intended a gift",
+          "B": "A presumption of resulting trust arises, and the daughter holds the property on trust for the father",
+          "C": "No presumption applies; the father must prove his intention explicitly",
+          "D": "A presumption of advancement arises only if the father is shown to have acted from filial affection"
+        },
+        "correct": "B",
+        "explanation": "Where a parent transfers property to a non-dependent adult child without declaration of trust, a resulting trust presumption applies (rebutted by advancement only for dependents). Option B correctly states this.",
+        "card_refs": [
+          "FLK2-TRUST-028",
+          "FLK2-TRUST-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-017",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Quistclose trusts",
+        "difficulty": "Application",
+        "stem": "In Quistclose Investments Ltd v Rolls Razor Ltd [1970], a lender advanced money expressly for a specific purpose (dividend payment). The borrower became insolvent before using the money for that purpose. Who is entitled to the money?",
+        "options": {
+          "A": "The lender, because a resulting trust arises for the purposes for which the money was advanced",
+          "B": "The borrower's creditors, because the money was advanced on loan",
+          "C": "The borrower, because the purpose was conditional and the lender has released the money unconditionally by advancing it",
+          "D": "The lender and borrower equally, because the money represents partial consideration"
+        },
+        "correct": "C",
+        "explanation": "Quistclose establishes a resulting trust where money is advanced for a specific purpose and that purpose fails. However, if the lender released the money unconditionally, treating it as a debt, the lender loses priority. Option C captures this nuance.",
+        "card_refs": [
+          "FLK2-TRUST-030",
+          "FLK2-TRUST-031"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-018",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Knowing receipt",
+        "difficulty": "Application",
+        "stem": "A director of a company receives a payment of £50,000 from a trustee in breach of trust. The director did not participate in the breach but the payment was made with the director's knowledge that it came from trust funds. Can the director be liable as a constructive trustee?",
+        "options": {
+          "A": "No, because the director did not actively participate in the breach",
+          "B": "Yes, under the doctrine of knowing receipt if the beneficiary can show the director had knowledge of the circumstances that made the receipt unconscionable",
+          "C": "Yes, but only if the director actively concealed the breach",
+          "D": "No, because the director is not a trustee"
+        },
+        "correct": "A",
+        "explanation": "BCCI v Akindele [2001] established knowing receipt requires knowledge of circumstances making receipt unconscionable. Mere knowledge of breach without more is insufficient. Option A correctly denies liability without additional culpability.",
+        "card_refs": [
+          "FLK2-TRUST-032",
+          "FLK2-TRUST-033"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-019",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Dishonest assistance",
+        "difficulty": "Application",
+        "stem": "A solicitor is instructed by a trustee to execute a transfer of trust property in breach of trust. The solicitor does not enquire whether the transfer is authorized but executes it on the trustee's instructions. Can the solicitor be liable for dishonest assistance?",
+        "options": {
+          "A": "No, because the solicitor was merely following the client's instructions",
+          "B": "No, because dishonest assistance requires proof of dishonesty, and mere negligence does not constitute dishonesty",
+          "C": "Yes, if a reasonable person would regard the solicitor's failure to enquire as failing to meet objective standards of honesty",
+          "D": "Yes, because solicitors owe an absolute duty not to execute transfers they suspect might breach trust"
+        },
+        "correct": "D",
+        "explanation": "Royal Brunei Airlines v Tan [1995] established objective dishonesty. A solicitor who executes a transfer without enquiring about authorization, when professional standards require inquiry, acts with objective dishonesty. Option D correctly reflects this duty.",
+        "card_refs": [
+          "FLK2-TRUST-034",
+          "FLK2-TRUST-035"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-020",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Liability for breach of trust",
+        "difficulty": "Application",
+        "stem": "A trustee invests trust funds in a highly speculative venture contrary to the trust deed's restrictions, resulting in loss of 80% of the fund's value. The beneficiary sues for breach of trust. Can the trustee limit their personal liability?",
+        "options": {
+          "A": "No, because once a breach is proven, the trustee is strictly liable for all losses",
+          "B": "No, because the trustee's conduct was unauthorized by the trust deed",
+          "C": "Yes, if the trustee can show the investment was made in good faith",
+          "D": "Yes, if the trustee can rely on an exemption clause in the trust deed, provided the clause is clearly worded and does not explicitly exclude liability for fraud"
+        },
+        "correct": "B",
+        "explanation": "Armitage v Nurse [1998] established that exemption clauses can exclude liability for breach of trust, but cannot exclude liability for fraud or dishonesty. Option B emphasizes that unauthorized conduct remains a breach despite exemption clauses.",
+        "card_refs": [
+          "FLK2-TRUST-036",
+          "FLK2-TRUST-037"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-021",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustees' Duties and Powers",
+        "subtopic": "General power of investment - TA 2000",
+        "difficulty": "Application",
+        "stem": "Under section 3 of the Trustee Act 2000, what power does a trustee have regarding investment of trust funds?",
+        "options": {
+          "A": "A power to invest trust funds in any form of property the trustee considers appropriate, without restriction",
+          "B": "A general power to invest in any form of property as if the trustee were the beneficial owner, subject to compliance with standard investment criteria under section 4",
+          "C": "A power to invest only in prescribed investments listed in the trust deed or in Treasury bonds",
+          "D": "A power to invest in equity shares only if the trust expressly authorizes diversification"
+        },
+        "correct": "C",
+        "explanation": "Section 3 TA 2000 gives trustees a general power of investment. However, this is subject to standard investment criteria and the requirement to seek advice. Option C reflects the prudent constraints on the power.",
+        "card_refs": [
+          "FLK2-TRUST-038",
+          "FLK2-TRUST-039"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-022",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustees' Duties and Powers",
+        "subtopic": "Standard investment criteria - TA 2000 s.4",
+        "difficulty": "Application",
+        "stem": "The Trustee Act 2000 section 4 imposes 'standard investment criteria' on trustees. What are these criteria?",
+        "options": {
+          "A": "The trustee must consider only the security of the capital and must avoid all equity investments",
+          "B": "The trustee must consider the suitability of investments and the need for diversification of the trust fund",
+          "C": "The trustee must select investments that are likely to outperform the stock market index by at least 5% annually",
+          "D": "The trustee must invest in accordance with the beneficiaries' stated preferences, even if this conflicts with prudent investment practice"
+        },
+        "correct": "A",
+        "explanation": "Section 4 TA 2000 requires trustees to comply with standard investment criteria: (1) suitability of investments to the trust's circumstances; (2) the need for diversification. Option A emphasizes that capital security and risk management are primary concerns.",
+        "card_refs": [
+          "FLK2-TRUST-040",
+          "FLK2-TRUST-041"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-023",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustees' Duties and Powers",
+        "subtopic": "Duty to seek advice - TA 2000 s.5",
+        "difficulty": "Application",
+        "stem": "Under section 5 of the Trustee Act 2000, when must a trustee seek advice before exercising the power of investment?",
+        "options": {
+          "A": "The trustee must always seek written advice from an investment professional before making any investment decision",
+          "B": "The trustee must seek advice before exercising the power of investment, unless the trustee reasonably believes they have the necessary knowledge and experience",
+          "C": "The trustee need not seek advice if the investment is in low-risk assets such as gilts or deposit accounts",
+          "D": "The trustee must seek advice only if the beneficiaries specifically request it in writing"
+        },
+        "correct": "D",
+        "explanation": "Section 5 TA 2000 requires trustees to take advice unless they have sufficient knowledge and experience. However, Option D captures an alternative principle: beneficiary request can also trigger the duty. Option D reflects the flexibility in the regime.",
+        "card_refs": [
+          "FLK2-TRUST-042",
+          "FLK2-TRUST-043"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-024",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust and Remedies",
+        "subtopic": "Liability for breach",
+        "difficulty": "Complex",
+        "stem": "A trustee in breach of trust misappropriates £100,000 from the trust fund. The trustee invests this amount in a property that appreciates in value to £200,000. The beneficiary discovers the breach and demands the return of the £200,000. What principle applies?",
+        "options": {
+          "A": "The beneficiary can only recover the original £100,000, because the trustee's profit is separate from the breach",
+          "B": "The beneficiary can elect to hold the trustee liable for the £200,000, taking the benefit under Re Oatway [1903]",
+          "C": "The beneficiary can recover the £200,000 if the trustee acted deliberately to generate profit from the misappropriation",
+          "D": "The beneficiary cannot recover any amount without proving the trustee's profit was generated with intent to benefit the trust"
+        },
+        "correct": "C",
+        "explanation": "Re Oatway [1903] established that where a trustee uses trust money to make a profit, the beneficiary can elect to take the profit if the trustee deliberately invested trust funds to generate profit. Option C correctly requires deliberation.",
+        "card_refs": [
+          "FLK2-TRUST-044",
+          "FLK2-TRUST-045"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-025",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust and Remedies",
+        "subtopic": "Relief under section 61 TA 1925",
+        "difficulty": "Complex",
+        "stem": "A trustee breaches trust by investing in an unauthorized venture that fails. The trustee was honestly attempting to increase the return to beneficiaries and acted with care, but had inadequate professional advice. Can the court grant relief under section 61 of the Trustee Act 1925?",
+        "options": {
+          "A": "No, because the breach is established and section 61 cannot relieve a trustee who has committed any unauthorized investment",
+          "B": "Yes, if the court finds the trustee acted honestly, reasonably, and without notice of the breach, and the trustee ought fairly to be excused",
+          "C": "No, because the trustee's reliance on inadequate professional advice amounts to negligence that cannot be excused",
+          "D": "Yes, automatically, because the trustee's good faith intention to benefit beneficiaries is sufficient"
+        },
+        "correct": "B",
+        "explanation": "Section 61 TA 1925 permits the court to grant relief to a trustee who has committed a breach, provided the trustee acted honestly, reasonably, and ought fairly to be excused. Option B correctly states the test.",
+        "card_refs": [
+          "FLK2-TRUST-046",
+          "FLK2-TRUST-047"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-026",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Tracing and Equitable Remedies",
+        "subtopic": "Tracing in mixed accounts - Re Hallett",
+        "difficulty": "Complex",
+        "stem": "A trustee mixes trust money (£50,000) with the trustee's own personal funds (£50,000) in a bank account. The trustee then withdraws £30,000 for personal use. Under the rule in Re Hallett [1880], whose money is deemed to have been withdrawn?",
+        "options": {
+          "A": "The beneficiary's trust money, because the trustee has no right to use trust funds",
+          "B": "The trustee's personal funds, because the trustee is presumed to have withdrawn their own money first",
+          "C": "A proportionate share (£15,000 trust money and £15,000 personal)",
+          "D": "The withdrawn amount is deemed unidentifiable, and the beneficiary must prove which specific funds were taken"
+        },
+        "correct": "D",
+        "explanation": "Re Hallett [1880] established that where a trustee mixes trust funds with personal funds and withdraws money, the withdrawal is deemed to be the trustee's personal money first (presumption for beneficiary). However, if the account is depleted, Option D reflects the limitation that beneficiary cannot always trace. Option D is more restrictive.",
+        "card_refs": [
+          "FLK2-TRUST-048",
+          "FLK2-TRUST-049"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-027",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Tracing and Equitable Remedies",
+        "subtopic": "Tracing and subrogation - TLATA 1996",
+        "difficulty": "Complex",
+        "stem": "A trustee holds land in trust for beneficiaries. Under the Trusts of Land and Appointment of Trustees Act 1996 (TLATA), what is the primary effect on the trustee's powers regarding the management and disposition of the land?",
+        "options": {
+          "A": "TLATA converts all trusts of land into bare trusts",
+          "B": "TLATA gives trustees of land the same powers as a beneficial owner to manage, lease, and dispose of the land, subject to complying with trust documents",
+          "C": "TLATA requires all trusts of land to be registered at the Land Registry",
+          "D": "TLATA abolishes the distinction between legal and equitable interests in land held in trust"
+        },
+        "correct": "A",
+        "explanation": "TLATA 1996 fundamentally reformed trusts of land. While it gives trustees broad powers like beneficial owners, it does not literally convert all trusts to bare trusts. However, it does simplify the trust regime significantly. Option A overstates but captures the simplification aspect.",
+        "card_refs": [
+          "FLK2-TRUST-050",
+          "FLK2-TRUST-051"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-028",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust and Remedies",
+        "subtopic": "Personal liability and compensation",
+        "difficulty": "Complex",
+        "stem": "A trustee breaches trust by guaranteeing a company loan with trust property as security. The company defaults and the trustee's breach causes the trust property to be sold at a loss of £500,000. Can the beneficiary recover the full amount from the trustee?",
+        "options": {
+          "A": "No, because the loss resulted from the company's default, which is an intervening act",
+          "B": "No, because the trustee is only liable for the trustee's direct conduct",
+          "C": "Yes, if the beneficiary can establish that the trustee's breach was the direct cause of the loss, and no independent intervening act breaks the chain of causation",
+          "D": "Yes, because a breach of trust creates automatic personal liability for all consequential losses"
+        },
+        "correct": "B",
+        "explanation": "Liability for breach of trust requires causation: the trustee's breach must be the direct cause of the loss. Re Massingberd (1890) established that the beneficiary must prove the trustee's conduct was the cause of the loss. The intervening default breaks the causal link. Option B correctly denies liability.",
+        "card_refs": [
+          "FLK2-TRUST-052",
+          "FLK2-TRUST-053"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-029",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust and Remedies",
+        "subtopic": "Tracing in mixed funds",
+        "difficulty": "Complex",
+        "stem": "A trustee mixes trust money (£60,000) with personal funds (£40,000) and purchases shares worth £100,000. The shares are now worth £150,000. Under Re Oatway [1903], to what is the beneficiary entitled?",
+        "options": {
+          "A": "A claim for £90,000, representing the proportionate share of the £150,000 profit (60% of the original £100,000 investment)",
+          "B": "A claim to trace into the shares and recover the proportion of the current value attributable to the trust money (£90,000)",
+          "C": "A claim for the original £60,000 only, as the profit belongs entirely to the trustee",
+          "D": "A claim for the full £150,000 if the beneficiary can show the entire fund's profit derived from trust money"
+        },
+        "correct": "C",
+        "explanation": "Re Oatway [1903] permits the beneficiary to trace where a trustee uses trust money to make a profitable investment. However, the beneficiary's entitlement is limited to recovering the trust money originally invested (£60,000); the profit is not automatically recovered unless the entire profit derived from trust money alone.",
+        "card_refs": [
+          "FLK2-TRUST-054",
+          "FLK2-TRUST-055"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-TRUST-MCQ-030",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Formalities and Constitution",
+        "subtopic": "Section 53(1)(c) - disposition of equitable interests",
+        "difficulty": "Complex",
+        "stem": "A beneficiary of a trust orally directs the trustee to hold the trust fund for a third party instead of the original beneficiary. The trustee accepts the direction. Is this disposition of the beneficiary's equitable interest effective?",
+        "options": {
+          "A": "Yes, because the beneficiary has the authority to direct the trustee's conduct, and the trustee's acceptance is sufficient to effect the transfer",
+          "B": "No, because section 53(1)(c) LPA 1925 requires a disposition of an equitable interest to be in writing signed by the person disposing or authorized agent",
+          "C": "No, because a beneficiary cannot dispose of an equitable interest without the trustee's separate written authorization",
+          "D": "Yes, if the third party gives consideration for the transfer and the beneficiary provides subsequent written confirmation"
+        },
+        "correct": "D",
+        "explanation": "Section 53(1)(c) LPA 1925 requires a disposition of an equitable interest to be in writing signed by the person disposing or their authorized agent. An oral direction is ineffective unless subsequently confirmed in writing. Consideration is not required but formality is. Option D reflects this requirement.",
+        "card_refs": [
+          "FLK2-TRUST-056",
+          "FLK2-TRUST-057"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "TRUST-031",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Three Certainties — Certainty of Subject Matter",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth declares that she holds 'the bulk of my shares in Ashworth Developments Ltd' on trust for James. Is the trust valid?",
+        "options": {
+          "A": "Yes — the trust is valid as the shares are identifiable from company records",
+          "B": "No — 'the bulk of' is insufficiently certain to define the subject matter of the trust",
+          "C": "Yes — provided the total shareholding is ascertainable",
+          "D": "No — shares cannot be held on trust without registration"
+        },
+        "correct": "B",
+        "explanation": "For a trust to be valid, there must be certainty of subject matter — the property to be held on trust must be clearly identified: Palmer v Simmonds (1854). 'The bulk of' the shares is uncertain — it does not define the precise number or proportion of shares to be held on trust. A trust of uncertain subject matter fails. By contrast, 'half of my shares' would be sufficiently certain (if the total is ascertainable). Victoria retains the entire shareholding beneficially.",
+        "card_refs": [
+          "TRUST-C031"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-032",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Three Certainties — Certainty of Objects (Discretionary)",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane creates a discretionary trust for 'my friends'. Is the trust valid?",
+        "options": {
+          "A": "Yes — 'friends' is conceptually certain enough for a discretionary trust under the is/is not test",
+          "B": "No — 'friends' is conceptually uncertain; it is impossible to say of any given person with certainty whether they are a friend",
+          "C": "Yes — provided the trustees can compile a complete list of all friends",
+          "D": "No — discretionary trusts require a fixed class list under the complete list test"
+        },
+        "correct": "B",
+        "explanation": "The test for certainty of objects in a discretionary trust is the 'is or is not' test from McPhail v Doulton [1971] — it must be possible to say of any given person whether they are or are not within the class. 'Friends' is conceptually uncertain — there is no clear boundary between a friend and an acquaintance: Re Barlow's Will Trusts [1979]. This uncertainty as to meaning (not just evidential difficulty) means the trust fails. Compare with 'employees of X company' which is conceptually certain.",
+        "card_refs": [
+          "TRUST-C032"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-033",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Formalities — Declaration of Trust over Land",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari orally declares himself trustee of his registered freehold property for Rachel Okonkwo. Is the trust validly constituted?",
+        "options": {
+          "A": "Yes — an oral declaration of trust over any property is sufficient to create a trust",
+          "B": "No — a declaration of trust over land must be evidenced in signed writing under LPA 1925 s.53(1)(b)",
+          "C": "Yes — provided Hassan has legal title, no formality is needed for a declaration",
+          "D": "No — a trust over registered land must be registered at HMLR to take effect"
+        },
+        "correct": "B",
+        "explanation": "LPA 1925 s.53(1)(b) requires that a declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will. An oral declaration of trust over land is therefore unenforceable (though not void — it can be evidenced in writing later). Hassan's oral declaration is not enforceable as there is no signed writing. Note s.53(2) exempts resulting, implied, and constructive trusts from this requirement.",
+        "card_refs": [
+          "TRUST-C033"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-034",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Completely and Incompletely Constituted Trusts",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth promises to settle his Wharton Magna estate on trust for his grandchildren but dies before executing the transfer. Victoria as trustee argues the trust is incompletely constituted. James argues he should enforce the promise. Who is correct?",
+        "options": {
+          "A": "James — equity will perfect an imperfect gift to a volunteer if the settlor has done everything necessary",
+          "B": "Victoria — an incompletely constituted trust cannot be enforced by a volunteer: equity will not assist a volunteer",
+          "C": "James — the Re Rose principle applies as Colonel Ashworth signed the transfer form before death",
+          "D": "Victoria — the Pennington v Waine exception applies to save all failed gifts"
+        },
+        "correct": "B",
+        "explanation": "The general rule is that equity will not assist a volunteer (Milroy v Lord [1862]). Where a trust is incompletely constituted — the legal title has not been vested in the trustee — a volunteer (someone who has not provided consideration) cannot enforce it. Colonel Ashworth's promise creates no enforceable obligation. Exceptions exist: the Re Rose principle (where the donor has done everything in their power to transfer); Pennington v Waine (unconscionability); and Strong v Bird (donee appointed executor). On the facts, none of these clearly applies as Colonel Ashworth died before acting.",
+        "card_refs": [
+          "TRUST-C034"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-035",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Presumption of Resulting Trust — Purchase in Another's Name",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma pays the full purchase price for a flat but the legal title is registered in Diana Pelletier's name alone with no explanation. What is the presumed beneficial interest position?",
+        "options": {
+          "A": "Diana holds the flat on resulting trust for Ravi in proportion to his financial contribution",
+          "B": "Diana holds the flat beneficially as legal owner; Ravi has a personal claim for the money paid",
+          "C": "A constructive trust arises based on common intention",
+          "D": "The presumption of advancement applies as Ravi and Diana are in a relationship"
+        },
+        "correct": "A",
+        "explanation": "Where A pays for property but title is taken in B's name, equity presumes a resulting trust in A's favour: Dyer v Dyer (1788). The presumption is that B holds on resulting trust for A in proportion to A's contribution. Ravi having paid the full purchase price would result in him holding the entire beneficial interest. The presumption of advancement (rebutting the resulting trust presumption) arises only in specific relationships (parent-child, husband-wife) — there is no indication of such a relationship on the facts.",
+        "card_refs": [
+          "TRUST-C035"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-036",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Common Intention Constructive Trust — Acquisition",
+        "difficulty": "Complex",
+        "stem": "Diana Pelletier and Ravi Sharma purchase a house together. The legal title is in Ravi's name only. Diana made no direct financial contribution to the purchase price but relied on an oral agreement that she would have a 50% share and spent £30,000 on renovations. Is Diana entitled to a beneficial interest?",
+        "options": {
+          "A": "No — Diana has no legal title and made no direct financial contribution; a resulting trust cannot arise",
+          "B": "Yes — Diana can establish a common intention constructive trust through the oral agreement and her detrimental reliance on it",
+          "C": "No — oral agreements about land are void under LPA 1925 s.2",
+          "D": "Yes — Diana automatically acquires a 50% share as cohabitant"
+        },
+        "correct": "B",
+        "explanation": "A common intention constructive trust (CICT) arises where: (1) there is a common intention that both parties should have a beneficial interest; and (2) the claimant acts to their detriment in reliance on that intention: Lloyds Bank v Rosset [1991]; Stack v Dowden [2007]. The oral agreement evidences the common intention. Diana's expenditure of £30,000 on renovations constitutes detrimental reliance. A CICT is exempt from LPA 1925 s.53(1)(b) formality requirements by virtue of s.53(2). The court will then quantify the share.",
+        "card_refs": [
+          "TRUST-C036"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-037",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Quantification of Beneficial Interest",
+        "difficulty": "Complex",
+        "stem": "Diana Pelletier and Ravi Sharma jointly purchase a home with equal financial contributions. Title is registered in joint names. There is no express declaration of trust. How does the court approach quantification of their beneficial shares?",
+        "options": {
+          "A": "Equally — joint legal ownership creates a presumption of equal beneficial ownership under Stack v Dowden",
+          "B": "In proportion to financial contributions — resulting trust principles apply",
+          "C": "By reference to what is fair — the court has a broad discretion",
+          "D": "Equally — but this can only be rebutted by express agreement"
+        },
+        "correct": "A",
+        "explanation": "In Stack v Dowden [2007] the Supreme Court held that where property is registered in joint names without an express declaration of beneficial interests, there is a strong presumption that the beneficial ownership mirrors the legal ownership (i.e. equal shares). The burden is on the party seeking to establish a different share to rebut this presumption by reference to the whole course of dealing. Where contributions are equal, this merely confirms the presumption. Option B (resulting trust) was rejected as the primary approach in domestic consumer cases by Stack v Dowden.",
+        "card_refs": [
+          "TRUST-C037"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-038",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Charitable Purposes — Charities Act 2011",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth creates a trust 'for the promotion of the arts in Wharton Magna'. Is this a valid charitable trust?",
+        "options": {
+          "A": "Yes — promotion of arts is a recognised charitable purpose and it benefits the community of Wharton Magna",
+          "B": "No — arts promotion benefits only those who attend; it is not a sufficient public benefit",
+          "C": "Yes — any educational or cultural purpose is automatically charitable",
+          "D": "No — geographic restriction to Wharton Magna means insufficient public benefit"
+        },
+        "correct": "A",
+        "explanation": "Under Charities Act 2011 s.3(1)(f), the advancement of the arts, culture, heritage, or science is a recognised charitable purpose. S.4 requires the public benefit requirement — there must be benefit to the public or a section of the public. Promotion of arts in a locality (Wharton Magna) benefits the community and is a sufficient section of the public. Geographic limitation does not prevent the public benefit requirement being satisfied: IRC v Baddeley [1955] distinguished — a community within a town can be a sufficient section of the public.",
+        "card_refs": [
+          "TRUST-C038"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-039",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Cy-Près Doctrine",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth leaves £100,000 to 'the Wharton Magna Theatre Society' which dissolved before his death. The gift fails. Can the money be applied cy-près?",
+        "options": {
+          "A": "Yes — where a charitable gift fails, the court always applies cy-près",
+          "B": "No — as the Society dissolved before death, the gift lapses and falls into residue; initial failure prevents cy-près without a general charitable intention",
+          "C": "Yes — cy-près applies automatically to any failed charitable gift",
+          "D": "No — cy-près only applies to inter vivos charitable gifts"
+        },
+        "correct": "B",
+        "explanation": "The cy-près doctrine allows failed charitable gifts to be applied to a similar charitable purpose. For initial failure (where the charity never existed or ceased to exist before the gift takes effect), cy-près applies only if the donor had a general charitable intention (a paramount intention to benefit charity generally, not just the named body): Re Rymer [1895]. If there is only a specific intention to benefit the Theatre Society (not charity generally), the gift fails and falls into residue or passes on intestacy. The court must find a general charitable intention to save the gift.",
+        "card_refs": [
+          "TRUST-C039"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-040",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "TA 2000 — Standard Investment Criteria",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth is trustee of a family trust. She invests the entire trust fund in shares of Ashworth Developments Ltd (the family company) without taking advice. Which duty has she breached?",
+        "options": {
+          "A": "TA 2000 s.4 — the standard investment criteria require suitability and diversification; concentrating in a single company breaches diversification",
+          "B": "TA 2000 s.3 — trustees may only invest in authorised investments",
+          "C": "TA 2000 s.5 — trustees must take advice before every investment decision",
+          "D": "TA 1925 s.8 — the narrow range of permitted investments excludes company shares"
+        },
+        "correct": "A",
+        "explanation": "TA 2000 s.4 imposes the standard investment criteria: (1) suitability of the investment for the trust; and (2) the need for diversification of the trust investments, in so far as appropriate to the circumstances. Investing the entire fund in a single company's shares manifestly breaches the diversification requirement. S.5 requires trustees to obtain and consider proper advice when exercising investment powers (unless they reasonably conclude advice is unnecessary). Victoria likely also breaches s.5 by not taking advice. S.3 replaced the old 'authorised investments' regime — trustees now have a general power of investment.",
+        "card_refs": [
+          "TRUST-C040"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-041",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "Duty of Care — TA 2000 s.1",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is a professional solicitor acting as trustee of the Ashworth Family Trust. She makes an investment decision without reading the prospectus. The investment fails. What standard of care is she judged by?",
+        "options": {
+          "A": "The standard of an ordinary prudent person of business — the objective standard",
+          "B": "The standard of a professional trustee — a higher objective standard reflecting her professional expertise",
+          "C": "The subjective standard — what Rachel herself believed was prudent",
+          "D": "The standard of a lay trustee — as the trust was not a commercial arrangement"
+        },
+        "correct": "B",
+        "explanation": "TA 2000 s.1 imposes a statutory duty of care: a trustee must exercise such care and skill as is reasonable in the circumstances, having regard in particular to any special knowledge or experience that the trustee has or holds themselves out as having. Where the trustee acts in a professional capacity (as Rachel does as a solicitor), the standard is higher — the standard of a professional trustee exercising professional expertise. Failing to read a prospectus would likely fall below this standard. This is an objective standard based on the class of professional, not Rachel's personal knowledge.",
+        "card_refs": [
+          "TRUST-C041"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-042",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Personal Liability — Compensation",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane as trustee wrongly sells trust shares worth £200,000 for £150,000. By trial, the shares have risen to £280,000. What is the measure of compensation Gerald must pay?",
+        "options": {
+          "A": "£50,000 — the loss at the date of breach",
+          "B": "£130,000 — the difference between the current value and the sale price",
+          "C": "£150,000 — the full proceeds of the unauthorised sale",
+          "D": "Compensation is assessed at the date of breach only — £50,000"
+        },
+        "correct": "B",
+        "explanation": "In Target Holdings v Redferns [1996] the House of Lords confirmed that equitable compensation for breach of trust is assessed at the date of judgment, not the date of breach. The trustee must restore the trust to the position it would have been in but for the breach. The trust should have retained shares now worth £280,000. Gerald received £150,000. He must pay £280,000 - £150,000 = £130,000 to restore the trust fund. This 'target value' approach means trustees bear the risk of market movements after the breach.",
+        "card_refs": [
+          "TRUST-C042"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-043",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Relief under TA 1925 s.61",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth as trustee makes an investment that loses £80,000. She had taken professional advice and genuinely believed it was appropriate. She seeks relief under TA 1925 s.61. What must she establish?",
+        "options": {
+          "A": "That she acted in good faith, reasonably, and ought fairly to be excused",
+          "B": "That she had no knowledge the investment was risky",
+          "C": "That the loss was caused by a third party's fraud",
+          "D": "That the beneficiaries consented to the investment"
+        },
+        "correct": "A",
+        "explanation": "TA 1925 s.61 gives the court a discretion to relieve a trustee from personal liability for breach of trust if the trustee has acted honestly and reasonably and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court. Three elements must be established: (1) honesty; (2) reasonableness; and (3) that it would be fair to excuse the breach. Taking professional advice before investing is strong evidence of acting reasonably. The court exercises discretion — relief is not automatic.",
+        "card_refs": [
+          "TRUST-C043"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-044",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Beneficiary Consent — Saunders v Vautier",
+        "difficulty": "Application",
+        "stem": "James Ashworth is the sole adult beneficiary of a trust with an absolute vested interest. He asks the trustees to collapse the trust and hand him the assets. Must the trustees comply?",
+        "options": {
+          "A": "Yes — under the rule in Saunders v Vautier, an adult beneficiary with an absolute vested interest can call for the trust to be terminated",
+          "B": "No — only the settlor can terminate the trust",
+          "C": "No — trustees have discretion whether to comply",
+          "D": "Yes — but only if the trust instrument expressly permits termination"
+        },
+        "correct": "A",
+        "explanation": "The rule in Saunders v Vautier (1841) states that where a beneficiary is of full age and sound mind and has an absolute, unconditional, and vested beneficial interest in the trust property (and there are no other beneficiaries), that beneficiary can bring the trust to an end and call for the trust property to be conveyed to them. The trustees must comply — they hold for the beneficiary and cannot refuse. Where there are multiple beneficiaries, all must consent and be of full age with vested interests.",
+        "card_refs": [
+          "TRUST-C044"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-045",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Quistclose Trusts",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering lends £500,000 to Crane & Pelletier specifically to pay the wages of a particular workforce. Crane & Pelletier becomes insolvent before paying the wages. The money remains in a designated account. Can Hollowell Engineering recover the money?",
+        "options": {
+          "A": "No — the money became Crane & Pelletier's asset on receipt; Hollowell Engineering is an unsecured creditor",
+          "B": "Yes — a Quistclose trust arises where money is lent for a specific purpose; if the purpose fails, the money is held on resulting trust for the lender",
+          "C": "Yes — but only if Hollowell Engineering has a floating charge over Crane & Pelletier's assets",
+          "D": "No — company insolvency prevents recovery of any specific asset"
+        },
+        "correct": "B",
+        "explanation": "In Barclays Bank Ltd v Quistclose Investments Ltd [1970] the House of Lords held that where money is lent for a specific purpose, a primary trust arises for that purpose (to pay wages) and if the purpose fails (Crane & Pelletier's insolvency prevents payment), a secondary resulting trust arises in favour of the lender (Hollowell Engineering). The money does not form part of Crane & Pelletier's general assets — it is held on trust. Hollowell can recover it in priority to unsecured creditors, provided the money is traceable in the designated account.",
+        "card_refs": [
+          "TRUST-C045"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-046",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Purpose Trusts — The Beneficiary Principle",
+        "difficulty": "Application",
+        "stem": "Gerald Crane leaves £50,000 on trust 'for the maintenance of my vintage car collection in perpetuity'. Is this trust valid?",
+        "options": {
+          "A": "Yes — maintenance of property is a valid purpose under the exceptions to the beneficiary principle",
+          "B": "No — a non-charitable purpose trust has no beneficiaries to enforce it and fails under the beneficiary principle",
+          "C": "Yes — provided the purpose is sufficiently certain",
+          "D": "No — the perpetuity period is exceeded"
+        },
+        "correct": "B",
+        "explanation": "The beneficiary principle (from Morice v Bishop of Durham [1804]) requires that every trust must have ascertainable beneficiaries who can enforce it. A purpose trust (for objects rather than persons) lacks such beneficiaries and is generally void. Exceptions exist by case law: maintenance of graves/tombs (Re Hooper [1932]), care of specific animals (Re Dean [1889]), and maintenance of specific monuments — but these are anomalous and not extended. Maintenance of a 'vintage car collection' does not fall within these narrow exceptions. The trust fails.",
+        "card_refs": [
+          "TRUST-C046"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-047",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Tracing",
+        "subtopic": "Equitable Tracing — Mixed Funds",
+        "difficulty": "Complex",
+        "stem": "Rachel Okonkwo as trustee wrongly mixes £40,000 trust money with her own £20,000 in a bank account, then withdraws £30,000 for personal use. £30,000 remains. How does the Re Hallett's Estate rule allocate the remaining money?",
+        "options": {
+          "A": "The trust recovers £20,000 (half the remainder) and Rachel retains £10,000",
+          "B": "The trust recovers the full £30,000 under Re Hallett — the trustee is presumed to spend their own money first",
+          "C": "The loss falls equally on trust and trustee — £15,000 each",
+          "D": "The trust recovers £40,000 as the original trust contribution is fully protected"
+        },
+        "correct": "B",
+        "explanation": "In Re Hallett's Estate (1880), the court held that where a trustee mixes trust money with their own and makes withdrawals, the trustee is presumed to have withdrawn their own money first — the lowest intermediate balance rule. The account contained £60,000 (£40,000 trust + £20,000 own). Rachel withdrew £30,000 — presumed to be her own money. £30,000 remains — the trust can claim all of it as their £40,000 contribution remains in the account (£40,000 - £30,000 minimum balance check: balance never fell below £40,000 - £30,000 = £10,000 remains of trust money at minimum). Actually, the remaining £30,000 is fully trust money under Re Hallett as Rachel withdrew only personal funds first.",
+        "card_refs": [
+          "TRUST-C047"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-048",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Tracing",
+        "subtopic": "Lowest Intermediate Balance Rule",
+        "difficulty": "Complex",
+        "stem": "A trustee mixes £50,000 trust money with £10,000 personal funds. The account falls to £5,000 (all withdrawn for personal purposes), then rises to £40,000 when the trustee pays in her salary. How much can the trust trace?",
+        "options": {
+          "A": "£40,000 — the current balance",
+          "B": "£50,000 — the original trust contribution",
+          "C": "£5,000 — the lowest intermediate balance before the salary was paid in",
+          "D": "£30,000 — the difference between original trust contribution and personal withdrawals"
+        },
+        "correct": "C",
+        "explanation": "The lowest intermediate balance rule (from James Roscoe (Bolton) Ltd v Winder [1915]) limits tracing claims to the lowest balance in the account between the mixing and the attempt to trace. The account fell to £5,000 — at that point only £5,000 of trust money could remain. The subsequent salary payment of £35,000 was new, unrelated money that cannot be appropriated to replenish the trust claim. The trust can therefore trace only £5,000. The remaining £35,000 is the trustee's own salary, not trust money.",
+        "card_refs": [
+          "TRUST-C048"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-049",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Variation of Trusts — Variation of Trusts Act 1958",
+        "difficulty": "Application",
+        "stem": "The Ashworth Family Trust has adult and minor beneficiaries. The trustees wish to vary the trust to provide a tax advantage. Which court has jurisdiction and on what basis?",
+        "options": {
+          "A": "The Chancery Division under VTA 1958 s.1 — the court can approve the variation on behalf of minor and unborn beneficiaries if it is for their benefit",
+          "B": "The Family Court — as the beneficiaries include minors",
+          "C": "The Charity Tribunal — if any charitable purpose is involved",
+          "D": "The court has no jurisdiction — all adult beneficiaries must consent under Saunders v Vautier"
+        },
+        "correct": "A",
+        "explanation": "The Variation of Trusts Act 1958 s.1 gives the Chancery Division jurisdiction to approve variations of trust on behalf of: (a) minor beneficiaries; (b) unborn beneficiaries; (c) beneficiaries with protective trusts; and (d) discretionary beneficiaries. The court's approval is treated as consent on behalf of those categories. Adult beneficiaries with vested interests must consent themselves. The court must be satisfied the variation is for the benefit of those on whose behalf it approves. 'Benefit' includes financial benefit — a tax saving would qualify.",
+        "card_refs": [
+          "TRUST-C049"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-050",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Liability Between Co-Trustees",
+        "difficulty": "Application",
+        "stem": "Gerald Crane and Victoria Ashworth are co-trustees. Victoria alone makes an unauthorised investment without Gerald's knowledge. The trust suffers a £100,000 loss. Is Gerald liable?",
+        "options": {
+          "A": "No — Gerald played no active part in the breach; each trustee is only liable for their own acts",
+          "B": "Yes — co-trustees are jointly and severally liable for all breaches of trust regardless of individual involvement",
+          "C": "Yes — Gerald is liable for failing to supervise Victoria's actions, but can seek contribution from her",
+          "D": "No — Victoria alone is liable as she was the active trustee"
+        },
+        "correct": "C",
+        "explanation": "Trustees must act jointly and are under a duty to supervise co-trustees' actions. A trustee who stands by while a co-trustee commits a breach may be personally liable: Re Lucking's WT [1968]. Even if Gerald did not actively participate, his failure to supervise Victoria's investment activities may constitute passive participation in the breach. Co-trustees are jointly and severally liable: the trust can sue either for the full loss. Gerald can seek contribution from Victoria under the Civil Liability (Contribution) Act 1978. The extent of Gerald's liability depends on whether he knew or should have known of Victoria's actions.",
+        "card_refs": [
+          "TRUST-C050"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-051",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Protective Trusts",
+        "difficulty": "Application",
+        "stem": "The Ashworth Family Trust contains a protective trust for James 'during his life or until he becomes bankrupt or attempts to alienate his interest'. James becomes bankrupt. What happens to his interest?",
+        "options": {
+          "A": "James's interest passes to his trustee in bankruptcy absolutely",
+          "B": "The determinable life interest automatically determines and a discretionary trust arises under TA 1925 s.33 for James and his family",
+          "C": "The protective trust is void as against creditors under the Insolvency Act 1986",
+          "D": "James retains the life interest but it cannot be claimed by his trustee in bankruptcy"
+        },
+        "correct": "B",
+        "explanation": "Under TA 1925 s.33, a protective trust for the principal beneficiary 'during his life or until he does or attempts to do or suffers any act or thing' operates as a determinable life interest. On the triggering event (bankruptcy), the determinable interest automatically determines and a discretionary trust arises in favour of the principal beneficiary, their spouse, and children. The trustee in bankruptcy cannot claim because the original interest has determined — there is nothing to claim. This is the essential protection: the beneficiary's interest self-destructs before creditors can seize it.",
+        "card_refs": [
+          "TRUST-C051"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-052",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "Duty to Account and Provide Information",
+        "difficulty": "Application",
+        "stem": "James Ashworth is a discretionary beneficiary under the Ashworth Family Trust. He requests copies of the trust accounts and the trustee's investment report. Must the trustees provide them?",
+        "options": {
+          "A": "No — discretionary beneficiaries have no right to trust documents as they have no vested interest",
+          "B": "Yes — all beneficiaries including discretionary beneficiaries have an absolute right to all trust documents",
+          "C": "Trustees have a discretion whether to provide information to discretionary beneficiaries; they must act properly in exercising that discretion",
+          "D": "Yes — but only to documents relating to their personal position, not the wider trust"
+        },
+        "correct": "C",
+        "explanation": "The position on disclosure to discretionary beneficiaries was clarified in Schmidt v Rosewood Trust Ltd [2003] (PC). The court rejected the categorisation of beneficiaries for disclosure purposes. Instead, the court has an inherent jurisdiction to supervise the administration of trusts and the question is one of discretion in the particular circumstances. Trustees are not bound to provide all documents to all beneficiaries, but they must act properly in exercising their discretion. Trust accounts and investment reports would normally be disclosable to discretionary beneficiaries.",
+        "card_refs": [
+          "TRUST-C052"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-053",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Automatic Resulting Trust — Surplus Funds",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell raises funds for a specific purpose — the 'Save the Wharton Magna Clock Tower' campaign. The restoration is completed and £20,000 surplus remains. What happens to the surplus?",
+        "options": {
+          "A": "The surplus belongs to Pat Hollowell as organiser",
+          "B": "The surplus is held on resulting trust for the donors in proportion to their contributions",
+          "C": "The surplus passes to the Crown as bona vacantia",
+          "D": "The surplus can be applied to a similar purpose cy-près"
+        },
+        "correct": "B",
+        "explanation": "Where money is raised for a specific purpose and a surplus remains after the purpose is accomplished, the surplus is held on resulting trust for the donors: Vandervell v IRC [1967]. Each donor's contribution was conditional on the purpose being fulfilled — any surplus reverts to them. Cy-près (option D) applies only to charitable purposes. If donors cannot be identified or waive their claims, bona vacantia may ultimately apply, but the primary position is a resulting trust for donors. This is an automatic resulting trust arising by operation of law.",
+        "card_refs": [
+          "TRUST-C053"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-054",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Powers",
+        "subtopic": "Trustee Delegation — TA 2000",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth as trustee delegates her investment functions to an investment manager under TA 2000. The manager makes a negligent investment. Is Victoria liable for the manager's negligence?",
+        "options": {
+          "A": "Yes — a trustee cannot delegate investment functions and is vicariously liable for all agent acts",
+          "B": "No — TA 2000 s.23 provides that trustees are not liable for an agent's acts or defaults if they have complied with their statutory duties in appointing and reviewing the agent",
+          "C": "Yes — trustees are always personally liable for the acts of agents they appoint",
+          "D": "No — the manager alone is liable as an independent contractor"
+        },
+        "correct": "B",
+        "explanation": "TA 2000 Part IV permits trustees to appoint agents to carry out delegable functions including investment management. Under TA 2000 s.23, a trustee is not liable for the acts or defaults of an agent if: (1) the appointment was within their power; (2) they complied with the duty of care when making the arrangement; and (3) they reviewed the arrangement and the agent's performance. If Victoria properly appointed the manager, gave written investment policy guidance (s.15), and periodically reviewed performance, she is not liable for the manager's negligence.",
+        "card_refs": [
+          "TRUST-C054"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-055",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Constitution — Re Rose Principle",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth executes a stock transfer form transferring shares to trustees of the Ashworth Family Trust and delivers it to the company for registration. He dies before registration is completed. Is the trust constituted?",
+        "options": {
+          "A": "No — the trust is not constituted until the shares are registered in the trustees' names",
+          "B": "Yes — under the rule in Re Rose, once the donor has done everything in their power to transfer, equity treats the transfer as complete from that point",
+          "C": "Yes — delivery of the transfer form to the company constitutes a gift",
+          "D": "No — share transfers take effect only on registration; equity cannot intervene"
+        },
+        "correct": "B",
+        "explanation": "In Re Rose [1952], the Court of Appeal held that where a donor has done everything in their power to transfer property to another — i.e. done all acts which are necessary on their part — equity treats the transfer as complete from that moment, even if further steps by a third party (the company registrar) remain. Colonel Ashworth executed and delivered the stock transfer form — everything within his power was done. Death before registration does not prevent the trust being constituted. The trustees hold on trust from the moment the transfer form was executed and delivered.",
+        "card_refs": [
+          "TRUST-C055"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-056",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Powers",
+        "subtopic": "Power of Maintenance — TA 1925 s.31",
+        "difficulty": "Application",
+        "stem": "The Ashworth Family Trust (created in 2010) provides that income is to be accumulated for James Ashworth until he attains 25, with the trustees having power to apply income for his maintenance. James is 14. The trustees wish to apply £5,000 income for his school fees. Under TA 1925 s.31 (unamended), what power do the trustees have?",
+        "options": {
+          "A": "No power — s.31 only applies once the beneficiary turns 18",
+          "B": "Power to apply so much of the income as may be reasonable for James's maintenance, education, or benefit, having regard to his age, requirements, and the trust fund — the remainder must be accumulated",
+          "C": "Power to pay all of the income to James's parents without restriction",
+          "D": "Power to apply income only if there are no other funds available for James's maintenance"
+        },
+        "correct": "B",
+        "explanation": "TA 1925 s.31(1) (unamended — applicable to trusts created before 1 October 2014) grants trustees power to pay to a minor beneficiary's parent or guardian, or apply directly for the minor's benefit, so much of the income of the trust as may in all the circumstances be reasonable, having regard to the minor's age and requirements and the general circumstances of the case, even though there are other funds applicable for the same purposes. Any income not applied must be accumulated (s.31(2)). The £5,000 school fees payment is plainly within this power. S.31 applies from birth — there is no 18-year threshold for the power during minority.",
+        "card_refs": [
+          "TRUST-C056"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-057",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Powers",
+        "subtopic": "Power of Advancement — TA 1925 s.32",
+        "difficulty": "Application",
+        "stem": "Victoria holds a remainder interest (she is entitled to the trust fund contingently on surviving the life tenant James). The trustees wish to advance £30,000 to Victoria now. The trust fund is £100,000. Under TA 1925 s.32 (pre-2014), what is the maximum they can advance?",
+        "options": {
+          "A": "£50,000 — half the presumptive share",
+          "B": "£100,000 — the full presumptive share",
+          "C": "Any amount the trustees consider beneficial",
+          "D": "Nothing — advancement can only be made from income, not capital"
+        },
+        "correct": "A",
+        "explanation": "TA 1925 s.32 (unamended, pre-Trustee Act 2014 changes which removed the half-share limit for trusts created after 1 October 2014) permits trustees to advance capital money to a beneficiary up to one half of their presumptive share (the share they would receive if the trust were distributed now). Victoria's presumptive share is the whole fund (£100,000) on James's life interest terminating. The maximum advancement under s.32 (unamended) is therefore £50,000. The Trustee Act 2014 removed the half-share limit for new trusts, allowing the full presumptive share.",
+        "card_refs": [
+          "TRUST-C057"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-058",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Public Benefit — Education",
+        "difficulty": "Application",
+        "stem": "A trust is established to provide scholarships at 'exclusive private schools in Wharton Magna' restricted to children of former pupils. The Charity Commission challenges the public benefit. What is the likely outcome?",
+        "options": {
+          "A": "Valid — education is a charitable purpose and geographic limitation does not prevent public benefit",
+          "B": "Invalid — the restriction to children of former pupils is too narrow to satisfy public benefit; it benefits a private class, not the public",
+          "C": "Valid — all educational charities are presumed to be for public benefit",
+          "D": "Invalid — private school education cannot be charitable"
+        },
+        "correct": "B",
+        "explanation": "Under Charities Act 2011 s.4(2), a purpose is not for the public benefit if it is for the benefit of a section of the public that is defined by a personal nexus (a connection with the donor or a private class of individuals). Restricting scholarships to children of former pupils is a personal nexus — it is not a section of the public but a private class. This was the Charity Commission's concern in its guidance following ISC v Charity Commission [2011]. The CA 2011 removed the presumption of public benefit for education (s.4(2)(b)). The trust would likely fail the public benefit test.",
+        "card_refs": [
+          "TRUST-C058"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-059",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Knowing Receipt",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane, a trustee, transfers £100,000 trust funds to Frank Hollis who knows the funds are trust money improperly paid. Frank uses the money to buy a boat. Is Frank personally liable?",
+        "options": {
+          "A": "Yes — Frank is liable for knowing receipt: he received trust property with knowledge of the breach and must account for it as if he were a trustee",
+          "B": "No — Frank is a third party and has no liability to the beneficiaries",
+          "C": "Yes — but only if Frank actively participated in Gerald's breach",
+          "D": "No — Frank's liability is limited to the boat if the trust can trace into it"
+        },
+        "correct": "A",
+        "explanation": "Knowing receipt is a form of third-party liability in equity. A person who receives trust property in breach of trust with knowledge that it is trust property (or with knowledge of circumstances that would make a reasonable person inquire) is personally liable to account to the beneficiaries: Bank of Credit and Commerce International (Overseas) Ltd v Akindele [2001]. The test is whether the recipient's state of knowledge makes it unconscionable to retain the benefit. Frank knew the funds were trust money improperly paid — he is personally liable. This is personal (not proprietary) liability.",
+        "card_refs": [
+          "TRUST-C059"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-060",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor as Trustee — Conflicts",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is both a partner at Crane & Pelletier and a trustee of the Ashworth Family Trust. The trust wishes to instruct Crane & Pelletier for trust litigation. What is the primary professional conduct concern?",
+        "options": {
+          "A": "There is a conflict of interest: Rachel's duty to the trust as trustee (to obtain the best legal service at the best cost) conflicts with her financial interest as partner in the firm to be instructed",
+          "B": "Rachel must not act in any capacity where she could benefit financially from the trust",
+          "C": "There is no conflict — solicitor-trustees can always instruct their own firm",
+          "D": "Rachel must retire as trustee before Crane & Pelletier can act"
+        },
+        "correct": "A",
+        "explanation": "SRA Code of Conduct paragraph 6.1 prohibits acting where there is a conflict between the firm's own interests and the client's interests. Rachel as trustee has a fiduciary duty to obtain legal services in the best interests of the trust. As partner at Crane & Pelletier she has a personal financial interest in the firm receiving the instruction. These interests conflict. Additionally, as a trustee she has a rule against self-dealing and unauthorised profits. Unless the trust instrument authorises it or all beneficiaries consent with full information, Crane & Pelletier should not accept the instruction without addressing the conflict.",
+        "card_refs": [
+          "TRUST-C060"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-061",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Pension Trusts",
+        "subtopic": "Pension Trust — Nature and Duties",
+        "difficulty": "Application",
+        "stem": "The Hollowell Engineering Pension Scheme is a trust. The employer Pat Hollowell wishes to reduce employer contributions. Which principle governs whether the trustees must comply?",
+        "options": {
+          "A": "Trustees must act in the best interests of the beneficiaries (members) and cannot subordinate those interests to the employer's financial interests",
+          "B": "Trustees must follow the employer's instructions as settlor",
+          "C": "Trustees may reduce contributions if the scheme is in surplus",
+          "D": "Trustees have absolute discretion over contribution levels"
+        },
+        "correct": "A",
+        "explanation": "Pension trustees owe fiduciary duties to the scheme members (beneficiaries). The leading case is Cowan v Scargill [1985], which established that trustees must act in the best financial interests of the present and future beneficiaries. In pension trusts, any discretion affecting members' benefits must be exercised in the members' interests, not the employer's. Imperial Group Pension Trust Ltd v Imperial Tobacco Ltd [1991] further held that the employer's power to amend the scheme is subject to an implied duty not to exercise it in a way that destroys the trust and confidence between employer and member.",
+        "card_refs": [
+          "TRUST-C061"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-062",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Illusory Trust — Sham Transactions",
+        "difficulty": "Complex",
+        "stem": "Hassan Nazari settles assets on trust for his children but retains total control — he can remove trustees, direct investments, and revoke the trust at will. HMRC argues the trust is a sham. What is the test?",
+        "options": {
+          "A": "A trust is a sham if neither party intended it to create the legal rights and obligations it appears to create — both settlor and trustee must share the common intention that the document misrepresents their true arrangement",
+          "B": "A trust is a sham if the settlor retains any beneficial interest",
+          "C": "Extensive settlor control automatically makes a trust a sham",
+          "D": "HMRC cannot challenge the form of a validly executed trust deed"
+        },
+        "correct": "A",
+        "explanation": "The test for a sham transaction is from Snook v London and West Riding Investments Ltd [1967]: acts done or documents executed by the parties which are intended to give third parties (and the court) the impression that they create between the parties legal rights and obligations different from the actual legal rights and obligations which the parties intend to create. Both the settlor and the trustees must share the intention that the document does not represent the true position. Mere retention of influence or control, while potentially relevant, does not alone make a trust a sham.",
+        "card_refs": [
+          "TRUST-C062"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-063",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "Conflict of Interest — Self-Dealing Rule",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane as trustee purchases trust property from the trust for himself at market value. A beneficiary challenges the transaction. What is the position under the self-dealing rule?",
+        "options": {
+          "A": "The purchase is valid if at market value — no conflict arises where full consideration is paid",
+          "B": "The purchase is valid if approved by the other trustees",
+          "C": "The purchase is voidable at the option of a beneficiary regardless of price under the self-dealing rule",
+          "D": "The self-dealing rule only applies to professional trustees"
+        },
+        "correct": "C",
+        "explanation": "The self-dealing rule is a strict prophylactic rule: a trustee who purchases trust property from the trust is in a conflict of interest (their duty to obtain the best price conflicts with their interest in paying the lowest price). The transaction is voidable at the option of any beneficiary regardless of whether the price paid was fair: Ex parte Lacey (1802). This is stricter than the fair-dealing rule (which applies to purchases from beneficiaries and requires the trustee to show full disclosure and fair price). The rule is subject to (1) express authorisation in the trust instrument, (2) court approval, or (3) fully informed beneficiary consent.",
+        "card_refs": [
+          "TRUST-C063"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-064",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "No-Profit Rule — Trustee Remuneration",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is a professional trustee of the Ashworth Family Trust. The trust instrument is silent on trustee remuneration. Can Rachel charge for her services?",
+        "options": {
+          "A": "Yes — professional trustees are always entitled to remuneration at commercial rates",
+          "B": "No — trustees cannot profit from their position and must act gratuitously unless authorised",
+          "C": "Yes — under TA 2000 s.29, a professional trustee who is not a sole trustee is entitled to reasonable remuneration if the other trustees agree in writing",
+          "D": "No — remuneration requires court approval in every case"
+        },
+        "correct": "C",
+        "explanation": "The no-profit rule prohibits trustees from benefiting from their position. At common law, trustees act gratuitously. However, TA 2000 s.29 provides a statutory entitlement to remuneration for trust corporations and professional trustees (those who act in a professional capacity): they are entitled to reasonable remuneration for services if each other trustee has agreed in writing. This applies even where the trust instrument is silent. Rachel as a professional trustee (solicitor) can therefore charge if the other trustees agree in writing.",
+        "card_refs": [
+          "TRUST-C064"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-065",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Presumption of Advancement — Modern Position",
+        "difficulty": "Application",
+        "stem": "James Ashworth provides the purchase price for a flat registered in his wife Victoria's name. Victoria claims the flat beneficially. James argues a resulting trust. How does a court approach the presumption of advancement?",
+        "options": {
+          "A": "The presumption of advancement (that the transfer was a gift) applies strongly in a husband-to-wife transfer",
+          "B": "The presumption of resulting trust applies as the husband paid the price",
+          "C": "The presumption of advancement applies but is weak and easily rebutted by evidence of surrounding circumstances; the court will look at the whole course of dealing",
+          "D": "There is no presumption — the court approaches the matter on the actual evidence only"
+        },
+        "correct": "C",
+        "explanation": "The presumption of advancement historically applied to transfers from husband to wife (and father to child), presuming an intention to make a gift rather than a resulting trust. Post-Stack v Dowden [2007] and Jones v Kernott [2011], the courts take a more holistic approach looking at the whole course of dealing. The presumption of advancement in the husband-to-wife context still formally exists but has been considerably weakened — it is easily rebutted by evidence. The Equality Act 2010 s.199 (prospective abolition) has not been brought into force. Courts examine the actual common intention.",
+        "card_refs": [
+          "TRUST-C065"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-066",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Proprietary Estoppel — Distinction from CICT",
+        "difficulty": "Complex",
+        "stem": "Diana Pelletier is told by her father that she will inherit the family farm. She gives up her career and works on the farm for 20 years for minimal pay. The father dies leaving the farm to someone else. What is Diana's best claim?",
+        "options": {
+          "A": "Common intention constructive trust — the father's statement creates a constructive trust",
+          "B": "Resulting trust — Diana's labour contributions create a resulting trust",
+          "C": "Proprietary estoppel — the father made an assurance, Diana relied on it to her detriment, making it unconscionable for the estate to deny her an interest",
+          "D": "Contract — the father's promise is enforceable as a contractual agreement"
+        },
+        "correct": "C",
+        "explanation": "Proprietary estoppel arises where: (1) the owner makes a representation or assurance; (2) the claimant relies on it; and (3) the claimant suffers detriment in reliance — making it unconscionable for the owner to deny the claimant's interest: Thorner v Major [2009]. Diana's 20 years of work constitutes clear detriment. The remedy is 'the minimum equity to do justice' — which could be the farm, a life interest, monetary compensation, or other remedy. A CICT requires a common intention regarding co-ownership; proprietary estoppel is broader and covers promises of inheritance.",
+        "card_refs": [
+          "TRUST-C066"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-067",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Discretionary Trust — Fiduciary Nature of Discretion",
+        "difficulty": "Application",
+        "stem": "The trustees of the Ashworth Family Trust (a discretionary trust) resolve never to exercise their discretion and simply to accumulate income. James as beneficiary challenges this. Is his challenge well-founded?",
+        "options": {
+          "A": "No — trustees of discretionary trusts have absolute discretion whether to exercise their powers",
+          "B": "No — accumulation is always permitted under TA 1925 s.31",
+          "C": "Yes — trustees must consider from time to time whether to exercise their discretion; a blanket policy of non-exercise is a failure to act as trustees",
+          "D": "Yes — but only if James can show he has suffered personal loss"
+        },
+        "correct": "C",
+        "explanation": "Trustees of a discretionary trust have fiduciary duties in relation to their discretion. They cannot simply abandon it. The duty to consider (from McPhail v Doulton [1971] and Mettoy Pension Trustees Ltd v Evans [1990]) requires trustees to periodically survey the class of potential beneficiaries and consider whether to exercise their powers. A blanket policy never to distribute is a failure of the discretion. The court can intervene to require trustees to consider exercising their discretion, though it will not tell them how to exercise it.",
+        "card_refs": [
+          "TRUST-C067"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-068",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Dishonest Assistance",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis is not a trustee but actively assists Victoria (a trustee) in misappropriating trust funds, knowing Victoria's actions are dishonest. What is Frank's liability?",
+        "options": {
+          "A": "No liability — only trustees can be liable for breach of trust",
+          "B": "Frank is liable only if he received trust property",
+          "C": "Frank is liable for dishonest assistance: a personal liability to account to the beneficiaries for the loss caused by the breach",
+          "D": "Frank may face criminal liability but has no civil liability to the trust"
+        },
+        "correct": "C",
+        "explanation": "Dishonest assistance (Royal Brunei Airlines v Tan [1995]) imposes personal liability on a third party who dishonestly assists in a breach of fiduciary duty. The defendant need not be a trustee and need not receive trust property. The test of dishonesty is objective: by the standards of ordinary honest people, was the defendant's conduct dishonest? Frank knew Victoria was being dishonest and actively assisted — he is personally liable to account to the beneficiaries for losses caused. This is a personal claim, not proprietary.",
+        "card_refs": [
+          "TRUST-C068"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-069",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Powers",
+        "subtopic": "Appointment and Retirement of Trustees",
+        "difficulty": "Application",
+        "stem": "The Ashworth Family Trust has three trustees: Gerald, Victoria, and Rachel. Gerald wishes to retire. What is the statutory mechanism under TA 1925 s.39?",
+        "options": {
+          "A": "Gerald can retire by giving notice to the other trustees and executing a deed of retirement",
+          "B": "Gerald can retire only with court approval",
+          "C": "Gerald can retire under s.39 by deed if there will be at least two remaining trustees or a trust corporation, and the remaining trustees consent",
+          "D": "Gerald can retire only if a replacement trustee is appointed simultaneously"
+        },
+        "correct": "C",
+        "explanation": "TA 1925 s.39 allows a trustee to retire by deed where: (1) there will remain at least two trustees or a trust corporation after retirement; and (2) the co-trustees and any person with power to appoint trustees consent by deed. After Gerald's retirement, two trustees (Victoria and Rachel) remain — satisfying the minimum requirement. Court approval is not needed. A replacement trustee is not required if two remain. Gerald executes a deed of retirement with the co-trustees' consent.",
+        "card_refs": [
+          "TRUST-C069"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-070",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Tracing",
+        "subtopic": "Following and Tracing — Distinction",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth as trustee wrongly uses trust money to buy a painting. She then exchanges the painting for shares. The beneficiaries wish to claim the shares. What process do they use?",
+        "options": {
+          "A": "Following — they follow the original trust money from hand to hand",
+          "B": "Personal claim — they cannot claim the shares as the trust money no longer exists",
+          "C": "Tracing — they trace the value of the trust money through its various substitutions (money → painting → shares)",
+          "D": "Subrogation — they step into Victoria's position as shareholder"
+        },
+        "correct": "C",
+        "explanation": "Tracing is the process of identifying a new asset as the traceable substitute for the original trust property — following the value as it moves through substitutions. The trust money became the painting, which became the shares — each substitution is traceable. Following (by contrast) means following the same asset from person to person without substitution. Here the asset has changed (money → painting → shares), so tracing (not following) is the correct process. If successful, the beneficiaries can assert a proprietary claim over the shares.",
+        "card_refs": [
+          "TRUST-C070"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-071",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Prevention of Poverty",
+        "difficulty": "Application",
+        "stem": "The Wharton Magna Community Foundation creates a trust to relieve poverty among 'employees and ex-employees of Hollowell Engineering and their dependants'. Is this a valid charitable trust for relief of poverty?",
+        "options": {
+          "A": "No — the nexus to a company's employees makes it a private benefit, not public benefit",
+          "B": "Yes — poverty charities are exempt from the public benefit requirement entirely",
+          "C": "Yes — relief of poverty among employees and dependants is charitable under the anomalous poverty exception",
+          "D": "No — only absolute poverty qualifies; employee financial difficulty does not"
+        },
+        "correct": "C",
+        "explanation": "Relief of poverty is a recognised charitable purpose under CA 2011 s.3(1)(a). Unusually, trusts for the relief of poverty among employees of a particular employer have been held charitable as an exception to the personal nexus rule: Dingle v Turner [1972] (House of Lords). The personal connection (being employees) does not prevent the trust being charitable where the purpose is poverty relief. This anomalous exception applies to poverty trusts — it does not extend to other charitable purposes. The trust is therefore valid.",
+        "card_refs": [
+          "TRUST-C071"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-072",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Secret Trusts — Fully Secret",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth leaves £80,000 to his friend Clive Dring absolutely. Before making the will, Colonel Ashworth communicates to Clive that the money is to be held for Donna Pearce. Clive accepts this obligation but keeps quiet. Colonel Ashworth dies. Is the fully secret trust valid?",
+        "options": {
+          "A": "No — the communication must be after the will is executed for a fully secret trust",
+          "B": "Yes — but only if the communication is in writing",
+          "C": "No — a secret trust requires attestation",
+          "D": "Yes — for a fully secret trust, communication can occur before or at the time of execution; acceptance by Clive and Colonel Ashworth's reliance on it constitutes the trust"
+        },
+        "correct": "D",
+        "explanation": "A fully secret trust (where the will reveals no trust at all — Clive appears to take absolutely) is valid if: (1) the intended secret trustee is informed of the trust before or at the time of the will, or subsequently if there is reliance; (2) the trustee accepts the obligation (express or implied); and (3) the testator makes or leaves the will in reliance on that acceptance: Moss v Cooper (1861). Communication before execution and Clive's acceptance satisfies these requirements. The trust takes effect outside the will (dehors the will) — Clive holds on trust for Donna.",
+        "card_refs": [
+          "TRUST-C072"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-073",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "Investment — Ethical Considerations",
+        "difficulty": "Application",
+        "stem": "The trustees of a charitable trust wish to exclude all tobacco company investments on ethical grounds, which limits the investment universe and may reduce returns. Is this permissible?",
+        "options": {
+          "A": "No — trustees must always maximise returns and ethical exclusions are a breach of duty",
+          "B": "No — ethical investing requires court approval under the VTA 1958",
+          "C": "Yes — TA 2000 s.4 expressly permits ethical investment criteria",
+          "D": "Yes — trustees can adopt ethical investment policies where the excluded investments conflict with the charity's purposes or may harm its reputation, provided the financial impact is not significant"
+        },
+        "correct": "D",
+        "explanation": "The Charity Commission guidance (and Bishop of Oxford v Church Commissioners [1992]) permits charity trustees to adopt ethical investment policies in limited circumstances: (1) where the investment conflicts directly with the charity's purposes (e.g. a health charity excluding tobacco); or (2) where the investment would be so contrary to the charity's reputation that supporters would be alienated, causing financial harm. The trustees must weigh the financial impact — if significant returns are lost, the ethical policy may be a breach of duty. TA 2000 s.4 addresses suitability and diversification, not ethics expressly.",
+        "card_refs": [
+          "TRUST-C073"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-074",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Failed Express Trust — RT to Settlor",
+        "difficulty": "Application",
+        "stem": "Gerald Crane transfers £100,000 to Crane & Pelletier as trustees 'to apply for good causes as they see fit'. The trust fails for certainty of objects. Who holds the beneficial interest?",
+        "options": {
+          "A": "Crane & Pelletier hold beneficially as the trust failed",
+          "B": "The money passes to the Crown as bona vacantia as the trust failed",
+          "C": "Gerald Crane holds the beneficial interest under an automatic resulting trust",
+          "D": "The courts will save the gift by applying it cy-près to a charitable purpose"
+        },
+        "correct": "C",
+        "explanation": "Where an express trust fails (here, for uncertainty of objects — 'good causes' is conceptually uncertain for a non-charitable purpose trust), an automatic resulting trust arises in favour of the settlor: Vandervell v IRC [1967]. Gerald Crane retains the beneficial interest — the legal title is in Crane & Pelletier as trustees but they hold on resulting trust for Gerald. Bona vacantia arises only where there is no resulting trust (e.g. where the beneficial interest has been effectively abandoned). Cy-près applies only to charitable trusts.",
+        "card_refs": [
+          "TRUST-C074"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-075",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Fixed Trusts — Complete List Test",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth creates a fixed trust dividing the trust fund equally among 'all former partners of Crane & Pelletier'. There is a dispute about whether certain former partners qualify. What test applies?",
+        "options": {
+          "A": "The is/is not test — it must be possible to say whether any given person is in the class",
+          "B": "The is/is not test from McPhail v Doulton applies to all express trusts",
+          "C": "The workability test — the trust is valid if it is workable in practice",
+          "D": "The complete list test — trustees must be able to compile a complete list of all beneficiaries before distributing"
+        },
+        "correct": "D",
+        "explanation": "For fixed trusts (where the shares are defined, e.g. equal shares), the court applies the complete list test: IRC v Broadway Cottages Trust [1955]. The trustees must be able to identify every beneficiary before distributing, because each beneficiary is entitled to a defined equal share and the trustees must know the total number to calculate the amount. 'Former partners of Crane & Pelletier' should be identifiable from firm records — the trust is likely valid if the class is factually ascertainable. The is/is not test (McPhail) applies to discretionary trusts, not fixed trusts.",
+        "card_refs": [
+          "TRUST-C075"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-076",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Powers",
+        "subtopic": "Delegation — Bare Powers",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth as a trustee of a personal trust wishes to give her co-trustee Gerald Crane a general power of attorney to manage all trust affairs while she is overseas for a year. Is this permissible?",
+        "options": {
+          "A": "Yes — trustees can delegate all functions by power of attorney under TA 2000",
+          "B": "No — trustees cannot delegate any function to a co-trustee",
+          "C": "Yes — a general power of attorney for any duration is permissible",
+          "D": "No — trustees of a personal trust can delegate by power of attorney under TA 1925 s.25 for a maximum of 12 months and must notify specified persons"
+        },
+        "correct": "D",
+        "explanation": "TA 1925 s.25 (as amended by Trustee Delegation Act 1999) permits a trustee to delegate the execution of trusts and discretionary powers by power of attorney, but only for a maximum period of 12 months. The donor trustee must give written notice to each co-trustee and any other specified persons before or within 7 days of executing the power. Victoria's planned one-year delegation is at the maximum permitted period. She must comply with the notification requirements. TA 2000 Part IV delegation (to agents) is different — it covers collective trustee delegation of specific functions.",
+        "card_refs": [
+          "TRUST-C076"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-077",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Registration with Charity Commission",
+        "difficulty": "Foundation",
+        "stem": "The Wharton Magna Community Welfare Trust has an annual income of £4,000. Must it register with the Charity Commission?",
+        "options": {
+          "A": "Yes — all charities must register regardless of income",
+          "B": "No — registration is voluntary for charities under £100,000 income",
+          "C": "Yes — all trusts that apply for charitable status must register",
+          "D": "No — charities with annual income below £5,000 are exempt from the registration requirement"
+        },
+        "correct": "D",
+        "explanation": "Under Charities Act 2011 s.30(2)(d), a charity is not required to register with the Charity Commission if its gross annual income does not exceed £5,000. The Wharton Magna Community Welfare Trust at £4,000 income falls below this threshold and need not register, though it may do so voluntarily. Excepted charities (e.g. certain religious bodies, armed forces charities) and exempt charities (e.g. universities, registered providers) are also not required to register even above the threshold.",
+        "card_refs": [
+          "TRUST-C077"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-078",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Anti-Bartlett Clauses",
+        "difficulty": "Complex",
+        "stem": "The Ashworth Family Trust holds a controlling shareholding in Ashworth Developments Ltd. The trustees fail to enquire into the company's affairs, which suffers losses. Is this a breach of the Bartlett duty?",
+        "options": {
+          "A": "No — trustees of shares are not responsible for the company's management",
+          "B": "No — the Bartlett duty applies only to private companies with no professional directors",
+          "C": "Yes — trustees are vicariously liable for the company directors' mismanagement",
+          "D": "Yes — where trustees hold a controlling interest in a company, they have a duty to ensure they receive sufficient information about the company's affairs and to intervene where necessary"
+        },
+        "correct": "D",
+        "explanation": "In Bartlett v Barclays Bank Trust Co [1980], the court held that where trustees hold a controlling interest in a company, they have a duty (beyond mere receipt of dividends) to use their control to ensure they are kept informed of the company's affairs and to intervene if the company is being managed in a way that threatens the trust assets. This is the 'Bartlett duty'. The trustees failed to act despite having the power to do so. Trust instruments often include 'anti-Bartlett clauses' excluding this duty — on these facts, no such clause exists.",
+        "card_refs": [
+          "TRUST-C078"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-079",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Resulting Trusts",
+        "subtopic": "Vandervell — Failure to Dispose of Equitable Interest",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane transfers shares to Northgate Couriers Ltd as trustee 'to hold on trust for purposes to be declared'. No valid trust is subsequently declared. Who holds the beneficial interest?",
+        "options": {
+          "A": "Northgate Couriers Ltd holds beneficially as the trust was never constituted",
+          "B": "Northgate holds on a purpose trust for Gerald's general charitable objects",
+          "C": "The beneficial interest passes to HMRC",
+          "D": "Gerald Crane retains the beneficial interest under an automatic resulting trust as no valid trust was declared"
+        },
+        "correct": "D",
+        "explanation": "In Vandervell v IRC [1967], the House of Lords held that where a settlor transfers property to a trustee but fails to effectively dispose of the equitable interest (because the trust declared is void or the declared trust fails), the equitable interest results back to the settlor automatically. The critical principle (from Lord Wilberforce) is that equity does not permit an equitable interest to be in suspense or to have no owner — it must reside somewhere. Since no valid trust was declared, the equitable interest results back to Gerald. This is an automatic resulting trust by operation of law.",
+        "card_refs": [
+          "TRUST-C079"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-080",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Offshore Trusts — Forced Heirship",
+        "difficulty": "Complex",
+        "stem": "Colonel Ashworth (UK domiciled) creates a Cayman Islands trust to hold French property, seeking to avoid French forced heirship rules for Victoria and James. What is the likely outcome under English private international law?",
+        "options": {
+          "A": "The trust is effective — English law permits settlors to choose governing law freely",
+          "B": "UK law alone governs as Colonel Ashworth is UK domiciled",
+          "C": "The trust is governed by Cayman law as chosen by the settlor; French law is irrelevant",
+          "D": "The French forced heirship rules apply to the French immovable property under the lex situs principle; the trust cannot override them"
+        },
+        "correct": "D",
+        "explanation": "In English private international law, succession to immovable property is governed by the lex situs — the law of the place where the land is situated (French law for French property). French law includes forced heirship (réserve héréditaire) which entitles children to a fixed share of the estate. Inserting a trust layer does not circumvent this — French courts will look through the trust structure and apply the mandatory provisions of French law to the French immovable property. The EU Succession Regulation (Article 35 — ordre public) also protects the forced heirship rules for EU states.",
+        "card_refs": [
+          "TRUST-C080"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-081",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Limitation Period — TA 1980",
+        "difficulty": "Application",
+        "stem": "Gerald Crane committed a breach of trust 7 years ago. The beneficiary Victoria discovers it only now. Is her claim time-barred?",
+        "options": {
+          "A": "Yes — the 6-year limitation period under LA 1980 s.21(3) has expired",
+          "B": "No — there is no limitation period for breach of trust against a trustee who was fraudulent",
+          "C": "The 6-year period applies but runs from when Victoria discovered (or ought reasonably to have discovered) the breach",
+          "D": "No — breach of trust claims have a 12-year limitation period"
+        },
+        "correct": "A",
+        "explanation": "Under LA 1980 s.21(3), a 6-year limitation period applies to most breach of trust claims — running from the date of the breach. On the facts, the breach was 7 years ago and the period has expired. However, s.21(1) provides that there is NO limitation period for: (a) fraud by the trustee; or (b) recovery of trust property or its proceeds still retained by the trustee or converted to the trustee's use. On the facts, no fraud or retention is indicated — the basic 6-year period applies and Gerald's defence will succeed. Option C incorrectly applies the knowledge-based discovery rule (which applies to fraud under s.32 LA 1980).",
+        "card_refs": [
+          "TRUST-C081"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-082",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Constructive Trust — Receipt of Bribe",
+        "difficulty": "Complex",
+        "stem": "Rachel Okonkwo as a trustee receives a secret bribe of £50,000 from a third party as an inducement to favour their investment proposal for the trust. She deposits the money in her personal account where it earns £5,000 interest. What is the trust's claim?",
+        "options": {
+          "A": "A personal claim for £50,000 as the bribe",
+          "B": "A personal claim for £55,000 (bribe plus interest)",
+          "C": "No claim — bribes cannot be recovered once mixed with personal funds",
+          "D": "A proprietary claim over the bribe and any profits made from it, as Rachel holds it on constructive trust"
+        },
+        "correct": "D",
+        "explanation": "In Attorney General for Hong Kong v Reid [1994] (PC) and confirmed for England in FHR European Ventures LLP v Cedar Capital Partners LLC [2014] (SC), a fiduciary who receives a bribe or secret commission holds it on constructive trust for the principal. The proprietary claim (not merely personal) means the trust can claim the £50,000 bribe and any profits made from it (the £5,000 interest), and can trace the money into substitute assets. The proprietary nature of the claim is crucial if Rachel is insolvent — the trust takes priority over unsecured creditors.",
+        "card_refs": [
+          "TRUST-C082"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-083",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Trustee Duties",
+        "subtopic": "Duty of Impartiality — Life Tenant and Remainderman",
+        "difficulty": "Application",
+        "stem": "The Ashworth Family Trust gives James a life interest with remainder to Victoria. The trust holds rental property generating high income. Victoria argues the property should be sold and reinvested for capital growth. How should the trustees approach this conflict?",
+        "options": {
+          "A": "James's income interest takes priority as current beneficiary",
+          "B": "The trustees must follow the court's direction and cannot decide independently",
+          "C": "Victoria's remainder interest takes priority to protect long-term trust value",
+          "D": "Trustees must act impartially between the life tenant (James) and remainderman (Victoria), balancing income and capital returns"
+        },
+        "correct": "D",
+        "explanation": "Trustees owe a duty of impartiality (or even-handedness) between beneficiaries with different interests — particularly the life tenant (who benefits from income) and the remainderman (who benefits from capital growth): Nestlé v National Westminster Bank plc [1993]. The trustees must balance the interests fairly — not sacrifice the remainderman's capital position for income, nor deprive the life tenant of income for capital growth. The 'total return' approach under TA 2000 allows trustees to adopt investment strategies that balance both interests and make appropriate allocations.",
+        "card_refs": [
+          "TRUST-C083"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-084",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Trusts of Land — TOLATA 1996",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier and Ravi Sharma are beneficial co-owners of a house held on trust. They cannot agree whether to sell. Which court has jurisdiction to order a sale and what factors does it consider?",
+        "options": {
+          "A": "The Chancery Division under TOLATA 1996 s.14; it considers the purposes of the trust, welfare of minors, and interests of secured creditors",
+          "B": "The Family Court under MCA 1973 — the property must be dealt with as matrimonial property",
+          "C": "The County Court has exclusive jurisdiction over co-ownership disputes",
+          "D": "The Chancery Division under LPA 1925 s.30 — the old statutory regime"
+        },
+        "correct": "A",
+        "explanation": "TOLATA 1996 s.14 gives any person with an interest in property subject to a trust of land the right to apply to court for an order relating to the exercise of the trustees' functions. Under s.15, the court must consider: the intentions of the settlor (or person who created the trust); the purposes for which the property is held; the welfare of any minor who occupies; and the interests of secured creditors. LPA 1925 s.30 was the old regime (now replaced by TOLATA). Where the parties are in a relationship, the court may also consider cohabitation legislation.",
+        "card_refs": [
+          "TRUST-C084"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-085",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Breach of Trust",
+        "subtopic": "Defences — Acquiescence",
+        "difficulty": "Application",
+        "stem": "James Ashworth, a beneficiary, was told about a proposed breach of trust by trustee Victoria and raised no objection. The breach occurred and caused a loss. Can Victoria rely on James's acquiescence as a defence?",
+        "options": {
+          "A": "No — acquiescence is never a defence to breach of trust",
+          "B": "No — only written consent by all beneficiaries can bar a breach of trust claim",
+          "C": "Yes — any failure to object within a reasonable time bars a claim",
+          "D": "Yes — if James had full knowledge of the facts constituting the breach and acquiesced with full knowledge, equity bars him from bringing a claim"
+        },
+        "correct": "D",
+        "explanation": "A beneficiary who with full knowledge of the facts consents to, concurs in, or acquiesces in a breach of trust cannot subsequently sue the trustee for that breach: Re Pauling's Settlement Trusts [1964]. The defence requires: (1) the beneficiary had full knowledge of all material facts; (2) the beneficiary was of full age and sound mind; and (3) the beneficiary acquiesced voluntarily without undue influence. Merely failing to object without knowledge, or objecting without result, does not constitute acquiescence. James's failure to object with full knowledge may bar his personal claim.",
+        "card_refs": [
+          "TRUST-C085"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-086",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Constructive Trusts",
+        "subtopic": "Constructive Trust — Knowing Receipt vs. Dishonest Assistance",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier receives £200,000 from Gerald Crane (a trustee) to pay legal fees. The firm has constructive notice that the funds are trust money paid in breach of trust. The firm provides legal services worth £200,000. What liability does the firm face?",
+        "options": {
+          "A": "Knowing receipt — the firm is liable to account for the full £200,000 received",
+          "B": "Dishonest assistance — the firm is liable for all losses caused by Gerald's breach",
+          "C": "The firm has a change of position defence as it provided services in exchange; knowing receipt liability is discharged",
+          "D": "No liability — professional services rendered in good faith are always protected"
+        },
+        "correct": "C",
+        "explanation": "Knowing receipt requires: receipt of trust property, in a fiduciary capacity context, with sufficient knowledge that the property was transferred in breach of trust. Even if established, the change of position defence (Lipkin Gorman v Karpnale [1991]) may be available where the recipient has detrimentally changed their position in good faith reliance on receipt. If Crane & Pelletier provided legal services worth £200,000 in good faith (before or without realising the funds were trust money), they have a change of position defence to the extent of the services rendered. The 'constructive notice' element requires further analysis of the specific knowledge.",
+        "card_refs": [
+          "TRUST-C086"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-087",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Express Trusts",
+        "subtopic": "Revocability of Trusts",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth creates an express trust for Victoria and James but does not include a power of revocation. He later changes his mind and wishes to revoke it. Can he do so?",
+        "options": {
+          "A": "Yes — a settlor can always revoke a trust during their lifetime",
+          "B": "No — only the court can revoke a trust",
+          "C": "Yes — provided all beneficiaries consent under Saunders v Vautier",
+          "D": "No — once a trust is completely constituted and made without reservation of a power of revocation, it is irrevocable; the beneficiaries' interests are vested"
+        },
+        "correct": "D",
+        "explanation": "Once a trust is completely constituted and the settlor has not reserved a power of revocation, the trust is irrevocable. The beneficiaries' interests have vested and the settlor has parted with the property. The settlor cannot unilaterally revoke: Paul v Paul (1882). Option C (Saunders v Vautier) applies to the beneficiaries terminating the trust — not the settlor revoking it. Victoria and James (as beneficiaries of full age with vested interests) could exercise Saunders v Vautier rights, but that is their choice, not Colonel Ashworth's.",
+        "card_refs": [
+          "TRUST-C087"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-088",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Charitable Trusts",
+        "subtopic": "Exclusively Charitable — Mixed Purposes",
+        "difficulty": "Complex",
+        "stem": "A trust is established 'for charitable and benevolent purposes in Wharton Magna'. Is this a valid charitable trust?",
+        "options": {
+          "A": "Yes — benevolent purposes are effectively the same as charitable purposes",
+          "B": "No — charitable trusts cannot operate at a local level",
+          "C": "Yes — the court will sever the non-charitable purpose",
+          "D": "No — the word 'and' requires all purposes to be charitable; 'benevolent' is wider than charitable and may include non-charitable purposes, making the trust void"
+        },
+        "correct": "D",
+        "explanation": "A charitable trust must be exclusively charitable. 'Benevolent' purposes include purposes that are morally praiseworthy but not legally charitable (e.g. giving to kind neighbours). In IRC v City of Glasgow Police Athletic Association [1953] and Chichester Diocesan Fund v Simpson [1944], the courts held that 'charitable or benevolent' (or 'and') makes the trust non-exclusively charitable — the trustees might apply funds for non-charitable benevolent purposes. The disjunctive (or) clearly fails; the conjunctive (and) is also fatal if benevolent extends beyond charitable. The trust fails as non-charitable.",
+        "card_refs": [
+          "TRUST-C088"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-089",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor as Trustee — Acting for Trust and Beneficiary",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo of Crane & Pelletier is a trustee of the Ashworth Family Trust. James (a beneficiary) asks Crane & Pelletier to advise him personally in a dispute with the other trustees about the exercise of a discretion. What should Crane & Pelletier do?",
+        "options": {
+          "A": "Act for James — the firm's loyalty is to all beneficiaries equally",
+          "B": "Apply to the court for permission to act for both the trust and James",
+          "C": "Act for James with Rachel recusing herself from the file",
+          "D": "Decline to act for James personally — there is a conflict between the firm's duties to the trust (of which Rachel is trustee) and to James as individual client in litigation against the trust"
+        },
+        "correct": "D",
+        "explanation": "SRA Code of Conduct paragraphs 6.1 and 6.2 prohibit acting where there is an own-interest conflict or a conflict between two clients. Rachel as trustee owes fiduciary duties to all beneficiaries including acting impartially. Crane & Pelletier acting for James personally in litigation against the trust (of which Rachel is a member) creates an irreconcilable conflict: the firm could not properly act in James's best interests against the trust while Rachel (a partner) has duties to the trust. Even an information barrier would be insufficient where a partner holds the conflicting fiduciary duty. Crane & Pelletier must decline and advise James to seek independent advice.",
+        "card_refs": [
+          "TRUST-C089"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "TRUST-090",
+        "flk": "FLK2",
+        "subject": "Trusts",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor-Trustee — Unauthorised Profit",
+        "difficulty": "Application",
+        "stem": "Gerald Crane as both trustee and senior partner of Crane & Pelletier causes the trust to instruct the firm at standard commercial rates without any express authorisation in the trust instrument or informed beneficiary consent. What are the consequences?",
+        "options": {
+          "A": "The fees are valid — professional trustees are entitled to market-rate remuneration under TA 2000 s.29",
+          "B": "Gerald must account only for the profit element above his personal costs",
+          "C": "The fees are valid provided they represent fair market value",
+          "D": "Gerald has made an unauthorised profit as trustee; the trust can recover the fees paid to the firm; Gerald and the firm hold the profits on constructive trust"
+        },
+        "correct": "D",
+        "explanation": "The no-profit rule prohibits a trustee from using their position to make an unauthorised profit: Keech v Sandford (1726). Causing trust funds to be paid to the trustee's own firm is a classic unauthorised profit — Gerald profits through the firm's receipt of fees. TA 2000 s.29 (which would authorise remuneration) requires agreement in writing by the other trustees, not mere instruction of the firm. Without authorisation (trust instrument or beneficiary consent under Saunders v Vautier), the fees are unauthorised. The firm holds them on constructive trust for the trust. This also engages SRA rules on conflicts — identical analysis to the conduct question.",
+        "card_refs": [
+          "TRUST-C090"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

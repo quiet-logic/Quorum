@@ -62,8 +62,8 @@ def _load_files() -> list[tuple[str, dict]]:
     Returns a list of (filename, parsed_data) tuples.
     Files that fail to parse are logged and skipped.
     """
-    pattern = os.path.join(DATA_DIR, "FLK*.json")
-    paths = sorted(glob.glob(pattern))
+    all_paths = sorted(glob.glob(os.path.join(DATA_DIR, "FLK*.json")))
+    paths = [p for p in all_paths if not os.path.basename(p).endswith("_mcq.json")]
 
     if not paths:
         print(f"ERROR: no FLK*.json files found in {DATA_DIR}", file=sys.stderr)

@@ -1117,7 +1117,7 @@
             "topic": "Constructive Trusts",
             "subtopic": "Common intention constructive trusts",
             "front": "What did Lloyds Bank v Rosset [1991] say about what conduct can establish a common intention?",
-            "answer": "Lord Bridge (HL): (1) Express common intention: direct discussions between the parties showing an agreement or understanding that the non-owner will have a beneficial share — even if that agreement is made on a false representation. (2) Inferred common intention: direct contributions to the purchase price or mortgage payments are sufficient; anything less (e.g. DIY, housekeeping) is insufficient on its own. ⚠️ Stack v Dowden subsequently softened the Rosset threshold, allowing a broader range of conduct to be considered.",
+            "answer": "Lord Bridge (HL): (1) Express common intention: direct discussions between the parties showing an agreement or understanding that the non-owner will have a beneficial share — even if that agreement is made on a false representation. (2) Inferred common intention: direct contributions to the purchase price or mortgage payments are sufficient; anything less (e.g. DIY, housekeeping) is insufficient on its own. ⚠️ Stack v Dowden [2007] subsequently softened the Rosset threshold, allowing a broader range of conduct to be considered.",
             "issue": null,
             "rule": null,
             "application": null,
@@ -3089,6 +3089,30 @@
             "conclusion": null,
             "summary_line": "SAUNDERS v VAUTIER 1841 · ALL BENEFICIARIES · ADULT + CAPACITY · ABSOLUTELY ENTITLED · OVERRIDES TRUST TERMS",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-TRUST-102",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What three conditions must a beneficiary satisfy to invoke the rule in Saunders v Vautier and call for the trust property?",
+            "answer": "The rule in Saunders v Vautier (1841) allows a beneficiary to call for the trust property and bring the trust to an end if: (1) the beneficiary is of full legal capacity (an adult, 18+, with mental capacity); (2) the beneficiary's interest is absolutely vested — not subject to any contingency, defeasance, or condition precedent; and (3) the beneficiary is entitled to the whole beneficial interest — both income and capital — with no other person having any present or future interest. If all three are met, the beneficiary can direct the trustees to transfer the property to them.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAUNDERS v VAUTIER · ADULT · ABSOLUTELY VESTED · ENTIRE BENEFICIAL INTEREST · TERMINATE TRUST · CALL FOR PROPERTY"
+          },
+          {
+            "card_code": "FLK2-TRUST-103",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the rule in Saunders v Vautier apply where there are multiple beneficiaries, and what happens if one refuses to consent?",
+            "answer": "Where there are multiple beneficiaries, all of them together must consent to termination — each must be of full capacity and absolutely entitled to their share. All beneficiaries must join in calling for the property. The rule cannot be exercised by fewer than all beneficiaries — partial exercise is not available. If even one beneficiary refuses to consent, the entire exercise of the rule is blocked. This was confirmed in Stephenson v Barclays Bank Trust Co Ltd [1975]: a single dissenting beneficiary prevents termination of the whole trust.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAUNDERS v VAUTIER · MULTIPLE BENEFICIARIES · UNANIMOUS CONSENT · ONE DISSENTER BLOCKS ALL · NO PARTIAL EXERCISE · STEPHENSON v BARCLAYS BANK"
           }
         ],
         "Conditions": [
@@ -3134,6 +3158,44 @@
             "conclusion": null,
             "summary_line": "SAUNDERS v VAUTIER · TWO ADULTS · FULL CAPACITY · TOGETHER ABSOLUTELY ENTITLED · CAN END TRUST · TRUSTEES MUST COMPLY",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-TRUST-SCE-061",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A trust fund has three equal adult beneficiaries with absolutely vested interests: Alicia, Bruno, and Carla. Alicia and Bruno want to terminate the trust and receive their shares. Carla refuses. Can the trust be terminated under Saunders v Vautier?",
+            "answer": "No. The rule in Saunders v Vautier requires unanimous consent from all beneficiaries when there are multiple beneficiaries. Carla's refusal prevents Alicia and Bruno from invoking the rule. All three must agree for the trust to be ended. Alicia and Bruno cannot compel termination or receive their individual shares unilaterally. If they wish to end the trust without Carla's agreement, they would need to explore other routes — such as an application to court under the Variation of Trusts Act 1958.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAUNDERS v VAUTIER · UNANIMOUS REQUIRED · ONE DISSENTER BLOCKS · CARLA REFUSES = NO TERMINATION · VTA 1958 ALTERNATIVE"
+          },
+          {
+            "card_code": "FLK2-TRUST-SCE-062",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A trust provides income to Diana for life, with the remainder to Erik absolutely. Both Diana and Erik are adults with full capacity and want to terminate the trust and divide the property. Can they do so under Saunders v Vautier?",
+            "answer": "Yes. Although neither Diana nor Erik alone holds the entire beneficial interest, together they constitute all the beneficiaries — Diana holds the life interest (entitlement to income) and Erik holds the remainder (entitlement to capital). Together they can collectively invoke the rule in Saunders v Vautier by unanimous consent, directing the trustees to transfer and distribute the trust property. The trustees must comply. The parties can agree how to divide or apply the property between themselves.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAUNDERS v VAUTIER · LIFE INTEREST + REMAINDER · TOGETHER = ENTIRE INTEREST · JOINT CONSENT SUFFICIENT · TRUSTEES MUST COMPLY"
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-TRUST-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA trust has two beneficiaries: Marcus (50%) and Naomi (50%). Marcus is 25, has full capacity, and his 50% interest is absolutely vested. Marcus wants to call for his 50% share and end his involvement in the trust. He argues that because his interest is adult, vested, and absolute, Saunders v Vautier entitles him to receive his half.",
+            "answer": null,
+            "issue": "The Trap: A beneficiary with an adult, fully vested, and absolute interest can invoke Saunders v Vautier to demand their share, even if other beneficiaries exist.",
+            "rule": "The Reality: The rule requires that the invoking beneficiary is entitled to the WHOLE beneficial interest. Marcus holds only 50% — the other 50% belongs to Naomi. A partial beneficial interest cannot found unilateral exercise of the rule. Multiple beneficiaries can only invoke jointly and unanimously.",
+            "application": "Why the Distractor Fails: The three Saunders v Vautier conditions are met for Marcus individually, but the third condition — entitlement to the ENTIRE beneficial interest — is not. Having a vested, absolute, adult interest in a SHARE of the trust is not the same as holding the entirety.",
+            "conclusion": "The Key Rule: Saunders v Vautier requires entitlement to the ENTIRE beneficial interest. A part-share (even 50%) is insufficient for unilateral invocation — all beneficiaries must join unanimously.",
+            "summary_line": "SAUNDERS v VAUTIER · ENTIRE INTEREST REQUIRED · 50% INSUFFICIENT ALONE · UNANIMOUS JOINT CONSENT NEEDED · NO UNILATERAL PART-SHARE CLAIM"
           }
         ]
       },
@@ -3179,6 +3241,18 @@
             "conclusion": null,
             "summary_line": "TRUSTEE CHARGING · GRATUITOUS DEFAULT · EXPRESS AUTHORITY · TA 2000 S.29 · CO-TRUSTEE AGREEMENT · MUST BE REASONABLE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-TRUST-104",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "On what basis may a professional trustee charge for their services, and what did Re Duke of Norfolk establish?",
+            "answer": "Trustees act gratuitously and cannot charge unless authorised. Authority to charge may come from: (1) an express charging clause in the trust instrument; (2) TA 2000 s.29 — a trustee acting in a professional capacity may charge reasonable remuneration if each co-trustee has agreed in writing (or, if no co-trustees, all beneficiaries consent); or (3) the court's inherent jurisdiction. Re Duke of Norfolk's Settlement Trusts [1982] CA established that the court has an inherent jurisdiction to authorise remuneration for professional trustees where it is in the interests of the trust, even without an express clause or statutory basis.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROFESSIONAL TRUSTEE CHARGING · CHARGING CLAUSE · TA 2000 S.29 · CO-TRUSTEE WRITTEN AGREEMENT · RE DUKE OF NORFOLK · COURT INHERENT JURISDICTION"
           }
         ],
         "Conflict resolution": [
@@ -3222,6 +3296,18 @@
             "conclusion": null,
             "summary_line": "UNAUTHORISED CHARGE · NO TRUST INSTRUMENT CLAUSE · S.29 REQUIRES CO-TRUSTEE · REPAY · FIDUCIARY BREACH · COLP",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-TRUST-SCE-063",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Fiona is a solicitor and one of two trustees of the Marshall Family Trust. The trust instrument has no charging clause. Fiona carries out substantial legal work for the trust — drafting deeds and advising on tax — and wishes to charge her standard hourly rate. Can she recover her fees?",
+            "answer": "Without an express charging clause, Fiona cannot charge by default (trustees act gratuitously). However, under TA 2000 s.29, a trustee who acts in a professional capacity may charge reasonable remuneration for services if each other trustee has agreed in writing to the entitlement to be paid. Fiona should seek written agreement from her co-trustee. If the co-trustee agrees in writing, she may charge reasonable fees. If no co-trustee consents or there is a dispute, Fiona may seek court authorisation under the inherent jurisdiction established in Re Duke of Norfolk. Without one of these routes, she cannot recover fees.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PROFESSIONAL TRUSTEE · TA 2000 S.29 · CO-TRUSTEE WRITTEN AGREEMENT · RE DUKE OF NORFOLK · INHERENT JURISDICTION · CHARGING CLAUSE NEEDED OTHERWISE"
           }
         ],
         "Trap cards": [
@@ -3237,6 +3323,164 @@
             "conclusion": "The Key Rule: Saunders v Vautier requires ALL beneficiaries (including those with contingent interests) to be adult, to have capacity, and to consent. A majority holding, however large, is insufficient. Until B reaches 18 (or the contingency otherwise resolves), A and C cannot invoke the rule.",
             "summary_line": "ALL MUST CONSENT · MAJORITY INSUFFICIENT · MINOR CANNOT CONSENT · CONTINGENT INTEREST COUNTS · WAIT FOR B TO TURN 18",
             "is_deeper": 0
+          }
+        ]
+      },
+      "Secret Trusts": {
+        "Fully secret trusts": [
+          {
+            "card_code": "FLK2-TRUST-095",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a fully secret trust, and what are its three requirements?",
+            "answer": "A fully secret trust (FST) arises where a will makes an outright gift to a legatee with no mention of any trust on the face of the will, but the testator privately communicates an intention that the legatee should hold on trust for a third party, and the legatee agrees.\n\n**Three requirements:**\n1. **Intention** — the testator must intend to impose a binding trust obligation (not a mere moral obligation or hope).\n2. **Communication** — the terms of the trust must be communicated to the intended trustee during the testator's lifetime (before or after the will is made, but before death): *Re Boyes* [1884].\n3. **Acceptance** — the intended trustee must accept the obligation, expressly or by acquiescence (silent acceptance is sufficient after communication).\n\nIf any element is absent, the legatee takes the gift absolutely and is not bound.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FULLY SECRET TRUST · INTENTION · COMMUNICATION · ACCEPTANCE · BEFORE DEATH · RE BOYES"
+          },
+          {
+            "card_code": "FLK2-TRUST-099",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What happens if the secret trustee predeceases the testator — does the secret trust fail?",
+            "answer": "The answer depends on the type of secret trust:\n\n**Fully secret trust:** If the only secret trustee predeceases the testator, the gift lapses under normal succession rules. The trust fails because there is no one to hold it. The property falls into residue (or on intestacy if the gift was residue). The intended secret beneficiary cannot enforce the trust.\n\n**Half-secret trust:** The position is the same in terms of there being no trustee. However, because the will itself acknowledges a trust, the gift does not fall into residue for the deceased's own benefit — equity will not allow a resulting trust back to the estate on the basis that the testator intended trust and not a personal benefit. A substitute trustee may be appointed by the court.\n\n**General principle:** A secret trust is a personal obligation — it requires a living trustee to accept and perform it. Predecease of the trustee is therefore a material risk, particularly for FSTs.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PREDECEASE OF TRUSTEE · FST LAPSES · HST COURT APPOINTS SUBSTITUTE · PERSONAL OBLIGATION · TRUST REQUIRES LIVING TRUSTEE"
+          }
+        ],
+        "Half-secret trusts and Re Keen": [
+          {
+            "card_code": "FLK2-TRUST-096",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is a half-secret trust, and how do its requirements differ from a fully secret trust?",
+            "answer": "A half-secret trust (HST) arises where the will itself reveals that the legatee holds on trust, but the terms of the trust are left to be communicated separately ('I give to X to hold on trust for such purposes as I have communicated to him').\n\n**Same three requirements apply:** intention, communication, and acceptance.\n\n**Key difference on timing of communication:** For a FST, communication may occur at any time before the testator's death. For a HST, communication must take place **before or at the time of the execution of the will**: *Re Keen* [1937]. Communication *after* the will is signed cannot found a valid HST — the terms cannot be added later to what the will has already declared.\n\n**Why the difference?** A HST operates partly through the will (the will acknowledges the trust), so allowing post-execution communication would contradict the Wills Act 1837 formality requirements. FSTs operate entirely dehors the will so this constraint does not apply.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "HALF-SECRET TRUST · TRUST ON FACE OF WILL · COMMUNICATION BEFORE OR AT EXECUTION · RE KEEN · WILLS ACT CONSTRAINT"
+          },
+          {
+            "card_code": "FLK2-TRUST-100",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "A testator communicates the terms of a fully secret trust to the intended trustee after executing the will but before death. The intended trustee accepts. Is the FST valid?",
+            "answer": "Yes — the FST is valid. For a **fully secret trust**, communication may occur at any point during the testator's lifetime, whether before or after the will is executed. The critical requirement is that communication and acceptance must occur **before the testator's death**.\n\nThis is confirmed by *Re Boyes* [1884], where the FST failed because the testator communicated the trust terms in a letter that was only found and read after death — by which time it was too late.\n\nContrast with a **half-secret trust**: because the will itself refers to the trust, the terms must be communicated before or at the time of execution of the will (*Re Keen* [1937]). Post-execution communication cannot cure a defective HST.\n\nOn these facts: communication is post-will but pre-death, and the trustee has accepted — the FST is fully effective.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FST · COMMUNICATION POST-WILL BUT PRE-DEATH · VALID · RE BOYES · CONTRAST HST PRE-EXECUTION REQUIREMENT"
+          },
+          {
+            "card_code": "FLK2-TRUST-CASE-027",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Re Keen [1937]",
+            "answer": null,
+            "issue": "Whether a half-secret trust was validly constituted where the terms had been communicated to the trustee in a sealed envelope before the will was executed, but the will referred to future communication.",
+            "rule": "For a half-secret trust, communication of the terms must take place before or at the time the will is executed. Communication after execution cannot found a valid HST. The will's own description of the trust is decisive — if it contemplates future communication, terms already communicated are treated as inconsistent with the will.",
+            "application": "The testator gave property 'to X to be held on trust for such purposes as may be notified to him by me during my lifetime.' The terms had in fact been communicated before the will in a sealed envelope. The Court of Appeal held the trust failed: the will referred to future communication, which was inconsistent with prior communication. The trust terms could not be established by evidence contradicting the will's own words.",
+            "conclusion": "HST failed. The terms already communicated did not save the trust because the will described a future communication — the two were inconsistent. Re Keen establishes that the timing rule for HSTs is strict and the will's own language governs.",
+            "summary_line": "RE KEEN 1937 · HST · COMMUNICATION BEFORE EXECUTION · SEALED ENVELOPE · FUTURE COMMUNICATION · HST FAILED"
+          },
+          {
+            "card_code": "FLK2-TRUST-CASE-028",
+            "card_type": 2,
+            "difficulty": null,
+            "front": "Blackwell v Blackwell [1929]",
+            "answer": null,
+            "issue": "Whether a half-secret trust was enforceable in equity, given that the trust terms were not set out in the will and the Wills Act 1837 was not satisfied.",
+            "rule": "Half-secret trusts are valid and enforceable in equity. They operate dehors the will — the obligation arises from the personal undertaking given by the trustee to the testator, not from the will itself. Equity will not allow the Wills Act 1837 to be used as an instrument of fraud to defeat the intended trust.",
+            "application": "The testator left a legacy to five persons 'for purposes I have indicated to them.' The terms had been communicated before the will was executed and the trustees had accepted. The House of Lords unanimously upheld the trust. The moral obligation accepted by the legatees made it unconscionable for them to take the gift beneficially.",
+            "conclusion": "HST valid. The HL confirmed that the fraud/conscience principle supports enforcement of HSTs dehors the will. Communication and acceptance before execution are the key requirements. This remains the leading authority for the validity of half-secret trusts.",
+            "summary_line": "BLACKWELL V BLACKWELL 1929 · HST VALID · DEHORS THE WILL · FRAUD PRINCIPLE · COMMUNICATION BEFORE EXECUTION · HL AUTHORITY"
+          }
+        ],
+        "Theoretical basis": [
+          {
+            "card_code": "FLK2-TRUST-097",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the theoretical basis for enforcing secret trusts, and why does it matter?",
+            "answer": "Secret trusts are enforced on the basis that they operate **dehors the will** (outside and independently of the will). The obligation arises not from the will itself but from the personal undertaking given by the legatee to the testator during the testator's lifetime. Equity will not allow a statute (the Wills Act 1837) to be used as an instrument of fraud.\n\n**Why it matters:**\n- A FST bypasses Wills Act formality entirely because it does not operate through the will at all.\n- A HST operates partly through the will (acknowledging the trust) and partly dehors (the terms). The will-based element means post-execution communication cannot cure a defect — but the obligation is still enforced in equity once communication and acceptance occurred before execution.\n- The dehors doctrine explains why secret trusts can be enforced even though the trust terms are not in writing as the Wills Act requires.\n\n*Blackwell v Blackwell* [1929] (HL) confirmed HSTs are valid on this basis.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DEHORS THE WILL · EQUITY PREVENTS FRAUD · WILLS ACT 1837 · BLACKWELL V BLACKWELL · FST VS HST DISTINCTION"
+          },
+          {
+            "card_code": "FLK2-TRUST-101",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "Critically compare fully secret trusts and half-secret trusts on: (a) communication timing, (b) failure consequences, and (c) theoretical basis.",
+            "answer": "**(a) Communication timing:**\n- FST: communication may occur at any time before death (before or after will).\n- HST: communication must occur before or at time of will execution (*Re Keen* [1937]). Post-execution communication is invalid.\n\n**(b) Consequences of failure:**\n- FST fails: the legatee takes the gift absolutely — no trust attaches. Risk of unjust enrichment.\n- HST fails: the gift does not pass to the legatee beneficially. The will acknowledges a trust, so the legatee cannot take personally. The property falls into residue or on resulting trust for the estate. The intended beneficiary loses out but so does the legatee.\n\n**(c) Theoretical basis:**\n- Both are enforced dehors the will to prevent fraud (*Blackwell v Blackwell* [1929]).\n- FST operates entirely outside the will — Wills Act 1837 formalities are irrelevant to the trust's validity.\n- HST is partly will-based (the trust is acknowledged on the face of the will) — hence the stricter timing rule: allowing post-execution terms would permit the will's trust declaration to be supplemented outside Wills Act formality, which equity does not allow.\n\n**Summary:** FSTs are more flexible in timing but carry the risk of unjust enrichment on failure. HSTs are more constrained in timing but protect the beneficiary from the legatee taking personally.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FST VS HST · COMMUNICATION TIMING · FAILURE CONSEQUENCES · DEHORS THE WILL · BLACKWELL V BLACKWELL · WILLS ACT 1837"
+          }
+        ],
+        "Multiple trustees — Re Stead": [
+          {
+            "card_code": "FLK2-TRUST-098",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the rule in Re Stead [1900] apply to secret trusts where there are multiple trustees?",
+            "answer": "Where a testator leaves property to **two or more people** as secret trustees, the effect of communication to one of them depends on the nature of their co-ownership:\n\n**Tenants in common:** If the legatees take as tenants in common, communication to one binds only that one — the other(s) take free of the trust unless independently informed and accepting.\n\n**Joint tenants:** Communication to one before the will is made binds all joint tenants — each is deemed to take on the same terms because the fraud theory applies to the whole gift. But communication to one after the will is made binds only that person.\n\n**Practical rule:** To bind all trustees safely, communicate the terms to all of them and obtain individual acceptance. Relying on one's communication is risky, particularly where the tenancy is in common.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "RE STEAD · JOINT TENANTS · TENANTS IN COMMON · COMMUNICATION TO ONE · TIMING MATTERS · BIND ALL TO BE SAFE"
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK2-TRUST-SCE-059",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Elspeth executes her will in January leaving '£50,000 to my friend Julian absolutely.' In March, Elspeth tells Julian she wants him to hold the money on trust for her niece, Sophie, after her death. Julian agrees. Elspeth dies in September. Julian now claims the £50,000 absolutely. Advise Sophie.",
+            "answer": "This is a fully secret trust (FST). The will gives Julian an outright gift with no mention of trust. The three requirements for an FST are:\n\n1. **Intention:** Elspeth expressed a clear intention to impose a trust obligation — the communication in March shows she wanted the money held for Sophie, not kept by Julian.\n2. **Communication:** Elspeth communicated the terms (hold for Sophie) to Julian in March — during her lifetime, after the will was made but before her death. For an FST, communication may occur at any point before death: *Re Boyes* [1884].\n3. **Acceptance:** Julian agreed — express acceptance, which is more than sufficient.\n\nAll three requirements are satisfied. A fully secret trust has been created. Julian cannot take the £50,000 absolutely. He holds it on trust for Sophie, who can enforce the trust in equity.\n\n**Note:** Julian claiming the gift absolutely would be unconscionable — equity prevents him from using the Wills Act as an instrument of fraud.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "FST · COMMUNICATION POST-WILL PRE-DEATH · ACCEPTANCE EXPRESS · FULLY SECRET TRUST VALID · SOPHIE ENFORCES IN EQUITY"
+          },
+          {
+            "card_code": "FLK2-TRUST-SCE-060",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "In January, Marcus tells his solicitor Harriet that he intends to leave his estate 'to Daniel to hold on such trusts as I have told him.' In February, he executes the will in those terms. He then sends Daniel a letter in April explaining the intended beneficiaries. Daniel acknowledges and agrees. Marcus dies in August. Can the trust be enforced?",
+            "answer": "This is a **half-secret trust (HST)** — the will acknowledges on its face that Daniel holds on trust, but the terms are left to private communication.\n\n**Requirements for a valid HST:**\n1. Intention — present: will expressly imposes a trust.\n2. Communication — the terms must be communicated **before or at the time of execution** of the will: *Re Keen* [1937].\n3. Acceptance — Daniel accepted in April.\n\n**Problem:** The will was executed in February. The terms were communicated in April — two months after execution. This is **post-execution communication**, which cannot found a valid HST.\n\n**Consequence of failure:** The property does not pass to Daniel beneficially. The will acknowledges a trust, so Daniel cannot take personally. The property falls into residue on resulting trust for Marcus's estate. The intended beneficiaries receive nothing.\n\n**Contrast with FST:** Had the will given an outright gift to Daniel with no mention of trust, the April communication would have been valid — FST allows communication at any time before death.\n\n**Advice:** The HST fails. The estate passes according to the residuary clause or on intestacy. The intended beneficiaries should be advised accordingly and may consider whether any alternative claim exists.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "HST · POST-EXECUTION COMMUNICATION · RE KEEN · HST FAILS · NO PERSONAL BENEFIT FOR DANIEL · RESULTING TRUST TO ESTATE"
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-TRUST-TRAP-012",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA testator's will states: 'I leave my residuary estate to Clive, to hold on trust for such purposes as I shall communicate to him.' Six weeks after signing the will, the testator writes to Clive explaining the intended beneficiaries in full. Clive accepts. The testator later dies. A student argues: 'A secret trust can be communicated at any time before death — so this must be valid.' Evaluate this argument.",
+            "answer": null,
+            "issue": "The Trap: The statement 'communication can occur at any time before death' applies to fully secret trusts, not half-secret trusts. The student has misapplied the FST rule to a HST, reaching the wrong conclusion.",
+            "rule": "The Reality: For a **half-secret trust**, communication must take place **before or at the time the will is executed** (*Re Keen* [1937]). Post-execution communication cannot cure a defective HST. For a **fully secret trust**, communication may occur at any point before death — but a FST requires no trust mention on the face of the will. Where the will itself acknowledges a trust (as here), the HST rule governs, not the FST rule.",
+            "application": "Why the Distractor Fails: The student correctly states the FST rule but applies it to the wrong type of trust. The will here expressly refers to a trust ('to hold on trust... as I shall communicate'), making this a HST. The six-week gap between will execution and communication is fatal. The terms were communicated after execution, which *Re Keen* prohibits. The trust fails. Clive cannot take personally (the will acknowledges a trust), so the residue falls on resulting trust for the estate.",
+            "conclusion": "The Key Rule: FST = communication any time before death. HST = communication must precede or be contemporaneous with will execution. The face of the will determines the category — if it acknowledges a trust, it is a HST and the stricter timing rule applies.",
+            "summary_line": "FST VS HST TIMING · RE KEEN · POST-EXECUTION COMMUNICATION FATAL FOR HST · FACE OF WILL DETERMINES TYPE · RESULTING TRUST ON FAILURE"
           }
         ]
       }

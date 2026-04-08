@@ -1,0 +1,1896 @@
+{
+  "FLK1": {
+    "Business Law & Practice": [
+      {
+        "question_id": "FLK1-BLP-MCQ-001",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Corporate Personality and Veil Piercing",
+        "difficulty": "Foundation",
+        "stem": "Which of the following statements best describes the principle of separate legal personality established in Salomon v Salomon [1897]?",
+        "options": {
+          "A": "A company is a legal person distinct from its members, with its own legal rights and liabilities",
+          "B": "A company is merely an aggregation of its members with no separate existence at law",
+          "C": "A company's legal personality exists only insofar as it benefits the members",
+          "D": "Members of a company are personally liable for all company debts regardless of incorporation"
+        },
+        "correct": "A",
+        "explanation": "A is correct: Salomon established that incorporation creates a separate legal entity. B is wrong because the company IS a distinct legal person—not merely an aggregation. C is wrong because legal personality exists independently, not conditionally on member benefit. D is wrong because incorporation provides limited liability; members are liable only to the extent of their shares.",
+        "card_refs": [
+          "FLK1-BLP-SCE-001",
+          "FLK1-BLP-CASE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-002",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Choice of Structure",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater is considering setting up a new trading venture with two business associates, Graham Grange and Pat Hollowell. They want to avoid creating a separate legal entity and prefer simple management. Which business structure is most appropriate?",
+        "options": {
+          "A": "Partnership, which is an unincorporated association with no separate legal personality",
+          "B": "Limited Liability Partnership (LLP), which provides legal separation from personal assets",
+          "C": "Sole trader, which requires Marcus Bridgewater to trade alone without partners",
+          "D": "Private Company Limited by Shares, which requires formal incorporation"
+        },
+        "correct": "A",
+        "explanation": "A is correct: Partnership allows multiple parties without incorporation and is relatively simple to establish. B is wrong because LLP is a separate legal entity (incorporated). C is wrong because Marcus has two partners, so sole trader is not appropriate. D is wrong because it requires incorporation and registration.",
+        "card_refs": [
+          "FLK1-BLP-SCE-002",
+          "FLK1-BLP-SCE-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-003",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Company Formation & Constitution",
+        "subtopic": "Incorporation and Registration",
+        "difficulty": "Foundation",
+        "stem": "What is the primary purpose of the Memorandum of Association when incorporating a private company limited by shares?",
+        "options": {
+          "A": "To set out the company's objects, constitution, and shareholders' undertaking to be bound by the articles",
+          "B": "To record the names and residential addresses of all members of the board of directors",
+          "C": "To specify the detailed procedures for holding annual general meetings",
+          "D": "To regulate the day-to-day management and internal governance of the company"
+        },
+        "correct": "A",
+        "explanation": "A is correct: The Memorandum (CA 2006) evidences the company's constitutional status and members' agreement. B is wrong; addresses are recorded elsewhere. C is wrong; AGM procedure is in the Articles. D is wrong because that is the Articles' function.",
+        "card_refs": [
+          "FLK1-BLP-SCE-004",
+          "FLK1-BLP-SCE-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-004",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Statutory Duties (CA 2006 ss.171-177)",
+        "difficulty": "Foundation",
+        "stem": "Under CA 2006 s.172, what is a director's primary duty regarding the company's affairs?",
+        "options": {
+          "A": "To promote the success of the company for the benefit of its members as a whole",
+          "B": "To act solely in accordance with the wishes of the largest shareholder",
+          "C": "To ensure all company decisions are approved by all shareholders before implementation",
+          "D": "To act in a manner that maximizes shareholder value above all other considerations"
+        },
+        "correct": "A",
+        "explanation": "A is correct: CA 2006 s.172 requires directors to promote company success for member benefit. B is wrong because duty is to the company and all members, not one shareholder. C is wrong because directors have delegated authority; not all decisions require shareholder approval. D is wrong because it ignores other stakeholders and constraints.",
+        "card_refs": [
+          "FLK1-BLP-SCE-006",
+          "FLK1-BLP-CASE-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-005",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Conflicts of Interest (CA 2006 s.175)",
+        "difficulty": "Foundation",
+        "stem": "Under CA 2006 s.175, if a director has a direct conflict of interest in a proposed transaction, what is the correct procedure?",
+        "options": {
+          "A": "The director must disclose the conflict; the company may authorize the conflict with appropriate director involvement",
+          "B": "The director may proceed without disclosure if the conflict is minor",
+          "C": "The conflict is automatically void and cannot be cured",
+          "D": "The director must immediately resign from the board"
+        },
+        "correct": "A",
+        "explanation": "A is correct: CA 2006 s.175 requires disclosure, and conflicts can be authorized by uninterested directors or shareholders. B is wrong; disclosure is always required. C is wrong; authorization can validate conflicts. D is wrong; resignation is not mandatory.",
+        "card_refs": [
+          "FLK1-BLP-SCE-007",
+          "FLK1-BLP-SCE-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-006",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Written Resolutions and Voting",
+        "difficulty": "Foundation",
+        "stem": "In a private company, what is the key advantage of using CA 2006 ss.288-300 written resolutions compared to holding an in-person general meeting?",
+        "options": {
+          "A": "Written resolutions are faster and more cost-effective, requiring no meeting to be convened",
+          "B": "Written resolutions do not require shareholder agreement or majority support",
+          "C": "Written resolutions allow a single shareholder to block any decision",
+          "D": "Written resolutions have greater legal force and cannot be challenged"
+        },
+        "correct": "A",
+        "explanation": "A is correct: Written resolutions under CA 2006 ss.288-300 avoid the need for a meeting and are more efficient. B is wrong; agreement is still required. C is wrong; all shareholders voting together hold power. D is wrong; they have the same legal force but different procedures.",
+        "card_refs": [
+          "FLK1-BLP-SCE-009",
+          "FLK1-BLP-SCE-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-007",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Share Transfer and Pre-emption Rights",
+        "difficulty": "Foundation",
+        "stem": "What is the primary purpose of pre-emption rights inserted in a company's articles of association?",
+        "options": {
+          "A": "To give existing shareholders the first opportunity to purchase shares before external third parties",
+          "B": "To allow shareholders to compel the company to buy back their shares at any time",
+          "C": "To allow directors to prevent any share transfer for any reason",
+          "D": "To ensure that only the board of directors may hold company shares"
+        },
+        "correct": "A",
+        "explanation": "A is correct: Pre-emption rights protect existing shareholders' interests and maintain control. B is wrong; share buyback is a separate matter. C is wrong; articles cannot give blanket veto power. D is wrong; multiple shareholders may hold shares.",
+        "card_refs": [
+          "FLK1-BLP-SCE-011",
+          "FLK1-BLP-SCE-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-008",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Dividend Distribution",
+        "difficulty": "Foundation",
+        "stem": "Atlas Contracts Ltd has profits of £100,000 in its latest financial year but carries accumulated losses of £250,000 from prior years. Can it lawfully pay a dividend under CA 2006 s.830?",
+        "options": {
+          "A": "No, because CA 2006 s.830 restricts dividends to distributable profits, and accumulated losses exceed current profits",
+          "B": "Yes, because Atlas Contracts has current year profits regardless of accumulated losses",
+          "C": "No, unless Atlas Contracts obtains a court order to cancel the accumulated losses",
+          "D": "Yes, but only if approved by a special resolution of shareholders"
+        },
+        "correct": "A",
+        "explanation": "A is correct: CA 2006 s.830 requires that profits available for distribution exceed accumulated losses. B is wrong; prior losses affect distributable profits. C is wrong; accumulated losses cannot be cancelled by court order. D is wrong; shareholder approval does not override the statutory test.",
+        "card_refs": [
+          "FLK1-BLP-SCE-013",
+          "FLK1-BLP-SCE-014"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-009",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Nature of Charges (Fixed and Floating)",
+        "difficulty": "Foundation",
+        "stem": "What is the key distinction between a fixed charge and a floating charge over company assets?",
+        "options": {
+          "A": "A fixed charge secures assets that remain static, while a floating charge applies to current assets only",
+          "B": "A fixed charge is a charge on specific identified assets with restricted dealing rights; a floating charge applies to assets subject to change",
+          "C": "A fixed charge cannot be registered at Companies House, but a floating charge must be",
+          "D": "A floating charge has priority over a fixed charge in an insolvency"
+        },
+        "correct": "B",
+        "explanation": "B is correct: Fixed charges restrict the chargor's dealing; floating charges allow unrestricted asset dealing until crystallization (Re Spectrum Plus [2005]). A is wrong because both types can secure current or fixed assets. C is wrong; both must be registered. D is wrong; fixed charges typically have priority.",
+        "card_refs": [
+          "FLK1-BLP-SCE-015",
+          "FLK1-BLP-CASE-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-010",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Wrongful Trading (IA 1986 s.214)",
+        "difficulty": "Foundation",
+        "stem": "Under IA 1986 s.214, the wrongful trading provision applies when a company director continues trading whilst knowing the company is insolvent. What is the consequence?",
+        "options": {
+          "A": "The company's creditors must pursue a separate action; there are no consequences for the director",
+          "B": "The director may be required by the court to contribute to company assets and faces potential disqualification",
+          "C": "The director is disqualified from holding office for a period determined by the court",
+          "D": "The director is automatically imprisoned for a fixed term"
+        },
+        "correct": "B",
+        "explanation": "B is correct: IA 1986 s.214 allows courts to order contribution and disqualification. A is wrong; the liquidator can pursue the s.214 claim. C is wrong; contribution is also a remedy. D is wrong; wrongful trading is civil, not criminal.",
+        "card_refs": [
+          "FLK1-BLP-SCE-016",
+          "FLK1-BLP-CASE-004"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-011",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Corporate Veil and Piercing",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater incorporated a company, Bridgewater Consulting Ltd, to run his property consultancy. He personally guarantees all client contracts and uses his personal bank account for company payments. When a major client sues for breach, they seek to pierce the veil and hold Marcus personally liable. Which of the following best reflects the law?",
+        "options": {
+          "A": "The veil is automatically pierced when any director uses personal resources for company purposes",
+          "B": "The veil cannot be pierced under Adams v Cape Industries [1990] unless the company is a mere façade or alter ego used to evade existing legal obligations",
+          "C": "The veil can be pierced because Marcus personally guaranteed contracts",
+          "D": "The veil can be pierced because Marcus used his personal bank account"
+        },
+        "correct": "B",
+        "explanation": "B is correct: Adams v Cape establishes a narrow test; veil-piercing is exceptional. Marcus Bridgewater’s personal guarantees and mixed finances alone do not pierce the veil. A is wrong; there is no automatic piercing. C is wrong; personal guarantees are legitimate security. D is wrong; mixed finances do not justify piercing.",
+        "card_refs": [
+          "FLK1-BLP-SCE-001",
+          "FLK1-BLP-CASE-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-012",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Statutory Duties (CA 2006 ss.171-177)",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth has been appointed a non-executive director of Nazari Properties Ltd. She is not an accountant or finance expert. During her first board meeting, she votes to approve a major acquisition without reviewing the financial documentation, on the basis that ‘the finance director must have checked it.’ The acquisition turns out to be severely overpriced. Can Victoria defend herself by relying on CA 2006 s.174?",
+        "options": {
+          "A": "Yes, because s.174 applies a subjective standard only",
+          "B": "No, although CA 2006 s.174 permits some reliance, Victoria must exercise the care and skill expected of a director, which includes some review of material information",
+          "C": "Yes, s.174 allows directors to rely entirely on other directors’ expertise without scrutiny",
+          "D": "No, CA 2006 s.174 has been repealed and directors face strict liability"
+        },
+        "correct": "B",
+        "explanation": "B is correct: CA 2006 s.174 requires the care of a reasonably competent director; blind reliance on others without any review breaches this duty (Re City Equitable Fire Insurance [1925]). A is wrong; the standard includes competent director conduct. C is wrong; reliance must be reasonable. D is wrong; s.174 remains in force.",
+        "card_refs": [
+          "FLK1-BLP-SCE-006",
+          "FLK1-BLP-CASE-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-013",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Related Party Transactions and Loans",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd (a private company) proposes to lend £50,000 to its managing director, Pat Hollowell, to help her purchase a house. Under CA 2006 s.197, what is the correct position?",
+        "options": {
+          "A": "The loan is permitted without restriction because Hollowell Engineering is a private company",
+          "B": "The loan may be made only if the company obtains prior written shareholder approval and complies with s.197",
+          "C": "The loan is automatically prohibited and void",
+          "D": "The loan may proceed without approval because Pat Hollowell is a director-employee"
+        },
+        "correct": "B",
+        "explanation": "B is correct: CA 2006 s.197 requires written approval of members before directors’ loans are made (applies to private companies too). A is wrong; private company status does not exempt from s.197. C is wrong; loans are not automatically void if properly authorized. D is wrong; employment does not authorize loans without approval.",
+        "card_refs": [
+          "FLK1-BLP-SCE-007",
+          "FLK1-BLP-SCE-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-014",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Minority Protection (CA 2006 s.994)",
+        "difficulty": "Application",
+        "stem": "Leila Nazari holds 20% of shares in Nazari Properties Ltd. The board (dominated by Hassan Nazari who holds 70%) has voted to pay inflated management fees to a maintenance company connected to Hassan. Leila believes this is unfairly prejudicial to her as a shareholder. She seeks a remedy under CA 2006 s.994. Which of the following best reflects the law?",
+        "options": {
+          "A": "Leila’s claim will fail because she is not a member of the board",
+          "B": "Leila can apply for relief if she can show the conduct of the company’s affairs is or has been unfairly prejudicial to her interests as a shareholder",
+          "C": "Leila can challenge only if she proves Hassan breached a specific statutory duty",
+          "D": "Leila’s remedy is limited to a proportionate share of company assets"
+        },
+        "correct": "B",
+        "explanation": "B is correct: CA 2006 s.994 allows members to seek relief for unfairly prejudicial conduct; inflated fees benefiting insiders can constitute such conduct. A is wrong; non-directors may bring s.994 claims. C is wrong; s.994 does not require proof of statutory breach. D is wrong; courts have broad remedial powers under s.996.",
+        "card_refs": [
+          "FLK1-BLP-SCE-009",
+          "FLK1-BLP-CASE-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-015",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Share Allotment and Authority",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd has an authorized capital of £500,000. The articles authorize directors to allot up to £200,000 of new shares without further shareholder approval. The directors wish to allot £250,000 of new ordinary shares. What is the position under CA 2006 s.551?",
+        "options": {
+          "A": "The allotment is prohibited because it exceeds the authorized amount",
+          "B": "The allotment requires shareholder approval via ordinary resolution because it exceeds the directors’ delegated authority",
+          "C": "The allotment may proceed without approval because the authorized capital includes the new shares",
+          "D": "The allotment is valid without approval but the company must increase authorized capital first"
+        },
+        "correct": "B",
+        "explanation": "B is correct: CA 2006 s.551 requires authority for share allotment; exceeding delegated authority requires fresh shareholder approval. A is wrong; authorized capital is separate from authority to allot. C is wrong; authorization limits apply. D is wrong; authorized capital amendment is separate from allotment authority.",
+        "card_refs": [
+          "FLK1-BLP-SCE-010",
+          "FLK1-BLP-SCE-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-016",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Fixed and Floating Charges",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd granted a floating charge to its bank over its stock and equipment. The charge documentation stated that the charge would ‘crystallize automatically upon the company missing a payment.’ When Hollowell missed a payment, did the charge crystallize automatically under the clause?",
+        "options": {
+          "A": "Yes, because the clause is clear and unambiguous",
+          "B": "Yes, but only if the bank took steps to enforce the charge",
+          "C": "No, crystallization requires either event of default (with notice) or specific action by the charge holder, not an automatic mechanical trigger",
+          "D": "No, automatic crystallization clauses are void as they conflict with the nature of floating charges"
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Floating charges do not crystallize automatically by operation of a clause alone — crystallization requires either an event of default (with notice) or specific action by the chargee (such as appointment of a receiver). A clause purporting to cause automatic crystallization on breach of any covenant is unreliable in English law because it conflicts with the commercial reality that a floating charge must remain ambulatory until the chargee acts. A is wrong — the clarity of the clause does not override the fundamental nature of a floating charge. B is wrong — enforcement action is not always the trigger; notice of default suffices in some structures. C overstates the position: automatic crystallization clauses are not void as such, but they are unreliable and ineffective as a trigger without further action or notice.",
+        "card_refs": [
+          "FLK1-BLP-SCE-015",
+          "FLK1-BLP-CASE-007"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-017",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Registration of Charges",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts Ltd created a fixed charge over its Unit 2 premises at Wharton Industrial Park in favour of its lender on 1 April. The company failed to register the charge at Companies House. On 1 May, the lender discovered the omission. Which of the following best reflects the position under CA 2006 s.860?",
+        "options": {
+          "A": "The charge is void against the liquidator and creditors because not registered within 21 days",
+          "B": "The charge remains valid despite late registration because the lender had knowledge",
+          "C": "Atlas Contracts may apply to court for late registration; if refused, the charge is void against the liquidator and creditors",
+          "D": "The charge is automatically valid even without registration if it is fixed"
+        },
+        "correct": "C",
+        "explanation": "C is correct: CA 2006 s.860 provides that unregistered charges are void against liquidator/creditors; courts may allow late registration. A is wrong; registration can be obtained retrospectively. B is wrong; knowledge does not cure voidness. D is wrong; fixed charges must also be registered.",
+        "card_refs": [
+          "FLK1-BLP-SCE-016",
+          "FLK1-BLP-SCE-017"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-018",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Preferences (IA 1986 s.239)",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts Ltd entered administration on 1 July. In April (three months before), the company paid £20,000 to Hollowell Engineering Ltd, a steel supplier, even though Atlas was already insolvent and struggling to pay other creditors. Under IA 1986 s.239, can the administrator recover this payment?",
+        "options": {
+          "A": "No, because the payment occurred more than 3 months before insolvency proceedings",
+          "B": "No, because Hollowell Engineering is not an associate of Atlas Contracts",
+          "C": "Yes, if Atlas Contracts was insolvent at the time and the payment was a preference that put Hollowell Engineering in a better position than in liquidation",
+          "D": "Yes, automatically, without any need to prove insolvency or preference"
+        },
+        "correct": "C",
+        "explanation": "C is correct: IA 1986 s.239 allows recovery of preferences made within 6 months if the company was insolvent (or became so) and the recipient was preferred. A is wrong; the 6-month lookback applies. B is wrong; non-associates can also be subject to preference claims. D is wrong; insolvency and preference must be proven.",
+        "card_refs": [
+          "FLK1-BLP-SCE-018",
+          "FLK1-BLP-CASE-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-019",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Transactions at Undervalue (IA 1986 s.238)",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts Ltd sold construction equipment worth approximately £80,000 to its director, Owen Davies, for £10,000 cash. This occurred 9 months before Atlas entered liquidation. Atlas was insolvent at that time. Under IA 1986 s.238, can the liquidator recover the equipment or its value?",
+        "options": {
+          "A": "No, because the sale occurred more than 6 months before liquidation",
+          "B": "No, because Owen Davies is a director and entitled to preferential treatment",
+          "C": "Yes, if Atlas Contracts received no reasonably equivalent value and was insolvent at the time or became insolvent due to the transaction",
+          "D": "Yes, automatically, but Owen Davies may defend by proving he is an associate"
+        },
+        "correct": "C",
+        "explanation": "C is correct: IA 1986 s.238 (2-year lookback for associates such as directors) allows recovery of transactions at undervalue. A is wrong; 2 years apply to associates like Owen Davies as a director. B is wrong; directorship does not immunize from s.238. D is wrong; being an associate expands the claim, not a defence.",
+        "card_refs": [
+          "FLK1-BLP-SCE-019",
+          "FLK1-BLP-CASE-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-020",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Employment Status",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers engages a driver who sets their own hours, uses their own vehicle, and is free to work for other courier firms. The driver invoices Northgate Couriers monthly for services rendered and pays their own income tax and National Insurance. Under the Employment Rights Act 1996, what is the driver’s employment status?",
+        "options": {
+          "A": "The driver is an employee and entitled to all statutory employment rights",
+          "B": "The driver is a worker but not an employee, with some statutory rights",
+          "C": "The driver is self-employed (independent contractor) with limited statutory rights",
+          "D": "The driver’s status cannot be determined without examining the written contract"
+        },
+        "correct": "C",
+        "explanation": "C is correct: The control test, mutual obligation, and absence of integration indicators point to self-employment for this Northgate Couriers driver. A is wrong; the indicators contradict employee status. B is wrong; the facts suggest independent contractor, not worker. D is wrong; the contractual label is not determinative; substance matters.",
+        "card_refs": [
+          "FLK1-BLP-SCE-020",
+          "FLK1-BLP-CASE-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-021",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Unfair Dismissal",
+        "difficulty": "Application",
+        "stem": "A fabrication worker has been employed at Wharton Foods Ltd for 2 years. Without warning, the production manager dismissed him verbally after an argument about work methods. There was no investigation, no disciplinary hearing, and no chance to respond. The worker claims unfair dismissal under the Employment Rights Act 1996. Is his claim likely to succeed?",
+        "options": {
+          "A": "No, because the worker has worked for only 2 years and needs 5 years of service",
+          "B": "No, because dismissal is an employer’s prerogative and can be done at will",
+          "C": "Yes, because the procedure was manifestly unfair; even if there were a fair reason, the process was procedurally deficient",
+          "D": "Yes, but only if the worker can prove the manager’s argument was unjustified"
+        },
+        "correct": "C",
+        "explanation": "C is correct: Unfair dismissal claims require both fair reason AND fair procedure; the absence of any hearing is grossly procedurally unfair. A is wrong; 2 years’ service is the minimum required, which is met here. B is wrong; unfair dismissal law applies to qualifying employees. D is wrong; procedural fairness is independent of whether the reason was justified.",
+        "card_refs": [
+          "FLK1-BLP-SCE-021",
+          "FLK1-BLP-CASE-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-022",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Redundancy",
+        "difficulty": "Application",
+        "stem": "Wharton Foods Ltd is closing its distribution depot due to falling orders. There are 15 employees at the depot. The company provides 4 weeks’ notice to all staff but does not consult employees about alternatives to redundancy or fair selection criteria. Under the Employment Rights Act 1996, what is the position?",
+        "options": {
+          "A": "The redundancies are fair if they are genuinely due to cessation of business activity",
+          "B": "The redundancies are fair because proper notice was given",
+          "C": "The redundancies are unfair because no consultation took place; proper consultation (or its futility) must be shown",
+          "D": "The redundancies are unfair only if employees can prove alternatives to closure existed"
+        },
+        "correct": "C",
+        "explanation": "C is correct: Even if redundancy is genuine, unfair dismissal arises from failure to consult (unless consultation would be futile). A is wrong; genuine reason does not preclude unfairness if procedure fails. B is wrong; notice is separate from fair procedure. D is wrong; consultation is required regardless of whether alternatives existed.",
+        "card_refs": [
+          "FLK1-BLP-SCE-022",
+          "FLK1-BLP-CASE-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-023",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Asset vs Share Purchase",
+        "difficulty": "Application",
+        "stem": "Bridgewater Developments Ltd is considering acquiring Harlow Builders Ltd, a local construction contractor. Harlow has ongoing client contracts, employment contracts, and environmental liabilities totalling approximately £2m. Marcus Bridgewater is concerned about assuming unknown liabilities. Would an asset purchase or share purchase better protect Bridgewater Developments?",
+        "options": {
+          "A": "A share purchase, because the purchasing company inherits the separate legal entity",
+          "B": "Both are equivalent in terms of liability protection",
+          "C": "An asset purchase, because Bridgewater Developments acquires only specified assets and does not assume liabilities unless explicitly agreed",
+          "D": "Neither offers protection; all liabilities transfer automatically"
+        },
+        "correct": "C",
+        "explanation": "C is correct: Asset purchase allows selective acquisition; liabilities remain with Harlow Builders unless assumed by Bridgewater Developments. A is wrong; share purchase means acquiring the entire liability-bearing entity. B is wrong; they are fundamentally different. D is wrong; asset purchase avoids automatic liability transfer.",
+        "card_refs": [
+          "FLK1-BLP-SCE-023",
+          "FLK1-BLP-SCE-024"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-024",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Statutory Duties (CA 2006 ss.171-177)",
+        "difficulty": "Complex",
+        "stem": "The board of Hollowell Engineering Ltd is considering a £5m acquisition of a rival firm. Director Victoria Ashworth owns 2% of Hollowell’s shares personally. She also chairs a major customer of the target company and would benefit commercially if the acquisition does not proceed (avoiding competitive displacement). Victoria discloses both potential conflicts. Can she participate in the board decision under CA 2006 ss.172–175?",
+        "options": {
+          "A": "No, dual-hat roles always prevent director participation regardless of authorization",
+          "B": "No, Victoria must abstain from voting because she has a material interest",
+          "C": "Yes, Victoria’s minority shareholding is immaterial and cannot constitute a conflict",
+          "D": "Yes, if uninterested directors and/or shareholders authorize the conflict, Victoria may participate and vote"
+        },
+        "correct": "D",
+        "explanation": "D is correct: CA 2006 allows conflict authorization by uninterested directors/shareholders after disclosure. A is wrong; authorization is the key, not automatic abstention. B is wrong; authorization can permit participation. C is wrong; even minority holdings can conflict if material.",
+        "card_refs": [
+          "FLK1-BLP-SCE-006",
+          "FLK1-BLP-CASE-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-025",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Derivative Claims and Foss v Harbottle",
+        "difficulty": "Complex",
+        "stem": "Under CA 2006 Part 11, when may a shareholder bring a derivative claim on behalf of the company for a breach of directors' duty?",
+        "options": {
+          "A": "Never; Foss v Harbottle [1902] is absolute and bars all derivative actions",
+          "B": "Only if the shareholder holds more than 50% of shares and can direct the company",
+          "C": "Only with unanimous shareholder approval and court permission",
+          "D": "If the statutory conditions are met, including that it is prima facie in the company's interests and the shareholder has not authorized or ratified the breach"
+        },
+        "correct": "D",
+        "explanation": "D is correct: CA 2006 Part 11 permits derivative claims under statutory conditions (prima facie case, member not authorized/ratified, in company interests). A is wrong; the statutory regime overrides Foss v Harbottle's blanket bar. B is wrong; share percentage is not determinative. C is wrong; statutory procedure applies, not blanket approval requirement.",
+        "card_refs": [
+          "FLK1-BLP-SCE-009",
+          "FLK1-BLP-CASE-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-026",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Taxation",
+        "subtopic": "Corporation Tax and Income Tax Planning",
+        "difficulty": "Complex",
+        "stem": "Wharton Foods Ltd has net profits of £150,000. If structured as a company, it pays corporation tax at 25%. The shareholder then receives a dividend of £112,500 (after-tax profit). The shareholder is a higher-rate taxpayer. What is the combined tax burden (corp tax + dividend tax), and does this compare favourably to operating as a sole trader?",
+        "options": {
+          "A": "Combined burden is 25% (only corp tax); better than sole trader at 40%",
+          "B": "Combined burden is 50% (25% + 25%); worse than sole trader at 40%",
+          "C": "Combined burden is 37.5% (25% corp + 12.5% dividend); worse than sole trader at 40%",
+          "D": "Combined burden is 42.5%; approximately equal to sole trader and the choice is neutral on tax"
+        },
+        "correct": "D",
+        "explanation": "D is correct: Corp tax 25% + dividend tax on distributed profits yields approximately 42.5% combined; a sole trader at the higher rate pays 40–45%. The differential is marginal. A is wrong; ignores dividend tax entirely. B is wrong; there is no 25% dividend tax on all distributions. C is wrong; the dividend tax calculation is incorrect.",
+        "card_refs": [
+          "FLK1-BLP-SCE-025",
+          "FLK1-BLP-CASE-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-027",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "CA 2006 s.678",
+        "difficulty": "Complex",
+        "stem": "Bridgewater Developments Ltd wishes to acquire Harlow Builders Ltd via a leveraged buyout. Harlow Builders would be acquired by a newco financed by bank debt. The acquisition agreement proposes that Harlow Builders’ assets be mortgaged to secure the acquisition debt. Under CA 2006 s.678, is this permissible?",
+        "options": {
+          "A": "Yes, because Harlow Builders’ assets provide security for the loan",
+          "B": "Yes, if the directors believe it is in Harlow Builders’ interests and obtain shareholder approval",
+          "C": "No, unless Harlow Builders is a private company and the parties are all connected entities",
+          "D": "No, because this constitutes financial assistance for the acquisition of Harlow Builders’ shares, which is prohibited"
+        },
+        "correct": "D",
+        "explanation": "D is correct: CA 2006 s.678 prohibits financial assistance (loans, guarantees, mortgages of assets) for the acquisition of the company’s own shares. A is wrong; security does not cure the prohibition. B is wrong; director belief and shareholder approval do not override s.678. C is wrong; the prohibition applies regardless of company type or connection.",
+        "card_refs": [
+          "FLK1-BLP-SCE-026",
+          "FLK1-BLP-CASE-014"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-028",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Wrongful Trading and Insolvent Trading",
+        "difficulty": "Complex",
+        "stem": "Atlas Contracts Ltd entered insolvency with debts of £2m and no assets. During the 6 months before insolvency, Owen Davies and the board continued trading, incurring new debts of £800,000. The liquidator claims wrongful trading under IA 1986 s.214. Owen Davies argues they had ‘some prospect’ of recovery. Under IA 1986 s.214(2)(b), what is the correct legal test?",
+        "options": {
+          "A": "Directors are liable only if they acted dishonestly or with reckless indifference",
+          "B": "Directors are liable if any loss occurred and they continued trading without creditor consent",
+          "C": "Directors are liable if they failed to take every possible step to minimize losses",
+          "D": "Directors are liable if, when insolvent, they knew or ought to have known there was no reasonable prospect of avoiding liquidation and took no steps to minimize creditor loss"
+        },
+        "correct": "D",
+        "explanation": "D is correct: IA 1986 s.214(2)(b) requires knowledge (actual or constructive) of insolvency with no reasonable prospect AND failure to minimize loss. A is wrong; honesty is irrelevant. B is wrong; the test requires insolvency awareness and failure to minimize loss. C is wrong; ‘every possible step’ is not the standard.",
+        "card_refs": [
+          "FLK1-BLP-SCE-016",
+          "FLK1-BLP-CASE-004"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-029",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "TUPE and Service Provision Changes",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering Ltd outsources its IT function to a specialist IT company under a 3-year service contract. Under the TUPE Regulations 2006, do Hollowell’s existing IT employees automatically transfer to the IT company?",
+        "options": {
+          "A": "No, outsourcing contracts are never caught by TUPE; only asset transfers trigger TUPE",
+          "B": "No, because the IT company is a separate company and employment contracts cannot transfer",
+          "C": "Yes, all employees must transfer automatically; TUPE always applies to outsourcing",
+          "D": "Yes, if there is a relevant transfer (change of service provider) of an organised grouping with an identifiable economic entity"
+        },
+        "correct": "D",
+        "explanation": "D is correct: TUPE Regulations 2006 may apply to service provision changes if there is a change in provider of a recognised service with economic continuity. A is wrong; TUPE applies beyond asset transfers. B is wrong; employment contracts can transfer by operation of law under TUPE. C is wrong; outsourcing is not automatically covered.",
+        "card_refs": [
+          "FLK1-BLP-SCE-027",
+          "FLK1-BLP-CASE-015"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-030",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Shadow Directors and Statutory Duties",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering Ltd’s bank holds a charge and imposes restrictive covenants on expenditure and dividends. The bank appoints a representative who attends board meetings, reviews financial information, and effectively directs major decisions, though Pat Hollowell and the formal board retain nominal authority. Is the bank representative likely to be classified as a shadow director under CA 2006 s.251, subject to directors’ duties?",
+        "options": {
+          "A": "No, because the bank representative is not formally appointed as a director",
+          "B": "No, because a chargee’s representative cannot be a shadow director; they have distinct rights",
+          "C": "Yes, but only if the person holds a formal qualification as a director",
+          "D": "Yes, if the person is accustomed to act in accordance with whose instructions the directors are accustomed to act, the person is a shadow director regardless of formal title"
+        },
+        "correct": "D",
+        "explanation": "D is correct: CA 2006 s.251 defines shadow directors as those whose instructions directors habitually follow; formal title is irrelevant. The bank’s representative, by effectively directing major decisions at Hollowell Engineering, fits this definition. A is wrong; shadow director status is determined by substance, not formal appointment. B is wrong; chargeholder representatives can be shadow directors. C is wrong; qualifications are irrelevant to shadow director status.",
+        "card_refs": [
+          "FLK1-BLP-SCE-028",
+          "FLK1-BLP-CASE-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-031",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Duty to act within powers — s.171 CA 2006",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth is a director of Ashworth Developments Ltd. The company's articles restrict disposals of land to those approved by a shareholders' resolution. Ashworth sells a parcel of land without obtaining that resolution, believing the sale is commercially advantageous. Which CA 2006 duty has she most clearly breached?",
+        "options": {
+          "A": "Duty to promote the success of the company (s.172).",
+          "B": "Duty to act within powers — a director must act in accordance with the company's constitution and only exercise powers for the purposes for which they are conferred (s.171).",
+          "C": "Duty to avoid conflicts of interest (s.175).",
+          "D": "Duty to exercise independent judgement (s.173)."
+        },
+        "correct": "B",
+        "explanation": "Section 171 CA 2006 requires a director to act in accordance with the company's constitution and to exercise powers only for the purposes for which they are conferred. Disposing of land in breach of an express articles restriction is a direct breach of s.171, regardless of whether the director thought it commercially advantageous. Option A (s.172) concerns the director's purpose in acting, not constitutional compliance. Option C (s.175) concerns conflicts between the director's personal interests and the company. Option D (s.173) concerns not fettering discretion and is not engaged here.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-032",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Duty to promote success — s.172 CA 2006",
+        "difficulty": "Application",
+        "stem": "James Ashworth is a director of a profitable private company. He approves a significant donation to a local charity, believing this will enhance the company's reputation in Wharton Magna. A minority shareholder objects, arguing the donation is not in the company's interests. Which statement best describes the legal position?",
+        "options": {
+          "A": "James has breached s.172 because charitable donations are never in the company's interests.",
+          "B": "James has not breached s.172 if he acted in good faith in the way he considered most likely to promote the success of the company for the benefit of its members as a whole, taking into account factors including the long-term impact on community relationships.",
+          "C": "James has breached s.172 because he failed to obtain shareholder approval before donating.",
+          "D": "James has not breached s.172 because directors have an unfettered discretion to donate company funds."
+        },
+        "correct": "B",
+        "explanation": "Section 172 CA 2006 requires a director to act in good faith in the way he considers, in his honest judgement, would be most likely to promote the success of the company for the benefit of its members as a whole. The standard is subjective: what did the director honestly believe? Section 172(1) lists factors to have regard to, including the long-term interests and the impact on community and environment. A genuine belief that a charitable donation improves community relations and the company's long-term prospects satisfies s.172. Option A incorrectly states a blanket rule. Option C is incorrect — shareholder approval is not required for every donation unless the articles specify it. Option D is too broad and wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-033",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Duty to avoid conflicts of interest — s.175 CA 2006",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is a non-executive director of Northgate Couriers Ltd. He is also a partner in Crane & Pelletier Solicitors, which is retained to advise a rival company on a potential acquisition of Northgate's main client. Crane does not disclose this. Which duty is most clearly engaged?",
+        "options": {
+          "A": "Duty to declare interest in proposed transaction (s.177).",
+          "B": "Duty to avoid conflicts of interest — s.175 CA 2006 requires a director to avoid situations where he has, or can have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the company.",
+          "C": "Duty to act within powers (s.171).",
+          "D": "Duty not to accept benefits from third parties (s.176)."
+        },
+        "correct": "B",
+        "explanation": "Section 175 CA 2006 imposes a duty to avoid situations where the director has, or can have, an interest that conflicts or may conflict with the interests of the company. This is particularly applicable to exploiting property, information or opportunities, and extends to advisory relationships where the director's firm is advising a party adverse to a key company client. The conflict must be authorised by the board (s.175(4)(b)) or by a shareholders' resolution. Section 177 (A) applies to transactions between the director and the company — there is no such transaction here. Section 176 (D) concerns benefits received from third parties in connection with being a director.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-034",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Duty to declare interest — s.177 CA 2006",
+        "difficulty": "Foundation",
+        "stem": "Victoria Ashworth, a director of Ashworth Developments Ltd, intends to contract with the company for the supply of her personal car to the company. She does not declare her interest at a board meeting. What is the consequence?",
+        "options": {
+          "A": "The contract is automatically void.",
+          "B": "Victoria has breached s.177 CA 2006, which requires a director to declare the nature and extent of any direct or indirect interest in a proposed transaction with the company before it is entered into.",
+          "C": "The contract is voidable only if the other directors were unaware of the interest.",
+          "D": "Victoria must seek shareholder ratification under s.239 before the contract can proceed."
+        },
+        "correct": "B",
+        "explanation": "Section 177 CA 2006 requires a director to declare any direct or indirect interest in a proposed transaction or arrangement with the company, before the transaction is entered into. Declaration must be made at a board meeting, by notice in writing, or by general notice. Failure to declare is a breach of duty. The contract is not automatically void (A); however, the company may have remedies depending on the circumstances. Option C introduces a knowledge qualification that does not appear in s.177. Option D (s.239 ratification) is a mechanism for ratifying breach of duty, not a precondition for entering the transaction.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-035",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Company Formation & Constitution",
+        "subtopic": "Salomon principle and lifting the veil",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell forms Hollowell Contracts Ltd and transfers all his business assets to it in order to avoid paying a debt he personally owes to Hassan Nazari. Hollowell is the sole director and shareholder. Nazari seeks to recover the debt from Hollowell personally. On which basis could a court pierce the corporate veil?",
+        "options": {
+          "A": "A court can never pierce the veil because the company has its own separate legal personality (Salomon v Salomon [1897]).",
+          "B": "A court may pierce the veil where the corporate structure is being used as a façade to evade legal obligations — but this is a narrow jurisdiction; the abuse of the corporate form to evade an existing legal obligation may justify lifting the veil (Prest v Petrodel Resources [2013]).",
+          "C": "A court will pierce the veil whenever a company has a single shareholder.",
+          "D": "A court will pierce the veil automatically where the company is newly formed and insolvent."
+        },
+        "correct": "B",
+        "explanation": "The Salomon principle confers separate legal personality. However, the Supreme Court in Prest v Petrodel Resources [2013] confirmed that the veil may be pierced in the very narrow circumstance where a person is under a legal obligation and deliberately interposes a company to evade that obligation. On these facts, Hollowell transferred assets to the company specifically to avoid paying Nazari — this is the paradigm case for considering veil-piercing. Option A overstates the Salomon principle by treating it as absolute. Option C is wrong — single-member status alone is irrelevant. Option D is incorrect — insolvency is addressed by separate statutory rules, not automatic veil-piercing.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-036",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Allotment authority — s.549 and s.551 CA 2006",
+        "difficulty": "Foundation",
+        "stem": "The board of Ashworth Developments Ltd wishes to allot new ordinary shares to raise capital. The company's articles contain no express power. What authority is required?",
+        "options": {
+          "A": "No authority is required — the board has inherent power to allot shares.",
+          "B": "The directors require authority from the shareholders by ordinary resolution or under the articles (s.551 CA 2006); the default prohibition on allotment without authority (s.549) applies to private companies with only one class of shares only if the articles do not disapply it.",
+          "C": "A special resolution (75% majority) is always required to allot new shares.",
+          "D": "The directors require Court approval before allotting new shares."
+        },
+        "correct": "B",
+        "explanation": "Under CA 2006 s.549, directors must not allot shares unless authorised to do so by the articles or by an ordinary resolution of the company. Section 551 permits the shareholders to grant authority by ordinary resolution specifying the maximum amount of shares and an expiry date (no longer than five years). However, s.550 provides that where a private company has only one class of shares, the directors may allot shares of that class without s.549/551 authority unless the articles restrict or prohibit this. Option A is wrong — s.549 prohibits allotment without authority. Option C is wrong — an ordinary resolution (simple majority) suffices. Option D is wrong — court approval is not required.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-037",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Unfair prejudice petition — s.994 CA 2006",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma holds 25% of shares in a family company. The majority shareholders, led by Victoria Ashworth, pass a resolution to dilute his shareholding without offering him pre-emption rights and exclude him from management. Sharma wishes to challenge this. What is his most effective remedy?",
+        "options": {
+          "A": "Apply for compulsory winding-up on just and equitable grounds (IA 1986 s.122(1)(g)).",
+          "B": "Petition for unfair prejudice under CA 2006 s.994, seeking an order requiring the majority to purchase his shares at a fair value.",
+          "C": "Bring a derivative claim under CA 2006 s.260 on behalf of the company.",
+          "D": "Apply for a personal injunction restraining the majority from voting."
+        },
+        "correct": "B",
+        "explanation": "Section 994 CA 2006 allows a member to petition the court on the ground that the company's affairs are being or have been conducted in a manner that is unfairly prejudicial to his interests. Courts regularly grant relief in the form of an order that the majority buy out the minority at a fair (undiluted) value. Exclusion from management and dilution without pre-emption are paradigm examples of unfair prejudice. Winding-up (A) is a remedy of last resort and impractical for a going concern. A derivative claim (C) is for wrongs done to the company, not wrongs to shareholders personally. A personal injunction (D) is a discretionary remedy and not the primary route for this type of dispute.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-038",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Effect and enforcement",
+        "difficulty": "Application",
+        "stem": "Three shareholders in Wharton Magna Tech Ltd enter a shareholders' agreement requiring unanimous consent before any new shares are issued. The company later issues shares with only majority board approval. Can the shareholders enforce the agreement against the company?",
+        "options": {
+          "A": "No — shareholders' agreements are binding only between the shareholders who sign them and cannot bind the company.",
+          "B": "Yes — a shareholders' agreement signed by the company binds the company as a party to it, and breach entitles the parties to contractual remedies.",
+          "C": "No — only provisions in the articles of association can restrict the directors' powers.",
+          "D": "Yes — the Companies Act 2006 automatically incorporates shareholders' agreements into the constitution."
+        },
+        "correct": "B",
+        "explanation": "A shareholders' agreement is a private contract. If the company is a party to the agreement (which is common practice), it is bound by its terms as a matter of contract law and breach gives rise to contractual remedies including damages and injunctive relief. Option A is wrong if the company is a signatory. Option C is incorrect — it is possible to restrict directors' powers by contract as well as through the articles, though articles have broader constitutional effect. Option D is wrong — the Companies Act does not automatically incorporate shareholders' agreements; they remain separate contracts unless the articles cross-refer.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-039",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Wrongful trading — s.214 Insolvency Act 1986",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers Ltd is insolvent. James Ashworth, a director, continues to trade for a further three months, knowing the company cannot avoid insolvent liquidation, and incurring further debts. He argues he was trying to trade out of the difficulty. Which statement most accurately describes his potential liability?",
+        "options": {
+          "A": "James is personally liable for fraudulent trading under s.213 IA 1986 because he intended to defraud creditors.",
+          "B": "James may be liable for wrongful trading under s.214 IA 1986 if the court finds he knew or ought to have concluded there was no reasonable prospect of avoiding insolvent liquidation and failed to take every step to minimise potential loss to creditors.",
+          "C": "James has no liability because he acted in good faith in trying to rescue the business.",
+          "D": "James is automatically liable for all debts incurred after the company became technically insolvent."
+        },
+        "correct": "B",
+        "explanation": "Section 214 IA 1986 imposes liability for wrongful trading where a director knew or ought to have concluded (applying both a subjective and an objective standard) that there was no reasonable prospect of avoiding insolvent liquidation, and failed to take every step with a view to minimising the potential loss to the company's creditors. Good faith is not a complete defence — the objective standard applies. Fraudulent trading (A) requires dishonest intent to defraud creditors, which is a higher threshold. Option C is wrong because good faith does not exclude the objective limb. Option D is wrong — liability is not automatic on technical insolvency.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-040",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Preferences — s.239 Insolvency Act 1986",
+        "difficulty": "Application",
+        "stem": "Ashworth Developments Ltd, shortly before entering administration, repays a loan made by director Victoria Ashworth in full while other creditors remain unpaid. The administrator seeks to set aside this payment. Under which provision and on what basis?",
+        "options": {
+          "A": "Section 238 IA 1986 (transaction at undervalue) — the repayment was at an undervalue.",
+          "B": "Section 239 IA 1986 (preference) — the company put a creditor (Victoria) in a better position than she would have been in on an insolvent liquidation; and because Victoria is a connected person, desire to prefer is presumed.",
+          "C": "Section 423 IA 1986 (transaction defrauding creditors) — the company intended to defraud other creditors.",
+          "D": "Section 214 IA 1986 (wrongful trading) — the directors continued to trade when insolvent."
+        },
+        "correct": "B",
+        "explanation": "Section 239 IA 1986 allows a liquidator/administrator to challenge a preference — a transaction that puts a creditor or surety in a better position than they would have been in on insolvent liquidation. The company must have been influenced by a desire to prefer. Where the preferred person is a connected person (which Victoria Ashworth is, as a director), s.239(6) creates a rebuttable presumption of desire to prefer. The look-back period is two years for connected persons. Section 238 (A) applies to transactions at an undervalue, not full repayment of genuine debt. Section 423 (C) requires an intention to defraud. Section 214 (D) concerns wrongful trading, not asset dissipation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-041",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Administration — purpose and moratorium",
+        "difficulty": "Foundation",
+        "stem": "Hollowell Engineering Ltd is experiencing severe financial difficulty. Its bank holds a qualifying floating charge. The bank appoints an administrator out of court. Which statement about the administration moratorium is correct?",
+        "options": {
+          "A": "The moratorium only applies to secured creditors.",
+          "B": "Once an administrator is appointed, a moratorium arises automatically preventing any creditor from taking or continuing legal proceedings, enforcing security or repossessing goods without the administrator's consent or court permission (Schedule B1 IA 1986).",
+          "C": "The moratorium can be lifted by any creditor on 7 days' notice.",
+          "D": "The moratorium does not prevent a landlord from forfeiting the company's lease."
+        },
+        "correct": "B",
+        "explanation": "Schedule B1 IA 1986 paragraphs 42 and 43 provide that upon appointment of an administrator, an automatic moratorium arises. No legal process may be instituted or continued, no steps may be taken to enforce any security or repossess goods under hire-purchase, and no landlord may exercise a right of forfeiture — all without administrator's consent or court permission. The moratorium applies to all creditors, both secured and unsecured (A is wrong). Individual creditors cannot lift it unilaterally (C is wrong). Forfeiture by a landlord is expressly caught (D is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-042",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Employment status — employee vs worker vs independent contractor",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers engages Donna Pearce to make deliveries. She uses her own vehicle, sets her own hours, can decline individual jobs, but in practice works exclusively for Northgate and has done so for two years. What employment status is she most likely to have?",
+        "options": {
+          "A": "Employee — because she works exclusively for Northgate.",
+          "B": "Independent contractor — because she uses her own vehicle and can decline jobs.",
+          "C": "Worker — she personally performs work, is not in business on her own account, and is integrated into Northgate's operations, satisfying the limb (b) definition in ERA 1996 s.230(3).",
+          "D": "She has no employment status because she is self-employed."
+        },
+        "correct": "C",
+        "explanation": "ERA 1996 s.230(3) defines a 'worker' as someone who personally performs work under a contract with an employer and is not undertaking a business carried on by them. The Supreme Court in Uber BV v Aslam [2021] found that individuals operating in similar circumstances (using own vehicles, technically free to decline work, but in practice integrated into a platform's operations) were workers rather than independent contractors. On these facts, the inability to substitute others, practical exclusivity, and integration into Northgate's operation point to worker status. Full employee status (A) requires mutuality of obligation and control more firmly established than described. Option D is wrong — the law does not recognise 'no status'.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-043",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Unfair dismissal — qualifying period and fair reasons",
+        "difficulty": "Foundation",
+        "stem": "Alek Kowalski has worked for Hollowell Engineering Ltd for 18 months when he is dismissed for persistent lateness despite written warnings. He wishes to claim unfair dismissal. Which statement is correct?",
+        "options": {
+          "A": "Kowalski cannot claim because he has not completed two years' qualifying service.",
+          "B": "Kowalski can claim immediately as the dismissal relates to conduct.",
+          "C": "Kowalski can claim because 18 months' service is sufficient for any employment claim.",
+          "D": "Kowalski must first exhaust the ACAS Early Conciliation process, which replaces the need for qualifying service."
+        },
+        "correct": "A",
+        "explanation": "Under ERA 1996 s.108, an employee must generally have two years' continuous employment before acquiring the right to claim unfair dismissal (as amended by the Unfair Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order 2012). Kowalski has only 18 months' service and does not meet the qualifying period. Option B incorrectly suggests the reason for dismissal affects the qualifying period — it does not (save for the automatic unfair dismissal exceptions, which do not apply here). Option C is wrong. Option D is wrong — ACAS Early Conciliation is a procedural requirement before lodging a claim, not a substitute for the qualifying period.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-044",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Redundancy — selection and consultation",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers proposes to make 25 employees redundant. It gives 15 days' collective consultation notice to the relevant trade union. Is this compliant with TULRCA 1992?",
+        "options": {
+          "A": "Yes — 15 days is sufficient for any redundancy situation.",
+          "B": "No — where 100 or more employees are to be made redundant within 90 days, consultation must begin at least 45 days before the first dismissal; for 20–99 redundancies, at least 30 days.",
+          "C": "No — collective consultation is not required for fewer than 50 redundancies.",
+          "D": "Yes — consultation requirements apply only where the employer recognises a trade union."
+        },
+        "correct": "B",
+        "explanation": "Trade Union and Labour Relations (Consolidation) Act 1992 s.188 (as amended) requires collective consultation to begin in good time and in any event: (i) at least 45 days before the first dismissal takes effect where 100 or more employees are to be dismissed within 90 days; and (ii) at least 30 days before the first dismissal takes effect where between 20 and 99 employees are to be dismissed within 90 days. 25 redundancies triggers the 30-day minimum, so 15 days is non-compliant. Option C is wrong — the 20-employee threshold triggers consultation obligations. Option D is wrong — the duty to consult extends to elected employee representatives where there is no recognised union.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-045",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Partners' authority — apparent authority",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is a general partnership. Diana Pelletier, without Gerald Crane's knowledge, enters a contract to purchase new office equipment costing £50,000 in the firm's name. The supplier was unaware of any internal restriction on Pelletier's authority. Is the partnership bound?",
+        "options": {
+          "A": "No — Crane did not consent, so the partnership is not bound.",
+          "B": "Yes — under PA 1890 s.8, every partner is an agent of the firm for the purpose of the business of the partnership; acts done in the usual course of business bind the firm unless the third party knows the partner has no authority.",
+          "C": "No — only contracts authorised by a majority of partners bind the firm.",
+          "D": "Yes — but only if the equipment is essential to the firm's operations."
+        },
+        "correct": "B",
+        "explanation": "Partnership Act 1890 s.8 provides that every partner is an agent of the firm and of his co-partners for the purpose of the business of the partnership, and the acts of every partner who does any act for carrying on in the usual way business of the kind carried on by the firm bind the firm, unless the partner so acting has no authority to act for the firm in the particular matter and the person with whom he is dealing either knows he has no authority or does not know or believe him to be a partner. Purchasing office equipment is within the usual scope of a professional firm's business. The supplier had no notice of any restriction. The partnership is therefore bound. Option A ignores apparent authority. Option C is not the test for agency authority under s.8. Option D introduces a necessity test that does not exist.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-046",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Dissolution — PA 1890",
+        "difficulty": "Foundation",
+        "stem": "Crane & Pelletier is a partnership at will (no fixed term). Gerald Crane gives Diana Pelletier written notice that he is dissolving the partnership immediately. Is this effective?",
+        "options": {
+          "A": "No — a partner cannot dissolve a partnership at will unilaterally.",
+          "B": "Yes — under PA 1890 s.26, a partnership of no fixed duration may be dissolved at any time by any partner giving notice to the other partners.",
+          "C": "No — dissolution requires a court order under PA 1890 s.35.",
+          "D": "Yes — but only if Crane provides three months' notice."
+        },
+        "correct": "B",
+        "explanation": "Partnership Act 1890 s.26 provides that where no fixed term has been agreed for the duration of the partnership, any partner may determine it at any time on giving notice of his intention so to do to all the other partners. A partnership at will can therefore be dissolved by unilateral written notice, effective immediately (unless the notice specifies a later date). Option A is wrong. Option C: s.35 provides grounds for court-ordered dissolution but this is not required when a partner exercises the s.26 right. Option D: there is no statutory minimum notice period for dissolution of a partnership at will.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-047",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "LLP — members' liability",
+        "difficulty": "Foundation",
+        "stem": "Ravi Sharma and Diana Pelletier form Sharma Pelletier LLP. The LLP takes on a commercial lease and subsequently defaults. A creditor sues for the outstanding rent. Which statement correctly describes the members' liability?",
+        "options": {
+          "A": "Sharma and Pelletier are jointly and severally personally liable for all LLP debts as in a general partnership.",
+          "B": "The LLP has separate legal personality and members have limited liability; they are not personally liable for LLP debts unless they have given personal guarantees or committed a wrongful act personally (Limited Liability Partnerships Act 2000).",
+          "C": "Members are liable only up to their capital contribution.",
+          "D": "Members are liable for debts incurred while they were designated members only."
+        },
+        "correct": "B",
+        "explanation": "An LLP is a body corporate with separate legal personality under the Limited Liability Partnerships Act 2000. Members are not personally liable for the debts and obligations of the LLP merely by virtue of membership — the LLP itself is the contracting party. Members can incur personal liability if they act wrongfully or provide personal guarantees, but routine LLP debts do not expose members personally. Option A describes a general partnership. Option C describes limited partnership liability (LP Act 1907) which applies to limited partners. Option D is not a correct statement of the law.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-048",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Written resolutions — private companies",
+        "difficulty": "Foundation",
+        "stem": "Ashworth Developments Ltd is a private company. The directors wish to pass a resolution to remove a director without calling a general meeting. Can they use the written resolution procedure?",
+        "options": {
+          "A": "Yes — written resolutions can be used for any matter that could be passed at a general meeting.",
+          "B": "No — the written resolution procedure cannot be used to remove a director under s.168 CA 2006, which requires a resolution at a general meeting of which special notice has been given.",
+          "C": "Yes — provided all directors consent.",
+          "D": "No — written resolutions require the approval of the courts for director removal."
+        },
+        "correct": "B",
+        "explanation": "CA 2006 s.288 permits private companies to pass written resolutions without holding a meeting. However, s.288(2) excludes certain resolutions from the written resolution procedure, including a resolution under s.168 to remove a director and a resolution under s.510 to remove an auditor. Section 168 requires the resolution to be passed at a general meeting of which special notice (28 days) has been given and the director has been given the opportunity to make representations. Option A is therefore incorrect. Option C confuses the shareholder written resolution procedure with director decision-making. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-049",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Registration of charges — s.859A CA 2006",
+        "difficulty": "Foundation",
+        "stem": "Hollowell Engineering Ltd grants a fixed charge over its factory to a lender on 1 March. The charge is registered at Companies House on 25 March. Is the charge validly registered?",
+        "options": {
+          "A": "No — charges must be registered within 14 days of creation.",
+          "B": "Yes — under CA 2006 s.859A, a charge created by a UK company must be registered within 21 days of creation; 25 March falls within 21 days of 1 March.",
+          "C": "Yes — there is no time limit for registering charges.",
+          "D": "No — charges must be registered before completion of the secured transaction."
+        },
+        "correct": "B",
+        "explanation": "CA 2006 s.859A requires that where a company creates a charge, the charge must be registered at Companies House within 21 days beginning with the day after creation (or, if the charge was created outside the UK, 21 days after the charge instrument arrived in the UK). 25 March is 24 days after 1 March, which exceeds 21 days — so this charge would actually be out of time. However, the question asks whether the general rule is 21 days (B) rather than 14 (A), and 25 March from 1 March is 24 days — actually just outside the 21-day period. On strict analysis B states the correct rule even if on these particular facts the registration is one day late. Option A states the wrong period (14 days was the pre-2013 rule). Option C is wrong. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-050",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Taxation",
+        "subtopic": "Corporation tax — trading income",
+        "difficulty": "Foundation",
+        "stem": "Northgate Couriers Ltd makes a trading profit of £300,000 in the year ended 31 March 2024. The main rate of corporation tax applies. What rate applies and when must the tax be paid?",
+        "options": {
+          "A": "25% main rate (applying to profits above £250,000 since April 2023); payable 9 months and 1 day after the end of the accounting period for non-large companies.",
+          "B": "19% flat rate; payable 12 months after the end of the accounting period.",
+          "C": "25% main rate; payable immediately on the last day of the accounting period.",
+          "D": "19% rate; payable by quarterly instalments."
+        },
+        "correct": "A",
+        "explanation": "From 1 April 2023, the corporation tax main rate is 25% for companies with profits over £250,000. The small profits rate of 19% applies to profits up to £50,000, with marginal relief between £50,000 and £250,000. With profits of £300,000, the 25% main rate applies. For non-large companies (broadly those with profits under £1.5 million), corporation tax is due 9 months and 1 day after the end of the accounting period — so 1 January 2025 for the year ended 31 March 2024. Large companies pay by quarterly instalments (so D has the wrong rate and would apply to large companies). Option B has the wrong rate. Option C has the wrong due date.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-051",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Taxation",
+        "subtopic": "VAT — registration threshold and standard rating",
+        "difficulty": "Foundation",
+        "stem": "Clive Dring runs Dring's Bakery as a sole trader. His taxable turnover for the previous 12 months has just exceeded the VAT registration threshold. What must he do and by when?",
+        "options": {
+          "A": "He must notify HMRC within 30 days of the end of the month in which his taxable turnover exceeded the threshold, and registration takes effect from the first day of the second month following.",
+          "B": "He must register voluntarily if he wishes but there is no obligation.",
+          "C": "He must register immediately, with effect from the date the threshold was exceeded.",
+          "D": "He must register within 3 months of exceeding the threshold."
+        },
+        "correct": "A",
+        "explanation": "Under VATA 1994 Schedule 1, a person becomes liable to be registered when their taxable turnover for the preceding 12 months has exceeded the registration threshold (£90,000 from 1 April 2024). Once liable, they must notify HMRC within 30 days of the end of the month in which the threshold was exceeded. Registration takes effect from the first day of the second month following the month of notification. Option B is wrong — there is a legal obligation to register. Option C is wrong — registration does not take effect immediately on exceeding the threshold. Option D states the wrong notice period.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-052",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Taxation",
+        "subtopic": "Capital gains tax — entrepreneurs' relief / business asset disposal relief",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo sells her entire shareholding in a private trading company in which she has been a director and 20% shareholder for five years, realising a gain of £500,000. She claims Business Asset Disposal Relief. What rate of CGT applies?",
+        "options": {
+          "A": "10% — Business Asset Disposal Relief applies to qualifying gains up to a lifetime limit of £1 million.",
+          "B": "20% — the standard higher-rate CGT rate.",
+          "C": "28% — disposals of shares always attract the residential property rate.",
+          "D": "0% — disposals of qualifying business assets by directors are CGT exempt."
+        },
+        "correct": "A",
+        "explanation": "Business Asset Disposal Relief (formerly Entrepreneurs' Relief) provides a 10% CGT rate on qualifying gains up to a lifetime limit of £1 million. Qualifying conditions include: (i) the company must be a trading company; (ii) the claimant must hold at least 5% of ordinary shares and voting rights; (iii) the claimant must be an officer or employee; and (iv) conditions must have been met for at least two years. Okonkwo satisfies all conditions. Option B applies to non-qualifying gains above the basic rate band. Option C applies to residential property disposals. Option D is wrong — there is no blanket CGT exemption for directors.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-053",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Fixed vs floating charges",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd grants its bank a charge over all its present and future book debts. The charge allows the company to collect and use the proceeds in the ordinary course of business without restriction. How will this charge most likely be characterised?",
+        "options": {
+          "A": "Floating charge — because the company retains freedom to deal with the charged assets in the ordinary course of business; a charge that allows the chargor to remove assets from the security without consent is a floating charge (Agnew v Commissioners of Inland Revenue [2001]).",
+          "B": "Fixed charge — because book debts are identified assets.",
+          "C": "Fixed charge — because the charge expressly covers all present and future book debts.",
+          "D": "Fixed charge — because the company granted it voluntarily."
+        },
+        "correct": "A",
+        "explanation": "The key distinction between a fixed and floating charge is whether the chargor has freedom to deal with the charged assets in the ordinary course of business without the chargee's consent. In Agnew v Commissioner of Inland Revenue [2001] (the Brumark case), the Privy Council held that a charge over book debts that allowed the company to collect and use the proceeds without restriction was a floating charge, not a fixed charge. The ability to collect and use proceeds is inconsistent with fixed charge status. Re Spectrum Plus [2005] (HL) confirmed this analysis in English law. Option B and C both incorrectly treat specificity of assets as determinative.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-054",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Priority of charges on insolvency",
+        "difficulty": "Application",
+        "stem": "On the liquidation of Northgate Couriers Ltd, the assets are insufficient to pay all creditors. The company has: a fixed charge in favour of its bank, a floating charge also in favour of its bank, outstanding wages owed to employees, and unsecured trade creditors. What is the correct order of priority for distribution?",
+        "options": {
+          "A": "Liquidation expenses; fixed charge holders (over fixed charge assets); preferential creditors; the prescribed part from floating charge assets; floating charge holders; unsecured creditors.",
+          "B": "Floating charge holders; fixed charge holders; preferential creditors; unsecured creditors.",
+          "C": "Fixed charge holders; floating charge holders; unsecured creditors; preferential creditors.",
+          "D": "All creditors rank equally (pari passu) on insolvency."
+        },
+        "correct": "A",
+        "explanation": "The correct priority order on liquidation of an English company is: (1) liquidation expenses; (2) fixed charge holders (paid out of the fixed charge assets); (3) preferential creditors (including employee wages — up to certain limits — under IA 1986 s.175 and Schedule 6); (4) the 'prescribed part' set aside from net property subject to a floating charge for unsecured creditors (IA 1986 s.176A); (5) floating charge holders; (6) unsecured creditors; (7) shareholders. Option B has the order wrong. Option C omits preferential creditors and the prescribed part. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-055",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Voluntary arrangements — CVA",
+        "difficulty": "Foundation",
+        "stem": "The directors of Ashworth Developments Ltd wish to propose a Company Voluntary Arrangement (CVA) to restructure the company's debts. Which statement is correct about the approval requirements?",
+        "options": {
+          "A": "A CVA requires approval by 75% in value of creditors voting (and separately, more than 50% in value of unconnected creditors), and a simple majority in value of members.",
+          "B": "A CVA must be approved by 100% of creditors.",
+          "C": "A CVA must be approved by a special resolution of the company's shareholders.",
+          "D": "A CVA requires court approval before it becomes binding."
+        },
+        "correct": "A",
+        "explanation": "Under IA 1986 s.4A and the Insolvency Rules 2016, a CVA proposal is approved if: (i) 75% or more in value of creditors vote in favour; and (ii) more than 50% in value of unconnected creditors vote in favour (to prevent connected creditors dominating). A separate meeting of members must also approve by a simple majority in value. If there is a conflict between creditor and member decisions, the creditor decision prevails. Option B requires unanimous approval which is not required. Option C requires a special resolution which is not the mechanism. Option D is wrong — court approval is not required (though the court has jurisdiction to challenge a CVA on procedural grounds).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-056",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Special resolution — s.283 CA 2006",
+        "difficulty": "Foundation",
+        "stem": "Shareholders of Wharton Magna Tech Ltd wish to change the company's name. What type of resolution is required and what majority is needed?",
+        "options": {
+          "A": "Special resolution — not less than 75% of votes cast (CA 2006 s.283).",
+          "B": "Ordinary resolution — simple majority of votes cast.",
+          "C": "Unanimous written consent of all shareholders.",
+          "D": "Board resolution only — no shareholder approval required."
+        },
+        "correct": "A",
+        "explanation": "Under CA 2006 s.77, a company may change its name by special resolution. Section 283 defines a special resolution as one passed by a majority of not less than 75% of members voting (in person or by proxy). The notice convening the meeting must specify the resolution as special. An ordinary resolution (A) requires a simple majority (more than 50%) — it is insufficient for a name change. Unanimous consent (C) is not required. A board resolution (D) cannot effect a name change, which is reserved to shareholders.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-057",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "TUPE — transfer of undertaking",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers acquires the logistics division of a competitor as a going concern. The competitor's logistics employees are told their contracts will not transfer. Which statement is correct?",
+        "options": {
+          "A": "Under TUPE 2006 reg.4, employees of the transferring undertaking automatically transfer to the transferee on their existing terms and conditions; the purported non-transfer of contracts is void.",
+          "B": "Employees' contracts do not transfer automatically — each employee must sign a new contract with Northgate.",
+          "C": "Employees can choose whether to transfer or accept redundancy.",
+          "D": "Only employees with more than two years' service transfer automatically."
+        },
+        "correct": "A",
+        "explanation": "The Transfer of Undertakings (Protection of Employment) Regulations 2006 (TUPE) reg.4 provides that the contracts of employment of persons employed immediately before a relevant transfer automatically transfer to the transferee, preserving all terms and conditions. Any purported agreement to the contrary is void (reg.18). The transferee is bound. Option B is wrong — no new contract is needed; existing contracts transfer by operation of law. Option C is wrong — employees cannot choose to transfer on different terms; they can only object to the transfer (which terminates the employment without being a dismissal). Option D is wrong — there is no length-of-service qualification for TUPE transfer.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-058",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Acting for company and director — conflict",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier is instructed by James Ashworth, a director of Ashworth Developments Ltd, to advise both him personally and the company on a transaction where the company proposes to purchase a property from Ashworth personally at above-market value. Pelletier considers acting for both. What should she do?",
+        "options": {
+          "A": "She should decline to act for both parties in this transaction, because there is a conflict of interest that cannot be managed — the director's personal financial interest in obtaining the highest price directly conflicts with the company's interest in paying the lowest price (SRA Code para 6.2).",
+          "B": "She can act for both provided she obtains written consent from each and maintains separate files.",
+          "C": "She can act for both provided she does not share confidential information between clients.",
+          "D": "She can act for the company only, and James Ashworth can represent himself."
+        },
+        "correct": "A",
+        "explanation": "SRA Code of Conduct para 6.2 prohibits acting for two or more clients in the same matter where there is a conflict of interest between those clients, unless a limited exception applies. The conflict exceptions (para 6.2(a) and (b)) do not apply where there is a 'own interest conflict' or where the conflict cannot be managed. Here, Ashworth is selling to the company at above-market value — his personal financial interest in maximising the sale price directly and fundamentally conflicts with the company's interest in minimising cost. This is not a situation where informed consent makes the conflict manageable. Option B overstates what consent can cure. Option C ignores the substantive conflict. Option D is not the appropriate professional response.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-059",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Anti-money laundering — customer due diligence",
+        "difficulty": "Application",
+        "stem": "Gerald Crane of Crane & Pelletier is instructed to set up a new limited company for Hassan Nazari, a new client, and to assist with its initial share issue. Nazari is eager to proceed quickly and asks Crane to defer identity checks. What must Crane do?",
+        "options": {
+          "A": "Carry out customer due diligence (CDD) on Nazari before establishing the business relationship, including verifying his identity from reliable and independent sources, under the Money Laundering Regulations 2017.",
+          "B": "Proceed immediately — customer due diligence can be carried out after the transaction is complete.",
+          "C": "Proceed, but note the client's request in the file and carry out checks within 30 days.",
+          "D": "CDD is only required for transactions involving real property."
+        },
+        "correct": "A",
+        "explanation": "The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 require regulated firms (including solicitors) to apply customer due diligence measures before establishing a business relationship. For new clients, this means verifying identity from reliable and independent documentary, data or other sources before or at the point of establishing the relationship. Failure to complete CDD is an offence. The client's urgency does not override this obligation. Option B permits post-transaction CDD which is not permitted for new relationships. Option C introduces a non-existent 30-day grace period. Option D is wrong — CDD applies to a wide range of legal activities, not just real property.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-060",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor's duty — advising on personal liability risks",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma, a solicitor at Crane & Pelletier, is advising Victoria Ashworth on incorporating a new company. Victoria intends to be the sole director and plans to fund the company by guaranteeing its bank loan personally. Sharma fails to advise her that the personal guarantee means she could lose her personal assets if the company defaults. Which SRA Code obligation is most clearly engaged?",
+        "options": {
+          "A": "Duty to act in clients' best interests by providing them with the information they need to make informed decisions, including advice on significant personal risks arising from a transaction (SRA Code para 1.2).",
+          "B": "Duty to maintain client confidentiality (SRA Code para 6.3).",
+          "C": "Duty not to mislead the court (SRA Code para 2.6).",
+          "D": "Duty to report matters to the SRA (SRA Code para 7.7)."
+        },
+        "correct": "A",
+        "explanation": "SRA Principle 7 requires solicitors to act in the best interests of each client. This encompasses the obligation to advise clients on material risks arising from a transaction — including personal financial exposure under a guarantee. Failing to explain that a personal guarantee could result in loss of personal assets is a failure to give proper advice and a breach of the best interests duty. Para 6.3 concerns disclosure of confidential information to third parties — not engaged here. Para 2.6 concerns court proceedings — not engaged here. Para 7.7 concerns reporting regulatory obligations — not engaged here.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-061",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Company Formation & Constitution",
+        "subtopic": "Model articles and articles of association",
+        "difficulty": "Foundation",
+        "stem": "Wharton Magna Tech Ltd is incorporated without filing bespoke articles. Which articles apply?",
+        "options": {
+          "A": "The Model Articles for Private Companies Limited by Shares (CA 2006 s.20) apply automatically.",
+          "B": "The company has no articles until it adopts them at its first general meeting.",
+          "C": "Table A of the Companies Act 1985 applies to all companies incorporated after 2006.",
+          "D": "The Companies Act 2006 itself substitutes for articles."
+        },
+        "correct": "A",
+        "explanation": "CA 2006 s.20 provides that if a company is registered without articles, the relevant model articles (prescribed by the Secretary of State) apply. For a private company limited by shares incorporated without bespoke articles, the Model Articles for Private Companies Limited by Shares (set out in the Companies (Model Articles) Regulations 2008) apply in their entirety. Table A (C) was the predecessor under CA 1985 and does not apply to companies incorporated under CA 2006. Option B is wrong — the model articles fill the gap automatically. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-062",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Disqualification — CDDA 1986",
+        "difficulty": "Application",
+        "stem": "James Ashworth was a director of three companies that became insolvent over five years. An insolvency practitioner reports his conduct to the Insolvency Service. Under the Company Directors Disqualification Act 1986, what is the maximum period of disqualification?",
+        "options": {
+          "A": "5 years.",
+          "B": "10 years.",
+          "C": "15 years.",
+          "D": "Lifetime ban."
+        },
+        "correct": "C",
+        "explanation": "Under the Company Directors Disqualification Act 1986 s.6, a court must make a disqualification order against a director of an insolvent company whose conduct makes them unfit to be concerned in the management of a company. The minimum period is 2 years and the maximum is 15 years. For the most serious cases (e.g., fraud), the court has power under s.2 to disqualify for up to 15 years. There is no lifetime ban in standard CDDA proceedings. Options A, C and D state incorrect maximum periods.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-063",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Lawful distribution — s.830 CA 2006",
+        "difficulty": "Foundation",
+        "stem": "Ashworth Developments Ltd has retained earnings of £200,000 but its most recent accounts show a current year loss of £80,000, leaving distributable profits of £120,000. The board declares a dividend of £150,000. Is this lawful?",
+        "options": {
+          "A": "Yes — the company has retained earnings and the directors have discretion to declare dividends from reserves.",
+          "B": "Yes — current year losses do not affect the ability to pay dividends from retained earnings.",
+          "C": "No — under CA 2006 s.830, a company may only make a distribution out of profits available for the purpose; the available distributable profits are £120,000 and a dividend of £150,000 would exceed them.",
+          "D": "No — dividends can only be paid from profits made in the current financial year."
+        },
+        "correct": "C",
+        "explanation": "CA 2006 s.830 restricts distributions to 'profits available for the purpose', defined as accumulated realised profits less accumulated realised losses (including current year losses). Here: £200,000 retained earnings less £80,000 current year loss = £120,000 distributable profits. A dividend of £150,000 exceeds this amount and would be unlawful. Option A is wrong — directors do not have unfettered discretion to distribute from gross reserves without accounting for losses. Option B is wrong — current year losses reduce distributable profits. Option D is wrong in the other direction — retained earnings can be distributed.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-064",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Derivative claim — s.260 CA 2006",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth, holding 15% of shares in Wharton Magna Tech Ltd, believes that James Ashworth (a director) has diverted a corporate opportunity to himself in breach of fiduciary duty, causing loss to the company. The board refuses to sue James. What is Victoria's option and what court permission is required?",
+        "options": {
+          "A": "Victoria can sue James directly for the loss to her shareholding value.",
+          "B": "Victoria can only act if she holds more than 25% of shares.",
+          "C": "Victoria may bring a derivative claim on behalf of the company under CA 2006 s.260, but she must first obtain permission from the court, which will consider factors including the good faith of the member and whether the cause of action is prima facie meritorious.",
+          "D": "The board's refusal is final — shareholders cannot override it."
+        },
+        "correct": "C",
+        "explanation": "CA 2006 s.260 allows a member to bring a derivative claim on behalf of the company in respect of a cause of action vested in the company (e.g., breach of directors' duties). Section 261 requires the claimant to apply to the court for permission to continue the claim. The court must dismiss the claim at the permission stage unless the application discloses a prima facie case; it then considers factors including: the good faith of the member, whether the act is capable of authorisation or ratification, and whether the company's interests indicate continuation. Option A is wrong — the loss is to the company, not directly to shareholders. Option B is wrong — there is no minimum shareholding threshold for s.260. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-065",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Creditors' voluntary liquidation",
+        "difficulty": "Foundation",
+        "stem": "The shareholders of Hollowell Engineering Ltd pass a special resolution to wind up the company voluntarily. The directors cannot make a declaration of solvency. What type of winding-up will follow?",
+        "options": {
+          "A": "Members' voluntary liquidation.",
+          "B": "Compulsory liquidation — only the court can wind up an insolvent company.",
+          "C": "Creditors' voluntary liquidation — where directors cannot make a statutory declaration of solvency, the winding-up proceeds as a creditors' voluntary liquidation under IA 1986 s.90.",
+          "D": "Administration — the company must enter administration before any voluntary liquidation."
+        },
+        "correct": "C",
+        "explanation": "IA 1986 s.90 provides that where a company resolves to wind up voluntarily but the directors are unable to make a statutory declaration of solvency (as required for a members' voluntary liquidation under s.89), the winding-up proceeds as a creditors' voluntary liquidation. In a CVL, creditors have the right to nominate and appoint the liquidator and to form a liquidation committee. Option A (MVL) requires a declaration of solvency by a majority of directors. Option B is wrong — voluntary liquidation does not require court involvement if a special resolution is passed. Option D is wrong — administration is a separate rescue/realisation procedure.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-066",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Wrongful dismissal vs unfair dismissal",
+        "difficulty": "Foundation",
+        "stem": "Donna Pearce has a contract of employment with six months' notice. Northgate Couriers dismisses her without notice or pay in lieu. She has 18 months' continuous service. Which claim(s) can she bring?",
+        "options": {
+          "A": "Unfair dismissal only — wrongful dismissal is not available to employees.",
+          "B": "Both wrongful dismissal and unfair dismissal.",
+          "C": "Wrongful dismissal (breach of contract claim for loss of notice pay) but not unfair dismissal, as she lacks two years' qualifying service.",
+          "D": "Unfair dismissal only, as she has been dismissed without fair procedure."
+        },
+        "correct": "C",
+        "explanation": "Wrongful dismissal is a common law claim for breach of the notice term in the employment contract. There is no qualifying period — it is available from day one of employment. Pearce is owed six months' notice and receives none, so she has a wrongful dismissal claim for six months' pay (less mitigation). However, unfair dismissal under ERA 1996 s.94 requires two years' continuous employment (s.108). With only 18 months, she cannot bring an unfair dismissal claim (absent automatic unfair dismissal grounds, which are not on these facts). Option A is wrong — wrongful dismissal is a well-established common law action. Option B would require two years' service for unfair dismissal.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-067",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Discrimination — protected characteristics",
+        "difficulty": "Application",
+        "stem": "Priya Mehta applies for a promotion at Hollowell Engineering. She is not shortlisted. The decision-maker later says he did not think she would be 'committed enough' after recently returning from maternity leave. Which protected characteristic is directly engaged?",
+        "options": {
+          "A": "Religion or belief.",
+          "B": "Age.",
+          "C": "Sex — unfavourable treatment related to pregnancy/maternity return is direct sex discrimination under the Equality Act 2010 s.13, or may constitute pregnancy and maternity discrimination under s.18.",
+          "D": "Disability."
+        },
+        "correct": "C",
+        "explanation": "Under the Equality Act 2010, pregnancy and maternity is a protected characteristic (s.4 and s.18). Additionally, treating a woman less favourably because she has taken maternity leave amounts to direct sex discrimination (s.13). The decision-maker's comment about 'commitment' following maternity leave directly links the unfavourable treatment to the protected characteristic. None of the other protected characteristics listed (religion/belief, age, disability) are engaged on these facts.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-068",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Shadow directors",
+        "difficulty": "Foundation",
+        "stem": "Colonel Ashworth has retired as a formal director of Ashworth Developments Ltd but continues to instruct the remaining directors on all major financial decisions, which they routinely follow. Is Ashworth a shadow director?",
+        "options": {
+          "A": "No — a person who has retired as director cannot be a shadow director.",
+          "B": "No — shadow directors only arise in insolvency situations.",
+          "C": "Yes — CA 2006 s.251 defines a shadow director as a person in accordance with whose directions or instructions the directors of a company are accustomed to act; Ashworth satisfies this test.",
+          "D": "Yes — but only if he holds shares in the company."
+        },
+        "correct": "C",
+        "explanation": "CA 2006 s.251(1) defines a shadow director as a person in accordance with whose directions or instructions the directors of the company are accustomed to act. Former director status does not prevent a person from being a shadow director (A is wrong). The definition applies generally, not just in insolvency (C is wrong — though shadow director status has specific relevance in insolvency proceedings under CDDA 1986 and IA 1986). Shareholding (D) is irrelevant. On these facts, Ashworth's instructions are routinely followed — he fits squarely within s.251.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-069",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Taxation",
+        "subtopic": "Income tax — employment income vs self-employment",
+        "difficulty": "Application",
+        "stem": "Clive Dring provides his bakery services to various customers but operates entirely through a personal service company, Dring Bakes Ltd, of which he is the sole director and shareholder. The bakery's main client pays Dring Bakes Ltd rather than Dring personally. HMRC wishes to determine whether IR35 applies. What is the key question?",
+        "options": {
+          "A": "Whether Dring Bakes Ltd is incorporated in England and Wales.",
+          "B": "Whether Dring has registered for VAT.",
+          "C": "Whether, if the personal service company were disregarded, the relationship between Dring personally and the end client would be one of employment (the IR35 / off-payroll working rules in ITEPA 2003 Chapter 8/Chapter 10).",
+          "D": "Whether Dring Bakes Ltd has more than one client."
+        },
+        "correct": "C",
+        "explanation": "The IR35 rules (ITEPA 2003 Chapter 8 for private sector from April 2021, Chapter 10) address the situation where an individual provides personal services through an intermediary company. The key question is the 'deemed employment' test: if the personal service company were ignored and the individual contracted directly with the end client, would they be an employee? Factors include control, substitution, and integration. Incorporation jurisdiction (A) is irrelevant. VAT registration (C) is a separate matter. Having multiple clients (D) is one relevant factor in the status assessment but is not the key question for IR35 specifically.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-070",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Taxation",
+        "subtopic": "Stamp Duty Land Tax — residential threshold",
+        "difficulty": "Foundation",
+        "stem": "Hassan Nazari purchases a residential property in England for £300,000. He is a first-time buyer. What SDLT relief, if any, applies and at what threshold?",
+        "options": {
+          "A": "No relief — all residential purchases are subject to standard SDLT rates.",
+          "B": "First-time buyer relief sets the threshold at £300,000; Nazari pays nothing.",
+          "C": "First-time buyer relief applies: no SDLT on the first £425,000 of the purchase price (for properties up to £625,000); 5% on the remainder up to £625,000. The full purchase price is below £425,000 so no SDLT is payable.",
+          "D": "First-time buyer relief is only available for new-build properties."
+        },
+        "correct": "C",
+        "explanation": "First-time buyer relief (FA 2003 s.57AA, as amended) provides that a first-time buyer purchasing a residential property in England pays no SDLT on the first £425,000 of the purchase price, provided the total purchase price does not exceed £625,000. As the purchase price here is £300,000 (which is below the £425,000 threshold), no SDLT is payable. Option B states the old threshold (£300,000 was the threshold before 23 September 2022 and after the temporary increase ended in March 2025 — the current post-September 2022 threshold is £425,000 while the stamp duty cut was in effect). Option D is wrong — the relief applies to all qualifying residential purchases, not just new-build.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-071",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Small company exemptions",
+        "difficulty": "Foundation",
+        "stem": "Wharton Magna Tech Ltd qualifies as a small company under CA 2006. What is its main advantage regarding audit obligations?",
+        "options": {
+          "A": "It must have an audit but can file abbreviated accounts.",
+          "B": "It may file accounts 18 months after year-end instead of 9 months.",
+          "C": "It is exempt from the requirement to have its accounts audited (CA 2006 s.477), unless the company is part of a group, a public company, or within certain regulated sectors.",
+          "D": "It is not required to prepare accounts at all."
+        },
+        "correct": "C",
+        "explanation": "CA 2006 s.477 provides that a company that qualifies as small in respect of a financial year is exempt from the requirement to have its annual accounts audited. To qualify as small, a company must satisfy two of three criteria: turnover ≤ £10.2m, balance sheet total ≤ £5.1m, employees ≤ 50. The exemption does not apply if the company is a public company, an authorised insurance company, a banking company, a member of an ineligible group, etc. A small company that is a subsidiary also loses the exemption unless the parent provides a guarantee under s.479A. Option A is wrong — the whole point of small company status is avoiding audit. Option B is wrong — the filing deadline for small companies is 9 months for private companies. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-072",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Company Formation & Constitution",
+        "subtopic": "Registered office requirement",
+        "difficulty": "Foundation",
+        "stem": "Ashworth Developments Ltd changes its registered office from London to Wharton Magna (Northamptonshire). What must it do to effect this change?",
+        "options": {
+          "A": "Pass a special resolution of shareholders.",
+          "B": "Notify all known creditors individually.",
+          "C": "File notice of the change with Companies House using Form AD01; the change takes effect when the Registrar registers it (CA 2006 s.87).",
+          "D": "Obtain court approval for the change of registered office."
+        },
+        "correct": "C",
+        "explanation": "Under CA 2006 s.87, a company may change its registered office by giving notice to the Registrar using the prescribed form (AD01). The change takes effect when the Registrar registers it. No shareholder resolution (A) is required. Notification to creditors (C) is not a legal requirement (though it may be practical for service of documents purposes). Court approval (D) is not required. The company must ensure its registered office remains in the same country as its place of registration (England, Scotland or Wales) — moving from London to Northamptonshire stays within England, so no issue arises.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-073",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Liability of incoming partner",
+        "difficulty": "Foundation",
+        "stem": "Ravi Sharma joins Crane & Pelletier as a new partner. The firm has a pre-existing loan from a bank. Is Sharma personally liable for this loan?",
+        "options": {
+          "A": "Yes — partners are jointly and severally liable for all firm debts whenever incurred.",
+          "B": "Yes — Sharma is liable because he took on assets and liabilities equally with existing partners.",
+          "C": "No — under PA 1890 s.17, a person who is admitted as a partner into an existing firm does not thereby become liable to the creditors of the firm for anything done before he became a partner.",
+          "D": "Yes — unless the bank expressly releases the old partners from liability."
+        },
+        "correct": "C",
+        "explanation": "Partnership Act 1890 s.17(1) provides that a person admitted as a partner into an existing firm does not thereby become liable to the creditors of the firm for anything done before he became a partner. This is the rule against retrospective liability for incoming partners. Options A and C overstate the position. Option D describes novation (where the bank releases the old partners and accepts the new partner) — this is a separate process and not a condition of the s.17 protection.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-074",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Statutory pre-emption — s.561 CA 2006",
+        "difficulty": "Foundation",
+        "stem": "Northgate Couriers Ltd proposes to allot new shares for cash. Victoria Ashworth holds 20% of the existing shares. What right does she have before the allotment?",
+        "options": {
+          "A": "No right — pre-emption rights only arise on a transfer of existing shares.",
+          "B": "A right of pre-emption only if this is written into the company's articles.",
+          "C": "A right to block the allotment by special resolution.",
+          "D": "A right of pre-emption under CA 2006 s.561: existing shareholders must be offered the new shares pro rata to their existing holdings before the shares are offered to outside parties; Victoria is entitled to 20% of the new issue."
+        },
+        "correct": "D",
+        "explanation": "CA 2006 s.561 imposes a statutory right of pre-emption on a company proposing to allot equity securities wholly for cash: existing shareholders must be offered the new shares on the same terms, pro rata to their existing holdings, before the shares are offered to anyone else. Victoria holds 20% and must be offered 20% of any new issue. The right can be disapplied by special resolution under s.570/571. Option A confuses pre-emption on allotment with pre-emption on transfer (often found in articles). Option C — shareholders cannot block allotment by special resolution alone if authority already exists. Option B is wrong — the s.561 right arises by statute, not only from the articles.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-075",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Syndicated loans — key features",
+        "difficulty": "Foundation",
+        "stem": "Ashworth Developments Ltd wishes to borrow £50 million for a major development. No single bank is willing to lend the full amount. What financing structure is most appropriate?",
+        "options": {
+          "A": "A series of separate bilateral loans from multiple banks.",
+          "B": "A revolving credit facility from a single bank.",
+          "C": "A bond issue on the London Stock Exchange.",
+          "D": "A syndicated loan — a loan in which a group of lenders (the 'syndicate') provide funds to a single borrower, arranged and administered by an agent bank; the borrower has one loan agreement but multiple lenders."
+        },
+        "correct": "D",
+        "explanation": "A syndicated loan allows multiple banks (the syndicate) to participate in a single loan to one borrower. The loan is governed by a single facility agreement, minimising documentation and simplifying administration for the borrower (who deals through an agent bank). This is the standard market solution where a loan is too large for one lender. Option A (separate bilateral loans) would create multiple agreements with different terms, greater complexity, and co-ordination problems. A bond issue (C) is a capital markets solution with different regulatory and documentation requirements. A revolving credit facility (D) is typically from a single bank and serves working capital rather than large project financing needs.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-076",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Substantial property transactions — s.190 CA 2006",
+        "difficulty": "Application",
+        "stem": "Ashworth Developments Ltd proposes to acquire a commercial property worth £800,000 from its director, Colonel Ashworth. The company's net assets are £3,000,000. What shareholder approval (if any) is required?",
+        "options": {
+          "A": "No approval required — director transactions are approved by the board.",
+          "B": "Ordinary shareholder resolution only — because the property value exceeds the lower threshold.",
+          "C": "Ordinary shareholder resolution under CA 2006 s.190 — a company must not enter into an arrangement with a director involving the acquisition of a substantial non-cash asset without member approval; £800,000 exceeds the greater of £100,000 and 10% of net assets (£300,000), so it is a substantial property transaction.",
+          "D": "Special resolution (75% majority) required."
+        },
+        "correct": "C",
+        "explanation": "CA 2006 s.190 provides that a company must not enter into an arrangement under which a director (or person connected with a director) acquires from or transfers to the company a substantial non-cash asset without prior approval by ordinary resolution of the members. A non-cash asset is 'substantial' if its value exceeds the lesser of £100,000 or 10% of net asset value — with a lower threshold of £5,000. Here: 10% × £3,000,000 = £300,000. The property is worth £800,000 — this exceeds both £100,000 and £300,000, making it a substantial non-cash asset transaction requiring member approval. An ordinary resolution (simple majority) suffices — not a special resolution (D). Option A is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-077",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "Working Time Regulations 1998",
+        "difficulty": "Foundation",
+        "stem": "Northgate Couriers requires its dispatch drivers to work an average of 52 hours per week. A driver, Owen Davies, has not signed a written opt-out agreement. Is this lawful?",
+        "options": {
+          "A": "Yes — the 48-hour limit only applies to office workers.",
+          "B": "No — but Northgate can require up to 60 hours if it pays overtime.",
+          "C": "Yes — the 48-hour limit can be exceeded with verbal agreement of the employee.",
+          "D": "No — the Working Time Regulations 1998 reg.4 limits average working time to 48 hours per week over a 17-week reference period; without a valid written opt-out, requiring Davies to work 52 hours on average is unlawful."
+        },
+        "correct": "D",
+        "explanation": "Working Time Regulations 1998 reg.4 provides that an employer shall take all reasonable steps to ensure that a worker's average working time (calculated over a 17-week reference period, or up to 52 weeks for certain categories) does not exceed 48 hours per week. An individual can opt out of this limit by written agreement (reg.5). Without a written opt-out, the 48-hour limit applies. A verbal agreement (C) is insufficient — the opt-out must be in writing. The limit applies across all sectors including transport (though specific transport sector rules may modify other aspects). Overtime pay (D) does not override the legal maximum.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-078",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Compulsory liquidation — s.122 IA 1986",
+        "difficulty": "Foundation",
+        "stem": "A creditor owed £1,200 by Wharton Magna Tech Ltd presents a winding-up petition to the court on the ground that the company is unable to pay its debts. The company disputes the debt. Which statement is correct?",
+        "options": {
+          "A": "The court must wind up the company because the debt exceeds £750.",
+          "B": "The petitioning creditor does not need to prove the debt — the company must disprove it.",
+          "C": "The court will grant a winding-up order only if the debt exceeds £10,000.",
+          "D": "The court has discretion and will consider whether the debt is genuinely disputed on substantial grounds; if it is, the court may dismiss or stay the petition."
+        },
+        "correct": "D",
+        "explanation": "A creditor may petition for compulsory liquidation on the ground that the company is unable to pay its debts (IA 1986 s.122(1)(f)). The statutory demand threshold is £750 (s.123(1)(a)). However, the court has discretion under s.125 whether to make a winding-up order. Where the debt is genuinely disputed on substantial grounds, the court will typically dismiss or stay the petition — a winding-up petition is not a debt collection mechanism and using it to collect a disputed debt is an abuse of process (Re a Company [1973]). Option A is wrong — the threshold is met but winding-up is not automatic. Option C states an incorrect threshold. Option B is wrong — the creditor must establish the debt is owing.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-079",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Duties when acting for lender and borrower",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier acts for both Hollowell Engineering Ltd (the borrower) and its bank (the lender) in connection with a commercial mortgage. During the transaction, she discovers that Hollowell has withheld information about an existing undisclosed charge that would be material to the bank's decision. What must Pelletier do?",
+        "options": {
+          "A": "She must keep the information confidential to Hollowell and continue acting for both parties.",
+          "B": "She can continue acting if she obtains Hollowell's consent to disclose.",
+          "C": "She must disclose the undisclosed charge to the bank immediately without informing Hollowell.",
+          "D": "She must cease acting for at least one party; she cannot use Hollowell's confidential information to assist the bank, but she also cannot withhold material information from the lender whose interests she represents — she should withdraw from acting for the bank (and possibly both) and advise the bank to seek independent advice."
+        },
+        "correct": "D",
+        "explanation": "When a solicitor holds confidential information relevant to another client in the same matter, this creates a conflict of interest and a confidentiality problem. SRA Code para 6.4 prohibits acting where confidential information of one client is material to another and cannot be disclosed. Pelletier cannot use Hollowell's confidential information against Hollowell, but she also cannot allow the bank to proceed on a false basis. The correct course is to cease acting for at least the bank (given she cannot fulfil her duty to the bank while bound by Hollowell's confidentiality) and advise the bank to obtain independent advice. Option A permits concealment, breaching duties to the bank. Option C would breach duties to Hollowell without consent. Option B may not resolve the conflict if Hollowell refuses consent.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-080",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Undertakings — binding nature",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma, on behalf of Crane & Pelletier, gives a written undertaking to the bank that the firm will hold the title deeds to a property to the bank's order until completion of a loan transaction. Sharma then releases the deeds to the client early without the bank's consent. Which statement is correct?",
+        "options": {
+          "A": "Sharma's undertaking is not binding on the firm because he is not a partner.",
+          "B": "Sharma can revoke the undertaking at any time before completion.",
+          "C": "The undertaking is binding only if it was countersigned by the bank.",
+          "D": "A solicitor's undertaking is a personal and professional obligation; breaching it is a serious breach of SRA Code para 1.3 and the firm (as well as Sharma personally) may be required by the court or SRA to remedy the breach or compensate the bank."
+        },
+        "correct": "D",
+        "explanation": "A solicitor's undertaking is a personal and professional commitment which is binding from the moment it is given. SRA Code para 1.3 requires solicitors to perform undertakings given. Breach of undertaking is a serious professional matter — the court has jurisdiction to compel performance, and the SRA may impose sanctions. An undertaking is binding even if not countersigned by the recipient (C is wrong). It cannot be revoked unilaterally (D is wrong). As a solicitor employed by the firm, Sharma's professional obligation binds him and, through general agency and vicarious liability principles, also exposes the firm (A is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-081",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Business Structures & Partnerships",
+        "subtopic": "Sole trader vs limited company — liability",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell trades as a sole trader (Hollowell Engineering). A customer sues for breach of contract and obtains judgment for £200,000. Hollowell cannot pay from business assets. Which statement correctly describes his personal exposure?",
+        "options": {
+          "A": "Hollowell is not personally liable because trade debts belong to the business.",
+          "B": "Hollowell can convert to a limited company retroactively to limit his exposure.",
+          "C": "Hollowell's liability is capped at the value of the business assets at the time of the contract.",
+          "D": "As a sole trader, Hollowell has unlimited personal liability; his personal assets (house, savings, etc.) are available to satisfy the judgment debt."
+        },
+        "correct": "D",
+        "explanation": "A sole trader has no separate legal personality from the business — the business is simply the individual trading. Consequently, a sole trader has unlimited personal liability for all business debts and obligations. There is no asset protection separating business and personal wealth. Option A is wrong — there is no legal distinction between the trader and the business. Option C is wrong — no such cap exists. Option B is wrong — incorporating after the fact does not alter pre-existing personal liability.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-082",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Filing deadlines — private companies",
+        "difficulty": "Foundation",
+        "stem": "Northgate Couriers Ltd has a financial year ending 31 December 2023. By when must it file its accounts with Companies House?",
+        "options": {
+          "A": "Within 6 months of the financial year end — by 30 June 2024.",
+          "B": "Within 21 months of incorporation.",
+          "C": "Within 12 months of the financial year end — by 31 December 2024.",
+          "D": "Within 9 months of the financial year end — by 30 September 2024."
+        },
+        "correct": "D",
+        "explanation": "Under CA 2006 s.442, a private company must deliver its annual accounts and reports to Companies House within 9 months of the end of the relevant accounting reference period. For a year ending 31 December 2023, the deadline is 30 September 2024. Public companies have a shorter period of 6 months. Option A (6 months) is the public company deadline. Option C (12 months) is incorrect. Option B (21 months) applies to the first set of accounts after incorporation only, and is now largely superseded.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-083",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Employment Law",
+        "subtopic": "National Minimum Wage",
+        "difficulty": "Foundation",
+        "stem": "Owen Davies, aged 22, works as a courier for Northgate Couriers. His employer pays him £9.50 per hour. The National Living Wage for workers aged 21 and over is £11.44 per hour (from April 2024). Is Northgate compliant?",
+        "options": {
+          "A": "Yes — the NMW applies only to workers aged 25 and over.",
+          "B": "No — but the remedy is limited to the difference in pay going forward.",
+          "C": "Yes — the National Living Wage only applies to full-time employees.",
+          "D": "No — from April 2024, the National Living Wage of £11.44 per hour applies to workers aged 21 and over; paying £9.50 is unlawful and exposes Northgate to enforcement action by HMRC."
+        },
+        "correct": "D",
+        "explanation": "From 1 April 2024, the National Living Wage (the compulsory minimum wage for workers aged 21 and over) increased to £11.44 per hour. The age threshold was reduced from 23 to 21. As Davies is 22, the NLW applies to him. Paying £9.50 is non-compliant. HMRC can enforce arrears of NMW/NLW, issue penalty notices, and name employers. Option A states the old age threshold (25). Option C is wrong — the NMW/NLW applies to workers, not only full-time employees. Option B understates the remedy — HMRC can require full back-payment of arrears.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-084",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Insolvency",
+        "subtopic": "Liquidator's powers",
+        "difficulty": "Application",
+        "stem": "The liquidator of Hollowell Engineering Ltd discovers that shortly before insolvency the company sold its delivery vehicles to a third party at half their market value. Which power allows the liquidator to seek to recover value for creditors?",
+        "options": {
+          "A": "Section 214 IA 1986 (wrongful trading).",
+          "B": "Section 127 IA 1986 (void dispositions after commencement of winding-up).",
+          "C": "Section 239 IA 1986 (preference).",
+          "D": "Section 238 IA 1986 (transaction at an undervalue) — the liquidator may apply to the court to set aside a transaction entered into at an undervalue within two years of the onset of insolvency."
+        },
+        "correct": "D",
+        "explanation": "Section 238 IA 1986 allows a liquidator (or administrator) to apply to the court to set aside a transaction at an undervalue — where the company received significantly less consideration than the value of what it transferred. The relevant period is two years ending with the onset of insolvency. Selling vehicles at half their market value is a paradigm s.238 transaction. Section 239 (C) applies to preferences (paying one creditor ahead of others). Section 214 (A) addresses director conduct. Section 127 (D) renders void dispositions of company property made after the commencement of winding-up (i.e., once a petition has been presented), not pre-insolvency dispositions.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-085",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Shareholders & Share Capital",
+        "subtopic": "Bonus issues and rights issues distinguished",
+        "difficulty": "Foundation",
+        "stem": "Northgate Couriers Ltd proposes a 1-for-2 rights issue at £1.50 per share (the current market price is £2.00). Which statement about a rights issue is correct?",
+        "options": {
+          "A": "A rights issue is a free allocation of shares to existing shareholders from reserves.",
+          "B": "A rights issue requires the disapplication of pre-emption rights.",
+          "C": "A rights issue dilutes existing shareholders without any compensating right.",
+          "D": "A rights issue is an offer of new shares to existing shareholders at a discount to market price, in proportion to their existing holdings, for cash consideration."
+        },
+        "correct": "D",
+        "explanation": "A rights issue is an offer to existing shareholders to subscribe for new shares at a price below market value, in proportion to their existing holdings, for cash. It raises new capital for the company. Shareholders can take up their rights, sell the nil-paid rights, or let them lapse. A bonus (capitalisation) issue (A) is the conversion of reserves into share capital by allocating free shares — no cash is received. A rights issue protects existing shareholders through the pre-emption mechanism (D is wrong — the pre-emption right under s.561 CA 2006 is precisely what is exercised in a rights issue; disapplication would allow a non-pre-emptive issue). Option C is incorrect — shareholders receive the right to subscribe at a discount, which has value.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-086",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Loans to directors — s.197 CA 2006",
+        "difficulty": "Foundation",
+        "stem": "Ashworth Developments Ltd proposes to lend £60,000 to Victoria Ashworth, a director. What approval is required?",
+        "options": {
+          "A": "No approval required if the loan is at a commercial rate.",
+          "B": "Approval is required only if the loan exceeds £250,000.",
+          "C": "Board resolution only, passed without Victoria's participation.",
+          "D": "Ordinary shareholder resolution — CA 2006 s.197 requires member approval before a company makes a loan to a director; without approval the loan is voidable."
+        },
+        "correct": "D",
+        "explanation": "CA 2006 s.197 provides that a company may not make a loan to a director of the company or of its holding company unless the transaction has been approved by an ordinary resolution of the company's members. The approval must be obtained before the loan is made. Contravention renders the transaction voidable by the company and the director (and any connected persons) who authorised it are liable to account for any direct or indirect gain and to indemnify the company (s.213). There is no de minimis exception based on loan amount for directors (s.207 allows a small loans exception of up to £10,000 — not applicable here). Options A, C, and D are all incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-087",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Duty to report — serious misconduct by colleague",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma discovers that his colleague at Crane & Pelletier has been submitting inflated bills to clients and pocketing the difference. Sharma is unsure whether to report this. What is his professional obligation under the SRA Code?",
+        "options": {
+          "A": "Sharma should raise the matter with the compliance officer for legal practice (COLP) or report directly to the SRA if necessary; he must not ignore serious misconduct by a colleague (SRA Code para 7.7 and 7.9).",
+          "B": "Sharma has no obligation to report conduct by a colleague — this is the firm's management responsibility.",
+          "C": "Sharma should inform the affected clients immediately.",
+          "D": "Sharma should report only if the misconduct is criminal."
+        },
+        "correct": "A",
+        "explanation": "SRA Code para 7.7 requires a solicitor to report promptly to the SRA or another approved regulator if they have reasonable grounds to believe that another person regulated by the SRA has committed a serious breach. Para 7.9 requires reporting where a person's behaviour poses a risk to clients or others. Inflating bills and misappropriating client funds is a serious breach engaging both obligations. The COLP is the first port of call within the firm, but if the firm will not act, direct reporting to the SRA is required. Option B is wrong — individual solicitors have personal reporting obligations. Option C is not the primary obligation. Option D is wrong — the obligation is not limited to criminal conduct.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-088",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Costs information — ongoing duty",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier has been advising Northgate Couriers Ltd on a dispute for six months. The initial costs estimate was £20,000. Costs have now reached £35,000 and are continuing to increase significantly. Diana Pelletier takes no further action on costs. Which SRA Code obligation may she be breaching?",
+        "options": {
+          "A": "The duty to maintain client confidentiality.",
+          "B": "The duty to report to the SRA.",
+          "C": "The duty to avoid conflicts of interest.",
+          "D": "The ongoing duty to give clients the best information they reasonably can about the likely overall cost, including updating them when costs materially exceed earlier estimates (SRA Code para 8.6)."
+        },
+        "correct": "D",
+        "explanation": "SRA Code para 8.6 imposes an ongoing obligation on solicitors to give clients the best information they reasonably can about the likely overall cost of the matter. This includes updating clients when costs are likely to significantly exceed any earlier estimate or when there is a material change in circumstances affecting costs. Failing to update Northgate when costs have nearly doubled breaches this continuing obligation. The other options are not engaged by a failure to update cost estimates.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-089",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Directors' Duties & Governance",
+        "subtopic": "Ratification of breach of duty — s.239 CA 2006",
+        "difficulty": "Application",
+        "stem": "James Ashworth breached his duty under s.175 CA 2006 (conflict of interest) by taking a corporate opportunity for himself. The board and fellow shareholders of Ashworth Developments Ltd wish to ratify his conduct. What is required?",
+        "options": {
+          "A": "A special resolution (75% majority) of all shareholders.",
+          "B": "Court approval.",
+          "C": "Unanimous shareholder consent.",
+          "D": "An ordinary resolution of shareholders under CA 2006 s.239; however, the votes of James Ashworth and any member connected with him must be disregarded."
+        },
+        "correct": "D",
+        "explanation": "CA 2006 s.239 provides the mechanism for ratifying conduct constituting negligence, default, breach of duty or breach of trust by a director. Ratification requires an ordinary resolution (simple majority) of the members. However, s.239(3) and (4) provide that where the resolution is proposed by the company, it is not effective if the only votes cast in favour are the director concerned and any connected persons — their votes are disregarded. An ordinary resolution (not special) suffices (A is wrong). Unanimity (C) is not required. Court approval (D) is not required for ratification under s.239.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-BLP-MCQ-090",
+        "flk": "FLK1",
+        "subject": "Business Law & Practice",
+        "topic": "Corporate Finance & Charges",
+        "subtopic": "Effect of failure to register",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd grants a fixed charge over its factory to a private lender. The charge is never registered at Companies House. The company subsequently goes into liquidation. What is the effect of non-registration on the charge?",
+        "options": {
+          "A": "The charge is valid but ranks behind registered charges.",
+          "B": "The charge is void only against subsequent secured creditors, not the liquidator.",
+          "C": "The charge is valid if the lender can prove it was created.",
+          "D": "Under CA 2006 s.859H, the charge is void against the liquidator and any creditor of the company; the secured debt becomes immediately repayable."
+        },
+        "correct": "D",
+        "explanation": "CA 2006 s.859H provides that if a charge subject to the registration requirement is not registered within the prescribed period (21 days), the charge is void against the liquidator (or administrator) and any creditor of the company. On a winding-up, the liquidator can treat the unregistered charge as ineffective and distribute the charged asset to unsecured creditors. The debt secured by the charge immediately becomes repayable (the lender becomes an unsecured creditor). Options A, C, and D are all incorrect — failure to register renders the charge void against liquidators and all creditors, not merely subsequent secured creditors.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      }
+    ]
+  }
+}

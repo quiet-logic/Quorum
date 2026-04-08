@@ -1,0 +1,1946 @@
+{
+  "FLK1": {
+    "Tort Law": [
+      {
+        "question_id": "FLK1-TORT-MCQ-001",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — General Principles",
+        "difficulty": "Foundation",
+        "stem": "Which of the following best describes the 'neighbour principle' established in Donoghue v Stevenson [1932]?",
+        "options": {
+          "A": "A duty of care is owed to those so closely and directly affected by your acts that you ought reasonably to have them in contemplation.",
+          "B": "A duty of care is owed only to those with whom the defendant has a contractual relationship.",
+          "C": "A duty of care is owed to all members of the general public regardless of foreseeability.",
+          "D": "A duty of care is owed only in cases where there has been physical contact between parties."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The neighbour principle (Lord Atkin, Donoghue v Stevenson) established that a duty of care is owed to those so closely and directly affected by acts that they ought to be in contemplation. Option B is incorrect because the neighbour principle explicitly moved beyond contractual relationships. Option C overstates the duty (foreseeability is required). Option D is too narrow and ignores the principle's breadth.",
+        "card_refs": [
+          "FLK1-TORT-002",
+          "FLK1-TORT-CASE-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-002",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — General Principles",
+        "difficulty": "Foundation",
+        "stem": "In Robinson v Chief Constable of West Yorkshire Police [2018], the Supreme Court clarified the role of the Caparo test. When does Caparo apply?",
+        "options": {
+          "A": "Caparo applies only to novel situations where the facts do not fall within an established duty category.",
+          "B": "Caparo applies in every negligence case without exception.",
+          "C": "Caparo applies only when the claimant is a professional.",
+          "D": "Caparo applies only where the defendant has acted intentionally."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Robinson clarified that Caparo's three-stage test applies only to novel situations; where facts fall within established categories (road users, employers, manufacturers, occupiers), the duty exists without applying Caparo. B is incorrect (Caparo is not universal). Option C wrongly limits Caparo to professionals. Option D confuses Caparo with intentional acts.",
+        "card_refs": [
+          "FLK1-TORT-003",
+          "FLK1-TORT-080"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-003",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — General Principles",
+        "difficulty": "Complex",
+        "stem": "What are the three stages of the Caparo test from Caparo Industries plc v Dickman [1990]?",
+        "options": {
+          "A": "Foreseeability, proximity, and fair, just and reasonable.",
+          "B": "Intention, causation, and remoteness.",
+          "C": "Breach, damage, and proof of loss.",
+          "D": "Assumption of responsibility, reliance, and knowledge."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The Caparo test requires: (1) reasonable foreseeability of risk to the claimant; (2) sufficient proximity between claimant and defendant; (3) fairness, justice and reasonableness in imposing a duty. Option B confuses elements of other torts. Option C lists elements of proving negligence, not the duty test. Option D relates to negligent misstatement, not the general Caparo framework.",
+        "card_refs": [
+          "FLK1-TORT-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-004",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — Omissions & Liability for Acts of Third Parties",
+        "difficulty": "Application",
+        "stem": "Wharton Magna District Council maintains a public riverside walkway along the River Weld near Church Lane. Rachel Okonkwo is attacked by a third party in a poorly-lit stretch of the path. The council had not installed additional lighting despite previous complaints about that location. Is the council liable in negligence for failing to prevent the third-party attack?",
+        "options": {
+          "A": "Yes, because the council should have foreseen the risk of attack and must prevent all third-party crimes.",
+          "B": "No, because the council has no general duty to prevent crimes committed by third parties.",
+          "C": "Yes, if the council owed a duty to path users (as occupier) and the failure to light was a breach that contributed to the foreseeable risk.",
+          "D": "No, because the third party’s act was an intervening act that breaks the chain of causation."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. While there is generally no duty to prevent third-party acts, Wharton Magna District Council as occupier owes a duty to path users and must take reasonable precautions against foreseeable risks. If poor lighting contributed to a foreseeable risk of attack, and the council failed to remedy it despite complaints, breach may be established. Option A overstates the duty (councils need not prevent all crime). Option B is too broad (occupiers do owe duties to their visitors). Option D is inaccurate; a third-party act may not break causation if the risk was foreseeable.",
+        "card_refs": [
+          "FLK1-TORT-004",
+          "FLK1-TORT-034"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-005",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — Negligent Misstatement",
+        "difficulty": "Foundation",
+        "stem": "Which case established the conditions under which a duty of care is owed for negligent misstatement?",
+        "options": {
+          "A": "Hedley Byrne & Co v Heller & Partners [1964].",
+          "B": "Donoghue v Stevenson [1932].",
+          "C": "Caparo Industries plc v Dickman [1990].",
+          "D": "Bolam v Friern Hospital Management Committee [1957]."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Hedley Byrne established that a duty of care can be owed for negligent misstatement if there is a special relationship (assumption of responsibility) and reasonable reliance by the claimant. Option B established the neighbour principle for products. Option C applied Caparo to auditors but was based on Hedley Byrne principles. Option D concerns the professional standard of care, not misstatement liability.",
+        "card_refs": [
+          "FLK1-TORT-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-006",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — Psychiatric Harm",
+        "difficulty": "Application",
+        "stem": "A passenger is involved in a minor road traffic collision on the A509 near Wharton Magna but is not physically injured. He claims psychiatric injury (PTSD) suffered as a result of fear during the incident. Which case principle would determine whether he can recover?",
+        "options": {
+          "A": "He cannot recover because he was not physically injured.",
+          "B": "He can recover only if he can show a pre-existing psychiatric condition.",
+          "C": "As a primary victim in the zone of danger who feared physical harm, he can recover under Page v Smith [1996] if the psychiatric harm is foreseeable.",
+          "D": "He must show that he was closer than two metres to the impact point."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Page v Smith [1996] establishes that a primary victim (someone in the zone of danger and fearing physical harm) can recover for psychiatric injury even if only psychiatric harm materializes, provided it is foreseeable. Option A wrongly denies recovery for psychiatric harm alone. Option B is not a requirement. Option D misapplies a formula; there is no rigid two-metre test.",
+        "card_refs": [
+          "FLK1-TORT-011",
+          "FLK1-TORT-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-007",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — Psychiatric Harm",
+        "difficulty": "Complex",
+        "stem": "Sandra Hollis witnesses a serious road accident on the High Street in Wharton Magna involving her husband Frank. She was not in the zone of danger and did not fear for her own safety. Sandra suffers psychiatric injury. Under Alcock v CC South Yorkshire Police [1991], what must she prove to establish a duty of care owed to her?",
+        "options": {
+          "A": "That the defendant owed a duty to all persons who might witness negligence, regardless of proximity.",
+          "B": "That she was a secondary victim with sufficient proximity to the incident, a close relationship to the primary victim, and reasonable foreseeability of psychiatric harm.",
+          "C": "That she was a primary victim who was in reasonable fear of physical harm.",
+          "D": "That the accident was caused by the defendant’s gross negligence."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Alcock v CC South Yorkshire Police established that secondary victims (those outside the zone of danger) may recover for psychiatric harm if they satisfy three requirements: proximity to the incident (or its aftermath), a close relationship to the primary victim, and reasonable foreseeability of psychiatric harm to them. Sandra’s proximity on the High Street and her relationship to Frank are relevant to satisfying these requirements. Option A overstates the duty. Option C describes primary victims, not secondary victims. Option D confuses the test with gross negligence standards.",
+        "card_refs": [
+          "FLK1-TORT-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-008",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Breach — Standard of Care",
+        "difficulty": "Foundation",
+        "stem": "Hollowell Building Ltd engaged a self-employed labourer to re-tile a commercial property roof. The labourer, rushing to finish the job before rain, skipped fitting safety clips on three tiles. The tiles later fell and struck a passer-by on the pavement below. The passer-by brings a negligence claim. Against what standard is the labourer's conduct measured?",
+        "options": {
+          "A": "The standard of the least careful roofer, so as not to impose an unfair burden on defendants.",
+          "B": "The standard that the labourer himself believed was adequate in the circumstances.",
+          "C": "The standard of the reasonably competent roofer, assessed objectively and without regard to the labourer's personal inexperience.",
+          "D": "The standard of the claimant's own conduct in using the pavement."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The standard of care in negligence is objective: the defendant is measured against the conduct of a reasonable person exercising the relevant skill (Blyth v Birmingham Waterworks Co [1856]; Bolam v Friern Hospital [1957] for professional standards). A self-employed roofer is held to the standard of the reasonably competent roofer; personal inexperience or time pressure does not lower the standard. Option A is wrong: the standard is the reasonable (not the least careful) person. Option B is wrong: the test is objective, not what the defendant personally believed. Option D is wrong: the claimant's conduct is relevant only to contributory negligence, not to the applicable standard of care for the defendant.",
+        "card_refs": [
+          "FLK1-TORT-015"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-009",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Breach — Professional Standard of Care",
+        "difficulty": "Application",
+        "stem": "Dr Felix Unwin at Wharton Medical Centre performs a well-established minor surgical procedure on a patient. The procedure is conducted in accordance with a practice accepted as proper by a responsible body of medical opinion, but a different body of equally responsible opinion would have adopted a different approach. The patient suffers harm. Is Dr Unwin liable in breach of the duty of care?",
+        "options": {
+          "A": "Yes, because there is an alternative practice that might have avoided the harm.",
+          "B": "No, as long as Dr Unwin acted in accordance with a responsible body of medical opinion (Bolam v Friern test).",
+          "C": "Yes, because Dr Unwin should have adopted the more defensive approach.",
+          "D": "No, unless Dr Unwin’s approach was reckless or grossly negligent."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. The Bolam test (Bolam v Friern Hospital Management Committee [1957]) provides that a professional is not negligent if they act in accordance with a practice accepted as proper by a responsible body of professional opinion. The mere existence of an alternative approach is not breach. Option A wrongly penalizes choosing one accepted practice over another. Option C overstates the duty. Option D confuses the standard with gross negligence.",
+        "card_refs": [
+          "FLK1-TORT-017"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-010",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Breach — Professional Standard of Care",
+        "difficulty": "Complex",
+        "stem": "Does Bolitho v City & Hackney Health Authority [1998] modify the Bolam test, and if so, how?",
+        "options": {
+          "A": "Yes, Bolitho adds that a court may reject a body of professional opinion if it is not logically defensible or is manifestly unreasonable.",
+          "B": "Yes, Bolitho replaces Bolam with a purely objective test of reasonableness.",
+          "C": "Yes, Bolitho requires professionals always to adopt the safest practice available.",
+          "D": "No, Bolitho simply reaffirms the Bolam test without any change."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Bolitho v City & Hackney Health Authority [1998] establishes that while Bolam generally protects professionals following responsible opinion, a court may reject a body of opinion if it is not logically defensible or if the professional has not applied their mind to it. This adds a rationality check. Option D ignores Bolitho's contribution. Option B overstates the change. Option C falsely requires always adopting the safest approach.",
+        "card_refs": [
+          "FLK1-TORT-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-011",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Factual Causation",
+        "difficulty": "Application",
+        "stem": "Victoria attended Ashworth NHS Trust as an emergency patient with abdominal pain. The registrar negligently failed to carry out an ultrasound scan. Twelve hours later a rupture was discovered. Expert evidence shows that even with an immediate scan and correct diagnosis, the rupture would have occurred at the same time. Applying the but-for test, has Victoria established factual causation against the Trust?",
+        "options": {
+          "A": "No — Victoria cannot establish but-for causation because she would have suffered the same harm even without the breach.",
+          "B": "Yes — the breach materially contributed to the harm because the failure to scan worsened her overall prognosis.",
+          "C": "Yes — the but-for test is satisfied whenever there is a breach of duty, regardless of whether it caused the harm.",
+          "D": "No — but-for causation only applies in cases involving a single defendant."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The but-for test asks: would the claimant have suffered the same harm but for the defendant's breach? Here, the expert evidence establishes that the rupture would have occurred at the same time regardless of an immediate scan. Victoria therefore cannot prove that the breach caused her harm — the claim fails on causation (Barnett v Chelsea and Kensington HMC [1969]). Option B is wrong: 'material contribution to harm' is an alternative test used where multiple causes combine (Bonnington Castings v Wardlaw [1956]), but it requires actual contribution to the harm — not merely to prognosis or inconvenience. Option C is wrong: breach and causation are separate elements; breach alone does not satisfy the but-for test. Option D is wrong: the but-for test applies across all negligence cases.",
+        "card_refs": [
+          "FLK1-TORT-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-012",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Material Contribution",
+        "difficulty": "Application",
+        "stem": "A former employee contracted mesothelioma after exposure to asbestos dust during employment at Hollowell Engineering Ltd and a previous employer over many years. Medical evidence cannot identify which workplace exposure caused the disease, but both exposures materially contributed to the risk. Apply Fairchild v Glenhaven Funeral Services [2002].",
+        "options": {
+          "A": "The claimant cannot recover because the but-for test cannot be satisfied.",
+          "B": "The claimant can recover if they can show that the defendant’s negligence made a material contribution to the risk of harm, even if causation of the actual disease cannot be proved.",
+          "C": "The claimant can recover only from the employer with the longest exposure period.",
+          "D": "The claimant cannot recover because mesothelioma is a pre-existing condition."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Fairchild v Glenhaven established an exception to the strict but-for test: where multiple tortfeasors have each negligently exposed the claimant to the risk of a disease, and the disease has materialized, the claimant can recover from any tortfeasor — including Hollowell Engineering — who made a material contribution to the risk, even though the but-for test cannot identify which exposure caused the actual disease. Option A ignores Fairchild’s exception. Option C unfairly singles out one employer. Option D mischaracterizes mesothelioma.",
+        "card_refs": [
+          "FLK1-TORT-022"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-013",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Remoteness",
+        "difficulty": "Complex",
+        "stem": "A ship chartered by Hollowell Petroleum discharged oil into Sydney Harbour following a negligent spill. Welding operations at a nearby wharf ignited the oil slick, destroying two vessels moored in the harbour. At the time of the spill, the risk of fire damage from ignited floating oil was not foreseeable to an ordinarily competent ship operator — only fouling of the wharf was foreseeable. Applying the Wagon Mound (No.1) test, can the vessel owners recover for fire damage?",
+        "options": {
+          "A": "No — the precise manner in which the fire started was unforeseeable, so no liability arises.",
+          "B": "No — fire damage from floating oil was not a foreseeable type of harm at the time of the spill, so the loss is too remote.",
+          "C": "Yes — once any harm from the oil is foreseeable, the defendants are liable for all consequences however caused.",
+          "D": "Yes — the defendants are liable because their vessel physically caused the damage."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Wagon Mound (No.1) [1961] established that a defendant is only liable for loss of a type that was reasonably foreseeable at the time of the breach. On the facts (which mirror Wagon Mound), fire damage from the ignition of floating oil was not a foreseeable type of harm — only fouling of the wharf was foreseeable. The loss is therefore too remote and the claimants cannot recover. Option A misstates the test: remoteness requires that the type of harm be foreseeable; the precise manner need not be (Hughes v Lord Advocate [1963]). Option C is wrong: this describes the discarded 'direct consequence' test from Re Polemis [1921], which Wagon Mound (No.1) overruled for tortious liability. Option D is wrong: physical causation alone is insufficient; remoteness must also be satisfied.",
+        "card_refs": [
+          "FLK1-TORT-023"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-014",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Intervening Acts & Remoteness",
+        "difficulty": "Foundation",
+        "stem": "Neville Prescott negligently causes a road collision that injures Rachel Okonkwo, who is taken to Wharton Medical Centre. A junior doctor at the centre makes a serious error in treatment that significantly worsens Rachel’s condition. Which statement best describes the legal consequence?",
+        "options": {
+          "A": "The doctor’s error is an intervening act that breaks the chain, so Neville Prescott is not liable for the worsened condition.",
+          "B": "If the medical error was foreseeable (as ordinary professional negligence can occur), the chain of causation is not broken and Neville remains liable.",
+          "C": "Neville remains liable for all consequences unless the doctor’s error was so gross or reckless as to be extraordinary.",
+          "D": "Neville loses liability unless he can prove he did not contribute to the need for hospital treatment."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. An intervening act (novus actus interveniens) breaks the chain of causation if it is independent and unforeseeable or extraordinary. Ordinary (but still negligent) acts by medical professionals are generally foreseeable and do not break the chain against Neville Prescott. Only an extraordinary or reckless act by the doctor would break the chain. Option A is too absolute. Option B confuses the test. Option D wrongly shifts the burden.",
+        "card_refs": [
+          "FLK1-TORT-024"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-015",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Damage & Loss of Chance",
+        "difficulty": "Complex",
+        "stem": "A patient can show that Dr Felix Unwin’s negligent misdiagnosis at Wharton Medical Centre reduced their chance of successful treatment from 45% to 20%. Medical causation of the harm cannot be proved on the balance of probabilities. Can the patient recover?",
+        "options": {
+          "A": "No, because the claimant has not satisfied the balance of probabilities standard.",
+          "B": "Yes, under the ‘loss of chance’ doctrine developed in cases involving loss of opportunity.",
+          "C": "Only if the claimant can prove that treatment would definitely have cured them.",
+          "D": "Yes, but only if the loss of chance exceeded 50%."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Modern English law recognizes that loss of a chance (reduction in prospects) can constitute recoverable loss, particularly in medical negligence cases where the patient’s prospects were materially reduced. The patient need not prove on the balance of probabilities that Dr Unwin’s misdiagnosis caused the harm; rather, the value of the lost chance is assessed and damages awarded accordingly. Option A ignores the loss of chance doctrine. Option C is too strict. Option D wrongly suggests a rigid 50% threshold.",
+        "card_refs": [
+          "FLK1-TORT-025"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-016",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Occupiers' Liability",
+        "subtopic": "OLA 1957 — Visitors",
+        "difficulty": "Foundation",
+        "stem": "What common duty does an occupier owe to lawful visitors under the Occupiers' Liability Act 1957?",
+        "options": {
+          "A": "A duty to ensure the premises are absolutely safe.",
+          "B": "A duty to indemnify visitors against all injury or damage.",
+          "C": "A duty to take reasonable care to ensure visitors are reasonably safe in using the premises for the purposes for which they are invited or permitted.",
+          "D": "A duty to warn of all hidden defects, regardless of whether they are foreseeable."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The OLA 1957 Section 2(2) provides that occupiers must take such care as is reasonable in all the circumstances to ensure visitors are reasonably safe. This is not absolute safety but reasonable care. Option A overstates the duty. Option B imposes unlimited liability. Option D is too broad (all hidden defects).",
+        "card_refs": [
+          "FLK1-TORT-026"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-017",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Occupiers' Liability",
+        "subtopic": "OLA 1957 — Special Visitor Categories",
+        "difficulty": "Application",
+        "stem": "A plumber visits one of Hassan Nazari’s rental properties on River View Terrace to repair the heating system. She is injured by a defect in the staircase unrelated to the plumbing work. Must Hassan take the same precautions for this visitor as for a member of the public on residential premises?",
+        "options": {
+          "A": "Yes, the standard of care is identical regardless of visitor type or premises.",
+          "B": "No, skilled visitors have no protection under the OLA 1957.",
+          "C": "Yes, but only for risks related to the plumbing work, not the staircase.",
+          "D": "No, the OLA 1957 recognizes that an occupier may reasonably expect a skilled visitor to appreciate and guard against risks inherent in their trade."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Section 2(3)(b) of the OLA 1957 provides that an occupier may reasonably expect a skilled visitor to appreciate and guard against risks inherent in their trade. Hassan Nazari as occupier is not required to take identical precautions for a professional tradesperson as for a general residential visitor; the standard is adjusted for the visitor’s skill and knowledge. Option A wrongly states the standard is identical. Option B wrongly denies protection entirely. Option C is too narrow.",
+        "card_refs": [
+          "FLK1-TORT-027"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-018",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Occupiers' Liability",
+        "subtopic": "OLA 1984 — Trespassers & Non-Visitors",
+        "difficulty": "Application",
+        "stem": "A trespasser is injured on the grounds of Ashworth Hall when they fall into a concealed drainage pit. Colonel Ashworth was aware of the pit and of the likelihood of trespassers cutting across the estate from Ashworth Lane. Under the Occupiers’ Liability Act 1984, is Colonel Ashworth liable?",
+        "options": {
+          "A": "Yes, if Colonel Ashworth knew or had reasonable grounds to know of the danger, knew or should have known of trespassers, and failed to protect them or warn them reasonably.",
+          "B": "No, unless the trespasser can prove Colonel Ashworth deliberately set a trap.",
+          "C": "Yes, Colonel Ashworth must take the same precautions for trespassers as for lawful visitors.",
+          "D": "No, because trespassers have no legal status and no protection under the OLA 1984."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The OLA 1984 does protect trespassers and non-visitors. Section 1(1) creates a duty if the occupier: (a) is aware of a danger; (b) knows or has reasonable grounds to believe a non-visitor is in or may come near the danger; and (c) fails to take reasonable care or to warn adequately. On these facts, Colonel Ashworth was aware of both the pit and the likelihood of trespassers, satisfying (a) and (b). Option D wrongly denies protection. Option C wrongly equates the OLA 1984 standard with the OLA 1957 standard. Option B wrongly requires deliberate action.",
+        "card_refs": [
+          "FLK1-TORT-028",
+          "FLK1-TORT-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-019",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Elements & Standing",
+        "difficulty": "Application",
+        "stem": "Wharton Magna Chemicals operates a factory adjacent to a residential estate. Residents complain that fumes from the factory have made their gardens unusable every weekend for three years and caused one resident's prize roses to die. The company argues the factory has operated in the area for 20 years and the residents moved there knowing of the factory. Which elements must the residents establish to succeed in private nuisance?",
+        "options": {
+          "A": "Deliberate entry onto the claimants' land with intent to cause harm.",
+          "B": "Any discernible noise or smell emanating from the defendant's premises.",
+          "C": "Physical contact between the defendant's property and the claimants' land.",
+          "D": "A substantial and unreasonable interference with the claimants' use and enjoyment of their land."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Private nuisance requires: (i) an indirect interference with the claimant's use and enjoyment of land, or physical damage to land; (ii) that is unreasonable and substantial, assessed by factors including duration, frequency, time of day, character of the area, and sensitivity of the claimant. Three years of weekend interference causing physical damage to plants is likely sufficient. The company's 20-year operation does not give it a prescriptive right to pollute (Sturges v Bridgman [1879]). Option A describes trespass to land, which requires direct physical entry. Option B is wrong: de minimis or merely transient interference does not constitute nuisance — there must be substantial interference. Option C describes trespass or Rylands v Fletcher liability, not nuisance per se.",
+        "card_refs": [
+          "FLK1-TORT-031"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-020",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Defences",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering Ltd has operated its metal fabrication unit at Wharton Industrial Park for over 60 years, generating noise and vibration. The Spinney, a new residential development built by Bridgewater Developments, was constructed nearby five years ago. The new residents claim private nuisance. What is the correct legal position?",
+        "options": {
+          "A": "Yes, Hollowell Engineering can rely on statutory authority if authorized by statute or planning permission and operated with reasonable care.",
+          "B": "No, private nuisance never allows a statutory authority defence.",
+          "C": "Yes, because Hollowell Engineering operated before the development existed.",
+          "D": "Yes, only if Hollowell Engineering obtained explicit written consent from the local authority."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Statutory authority is a defence if the defendant acts within the scope of express statutory authorization or planning permission and exercises reasonable care. The mere fact that Hollowell Engineering predates the Spinney development is not itself a defence (though it may be relevant to establishing unreasonableness). Option B wrongly denies statutory authority as a defence. Option C wrongly suggests mere temporal priority is a defence. Option D overly restricts the defence.",
+        "card_refs": [
+          "FLK1-TORT-032"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-021",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Elements & Non-Natural Use",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater constructs a large ornamental pond at his Bridgewater House estate on Wharton Road for recreational purposes. Heavy rain causes the pond to overflow, flooding a neighbouring property owned by Priya Mehta. Can Priya bring an action under Rylands v Fletcher [1868]?",
+        "options": {
+          "A": "Yes, because any accumulation of water is a non-natural use under Rylands v Fletcher.",
+          "B": "No, because heavy rain is a natural event beyond Marcus Bridgewater’s control.",
+          "C": "No, because recreational ponds are considered a natural use of land under modern law.",
+          "D": "Yes, only if Marcus Bridgewater failed to maintain the pond properly, and the overflow constitutes an escape of something likely to cause mischief."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Rylands v Fletcher liability requires an accumulation of something likely to cause mischief, non-natural use of land, and escape causing damage. Whether Marcus Bridgewater’s ornamental pond is a non-natural use depends on context and reasonableness, but if it is, and water escapes causing damage to Priya Mehta’s property, the defendant is liable regardless of fault. Option A is too broad. Option B ignores that Marcus’s decision to create the pond is the relevant consideration, not the weather. Option C misapplies Cambridge Water (which narrowed but did not abolish Rylands).",
+        "card_refs": [
+          "FLK1-TORT-035"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-022",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Elements",
+        "difficulty": "Foundation",
+        "stem": "What are the essential elements a claimant must prove in an action for defamation?",
+        "options": {
+          "A": "Unauthorized publication, distress caused, and intent to harm.",
+          "B": "Negligence, causation, and quantifiable financial loss.",
+          "C": "A false statement, publication to a third party, and damage to reputation (or presumed damage in libel).",
+          "D": "Malice, provocation, and failure to retract."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Defamation requires: (1) a defamatory (false) statement; (2) publication to a third party; (3) a real or presumed reference to the claimant; and (4) damage to reputation (presumed in libel, proved in slander). Option A confuses defamation with other torts. Option B applies to negligence. Option D relates to malice and retractions, which are relevant but not essential elements.",
+        "card_refs": [
+          "FLK1-TORT-037"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-023",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Defences — Privilege",
+        "difficulty": "Application",
+        "stem": "Clive Dring, editor of the Wharton Gazette, publishes an article reporting statements made in a court judgment handed down that day. The statements in the judgment are factually false and harm the claimant’s reputation. Clive made no independent investigation. Can Clive rely on privilege as a defence?",
+        "options": {
+          "A": "No, because Clive should have verified the statements independently.",
+          "B": "No, because privilege applies only to direct court statements, not to journalistic reports.",
+          "C": "Yes, but only if Clive exercised reasonable care and acted in the public interest.",
+          "D": "Yes, under absolute privilege for fair and accurate reports of court proceedings (Reynolds v Times Newspapers [1999])."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Fair and accurate reports of court proceedings are protected by absolute privilege; Clive Dring need not verify facts or fear liability for reporting what was said in the judgment, even if false. The Defamation Act 2013 Section 14 codifies this protection. Option A wrongly requires independent verification. Option B wrongly denies privilege to press reports. Option C confuses absolute privilege with the qualified privilege test (Reynolds / Defamation Act 2013 s.4).",
+        "card_refs": [
+          "FLK1-TORT-038"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-024",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Trespass",
+        "subtopic": "Battery & Assault",
+        "difficulty": "Foundation",
+        "stem": "A doorman at The Malt & Mattock pushes James Ashworth out of the pub without consent or lawful justification. Has the doorman committed battery?",
+        "options": {
+          "A": "No, because pushing someone out of a pub is a reasonable security measure.",
+          "B": "Yes, but only if James Ashworth suffered physical injury.",
+          "C": "No, unless the doorman used force beyond what was minimally necessary.",
+          "D": "Yes, battery is committed when the defendant makes intentional physical contact without the claimant’s consent and without lawful justification."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Battery requires intentional application of unlawful force. Pushing James Ashworth without consent or lawful justification is battery. Option A wrongly treats this as a reasonable security measure (which would require lawful justification). Option B wrongly requires injury (battery does not require damage). Option C misses that any intentional contact without consent constitutes battery.",
+        "card_refs": [
+          "FLK1-TORT-040"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-025",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Vicarious Liability",
+        "subtopic": "Principles & Course of Employment",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers employs a van driver who negligently causes a road traffic accident while on a delivery run through Wharton Magna, injuring a pedestrian. Which of the following best illustrates the ‘close connection’ test from Lister v Hesley Hall [2001] in establishing Northgate’s vicarious liability?",
+        "options": {
+          "A": "The negligence was directly authorized by Northgate Couriers.",
+          "B": "There was a sufficiently close connection between the employment and the negligence, such that it is fair and just to hold Northgate Couriers liable.",
+          "C": "The negligence was committed during working hours on Northgate’s premises.",
+          "D": "The driver had acted maliciously or with intent to harm."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Lister v Hesley Hall [2001] established the ‘close connection’ test: vicarious liability applies if there is a sufficiently close connection between the employment and the tort that it is fair, just and reasonable to hold the employer liable. A delivery driver causing an accident on a run is closely connected to the employment. Option A wrongly requires authorization. Option C is too restrictive (negligence can occur away from premises). Option D introduces irrelevant intent.",
+        "card_refs": [
+          "FLK1-TORT-042"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-026",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Vicarious Liability",
+        "subtopic": "Employee vs. Independent Contractor",
+        "difficulty": "Complex",
+        "stem": "Northgate Couriers engages a driver to make deliveries for the business. The driver has significant control over their own schedule and method of work, uses their own vehicle, and works for multiple courier firms. The driver negligently causes an accident. Which statement best describes Donna Pearce’s potential liability?",
+        "options": {
+          "A": "Yes, because the driver was engaged to perform work on behalf of Northgate Couriers.",
+          "B": "No, because independent contractors are not employees and employers are not vicariously liable for their torts.",
+          "C": "Only if Donna Pearce failed to supervise the driver’s work.",
+          "D": "Potentially yes, depending on whether there is a sufficient degree of control and integration suggesting an employment relationship, or alternatively a close connection justifying vicarious liability."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. The distinction between employees and contractors affects vicarious liability. Courts apply multi-factor tests (control, integration, mutual obligations) to determine status. Even if the driver is not Donna Pearce’s employee, vicarious liability may attach if there is a close connection (Various Claimants v Catholic Child Welfare Society [2012]). Option A wrongly presumes liability. Option B is too absolute. Option C misdirects to supervision.",
+        "card_refs": [
+          "FLK1-TORT-043"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-027",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Contributory Negligence",
+        "difficulty": "Application",
+        "stem": "A pedestrian is injured in a collision with a car on the High Street in Wharton Magna. The driver was exceeding the speed limit, but the pedestrian stepped out from between parked cars without using the nearby crossing and without checking for traffic. Under the Law Reform (Contributory Negligence) Act 1945, how is recovery affected?",
+        "options": {
+          "A": "The pedestrian cannot recover because they were partially at fault.",
+          "B": "The pedestrian can recover full damages because the driver was primarily at fault.",
+          "C": "The pedestrian can recover, but damages are reduced by a percentage reflecting their share of responsibility for the accident.",
+          "D": "The pedestrian can recover only if they can prove the driver’s negligence outweighs their own by at least 75%."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The Law Reform (Contributory Negligence) Act 1945 allows recovery even if the claimant was partly at fault; damages are reduced by a percentage reflecting the claimant’s share of responsibility. Option A wrongly bars recovery. Option B ignores contributory negligence. Option D sets an arbitrary threshold.",
+        "card_refs": [
+          "FLK1-TORT-045"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-028",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Volenti Non Fit Injuria",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski participates in an organised indoor climbing session at a fitness centre on Wharton Industrial Park. The gym staff negligently fail to secure a belay anchor properly. Alek falls and is injured. Can the gym rely on the defence of volenti non fit injuria (consent to injury)?",
+        "options": {
+          "A": "Yes, because Alek voluntarily participated in an inherently risky activity.",
+          "B": "Yes, if Alek signed a waiver form agreeing not to hold the gym liable.",
+          "C": "No, because no one can consent to negligence, and waivers are always void.",
+          "D": "No, because modern courts require genuine informed consent to the specific risk, and consent to inherent risks does not extend to negligence by the defendant."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Volenti non fit injuria requires genuine, informed consent to the specific risk. Alek’s consent to the inherent risks of climbing does not extend to negligence by the gym (improperly securing the anchor). Modern courts construe volenti strictly. Option A overstates the defence. Option B overstates the effect of waivers (though they may be evidence of consent). Option C wrongly suggests waivers are always void.",
+        "card_refs": [
+          "FLK1-TORT-046"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-029",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Product Liability",
+        "subtopic": "Consumer Protection Act 1987",
+        "difficulty": "Application",
+        "stem": "A defective set of power tools manufactured in Germany is imported and sold at Whitmore’s Hardware on the High Street in Wharton Magna. Priya Mehta purchases the tools and is injured by the defect. Under the Consumer Protection Act 1987, who is strictly liable?",
+        "options": {
+          "A": "Only the manufacturer.",
+          "B": "Only Whitmore’s Hardware, which sold the product.",
+          "C": "The manufacturer, and if the manufacturer cannot be identified, the importer into the UK becomes the producer for liability purposes.",
+          "D": "Only the importer, because they brought the product into the UK market."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. The CPA 1987 Section 2 imposes strict liability on the producer (manufacturer). Section 2(3) provides that if the producer cannot be identified, the importer into the UK is treated as the producer. This is a strict liability regime; Priya Mehta need not prove fault. Option A is incomplete (it ignores the importer rule). Option B wrongly limits liability to the retailer. Option D wrongly excludes the manufacturer.",
+        "card_refs": [
+          "FLK1-TORT-048"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-030",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Remedies & Damages",
+        "difficulty": "Complex",
+        "stem": "A Wharton Magna resident with a history of depression suffers a minor injury caused by the negligence of Owen Davies during building work at their home. The injury would ordinarily cause no lasting harm, but due to the resident’s pre-existing condition they suffer severe and prolonged psychiatric injury. Under the ‘thin skull’ rule (Smith v Leech Brain [1962]), what is the correct legal outcome?",
+        "options": {
+          "A": "The claimant cannot recover because the injury would not have occurred in a person without a pre-existing condition.",
+          "B": "The claimant can recover full damages for the psychiatric injury because the thin skull rule provides that a tortfeasor takes the claimant as they find them.",
+          "C": "The claimant can recover only if they can prove the pre-existing condition was caused by Owen Davies.",
+          "D": "The claimant can recover, but damages are reduced by a percentage reflecting their pre-existing vulnerability."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. The thin skull rule (Smith v Leech Brain [1962]) provides that a tortfeasor takes the victim as they find them. Owen Davies’s negligence triggered an injury that is more severe due to the resident’s pre-existing condition; he is liable for the full extent of harm, not merely the harm a ‘normal’ person would suffer. Option A wrongly denies recovery. Option C wrongly requires causation of the pre-condition. Option D imposes an inappropriate reduction.",
+        "card_refs": [
+          "FLK1-TORT-050"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-031",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Pure Economic Loss",
+        "difficulty": "Foundation",
+        "stem": "Dr. Felix Unwin negligently completed a medical report for a firm of insurers, overstating the health of a patient. An investment company, relying on the report for an unrelated financial transaction, suffered financial loss. Dr. Unwin did not know the investment company existed. Can the investment company recover in negligence?",
+        "options": {
+          "A": "Yes — anyone who suffers loss as a result of a negligent statement can recover.",
+          "B": "No — pure economic loss is irrecoverable in negligence unless the defendant voluntarily assumed responsibility to the claimant.",
+          "C": "Yes — Hedley Byrne applies whenever a negligent statement causes financial loss, regardless of the relationship.",
+          "D": "No — negligent misstatements are only actionable under s.2(1) of the Misrepresentation Act 1967."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Pure economic loss is generally not recoverable in negligence. The Hedley Byrne exception requires: (1) a voluntary assumption of responsibility by the defendant to the claimant; and (2) reasonable reliance by the claimant. Here, Dr. Unwin did not know the investment company existed and made no assumption of responsibility to it — the report was for the insurers. A is too broad. C misapplies Hedley Byrne, which requires a special relationship. D is wrong: the Misrepresentation Act 1967 applies to contractual misrepresentations, not tortious liability to third parties.",
+        "card_refs": [
+          "FLK1-TORT-005"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-032",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Employers' Liability",
+        "difficulty": "Application",
+        "stem": "A worker at Hollowell Engineering was injured when a grinding machine guard failed. Pat Hollowell had been warned by a safety contractor two months earlier that the guard was defective, but took no action citing cost. What is the basis of Hollowell Engineering's liability to the injured worker?",
+        "options": {
+          "A": "Vicarious liability for the acts of other employees who used the machine.",
+          "B": "Primary non-delegable duty of care as employer — Hollowell Engineering owed a personal duty to provide safe equipment, safe systems of work, and a safe workplace.",
+          "C": "Strict liability under the Employers' Liability (Compulsory Insurance) Act 1969.",
+          "D": "Liability only arises if the worker can prove the exact mechanism of the guard failure."
+        },
+        "correct": "B",
+        "explanation": "B is correct. An employer owes a non-delegable primary duty of care to employees: to provide competent staff, adequate equipment, a safe place of work, and safe systems of work (Wilsons & Clyde Coal Co v English [1938]). The duty cannot be delegated — using a safety contractor does not discharge it. Having received a warning about the defective guard and failing to act, Hollowell Engineering is in breach. A — vicarious liability is irrelevant here; the claim is for the employer's own breach of duty. C — the Employers' Liability Act requires insurance but does not itself impose strict liability. D is wrong: proof of the exact mechanism is not required; it suffices to show the guard failure caused the injury.",
+        "card_refs": [
+          "FLK1-TORT-025",
+          "FLK1-TORT-008"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-033",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Thin Skull Rule",
+        "difficulty": "Application",
+        "stem": "A driver employed by Northgate Couriers negligently collided with Priya Mehta's car. The collision caused minor whiplash. Unknown to the driver, Priya had a pre-existing spinal condition which meant the minor whiplash developed into a permanent disability. The driver argues liability should be limited to the foreseeable minor injury. Is this argument correct?",
+        "options": {
+          "A": "Yes — the defendant is only liable for losses that were reasonably foreseeable; the spinal condition was unforeseeable.",
+          "B": "No — under the thin skull (eggshell skull) rule, a defendant must take the claimant as they find them; liability extends to the full extent of the harm even if enhanced by a pre-existing vulnerability.",
+          "C": "No — but Priya's damages are reduced by contributory negligence for failing to disclose her spinal condition.",
+          "D": "Yes — the chain of causation was broken by the pre-existing medical condition."
+        },
+        "correct": "B",
+        "explanation": "B is correct. The thin skull rule holds that a defendant who causes any actionable injury to a claimant must take the victim as they find them, including pre-existing vulnerabilities that aggravate the loss (Smith v Leech Brain & Co [1962]; Vosburg v Putney principle). The driver is liable for the full extent of Priya's disability, even though only a minor whiplash was foreseeable. A applies the remoteness test but ignores the thin skull exception. C is wrong: Priya had no duty to disclose her medical condition and her condition is not contributory negligence. D is wrong: a pre-existing condition does not break the chain of causation.",
+        "card_refs": [
+          "FLK1-TORT-013",
+          "FLK1-TORT-014"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-034",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Clinical Negligence — Bolam and Bolitho",
+        "difficulty": "Application",
+        "stem": "Dr. Felix Unwin failed to warn a patient about a 1.5% risk of a serious complication from an elective procedure. Another group of respected GPs would not have warned patients about this risk either, considering it too small to mention. The complication materialised and the patient suffered harm. Is Dr. Unwin negligent?",
+        "options": {
+          "A": "No — Dr. Unwin acted in accordance with a responsible body of medical opinion; under Bolam he is not negligent.",
+          "B": "Yes — under Montgomery v Lanarkshire Health Board [2015], a doctor must warn patients of any material risk that a reasonable patient in their position would want to know about, regardless of common medical practice.",
+          "C": "No — a 1.5% risk is too small to be material and the Bolam test is the only applicable standard.",
+          "D": "Yes — the Bolitho modification means that a responsible body of medical opinion supporting non-disclosure is automatically irrelevant."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Montgomery v Lanarkshire Health Board [2015] UKSC 11 fundamentally changed the law on informed consent and risk disclosure, departing from Bolam in this specific context. The test is whether a reasonable person in the patient's position would consider the risk significant. A 1.5% risk of a serious complication in an elective procedure may well be material to a reasonable patient — who, given the choice, might decline the procedure. The doctor's duty to warn is now patient-centred, not practitioner-centred. A applies Bolam, which no longer governs risk disclosure post-Montgomery. C is wrong: materiality is patient-focused. D overstates Bolitho — Bolitho requires the body of opinion to withstand logical scrutiny, but Montgomery is the governing authority on consent.",
+        "card_refs": [
+          "FLK1-TORT-009",
+          "FLK1-TORT-010"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-035",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Chester v Afshar",
+        "difficulty": "Complex",
+        "stem": "Dr. Felix Unwin failed to warn a patient about a 2% risk of a rare complication from back surgery. The patient would not have had the surgery that day but would have proceeded after a brief delay to seek further advice. The unwarned complication materialised. The patient sues for the full consequences. What is the correct approach to causation?",
+        "options": {
+          "A": "The patient cannot recover — on a strict 'but for' test, the complication would have occurred anyway since the patient would eventually have had the surgery.",
+          "B": "The patient recovers — Chester v Afshar modified the but-for test on policy grounds to allow recovery where the failure to warn denied the claimant an informed choice about whether to proceed.",
+          "C": "The patient recovers only 2% of their losses — reflecting the probability that the risk would have materialised.",
+          "D": "The patient cannot recover — causation in clinical negligence is always assessed on the strict but-for test without modification."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Chester v Afshar [2004] HL is an exceptional departure from the strict but-for test. On standard but-for causation, the claimant would fail — they would have had the surgery eventually, and the risk (being random and not patient-specific) could have materialised on the later occasion too. However, the majority held on policy grounds that denying the right to make an informed choice should attract a remedy: the claimant recovered in full. A correctly identifies the strict causation problem but ignores the Chester v Afshar policy modification. C applies a proportionate loss of chance approach which is not what Chester decided. D is wrong: Chester v Afshar is a recognised modification.",
+        "card_refs": [
+          "FLK1-TORT-015",
+          "FLK1-TORT-011"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-036",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Causation — Fairchild / Mesothelioma",
+        "difficulty": "Complex",
+        "stem": "A former employee worked for three different employers over 20 years, each exposing him to asbestos dust negligently. He developed mesothelioma. Mesothelioma is caused by a single asbestos fibre, but science cannot identify which employer's exposure caused it. Can he recover from any one employer?",
+        "options": {
+          "A": "No — the claimant cannot identify which employer's breach of duty caused the disease; the but-for test is not satisfied against any individual employer.",
+          "B": "Yes — under Fairchild v Glenhaven Funeral Services [2002], each employer who materially increased the risk of mesothelioma is jointly and severally liable.",
+          "C": "Yes — but only in proportion to the period of each employer's exposure (apportioned liability).",
+          "D": "No — mesothelioma claims can only be brought against the employer during whose employment the disease was first diagnosed."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Fairchild v Glenhaven Funeral Services [2002] created an exception to the but-for test in specific circumstances: where (i) each defendant breached a duty of care; (ii) the risk was of the same kind (asbestos-caused mesothelioma); and (iii) the state of science cannot identify whose exposure caused the disease. Each negligent employer who materially contributed to the risk is held jointly and severally liable. A correctly identifies the causation problem but ignores Fairchild. C describes a possible approach to contribution between defendants under the Civil Liability (Contribution) Act 1978 after judgment, not the basis of liability itself. D is wrong — there is no such rule.",
+        "card_refs": [
+          "FLK1-TORT-012"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-037",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Occupiers' Liability",
+        "subtopic": "OLA 1957 — Warning Notices and Exclusion",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski placed a sign at the entrance to Wharton Bakery's delivery yard reading: 'Warning — uneven surface. Enter at own risk.' A delivery driver tripped on a concealed pothole and was injured. Kowalski relies on the sign to exclude liability. Can he do so?",
+        "options": {
+          "A": "Yes — a visible warning notice satisfies the common duty of care under OLA 1957 and excludes liability.",
+          "B": "No — a warning notice only discharges the duty of care if it is sufficient to enable the visitor to be reasonably safe; a sign about an uneven surface does not warn of a specific concealed hazard.",
+          "C": "Yes — the delivery driver is a business visitor who accepted the risk by entering the yard.",
+          "D": "No — occupiers can never exclude liability for injury caused to business visitors."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Section 2(4)(a) of the Occupiers' Liability Act 1957 provides that a warning discharges the duty of care only if it is 'enough to enable the visitor to be reasonably safe.' A general 'uneven surface' warning does not adequately alert a visitor to a specific concealed pothole — it is insufficiently specific to enable the driver to avoid the hazard. A is wrong: a warning that is too generic does not discharge the duty. C is wrong: entry into a yard for delivery purposes does not constitute volenti to any concealed hazard. D overstates the rule — while UCTA 1977 s.2 prevents exclusion of liability for negligently caused death or personal injury to business visitors, the issue here is the adequacy of the warning.",
+        "card_refs": [
+          "FLK1-TORT-016",
+          "FLK1-TORT-017"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-038",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Occupiers' Liability",
+        "subtopic": "OLA 1984 — Trespassers",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari owns a derelict warehouse on River View Terrace. He knew local children regularly broke in to play, having seen them there twice. He did nothing to secure the site or warn them. A child was injured when a floor gave way. Under OLA 1984, is Nazari liable?",
+        "options": {
+          "A": "No — trespassers enter at their own risk; occupiers owe no duty to those who enter without permission.",
+          "B": "Yes — under OLA 1984 s.1(3), a duty arises where the occupier knows of (or has reasonable grounds to believe in) a danger, knows trespassers may come into its vicinity, and the risk is one against which it is reasonable to offer protection.",
+          "C": "No — the OLA 1984 duty only applies to adult trespassers, not to children.",
+          "D": "Yes — but Nazari's liability is strict, regardless of whether he knew of the specific risk to the floor."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Section 1(3) of the Occupiers' Liability Act 1984 imposes a duty where: (a) the occupier knows of or has reasonable grounds to believe in the danger; (b) knows or reasonably believes trespassers may come into the vicinity; and (c) the risk is one against which it is reasonable to provide protection. Nazari knew children were entering and a derelict floor is a foreseeable danger — all three conditions are arguably met. A incorrectly states the pre-1984 common law position. C is wrong: OLA 1984 applies to all trespassers, though children's vulnerability is relevant to the reasonableness of the risk. D is wrong: OLA 1984 is negligence-based, not strict liability.",
+        "card_refs": [
+          "FLK1-TORT-018"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-039",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Who Can Sue",
+        "difficulty": "Application",
+        "stem": "Donna Pearce's partner, who does not own or have a legal interest in the property, suffers from persistent sleep disruption caused by noise from the Wharton Industrial Park at night. Donna owns the property. Can her partner sue in private nuisance?",
+        "options": {
+          "A": "Yes — any person who suffers substantial interference with their enjoyment of a property can sue in private nuisance.",
+          "B": "No — private nuisance protects property rights; only persons with a legal interest in the affected land (owners, tenants) have standing to sue.",
+          "C": "Yes — the partner can rely on Donna's property interest by suing as an agent on her behalf.",
+          "D": "No — private nuisance requires the claimant to prove they own the land in fee simple."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Hunter v Canary Wharf Ltd [1997] confirmed that private nuisance protects proprietary interests in land — only those with a legal or equitable interest in the affected property have standing. Donna's partner, having no property interest, cannot sue in private nuisance regardless of the personal distress suffered. A states the position before Hunter, which the HL rejected. C is wrong: suing as agent does not give the partner a personal cause of action. D overstates the requirement — a tenant or licensee with an exclusive right to occupy may have sufficient standing, but a mere cohabitee without a property interest does not.",
+        "card_refs": [
+          "FLK1-TORT-019"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-040",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Defences — Prescription",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers has operated from its industrial park unit, generating significant HGV noise, for 22 years. The neighbouring property was recently purchased by a new owner who immediately complained about the noise. Can Northgate Couriers rely on the defence of prescription?",
+        "options": {
+          "A": "No — prescription is not a defence to private nuisance.",
+          "B": "Yes — if Northgate has openly carried on the nuisance-causing activity as of right for 20 years without interruption, it may have acquired the right to commit what would otherwise be a nuisance.",
+          "C": "No — a change of ownership of the affected property resets the prescription period.",
+          "D": "Yes — but only if the previous owner of the neighbouring property formally consented to the nuisance in writing."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Prescription is a recognised defence to private nuisance: if the defendant has been committing the nuisance openly, continuously, and as of right (without secrecy, force, or permission) for 20 years, they may have acquired a prescriptive right to do so (Sturges v Bridgman [1879]). 22 years of continuous operation satisfies this. A is wrong: prescription is a valid defence. C is wrong: a change of ownership does not reset the prescription period, which runs against the land, not the particular owner. D is wrong: prescription operates independently of consent — it arises through the passage of time.",
+        "card_refs": [
+          "FLK1-TORT-020"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-041",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Elements",
+        "difficulty": "Application",
+        "stem": "Atlas Contracts failed to fence off a road excavation in Wharton Magna town centre for three days. A pedestrian fell into the excavation and was injured. Ten other residents were unable to access their shops. What is the basis of the pedestrian's claim against Atlas Contracts?",
+        "options": {
+          "A": "Private nuisance only — affecting a specific number of identifiable individuals.",
+          "B": "Public nuisance — Atlas materially affected the comfort or convenience of a class of Her Majesty's subjects; the pedestrian suffered special damage beyond the general inconvenience, giving them a private right of action.",
+          "C": "Rylands v Fletcher — Atlas accumulated materials in a manner that escaped causing harm.",
+          "D": "The pedestrian has no claim in nuisance — only personal injury claims in negligence are available for falls on roads."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Public nuisance is an act or omission that materially affects the reasonable comfort and convenience of a class of people (A-G v PYA Quarries [1957]). A three-day unguarded road excavation in a town centre affects a sufficient class of the public. A private individual can bring a civil claim for public nuisance only if they suffer special damage beyond the general public inconvenience — the pedestrian's physical injury clearly constitutes special damage. A is wrong: this is public (not private) nuisance because it affects the public generally. C requires an escape of something accumulated — the excavation is not a Rylands v Fletcher scenario. D is wrong: public nuisance does give rise to individual civil claims.",
+        "card_refs": [
+          "FLK1-TORT-019",
+          "FLK1-TORT-020"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-042",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Defences — Truth",
+        "difficulty": "Application",
+        "stem": "Clive Dring published an article in the Wharton Gazette stating that Neville Prescott 'regularly sells vehicles with false mileage readings.' Prescott sues for libel. Dring has evidence that on four documented occasions in the past three years Prescott sold vehicles with clocked mileages. Can Dring rely on the defence of truth under the Defamation Act 2013?",
+        "options": {
+          "A": "No — the defence of truth requires proof that every allegation in the statement is substantially true.",
+          "B": "Yes — under s.2 of the Defamation Act 2013, the defence of truth requires that the imputation conveyed by the statement is substantially true; evidence of four instances may suffice to prove the gist of the charge.",
+          "C": "No — the defence of truth is not available for libel, only slander.",
+          "D": "Yes — but only if the four instances occurred within the one-year limitation period for defamation claims."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Section 2 of the Defamation Act 2013 provides a defence of truth (formerly justification) if the imputation conveyed is substantially true. The charge is that Prescott 'regularly' sells clocked vehicles. Four documented occasions within three years may constitute evidence of 'regular' practice sufficient to prove the imputation substantially true. A is wrong: the test is 'substantially true' — not every word need be proved. C is wrong: truth is available as a defence to both libel and slander under the 2013 Act. D is wrong: the limitation period is relevant to whether the claim can be brought, not to whether truth is a defence.",
+        "card_refs": [
+          "FLK1-TORT-022",
+          "FLK1-TORT-023"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-043",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Defences — Honest Opinion",
+        "difficulty": "Application",
+        "stem": "Clive Dring published a review of the Malt & Mattock's food, writing: 'In my opinion, Frank Hollis runs the worst kitchen in Northamptonshire — a public health disgrace.' Frank sues for libel. Dring claims the defence of honest opinion. What must Dring establish?",
+        "options": {
+          "A": "That the statement is a verifiable factual assertion proved to be true.",
+          "B": "Under s.3 of the Defamation Act 2013, that (1) the statement is a matter of opinion; (2) based on a fact which existed at the time of publication; and (3) an honest person could have held that opinion on the basis of the indicated or generally known facts.",
+          "C": "That Dring held the opinion sincerely at the time of publication — no factual basis is required.",
+          "D": "That the opinion relates to a matter of public interest only."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Section 3 of the Defamation Act 2013 (honest opinion, formerly 'fair comment') requires: (1) the statement is an opinion; (2) it indicated, whether in general or specific terms, the basis of the opinion; and (3) an honest person could have held that opinion on the basis of that factual basis. 'In my opinion, the worst kitchen' is clearly opinion. If Dring's visit revealed genuine hygiene or quality problems, the factual basis is present. A is wrong: this describes the truth defence, not honest opinion. C is wrong: a factual basis is required. D is wrong: the subject matter need not be limited to public interest (though honest opinion is related to the public interest defence under s.4).",
+        "card_refs": [
+          "FLK1-TORT-022",
+          "FLK1-TORT-023"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-044",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Serious Harm Threshold",
+        "difficulty": "Application",
+        "stem": "Clive Dring published a brief comment on the Wharton Gazette website that Dr. Felix Unwin was 'overworked and occasionally absent-minded.' A handful of local people read it. Dr. Unwin sues. Under the Defamation Act 2013, what threshold must Dr. Unwin satisfy before his claim can proceed?",
+        "options": {
+          "A": "He must prove the statement is false.",
+          "B": "He must prove the publication caused or is likely to cause serious harm to his reputation under s.1 of the Defamation Act 2013.",
+          "C": "He must prove he suffered actual financial loss as a result of the publication.",
+          "D": "He must prove the statement was made maliciously."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Section 1 of the Defamation Act 2013 introduced a 'serious harm' threshold: a statement is not defamatory unless it has caused or is likely to cause serious harm to the claimant's reputation. For a body trading for profit (not applicable here — Unwin is an individual), serious harm is defined as serious financial loss. For an individual, the court considers factors including the extent of publication and the nature of the statement. A small readership and a relatively mild comment about being 'occasionally absent-minded' may fail to meet the threshold. A is wrong: falsity is relevant to the truth defence, not the threshold. C applies the body trading for profit test, not the individual test. D is wrong: malice is required for some defences, not for the claimant's threshold.",
+        "card_refs": [
+          "FLK1-TORT-022"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-045",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Trespass",
+        "subtopic": "False Imprisonment",
+        "difficulty": "Application",
+        "stem": "Frank Hollis locked a customer in the Malt & Mattock's cellar for 45 minutes, believing (incorrectly) that the customer had stolen from the bar. The customer was not harmed physically. Can the customer bring a claim?",
+        "options": {
+          "A": "No — false imprisonment requires physical harm or injury to the claimant.",
+          "B": "Yes — false imprisonment is the unlawful and intentional total restraint of a person's freedom of movement, even without physical harm.",
+          "C": "No — Frank had a reasonable belief that the customer stole, which provides a lawful justification for temporary detention.",
+          "D": "Yes — but only if the customer was aware of the confinement at the time it occurred."
+        },
+        "correct": "B",
+        "explanation": "B is correct. False imprisonment is the complete and intentional restriction of a person's liberty without lawful justification — no physical harm or injury is required (Bird v Jones [1845]). Locking someone in a cellar for 45 minutes is a complete restraint. Frank's honest belief in theft is not a lawful justification — only the police or those with statutory authority have powers of lawful arrest; a private citizen's common law right of arrest is very limited and requires an actual offence being committed. A is wrong: false imprisonment is a form of trespass actionable per se (without proof of damage). C is wrong: a genuine belief in theft does not provide lawful justification for unlawful detention by a private individual. D is a misconception — awareness is not required.",
+        "card_refs": [
+          "FLK1-TORT-024"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-046",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Trespass",
+        "subtopic": "Assault vs Battery",
+        "difficulty": "Foundation",
+        "stem": "A customer at the Malt & Mattock raised his fist at Frank Hollis in a threatening manner during an argument, making Frank genuinely fear imminent physical harm. No physical contact occurred. The customer then left. What tort, if any, has been committed?",
+        "options": {
+          "A": "Battery — any threatening act with the intention of causing contact is battery.",
+          "B": "Assault — an act that intentionally causes the claimant to apprehend immediate unlawful force is assault; no physical contact is required.",
+          "C": "No tort has been committed — without physical contact there can be no claim.",
+          "D": "False imprisonment — Frank was effectively trapped by the customer's threatening behaviour."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Assault is the intentional act that causes the claimant to apprehend immediate unlawful force — no physical contact is required (Stephens v Myers [1830]). Raising a fist in a threatening manner, creating genuine fear of imminent physical harm, satisfies the definition. A is wrong: battery requires actual contact (however slight); assault does not. C is wrong: assault is actionable without physical contact. D is wrong: false imprisonment requires total restraint of movement — Frank was not confined.",
+        "card_refs": [
+          "FLK1-TORT-024"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-047",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Vicarious Liability",
+        "subtopic": "Close Connection Test",
+        "difficulty": "Complex",
+        "stem": "A delivery driver employed by Northgate Couriers sexually assaulted a customer during a delivery. Donna Pearce had no knowledge of the driver's propensity and had carried out standard background checks. Is Northgate Couriers vicariously liable?",
+        "options": {
+          "A": "No — vicarious liability only covers acts within the course of employment; a sexual assault is a personal frolic and entirely outside any authorised act.",
+          "B": "Yes — where the tort is so closely connected to the employment that it would be fair and just to hold the employer liable, vicarious liability may apply even for intentional wrongdoing (Lister v Hesley Hall).",
+          "C": "No — the employer cannot be liable for a criminal act by an employee in the absence of negligent hiring.",
+          "D": "Yes — but only if Donna can be shown to have been aware of a risk of this type of conduct."
+        },
+        "correct": "B",
+        "explanation": "B is correct. Lister v Hesley Hall [2001] established the 'close connection' test: where there is a sufficiently close connection between the nature of the employment and the wrongful act, vicarious liability can attach even for intentional criminal acts. A delivery driver who has access to customers' homes and persons as an integral part of the job is in a position where the employment facilitated the wrong. The key question is whether the tort was inextricably intertwined with the duties of employment. A applies the old Salmond test which was largely superseded by Lister. C is wrong: negligent hiring is a separate basis; Lister does not require it. D is wrong: the employer's knowledge is relevant to separate negligence claims, not to the close connection test.",
+        "card_refs": [
+          "FLK1-TORT-025",
+          "FLK1-TORT-026"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-048",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Contributory Negligence — Apportionment",
+        "difficulty": "Application",
+        "stem": "Donna Pearce's delivery driver was injured when a defective machine at Hollowell Engineering caused part of the equipment to fly off and strike the driver. The driver had removed a secondary safety cover to speed up the delivery process, ignoring a posted warning. The court finds both parties at fault. How are damages assessed?",
+        "options": {
+          "A": "Hollowell Engineering bears full liability — an employer's duty to provide a safe system cannot be diminished by an employee's actions.",
+          "B": "The driver's claim fails entirely — removing a safety cover is a clear act of volenti non fit injuria.",
+          "C": "The driver's damages are reduced by the proportion the court finds attributable to their own fault under the Law Reform (Contributory Negligence) Act 1945.",
+          "D": "Hollowell Engineering and Northgate Couriers share liability equally regardless of the actual degree of fault."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Section 1 of the Law Reform (Contributory Negligence) Act 1945 provides that where the claimant contributes to their own damage, the damages are reduced to the extent the court thinks just and equitable having regard to their share of responsibility. Both defendants' negligence (defective machine) and the driver's own fault (removing safety cover) contribute — the court apportions. A is wrong: employers' non-delegable duties reduce but do not eliminate the contributory negligence defence. B is wrong: volenti requires full assumption of the risk of the negligence; removing a safety cover out of haste is not a willing assumption of the specific risk of a faulty machine. D is wrong: apportionment reflects the actual finding of relative fault.",
+        "card_refs": [
+          "FLK1-TORT-027"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-049",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Product Liability",
+        "subtopic": "Consumer Protection Act 1987 — Defences",
+        "difficulty": "Application",
+        "stem": "Wharton Foods supplied a batch of processed pies that caused food poisoning. The defect resulted from contamination introduced during a packaging process using equipment supplied by a third-party manufacturer. Wharton Foods argues the 'development risks' defence under the Consumer Protection Act 1987. What must it establish?",
+        "options": {
+          "A": "That the state of scientific and technical knowledge at the time the product was put into circulation was not such that the defect in a product of that kind could have been discovered.",
+          "B": "That the defect would not have been discovered by any reasonable quality control process used in the food industry at the time.",
+          "C": "That the defect was caused by the third-party manufacturer's negligence, not by Wharton Foods.",
+          "D": "That Wharton Foods complied with all relevant food safety regulations at the time of supply."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Section 4(1)(e) of the Consumer Protection Act 1987 provides the development risks defence: the producer is not liable if the state of scientific and technical knowledge at the time the product was put into circulation was not such that the defect could have been discovered. This is an objective test based on the frontier of scientific knowledge, not merely what a reasonable manufacturer knew (A v National Blood Authority [2001] interpreted this strictly). A describes a negligence-based reasonable care test, not the statutory defence. C is a potential contribution claim against the third party, not the defence itself. D (regulatory compliance) is not the development risks defence.",
+        "card_refs": [
+          "FLK1-TORT-029"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-050",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Product Liability",
+        "subtopic": "CPA 1987 — Who is the Producer",
+        "difficulty": "Foundation",
+        "stem": "Rachel Okonkwo was injured by a defective food blender purchased from a local electrical shop in Wharton Magna. The blender was manufactured in Germany by an EU company. The local shop imported it directly. Under the Consumer Protection Act 1987, who can Rachel sue?",
+        "options": {
+          "A": "Only the German manufacturer — as the producer of the defective product.",
+          "B": "The local shop only — as the direct seller to Rachel.",
+          "C": "Either the German manufacturer or the local shop — as importer into the EU/UK, the shop is treated as a producer under s.2 CPA 1987.",
+          "D": "Neither — the CPA 1987 only applies to UK-manufactured products."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Under s.2 of the Consumer Protection Act 1987, liability falls on: (a) the producer (manufacturer); (b) any person who holds themselves out as the producer; or (c) any importer of the product into the UK/EU from outside. The local shop, having directly imported the blender, qualifies as an 'importer-producer' under s.2(2)(c) and is jointly and severally liable with the German manufacturer. A is incomplete — the importer is also liable. B is wrong: the seller is not automatically liable as a producer under CPA 1987 unless they also manufactured or imported. D is wrong: CPA 1987 applies to imported products.",
+        "card_refs": [
+          "FLK1-TORT-029"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-051",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty of Care — Rescuers",
+        "difficulty": "Application",
+        "stem": "A delivery driver employed by Northgate Couriers witnessed a serious collision on the A509 caused by another driver's negligence. The Northgate driver was not involved but rushed to assist the injured victim and suffered psychiatric harm from witnessing severe injuries. Can the Northgate driver recover from the negligent driver?",
+        "options": {
+          "A": "Yes — a professional rescuer or person who comes to the aid of an accident victim occupies a special category; a duty of care is owed to those who foreseeably come to the rescue (Chadwick v British Railways Board).",
+          "B": "No — the Northgate driver was not the primary victim; they were a bystander who chose to assist.",
+          "C": "No — psychiatric harm is only recoverable by immediate family members of primary victims.",
+          "D": "Yes — but only if the Northgate driver suffered physical injury in addition to psychiatric harm."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Chadwick v British Railways Board [1967] established that a person who witnesses an accident and suffers psychiatric harm in the course of rescuing or assisting victims is owed a duty of care. Rescuers are treated differently from mere bystanders — they are not subject to the strict Alcock control mechanisms. The Northgate driver rushed to help; a negligent driver who creates an emergency that foreseeably attracts rescuers owes a duty to those rescuers for psychiatric harm sustained in the rescue. A applies Alcock-type restriction that does not apply to active rescuers. C is too narrow. D is wrong: psychiatric harm without accompanying physical injury is recoverable for rescuers.",
+        "card_refs": [
+          "FLK1-TORT-006",
+          "FLK1-TORT-007"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-052",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Escape and Non-Natural Use",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering stored large quantities of chemical coolant in tanks on the industrial park. A tank fractured after a subcontractor incorrectly fitted a valve. Coolant escaped and contaminated Northgate Couriers' adjacent yard, damaging vehicles. Northgate Couriers claims under Rylands v Fletcher. Is the claim likely to succeed?",
+        "options": {
+          "A": "Yes — large quantities of industrial coolant are a non-natural use of land; they were accumulated, and they escaped causing damage.",
+          "B": "No — Rylands v Fletcher only applies to water; other substances are governed by negligence.",
+          "C": "No — the escape was caused by a subcontractor's act, which amounts to an act of a third party breaking the chain.",
+          "D": "Yes — but only if Hollowell Engineering acted negligently in storing the coolant."
+        },
+        "correct": "A",
+        "explanation": "A is correct. The rule in Rylands v Fletcher [1868] applies where: (1) the defendant brings onto their land and accumulates something likely to do mischief; (2) this constitutes a non-natural use of land; (3) the thing escapes; and (4) causes damage to the claimant's land or interests. Large quantities of industrial chemical coolant stored in tanks is a non-natural use. The coolant escaped and caused quantifiable damage to Northgate's property. A is wrong: Rylands applies to any dangerous things accumulated on land, not only water. C is partially correct as an argument — a third party's act can be a defence (Cambridge Water v Eastern Counties Leather [1994]) but only if truly unforeseeable; an incorrectly fitted valve by a subcontractor may not be sufficiently extraordinary. D is wrong: Rylands v Fletcher is strict liability, not fault-based.",
+        "card_refs": [
+          "FLK1-TORT-021"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-053",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Breach — Magnitude of Risk",
+        "difficulty": "Application",
+        "stem": "In assessing whether Pat Hollowell breached the standard of care by not repairing a minor uneven floor surface in the Hollowell Engineering workshop, which of the following factors from Bolton v Stone and Wagon Mound (No 2) is most relevant to the probability element of the Blyth standard?",
+        "options": {
+          "A": "The likelihood that anyone would trip on that particular uneven surface given how rarely workers passed that area.",
+          "B": "The cost to Hollowell of carrying out the repair work.",
+          "C": "The gravity of harm that would result if a worker did trip and fall.",
+          "D": "Whether Hollowell had received a written warning about the surface from a health and safety inspector."
+        },
+        "correct": "A",
+        "explanation": "A is correct. The standard of care involves balancing multiple factors (Bolton v Stone [1951]; Paris v Stepney Borough Council [1951]; Wagon Mound (No 2) [1967]). The probability of harm materialising — that is, how likely it is that the risk will result in damage — is one of the key factors in deciding whether a reasonable person would have taken precautions. If workers rarely use the area, the probability of the risk materialising is low, which weighs against a finding of breach. A (cost) is relevant but addresses a different factor (the burden of precautions). C (gravity of harm) is also a relevant factor but tests the severity limb, not probability. D (a warning notice) affects knowledge of the risk — relevant but not the probability factor.",
+        "card_refs": [
+          "FLK1-TORT-008"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-054",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Duty — Statutory Discretion and Public Authorities",
+        "difficulty": "Complex",
+        "stem": "Wharton Magna District Council received a complaint about a dangerous pothole on Church Lane six months before a cyclist was injured by it. The council inspected but took no immediate action, citing budget constraints. Under X v Bedfordshire [1995] and subsequent developments, is the council liable in negligence?",
+        "options": {
+          "A": "No — decisions made in the exercise of statutory discretion (policy decisions) do not give rise to private law liability unless the authority has exceeded its powers or acted negligently in the operational implementation of a decision already made.",
+          "B": "Yes — a public authority owes a duty of care whenever it has knowledge of a hazard on a public road.",
+          "C": "Yes — the Highways Act 1980 imposes strict liability on highway authorities for unrepaired defects.",
+          "D": "No — public authorities are always immune from negligence claims under crown immunity."
+        },
+        "correct": "A",
+        "explanation": "A is correct. The distinction between policy decisions (how to allocate limited resources — not justiciable in negligence) and operational decisions (how to carry out a chosen course of action — capable of giving rise to liability) is central to public authority negligence (Stovin v Wise [1996]; Gorringe v Calderdale [2004]). Deciding not to repair a pothole for budgetary reasons is a policy discretion; it is not actionable unless the decision is so unreasonable it falls outside the range of reasonable responses or the authority has assumed responsibility. A is too broad. C is wrong: the Highways Act 1980 creates a duty but also provides a defence of reasonableness — it is not strict. D is wrong: crown immunity does not apply to local authorities in this context.",
+        "card_refs": [
+          "FLK1-TORT-003",
+          "FLK1-TORT-004"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-055",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Psychiatric Harm — Primary Victims",
+        "difficulty": "Application",
+        "stem": "A Northgate Couriers driver negligently caused a collision in which another Northgate driver — following close behind — feared for his own physical safety, swerved, and crashed. The following driver suffered no physical injury but developed PTSD from the belief that he was about to be killed. Can he recover for psychiatric harm?",
+        "options": {
+          "A": "Yes — as a primary victim, he was within the zone of physical danger created by the defendant's negligence; the threshold question is whether physical injury was reasonably foreseeable, and psychiatric harm is then recoverable without further restriction.",
+          "B": "No — psychiatric harm is only compensable where the claimant also suffers a physical injury.",
+          "C": "No — primary victim status requires the claimant to have actually made physical contact with the hazard.",
+          "D": "Yes — but only if he can prove the defendant specifically foresaw psychiatric (rather than physical) harm to him."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Page v Smith [1996] HL established that a primary victim (one within the zone of foreseeable physical danger) can recover for psychiatric harm without satisfying the Alcock secondary victim control mechanisms. The threshold question is: was physical injury foreseeable? If yes, psychiatric harm is recoverable regardless of whether physical injury actually occurred. The driver who feared for his life in the collision zone is a primary victim. A is wrong: physical injury is not required — foreseeability suffices for primary victims. C is wrong: physical contact is not required; being in the zone of danger suffices. D is wrong: once primary victim status is established, there is no need to prove separate foreseeability of psychiatric harm.",
+        "card_refs": [
+          "FLK1-TORT-006",
+          "FLK1-TORT-007"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-056",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Economic Loss — Negligent Survey",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo commissioned a structural survey of 17 Orchard Road from a surveyor instructed by her mortgage lender. The surveyor negligently failed to identify significant damp problems. Rachel bought the house relying on the survey. The lender's instructions to the surveyor did not mention Rachel or her intended reliance. Can Rachel recover from the surveyor?",
+        "options": {
+          "A": "Yes — in Smith v Eric Bush [1990], the House of Lords held that a mortgage valuation surveyor owes a duty of care to the purchaser who relies on the survey, even though the surveyor is formally instructed by the lender.",
+          "B": "No — the surveyor was instructed by the lender, not by Rachel; no duty of care is owed to Rachel.",
+          "C": "No — pure economic loss from a defective survey can only be recovered in contract, not tort.",
+          "D": "Yes — but only because Rachel is a professional person who should have commissioned her own independent survey."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Smith v Eric Bush [1990] HL held that a surveyor carrying out a mortgage valuation owes a duty of care to the purchaser who is likely to rely on it, even though formally instructed by the lender. The surveyor knows that a private house buyer will typically rely on the mortgage valuation rather than commission a separate survey. This creates the necessary proximity and assumption of responsibility. A is wrong: the duty extends beyond the formal contractual relationship. C is wrong: Hedley Byrne and Smith v Eric Bush specifically extend negligence to economic loss in the survey context. D: the fact that Rachel might have done more does not extinguish the duty — though it could reduce damages for contributory negligence.",
+        "card_refs": [
+          "FLK1-TORT-005"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-057",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Ex Turpi Causa",
+        "difficulty": "Application",
+        "stem": "James Ashworth was injured as a passenger in a vehicle driven negligently by an acquaintance, while they were both engaged in a joint enterprise to commit burglary at a commercial premises. James sues the driver in negligence. Can the driver rely on ex turpi causa (illegality)?",
+        "options": {
+          "A": "Yes — the defence of ex turpi causa may bar a claimant from recovering where the injury occurred in the course of a joint criminal enterprise and allowing recovery would be an affront to the public conscience.",
+          "B": "No — ex turpi causa does not apply to personal injury claims.",
+          "C": "No — the driver's negligence is a separate wrong from the planned burglary; the illegality is collateral.",
+          "D": "Yes — the defence automatically applies whenever a claimant was committing any criminal offence at the time of injury."
+        },
+        "correct": "A",
+        "explanation": "A is correct. The defence of ex turpi causa non oritur actio (illegality) applies in tort where it would be contrary to public policy to allow the claimant to profit from their own illegal act. In Gray v Thames Trains [2009] and Hounga v Allen [2014], the Supreme Court developed the doctrine — where the injury occurs in the course of a joint criminal enterprise (not merely coincidentally while committing a crime), the courts may refuse relief. James and the driver were acting in concert on a joint criminal enterprise; the injury occurred as part of that enterprise. A is wrong: ex turpi causa can apply to personal injury claims. C may be argued but the close connection between the joint enterprise and the injury makes the illegality more than collateral. D overstates it — not every criminal act at the time bars recovery.",
+        "card_refs": [
+          "FLK1-TORT-027",
+          "FLK1-TORT-028"
+        ],
+        "flag": true,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-058",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Injunctions in Tort",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari's residential tenant at River View Terrace has repeatedly complained that a nearby industrial unit at Wharton Industrial Park operates noisy machinery at 3am. The council has not acted. Hassan seeks an injunction against the industrial operator. At the interim stage, which test applies?",
+        "options": {
+          "A": "American Cyanamid — is there a serious question to be tried, and does the balance of convenience favour granting the injunction?",
+          "B": "The court must be satisfied that nuisance is more probable than not before granting any interim injunction.",
+          "C": "The injunction can only be granted after a full trial on the merits of the nuisance claim.",
+          "D": "The court must apply the Denton v TH White test to assess whether granting the injunction would be proportionate."
+        },
+        "correct": "A",
+        "explanation": "A is correct. Interim injunctions in tort (including nuisance) are governed by the American Cyanamid test (American Cyanamid Co v Ethicon [1975]): (1) is there a serious question to be tried (not merely whether the claimant is likely to win)? (2) Would damages be an adequate remedy for the claimant if they succeed at trial? (3) If not, does the balance of convenience favour granting the injunction? Repeated 3am industrial noise causing actual disruption is clearly a serious question. A is wrong: the test is not 'more probable than not' at the interim stage. C is wrong: interim injunctions can be granted before trial. D: Denton applies to relief from sanctions in litigation, not injunction applications.",
+        "card_refs": [
+          "FLK1-TORT-030"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-059",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Omissions and Assumption of Responsibility",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier Solicitors gave pro bono advice to a local charity at an initial meeting. Gerald Crane told the trustees he 'would look into whether there was a time-critical issue' but never followed up. The limitation period on the charity's claim expired while awaiting Gerald's follow-up. Does the firm owe the charity a duty of care?",
+        "options": {
+          "A": "Yes — by voluntarily undertaking to investigate a specific issue and the charity relying on that, Crane & Pelletier assumed responsibility sufficient to found a duty of care even in a gratuitous context.",
+          "B": "No — pro bono work creates no legal duty of care; only paid retainers give rise to professional obligations.",
+          "C": "No — a general statement to 'look into' something is too vague to found reliance.",
+          "D": "Yes — but only if there was a written retainer in place covering the pro bono work."
+        },
+        "correct": "A",
+        "explanation": "A is correct. An assumption of responsibility can arise from a gratuitous undertaking where the defendant knows the claimant will rely on them to act (Hedley Byrne; Henderson v Merrett). Gerald Crane specifically undertook to investigate a time-critical issue — the charity relied on this and refrained from taking other action. This is sufficient to found a duty of care even without payment. A is wrong: the duty of care in negligence does not require a commercial relationship — voluntary assumption of responsibility suffices. C is wrong: the undertaking was specific enough — investigate a time-critical issue — and the charity's reliance was foreseeable. D is wrong: no written retainer is required to establish a tortious duty.",
+        "card_refs": [
+          "FLK1-TORT-004",
+          "FLK1-TORT-005"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-060",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Acting for Insured and Insurer",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier is instructed by Northgate Couriers' liability insurer to defend a personal injury claim against Donna Pearce. During the case, Diana discovers that Northgate Couriers (also her client) has information that would significantly assist the claimant's case against the insurer's position. What must Diana do?",
+        "options": {
+          "A": "Suppress the information — her duty to the insurer takes precedence as they are paying her fees.",
+          "B": "Disclose the information to the claimant immediately — a solicitor's duty of candour requires immediate disclosure.",
+          "C": "Recognise that she faces a conflict of interest between her two clients; she cannot continue acting for both and must advise one or both to seek independent representation.",
+          "D": "Inform the insurer of the information and allow them to decide whether to disclose it to the claimant."
+        },
+        "correct": "C",
+        "explanation": "C is correct. Acting for both the insured (Northgate Couriers) and the insurer can create conflicts of interest — here an actual conflict has arisen because Northgate Couriers holds information damaging to the insurer's defence position. The SRA Code (para 6.2) requires a solicitor not to act where there is an actual conflict. Diana cannot suppress the information (breach of duty to Northgate) nor disclose it (breach of duty to insurer). The only proper course is to cease acting for one or both and advise them to obtain independent advice. A is wrong: paying fees does not override the duty to all clients or the duty not to act in a conflict. B is wrong: disclosure to the opponent is not automatically required — the issue is the conflict between clients. D allows the insurer to decide about information belonging to Northgate — this is not proper.",
+        "card_refs": [
+          "FLK1-TORT-025",
+          "FLK1-TORT-026"
+        ],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-061",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Product Liability",
+        "subtopic": "Keeper liability — non-dangerous species",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell keeps a bull on his farm adjacent to a public footpath. The bull, normally docile, is startled by a low-flying drone operated by Ravi Sharma and charges through a fence, injuring a walker. Under the Animals Act 1971, which of the following most accurately states the basis for Hollowell's liability?",
+        "options": {
+          "A": "Hollowell is strictly liable if: (i) the damage was of a kind the animal was likely to cause or likely to be severe if caused; (ii) the likelihood or severity was due to characteristics not normally found in the species or not normally found except at particular times or circumstances; and (iii) those characteristics were known to Hollowell.",
+          "B": "Hollowell is strictly liable because the bull belongs to a dangerous species.",
+          "C": "Hollowell is liable only if he was negligent in failing to restrain the bull adequately.",
+          "D": "Hollowell has a complete defence because the injury was triggered by Sharma's drone, making Sharma solely liable."
+        },
+        "correct": "A",
+        "explanation": "Under Animals Act 1971 s.2(2), a keeper of a non-dangerous species animal is strictly liable if three conditions are met: (i) damage of the kind caused was likely, or likely to be severe if caused; (ii) the likelihood/severity was due to abnormal characteristics; and (iii) the keeper knew of those characteristics. Bulls can exhibit aggressive behaviour in particular circumstances (e.g., when startled), satisfying condition (ii). Cattle are not a dangerous species under s.6(2), so A is wrong. Option C imposes a negligence standard which does not apply to s.2(2) strict liability. Option D is incorrect: a third party's act may be relevant to contributory fault but does not automatically extinguish the keeper's liability.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-062",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Product Liability",
+        "subtopic": "Keeper liability — dangerous species",
+        "difficulty": "Foundation",
+        "stem": "Alek Kowalski keeps a pet capuchin monkey at his flat. The monkey bites his neighbour Priya Mehta. Priya sues. Alek argues the monkey had never bitten anyone before. Which statement is correct?",
+        "options": {
+          "A": "Alek is liable only if the monkey had previously shown aggressive tendencies.",
+          "B": "Alek is liable in negligence only, as exotic pets attract a higher duty of care.",
+          "C": "Alek is strictly liable under Animals Act 1971 s.2(1) because capuchin monkeys are a dangerous species not commonly domesticated in Great Britain.",
+          "D": "Priya must prove Alek knew of the particular propensity of this specific monkey to bite."
+        },
+        "correct": "C",
+        "explanation": "Under Animals Act 1971 s.2(1), a keeper of an animal belonging to a dangerous species is strictly liable for any damage it causes. Section 6(2) defines a dangerous species as one not commonly domesticated in the British Isles and whose fully grown animals have characteristics which, unless restrained, are likely to cause severe damage. Capuchin monkeys satisfy this test. There is no need to show prior dangerous behaviour or knowledge of a specific propensity — that is the advantage of strict liability under s.2(1). Options A and D incorrectly import the s.2(2) knowledge requirements. Option B is wrong: negligence is not required.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-063",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Trespass",
+        "subtopic": "Direct interference — airspace",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari owns Wharton Magna Industrial Estate. A telecoms company erects a mobile phone mast on adjacent land; the support cables run at 25 metres above Nazari's property without consent. Nazari seeks damages. On which basis is his claim most likely to succeed?",
+        "options": {
+          "A": "Private nuisance, because the cables interfere with his quiet enjoyment.",
+          "B": "Rylands v Fletcher, because the cables represent a non-natural use of land.",
+          "C": "Trespass to land, because the cables constitute a direct, unauthorised physical intrusion into the airspace above his land.",
+          "D": "Public nuisance, because a structure at that height creates a risk to the public generally."
+        },
+        "correct": "C",
+        "explanation": "Trespass to land extends to airspace above the land to the height necessary for the ordinary use and enjoyment of the land and structures on it (Bernstein v Skyviews [1978], Anchor Brewhouse v Berkley House [1987]). A permanent cable at 25m directly above the land constitutes a direct and intentional intrusion, satisfying the requirements for trespass. Private nuisance (A) covers indirect or continuing interference with use/enjoyment and is less apt than trespass for physical permanent intrusion. Rylands (C) requires an escape from the defendant's land — the cables are static. Public nuisance (D) requires interference with the public at large and there is no evidence of that here.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-064",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Trespass",
+        "subtopic": "Licence and revocation",
+        "difficulty": "Application",
+        "stem": "Donna Pearce verbally granted Owen Davies permission to use a shortcut across her garden for three months. After six weeks, Pearce verbally revoked the permission. Davies continued using the shortcut the following day. Pearce claims in trespass. Davies argues the licence was irrevocable for the agreed three months. Is Davies correct?",
+        "options": {
+          "A": "Yes — a licence granted for a fixed period cannot be revoked early.",
+          "B": "No — trespass requires proof of damage, which Pearce cannot show.",
+          "C": "No — a bare licence is revocable at any time on reasonable notice; Davies became a trespasser once reasonable notice had elapsed.",
+          "D": "Yes — because verbal licences for land use are subject to part performance and cannot be revoked without compensating Davies."
+        },
+        "correct": "C",
+        "explanation": "A bare licence — permission without consideration — is revocable at any time, subject only to giving reasonable notice (Robson v Hallett [1967]). Once reasonable notice has been given and expired, entry becomes trespass. The three-month term creates no binding obligation without consideration, so A is wrong. Trespass to land is actionable per se — no proof of damage is required (C is wrong). Part performance and compensation (D) are equitable doctrines relating to contracts for the sale/disposition of land, not bare licences.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-065",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Economic Torts",
+        "subtopic": "Inducing breach of contract",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth owns a rival recruitment agency to Crane & Pelletier. Knowing that Crane & Pelletier has an exclusive services contract with Northgate Couriers Ltd, Ashworth approaches Northgate's managing director and persuades him to terminate the contract early, causing Crane & Pelletier financial loss. Which tort has Ashworth most likely committed?",
+        "options": {
+          "A": "Passing off.",
+          "B": "Unlawful means conspiracy.",
+          "C": "Inducing breach of contract (OBG Ltd v Allan [2008]).",
+          "D": "Negligence."
+        },
+        "correct": "C",
+        "explanation": "The tort of inducing breach of contract requires: (i) knowledge of the contract; (ii) intention to induce its breach; (iii) an actual breach by a third party; and (iv) resulting damage to the claimant (OBG Ltd v Allan [2008]). Ashworth knew of the contract, intentionally persuaded Northgate to breach it, and Crane & Pelletier suffered loss. Passing off (A) protects goodwill/trade reputation and is not relevant. Unlawful means conspiracy (B) requires two or more persons combining and the use of unlawful means — the facts show Ashworth acting alone and the primary mechanism is persuasion/inducement, not unlawful means. Negligence (D) does not capture the intentional element here.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-066",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Economic Torts",
+        "subtopic": "Passing off",
+        "difficulty": "Foundation",
+        "stem": "Clive Dring runs a local bakery he calls 'The Wharton Bake House'. A new trader sets up a competing stall and calls it 'Wharton Bake House' using almost identical branding and packaging. Dring has not registered any trade mark. What cause of action is available to Dring?",
+        "options": {
+          "A": "Dring has no remedy because he has not registered a trade mark.",
+          "B": "Dring can sue under the Consumer Rights Act 2015 for misleading practices.",
+          "C": "Dring can sue for passing off, provided he establishes goodwill, misrepresentation and damage (the classic trinity from Reckitt & Colman v Borden [1990]).",
+          "D": "Dring's only remedy is to apply for an injunction under the Human Rights Act 1998."
+        },
+        "correct": "C",
+        "explanation": "Passing off protects unregistered goodwill. The classic trinity from Reckitt & Colman v Borden [1990] (the Jif Lemon case) requires the claimant to establish: (i) goodwill or reputation attached to their goods/services; (ii) a misrepresentation by the defendant leading (or likely to lead) the public to believe the defendant's goods/services are those of the claimant; and (iii) damage resulting. Dring need not have a registered trade mark to bring a passing off claim. The CRA 2015 is consumer protection legislation, not a remedy between traders. The HRA 1998 does not provide this type of private law remedy.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-067",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Civil Liability (Contribution) Act 1978",
+        "difficulty": "Application",
+        "stem": "Priya Mehta is injured in a road accident caused jointly by Donna Pearce and Alek Kowalski. She obtains a judgment against Pearce for the full sum of £90,000. Pearce wishes to recover a contribution from Kowalski. Under the Civil Liability (Contribution) Act 1978, which statement is correct?",
+        "options": {
+          "A": "Pearce cannot recover any contribution because she was also at fault.",
+          "B": "Pearce can recover from Kowalski only if Kowalski was more than 50% responsible.",
+          "C": "Pearce can recover a contribution from Kowalski in such proportion as the court considers just and equitable having regard to the extent of Kowalski's responsibility for the damage.",
+          "D": "Pearce must first obtain a separate judgment against Kowalski before seeking contribution."
+        },
+        "correct": "C",
+        "explanation": "Under the Civil Liability (Contribution) Act 1978 s.2, a person liable for damage may recover a contribution from any other person liable for the same damage. The amount is such as may be found by the court to be just and equitable having regard to the extent of that person's responsibility for the damage. There is no threshold of 50% (C is wrong). Contribution proceedings are commenced by Pearce against Kowalski directly — there is no requirement for a prior separate judgment against Kowalski (D). Pearce's own fault is relevant to apportionment within the original claim under the Law Reform (Contributory Negligence) Act 1945, not to her right to seek contribution (A is wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-068",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Publication on a matter of public interest — s.4 DA 2013",
+        "difficulty": "Application",
+        "stem": "The Wharton Magna Gazette publishes an article alleging that Councillor Stubbs improperly awarded a council contract to a company in which he has a financial interest. The allegation is not fully proven but the editor reasonably believed publication was in the public interest and acted responsibly in verifying sources. Stubbs sues for defamation. What is the newspaper's best defence?",
+        "options": {
+          "A": "Absolute privilege — reports of council proceedings are absolutely privileged.",
+          "B": "Honest opinion under s.3 DA 2013.",
+          "C": "Publication on a matter of public interest under s.4 Defamation Act 2013, provided the defendant reasonably believed publication was in the public interest.",
+          "D": "Truth under s.2 DA 2013, because the allegation is substantially true."
+        },
+        "correct": "C",
+        "explanation": "Section 4 DA 2013 provides a defence of publication on a matter of public interest where: (i) the statement was, or formed part of, a statement on a matter of public interest; and (ii) the defendant reasonably believed that publishing the statement was in the public interest. The court must have regard to all circumstances including editorial judgement. This replaced the old Reynolds qualified privilege. Absolute privilege (A) applies to parliamentary proceedings and court proceedings, not newspaper reporting of council activities. Honest opinion (C) requires the statement to be clearly identifiable as an opinion, not a factual allegation. Truth (D) requires proving the substantial truth of the imputation — if the allegation is not fully proven, truth is unavailable.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-069",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defamation",
+        "subtopic": "Operators of websites — s.5 DA 2013",
+        "difficulty": "Foundation",
+        "stem": "A user posts a defamatory comment about Clive Dring on an online forum hosted by a company. The company does not author the comment but hosts the platform. Dring notifies the company and asks it to remove the post. The company ignores the notification. Which statement best describes the company's legal position?",
+        "options": {
+          "A": "The company has no liability because it is merely a passive host and did not author the statement.",
+          "B": "Only the original poster can be sued; platform operators are immune under the E-Commerce Regulations 2002.",
+          "C": "The company is potentially liable as a publisher once it has been notified of the defamatory post and fails to act, losing the operator defence under s.5 DA 2013.",
+          "D": "The company is liable only if it edited or moderated the content before publication."
+        },
+        "correct": "C",
+        "explanation": "Section 5 DA 2013 provides a defence for operators of websites who did not post the statement, but the defence can be lost if the operator fails to respond properly to a notification of complaint. Regulation 19 of the E-Commerce Regulations 2002 provides a separate hosting defence but that too is lost where the operator has actual knowledge of the unlawful activity and fails to act expeditiously. Once notified, a passive host that ignores a defamatory post may lose its immunity and be treated as a publisher. A is therefore incorrect. C incorrectly states absolute immunity — the E-Commerce Regs hosting defence is conditional. D imports an editorial/moderation test which is not the governing principle.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-070",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Economic Torts",
+        "subtopic": "Protection from Harassment Act 1997",
+        "difficulty": "Application",
+        "stem": "James Ashworth has, on five separate occasions over three months, sent aggressive emails to Rachel Okonkwo demanding repayment of a disputed debt, using threatening language. Okonkwo has told Ashworth to stop. Ashworth argues the emails are legitimate debt collection. Which statement is correct?",
+        "options": {
+          "A": "Okonkwo cannot bring a civil claim because harassment is a criminal offence only.",
+          "B": "Okonkwo can only claim if she proves psychiatric injury.",
+          "C": "Okonkwo can bring a civil claim under s.3 Protection from Harassment Act 1997; Ashworth's course of conduct (at least two occasions) amounts to harassment and debt collection is not a reasonable excuse for threatening language.",
+          "D": "Ashworth's conduct is lawful because creditors are entitled to pursue debtors robustly."
+        },
+        "correct": "C",
+        "explanation": "The Protection from Harassment Act 1997 s.1 prohibits a course of conduct (conduct on at least two occasions) which the person knows or ought to know amounts to harassment. Section 3 creates a civil remedy. The reasonableness defence in s.1(3)(c) requires that the pursuit of debt collection be conducted reasonably — threatening language takes the conduct outside what is reasonable in the circumstances. Option A is wrong: s.3 explicitly creates a civil cause of action. Option B is wrong: the civil claim under s.3 does not require psychiatric injury (though s.3(2) permits damages for anxiety caused). Option D is wrong: there is no absolute right to harass debtors.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-071",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Vicarious Liability",
+        "subtopic": "Provision of safe system of work",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell's employee, Dave Sutton, is injured when using an unguarded grinding machine at Hollowell Engineering. Hollowell argues he provided written safety instructions and that Sutton ignored them. Which statement best describes Hollowell's position?",
+        "options": {
+          "A": "Hollowell is not liable because he provided written safety instructions.",
+          "B": "Hollowell's liability is extinguished by Sutton's contributory negligence in ignoring the instructions.",
+          "C": "Hollowell may still be liable because the duty to provide a safe system of work includes not merely issuing instructions but also ensuring they are followed and that equipment is safe.",
+          "D": "Hollowell is exempt from liability because the Employers' Liability (Compulsory Insurance) Act 1969 transfers risk to the insurer."
+        },
+        "correct": "C",
+        "explanation": "An employer's non-delegable duty at common law encompasses: (i) safe plant and equipment; (ii) competent co-workers; (iii) safe premises; and (iv) a safe system of work (Wilsons & Clyde Coal v English [1938]). Merely issuing safety instructions does not discharge the duty if the system is not properly enforced and machinery remains unguarded. The ELCIA 1969 (D) requires employers to hold insurance — it does not transfer the underlying liability. Sutton's contributory negligence (C) may reduce damages but does not extinguish Hollowell's liability entirely. Option A overstates what written instructions achieve.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-072",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Vicarious Liability",
+        "subtopic": "Stress at work — psychiatric harm",
+        "difficulty": "Application",
+        "stem": "Donna Pearce works as a dispatcher at Northgate Couriers. She tells her line manager that she is struggling with an overwhelming workload and fears a mental breakdown. The manager takes no action. Pearce subsequently suffers a clinical depressive episode. She claims against Northgate. Which factor is most decisive in establishing employer liability?",
+        "options": {
+          "A": "Whether the psychiatric harm was reasonably foreseeable given Pearce's warning to management.",
+          "B": "Whether Pearce had a pre-existing vulnerability to psychiatric illness.",
+          "C": "Whether Northgate's business is inherently stressful.",
+          "D": "Whether Pearce's GP had previously notified Northgate of her mental health condition."
+        },
+        "correct": "A",
+        "explanation": "In Hatton v Sutherland [2002] the Court of Appeal set out that an employer's duty to take steps to prevent psychiatric harm arises only where harm is reasonably foreseeable. The key question is whether the claimant showed signs of impending harm. Pearce's warning to management is a significant indicator that psychiatric harm was foreseeable, making it the most decisive factor. A pre-existing vulnerability (B) may affect quantum (thin skull rule) but is not the primary test for the duty to arise. The general stressfulness of the job (C) is a background factor, not the primary trigger. GP notification (D) is not required — internal notice to management suffices.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-073",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Three-stage Caparo test",
+        "difficulty": "Foundation",
+        "stem": "Which of the following correctly states all three elements of the Caparo Industries v Dickman [1990] test for establishing a duty of care in negligence?",
+        "options": {
+          "A": "Foreseeability of damage; a relationship of proximity between the parties; and it is fair, just and reasonable to impose a duty.",
+          "B": "Foreseeability of damage; reliance by the claimant on the defendant; and absence of a voluntary assumption of risk.",
+          "C": "A special relationship; foreseeability of damage; and causation.",
+          "D": "Proximity; causation; and remoteness."
+        },
+        "correct": "A",
+        "explanation": "Caparo Industries v Dickman [1990] established the three-stage test: (i) it must be reasonably foreseeable that a failure to take care would cause damage to the claimant; (ii) there must be a relationship of sufficient proximity between the parties; and (iii) it must be fair, just and reasonable to impose a duty. Reliance (B) is a relevant factor in some contexts (especially pure economic loss/negligent misstatement) but is not a universal element of Caparo. Options C and D conflate duty with causation and remoteness, which are separate elements of a negligence claim.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-074",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Standard of care — professional",
+        "difficulty": "Application",
+        "stem": "Dr. Felix Unwin, a GP, refers Priya Mehta to a specialist two weeks after she first presents with symptoms that, with hindsight, suggested a serious condition. A body of responsible GPs would have referred immediately. A second body of responsible GPs would have waited up to three weeks before referring. Mehta sues. Is Unwin in breach of duty?",
+        "options": {
+          "A": "Yes — Unwin is in breach because some GPs would have referred immediately.",
+          "B": "Yes — Unwin is in breach because the balance of medical opinion favours immediate referral.",
+          "C": "No — Unwin is not in breach because his practice is supported by a responsible body of medical opinion (Bolam v Friern HMC [1957]).",
+          "D": "No — Unwin is not in breach because the two-week delay caused no additional harm."
+        },
+        "correct": "C",
+        "explanation": "The Bolam test holds that a doctor is not negligent if he acts in accordance with a practice accepted as proper by a responsible body of medical men skilled in the relevant area, even if a different body of practitioners would adopt a different practice. Since a responsible body of GPs would have waited up to three weeks, Unwin's two-week referral is not a breach. Option A would incorrectly require the defendant to meet the highest standard of any reasonable practitioner. Option B inappropriately applies a majority-view test — Bolam does not require the majority view. Option D conflates breach with causation; breach is assessed on conduct, not outcome.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-075",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Material increase in risk — Bonnington Castings",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell's factory employee is exposed to silica dust partly from an innocent source and partly from negligently maintained equipment. The employee develops pneumoconiosis. Medical evidence cannot establish which source predominantly caused the disease. Hollowell argues causation fails on the balance of probabilities because the innocent source may have been the dominant cause. Which principle best resolves this?",
+        "options": {
+          "A": "The but-for test; the claim must fail because causation cannot be established on the balance of probabilities.",
+          "B": "Loss of a chance; damages are reduced by the percentage probability that the innocent source caused the disease.",
+          "C": "The Fairchild principle; the claimant must apportion damages between the innocent and negligent sources.",
+          "D": "The material contribution to damage principle (Bonnington Castings v Wardlaw [1956]); Hollowell is fully liable if his breach materially contributed to the disease."
+        },
+        "correct": "D",
+        "explanation": "In Bonnington Castings v Wardlaw [1956] the House of Lords held that where a defendant's breach materially contributed to cumulative damage (as opposed to divisible damage), the claimant need not show the breach was the sole or dominant cause — a material contribution suffices. This was appropriate because both sources were acting cumulatively on the same disease process. The but-for test (A) would defeat the claim on the facts but Bonnington provides a recognised exception. Fairchild (C) applies to divisible risk scenarios (e.g., mesothelioma from multiple employers) and involves an apportionment rule from Barker v Corus [2006] modified by Compensation Act 2006. Loss of a chance (D) was rejected in clinical negligence in Gregg v Scott [2005].",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-076",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Heads of damage — general and special",
+        "difficulty": "Foundation",
+        "stem": "Priya Mehta is injured in a road accident caused by Alek Kowalski. She sustains a broken leg and cannot work for four months, losing £15,000 in earnings. She also suffers ongoing pain. Which of the following correctly categorises these losses?",
+        "options": {
+          "A": "The lost earnings are general damages; the pain and suffering are special damages.",
+          "B": "Both are special damages because they are quantifiable in monetary terms.",
+          "C": "Both are general damages because they both flow from the same tortious act.",
+          "D": "The lost earnings are special damages; the pain and suffering are general damages."
+        },
+        "correct": "D",
+        "explanation": "Special damages are pecuniary losses that are specifically quantifiable and have already accrued by the date of trial — such as lost earnings, medical expenses, and travel costs. General damages are losses that are not precisely calculable and are assessed by the court, including pain, suffering and loss of amenity (PSLA), and future losses. Lost earnings of £15,000 are pre-trial pecuniary loss = special damages. Pain and suffering are non-pecuniary = general damages. Options A and C are incorrect categorisations. Option B is wrong because not all quantifiable losses are special damages — future loss of earnings is general damage, for example.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-077",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Structured settlements and periodical payments",
+        "difficulty": "Foundation",
+        "stem": "A court awards significant future loss of earnings damages to an injured claimant. Under the Courts Act 2003, what power does the court have in relation to how those damages are paid?",
+        "options": {
+          "A": "The court must always order a lump sum; periodical payments require the parties' consent.",
+          "B": "The court may recommend periodical payments but the claimant has an absolute right to insist on a lump sum.",
+          "C": "Periodical payments are only available where the defendant is the Motor Insurers' Bureau.",
+          "D": "The court may order periodical payments for future pecuniary loss (including future care costs and future loss of earnings) without the parties' consent if it considers it appropriate."
+        },
+        "correct": "D",
+        "explanation": "Under the Courts Act 2003 s.2, the court has power to order periodical payments in respect of future pecuniary loss in personal injury cases, and this power can be exercised without the consent of either party. The court must consider whether a periodical payment order would be appropriate in the circumstances. This was a significant change from the previous position where consent was required. Options A and D are therefore incorrect. Option C is incorrect — the power is general and not limited to MIB cases.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-078",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Occupiers' Liability",
+        "subtopic": "OLA 1957 — independent contractors",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari engages an independent contractor to rewire his restaurant. The contractor is negligent and a customer, Priya Mehta, is injured by a faulty electrical installation. Nazari argues he is not liable because the work was carried out by a contractor. Which statement is correct?",
+        "options": {
+          "A": "Nazari has no liability; an occupier is never liable for the negligence of an independent contractor.",
+          "B": "Nazari is liable only if the contractor was an employee for employment law purposes.",
+          "C": "Nazari is strictly liable for all personal injury caused on his premises regardless of cause.",
+          "D": "Nazari discharges his duty under OLA 1957 s.2(4)(b) if it was reasonable to entrust the work to a contractor, he took reasonable steps to satisfy himself the contractor was competent, and (where reasonable) inspected the completed work."
+        },
+        "correct": "D",
+        "explanation": "Under OLA 1957 s.2(4)(b), where damage is caused by a danger arising from work carried out by an independent contractor, the occupier discharges the common duty of care if: (i) it was reasonable to entrust the work to a contractor; (ii) the occupier took such steps as were reasonable to satisfy itself that the contractor was competent; and (iii) where it was reasonable to inspect, the occupier inspected the work. The occupier is not automatically absolved (A is wrong). Strict liability (C) does not apply to OLA 1957. The employment law status (D) is irrelevant — OLA 1957 applies to independent contractors engaged by occupiers.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-079",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Coming to the nuisance",
+        "difficulty": "Foundation",
+        "stem": "Hollowell Engineering has operated a noisy forge in Wharton Magna for 30 years. Rachel Okonkwo recently bought a house next to the forge and now complains of the noise. Hollowell argues Okonkwo 'came to the nuisance'. Is this a defence?",
+        "options": {
+          "A": "Yes — a claimant who moves to an existing nuisance cannot complain about it.",
+          "B": "No — but Okonkwo's damages will be reduced proportionately because she chose to move there.",
+          "C": "Yes — provided Hollowell has operated at the same intensity for more than 20 years, giving him a prescriptive right.",
+          "D": "No — coming to the nuisance is not a defence in English law (Miller v Jackson [1977]; Sturges v Bridgman [1879])."
+        },
+        "correct": "D",
+        "explanation": "Coming to the nuisance is not a recognised defence in English tort law. In Sturges v Bridgman [1879] the court held that a claimant who moves near an existing activity can still sue in private nuisance. Miller v Jackson [1977] reaffirmed this. A prescriptive right to commit a nuisance (C) requires 20 years of open, continuous noxious use without secrecy or permission — this is distinct from 'coming to the nuisance' and is not automatically acquired by longevity alone; the use must have been tortious from the start and the claimant's predecessor must have had cause of action. Option B is not a recognised approach — there is no automatic proportionate reduction based on knowledge of pre-existing conditions.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-080",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Sensitive claimant rule",
+        "difficulty": "Foundation",
+        "stem": "Ravi Sharma grows prize orchids in a specially humidified greenhouse. His neighbour, Pat Hollowell, operates spray painting equipment that causes chemical deposits to settle on the orchids. Ordinary plants would be unaffected. Sharma sues in private nuisance. Which principle is likely to limit Sharma's claim?",
+        "options": {
+          "A": "Ex turpi causa — Sharma's orchid growing is not a normal use of land.",
+          "B": "The Rylands v Fletcher strict liability rule displaces private nuisance here.",
+          "C": "Volenti non fit injuria — Sharma consented to the risk by planting sensitive orchids near an industrial area.",
+          "D": "The sensitive claimant rule — a defendant is not liable in nuisance if damage occurs only because of the abnormal sensitivity of the claimant's use; the test is the effect on the ordinary person using land in the ordinary way (Robinson v Kilvert [1889])."
+        },
+        "correct": "D",
+        "explanation": "In Robinson v Kilvert [1889] a defendant landlord's activities raised the temperature in a basement, damaging the claimant's sensitive paper goods, but would not have damaged ordinary goods. The court held no nuisance because the damage only occurred due to the abnormal sensitivity of the claimant's use. If ordinary use would be unaffected, there is no nuisance. This 'sensitive claimant' rule limits Sharma's claim. Ex turpi causa (A) has nothing to do with sensitive claimants. Volenti (C) requires an informed consent to the specific risk — using land for orchids does not constitute consent to chemical contamination. Rylands v Fletcher (D) is a separate tort and does not displace nuisance.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-081",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Product Liability",
+        "subtopic": "CPA 1987 — meaning of defect",
+        "difficulty": "Foundation",
+        "stem": "A batch of electrical heating pads manufactured by a company causes burns to users. There is no design defect and the manufacturing process conformed to industry standards. The company argues there is no defect for CPA 1987 purposes. Which statement is correct?",
+        "options": {
+          "A": "The company is correct — there is no defect if the product conforms to industry standards.",
+          "B": "There is no defect because the burns indicate misuse by the consumer.",
+          "C": "The company is liable only if the user can prove the company was negligent.",
+          "D": "Under CPA 1987 s.3, a product is defective if its safety is not such as persons generally are entitled to expect; the test is not conformity with industry standards."
+        },
+        "correct": "D",
+        "explanation": "Section 3(1) CPA 1987 defines a defect as existing when the safety of the product is not such as persons generally are entitled to expect. The standard is what the public is entitled to expect, taking into account the presentation, reasonably expected use, and the time of supply. Compliance with industry standards is a relevant factor but not conclusive — if the product causes unexpected harm, it may still be defective. Option A is therefore wrong. Option C incorrectly imports a negligence standard — CPA 1987 creates strict liability. Option B is speculative on the facts.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-082",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Vicarious Liability",
+        "subtopic": "Non-delegable duty — educational/care settings",
+        "difficulty": "Application",
+        "stem": "Wharton Magna Community School engages a self-employed swimming instructor to teach pupils. The instructor negligently fails to supervise a child adequately and the child is injured. The school argues it cannot be vicariously liable because the instructor is self-employed. Is the school correct?",
+        "options": {
+          "A": "Yes — vicariously liability can only arise in an employment relationship.",
+          "B": "Yes — the parents must sue the instructor directly.",
+          "C": "No — the school is vicariously liable because the instructor was providing an integrated function of the school's business.",
+          "D": "No — the school owes pupils a non-delegable duty of care; it cannot escape liability for the negligent performance of that duty even if it delegates it to an independent contractor (Woodland v Swimming Teachers Association [2013])."
+        },
+        "correct": "D",
+        "explanation": "In Woodland v Swimming Teachers Association [2013] the Supreme Court confirmed that a school owes pupils a non-delegable duty to take reasonable care for their safety during core educational activities. This duty cannot be discharged by delegating it to an independent contractor — the school remains liable for the contractor's negligence. This is distinct from vicarious liability (which requires an employment or quasi-employment relationship). Option A is therefore too narrow. Option C (akin extended vicarious liability) is a separate route which might also be available but B is the more precise and authoritative answer on these facts. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-083",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Defences and Remedies",
+        "subtopic": "Personal injury — primary and extended limitation periods",
+        "difficulty": "Foundation",
+        "stem": "Priya Mehta was injured in a road accident on 1 March 2021. She did not issue proceedings until 15 April 2024. The defendant argues the claim is time-barred. Under the Limitation Act 1980, is the defendant correct?",
+        "options": {
+          "A": "Yes — personal injury claims must be brought within two years of the accident.",
+          "B": "No — personal injury claims have a six-year limitation period from the date of the tort.",
+          "C": "No — the primary limitation period is three years from the date of knowledge, and the court has a residual discretion under s.33 to disapply the period.",
+          "D": "Yes — personal injury claims must be brought within three years of the date of the accident; proceedings were issued more than three years after 1 March 2021."
+        },
+        "correct": "D",
+        "explanation": "Under Limitation Act 1980 s.11, personal injury claims must be brought within three years of: (i) the date on which the cause of action accrued (i.e., the date of the accident); or (ii) the date of knowledge (if later). The accident was on 1 March 2021; three years expires on 1 March 2024. Proceedings issued on 15 April 2024 are therefore prima facie time-barred. However, the court does have a residual discretion under s.33 to extend this period if it is equitable to do so — Option C is partially correct in identifying s.33 but incorrectly states the primary period runs from date of knowledge (it runs from the earlier of date of accrual or date of knowledge). Option A is wrong (two years is not the correct period). Option B applies to general contract/tort claims, not personal injury.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-084",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Novus actus interveniens — third party act",
+        "difficulty": "Application",
+        "stem": "Alek Kowalski negligently injures Donna Pearce in a road accident. Pearce is taken to hospital. A nurse, acting independently, administers the wrong medication due to an unrelated error, worsening Pearce's injuries. Kowalski argues the nurse's act breaks the chain of causation. Which statement best reflects the law?",
+        "options": {
+          "A": "The nurse's act is a novus actus interveniens breaking the chain of causation because it was an independent act of a third party.",
+          "B": "The chain of causation is automatically broken by any independent act of a third party.",
+          "C": "Kowalski is only liable for the original injuries, not any aggravation caused by the hospital.",
+          "D": "A subsequent medical error is a foreseeable consequence of the original injury; it does not break the chain of causation unless it is so extraordinary and unforeseeable as to eclipse Kowalski's negligence (Hogan v Bentinck [1949]; Webb v Barclays Bank [2001])."
+        },
+        "correct": "D",
+        "explanation": "Medical treatment following an injury is a foreseeable consequence of the original negligence. A subsequent medical error will only break the chain of causation if it is so extraordinary and unforeseeable that it eclipses the defendant's original negligence. Ordinary medical errors in treating injuries caused by the defendant do not generally break the chain (Webb v Barclays Bank [2001]). Option A and D overstate the novus actus doctrine. Option C would unfairly limit the defendant's liability by excluding foreseeable consequences of the original tort.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-085",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Nuisance",
+        "subtopic": "Escape requirement",
+        "difficulty": "Application",
+        "stem": "Pat Hollowell stores a large quantity of industrial solvent on his land. A pipe fractures and solvent seeps underground, eventually contaminating Hassan Nazari's water well on adjacent land. Nazari claims under Rylands v Fletcher. Hollowell argues there has been no escape because the solvent stayed underground. Is Hollowell correct?",
+        "options": {
+          "A": "Yes — Rylands v Fletcher requires the substance to escape above ground and be visible.",
+          "B": "Yes — the Rylands v Fletcher rule has been absorbed into negligence and no longer applies as an independent cause of action.",
+          "C": "No — but Nazari must prove Hollowell was negligent in storing the solvent.",
+          "D": "No — escape for Rylands v Fletcher purposes means escape from the defendant's land to the claimant's land; underground seepage satisfies this requirement."
+        },
+        "correct": "D",
+        "explanation": "Escape under Rylands v Fletcher means escape from the defendant's control and onto or affecting the claimant's land — it does not require the substance to escape above ground or to be visible. Underground contamination that reaches and damages the claimant's property satisfies the escape requirement. Option A imports an unjustified 'above ground' or 'visible' limitation. Option C incorrectly introduces a negligence requirement — Rylands is strict liability (subject to defences). Option B is incorrect — although the House of Lords in Cambridge Water v Eastern Counties Leather [1994] limited the rule, they reaffirmed it as an independent head of liability.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-086",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Secondary victims — Alcock control mechanisms",
+        "difficulty": "Application",
+        "stem": "Frank Hollis sees on live television news footage a disaster unfolding at Wharton Magna sports ground. His son is among those injured. Hollis suffers recognised psychiatric illness. He sues the event organiser as a secondary victim. Which Alcock control mechanism is most likely to defeat his claim?",
+        "options": {
+          "A": "Hollis does not satisfy the proximity of relationship requirement because a parent-child relationship is not sufficiently close.",
+          "B": "Hollis cannot claim as a secondary victim because the disaster was not caused by a single identifiable defendant.",
+          "C": "Hollis cannot claim because he suffered psychiatric harm and not physical injury.",
+          "D": "Hollis does not satisfy the proximity in time and space requirement: witnessing events on live television does not satisfy the requirement to be present at the scene or its immediate aftermath (Alcock v Chief Constable of South Yorkshire [1991])."
+        },
+        "correct": "D",
+        "explanation": "In Alcock v Chief Constable of South Yorkshire [1991] (Hillsborough litigation) the House of Lords held that a secondary victim must satisfy three requirements: (i) a close tie of love and affection with the primary victim; (ii) proximity in time and space — present at the accident or its immediate aftermath; and (iii) perception of the accident through their own unaided senses. Watching events on live television does not satisfy the direct perception requirement, even if the claimant knows a relative is involved. Lord Ackner confirmed this expressly in Alcock. Option A is wrong — parent-child presumptively satisfies the close tie requirement. Option C is wrong — recognised psychiatric illness suffices. Option B is not a recognised Alcock mechanism.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-087",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Negligence",
+        "subtopic": "Volenti — sporting events",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth attends a motor racing event at Wharton Magna Circuit. A car loses control in an unexpected manner due to a defective barrier installed by the organisers and debris strikes her. The organisers argue volenti non fit injuria because Ashworth knew racing was inherently dangerous. Which statement is correct?",
+        "options": {
+          "A": "Volenti is a complete defence because spectators at motor racing events consent to all inherent risks.",
+          "B": "Ashworth's claim is defeated by ex turpi causa because attending a dangerous sport is an illegal activity.",
+          "C": "Volenti does not apply to spectators at sporting events; contributory negligence is the appropriate defence.",
+          "D": "Volenti requires consent to the specific risk that materialised; Ashworth may have consented to the ordinary risks of motor racing but not to the additional risk created by the organisers' negligence in installing a defective barrier."
+        },
+        "correct": "D",
+        "explanation": "Volenti requires that the claimant freely and voluntarily agreed to accept the specific legal risk, not merely that they were aware of general danger. A spectator at a motorsport event consents to the inherent risks of the sport (e.g., a car leaving the track in a normal racing incident) but does not consent to the additional risk created by the defendant's negligence (e.g., a defective barrier). The organisers cannot rely on volenti to cover their own negligence in maintaining safety infrastructure. Option A overstates the scope of consent. Option C is incorrect — volenti can apply to spectators, but on these facts it fails for the reason in B. Option B is plainly wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-088",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Duty to report — money laundering and tort claims",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier is a solicitor advising Northgate Couriers on a personal injury claim brought against the company. During the case, she discovers that Northgate has been engaging in systematic insurance fraud — submitting inflated personal injury claims against third parties. What is Pelletier's primary professional obligation?",
+        "options": {
+          "A": "Pelletier must continue to act for Northgate regardless, as her duty of confidentiality to her client is paramount.",
+          "B": "Pelletier can continue to act provided she does not personally assist in the fraudulent activities.",
+          "C": "Pelletier should inform the opposing claimants directly so they can take appropriate action.",
+          "D": "Pelletier should make a Suspicious Activity Report (SAR) to the National Crime Agency under the Proceeds of Crime Act 2002 and must not tip off Northgate; she should also consider whether she can continue to act."
+        },
+        "correct": "D",
+        "explanation": "Insurance fraud generates criminal proceeds within the Proceeds of Crime Act 2002. A solicitor who has knowledge or suspicion of money laundering must make a SAR to the NCA under POCA 2002 s.330 (or s.338 for a permitted disclosure prior to proceeding). The tipping-off provisions in POCA 2002 s.333A mean Pelletier must not inform Northgate of the report. SRA Principle 1 (upholding the rule of law) also requires solicitors not to assist in or be complicit in unlawful conduct. Option A is wrong — client confidentiality does not override statutory reporting obligations under POCA 2002. Option C would likely constitute tipping off if Northgate learned indirectly. Option B underestimates the statutory obligation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-089",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Witness coaching and duty to the court",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma is a solicitor representing Hassan Nazari in a nuisance claim. Before the trial, Nazari asks Sharma to go through the likely questions he will be asked and to suggest how he should phrase his answers to make them more persuasive. Sharma is unsure whether this crosses any professional boundaries. What should Sharma do?",
+        "options": {
+          "A": "Sharma can coach Nazari as fully as he wishes — a solicitor's duty is to advance his client's case as effectively as possible.",
+          "B": "Sharma can suggest how to phrase answers provided the substance is not changed.",
+          "C": "Sharma should refuse to prepare Nazari at all to avoid any risk of witness coaching.",
+          "D": "Sharma may properly prepare Nazari by explaining court procedure, discussing the issues, and reviewing documents; but Sharma must not coach Nazari to give specific answers or to present false or misleading evidence — this would breach the duty not to mislead the court (SRA Code paras 1.4 and 2.6)."
+        },
+        "correct": "D",
+        "explanation": "There is a clear distinction between legitimate witness preparation and impermissible witness coaching. Legitimate preparation includes explaining court procedure, discussing the evidence and issues in the case, and reviewing documents. It does not include suggesting specific answers, rehearsing testimony, or advising on how to present evidence in a more persuasive or misleading way. SRA Code para 1.4 prohibits solicitors from misleading or attempting to mislead clients, the court or others — which includes not participating in witness coaching designed to produce misleading testimony. Option A is wrong — the duty to the court overrides the duty to advance the client's case when these conflict. Option C is excessively cautious. Option B is incorrect because suggesting phrasing amounts to coaching regardless of whether the substance is technically unchanged.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-TORT-MCQ-090",
+        "flk": "FLK1",
+        "subject": "Tort Law",
+        "topic": "Professional Conduct",
+        "subtopic": "Personal injury conditional fee agreements",
+        "difficulty": "Foundation",
+        "stem": "Diana Pelletier agrees to act for Priya Mehta on a personal injury claim under a conditional fee agreement (CFA). Pelletier does not explain the financial implications of the CFA or the potential deduction from damages for the success fee. Which SRA obligation does Pelletier most clearly breach?",
+        "options": {
+          "A": "The duty to act in clients' best interests (SRA Code para 1.2) and the obligation to give clients sufficient information about costs, including the effect of any CFA, to allow them to make informed decisions.",
+          "B": "The duty not to mislead the court.",
+          "C": "The duty to maintain client confidentiality.",
+          "D": "The obligation to report material information to opposing solicitors."
+        },
+        "correct": "A",
+        "explanation": "SRA Principle 7 requires solicitors to act in the best interests of each client. SRA Code para 8.6 requires solicitors to give clients the best information they reasonably can about the likely overall cost of their matter and how it will be affected by a CFA. Failure to explain a CFA's financial implications — including the success fee that will be deducted from the client's damages — is a breach of the costs information obligation and the duty to act in the client's best interests. The other options are not engaged by a failure to explain costs: B relates to conduct before the court, C relates to disclosure to third parties, and D is not a recognised standalone duty in this context.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      }
+    ]
+  }
+}

@@ -321,6 +321,36 @@
             "summary_line": "P4 HONESTY ≠ P5 INTEGRITY · WINGATE · SHARP PRACTICE · CUMULATIVE OBLIGATIONS",
             "is_deeper": 0
           }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-002",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Should a cab-rank rule apply to solicitors as it does to barristers?",
+            "answer": "The cab-rank rule requires barristers to accept any brief in their area of practice for a proper fee, regardless of the identity or views of the client. It derives from the Bar's monopoly on rights of audience at higher courts and reflects the principle that unpopular clients must have access to representation. Solicitors have no equivalent obligation — they may decline instructions for any reason that is not discriminatory (SRA Code para 1.1 requires not unfairly discriminating, but does not require acceptance). The Law Society's position has historically been that solicitors operate in a competitive market and the lack of a cab-rank rule is justified by market competition. Jonathan Herring ('Legal Ethics', 2017) argues this creates an access to justice gap: solicitors in specialist fields with few alternatives can effectively deny clients representation without accountability. The counter-argument (favoured by the SRA) is that imposing a cab-rank rule on solicitors would be inappropriate given they often develop ongoing client relationships and can be personally identified with their clients in ways barristers cannot. Andy Boon and Jennifer Levin ('The Ethics and Conduct of Lawyers in England and Wales', 2008) suggest the real question is whether the profession as a whole ensures adequate coverage of unpopular work — which may require structural solutions (legal aid, pro bono obligations) rather than a cab-rank rule.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          },
+          {
+            "card_code": "FLK-PC-DEEP-008",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Are the regulatory objectives of the Legal Services Act 2007 internally coherent?",
+            "answer": "Section 1 LSA 2007 sets out eight regulatory objectives, including 'protecting and promoting the interests of consumers', 'supporting the rule of law', 'promoting competition', and 'promoting access to justice'. The objectives are not ranked or prioritised. Critics have pointed out that they can conflict: promoting competition may undermine quality (driving down standards); protecting consumers may conflict with promoting access if protective rules price services out of reach. The Legal Services Board (LSB) has described the absence of hierarchy as a 'deliberate flexibility', arguing it allows the approved regulators to weight the objectives according to their specific regulatory context. Clementi's original report ('Review of the Regulatory Framework for Legal Services in England and Wales', 2004) proposed a simpler framework focused on consumer protection and the rule of law — the proliferation to eight objectives reflected political compromise. John Flood and Fabian Sosa ('Lawyers in a Networked World', 2012) argue that the LSA's objectives reflect a market-centred regulatory philosophy that does not adequately weight access to justice for unrepresented parties. The LSB's own 2022 Review of Legal Services found that the regulatory objectives framework was not producing measurable improvements in access. The deeper structural question is whether a statute can achieve regulatory coherence through an undifferentiated list of objectives, or whether hierarchy is constitutionally necessary for effective regulation.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          }
         ]
       },
       "Conflict of Interest": {
@@ -712,6 +742,22 @@
             "summary_line": "MIRROR WILLS · SEE SEPARATELY · UNDUE INFLUENCE · INDEPENDENT INSTRUCTIONS · AGREEMENT ≠ NO CONFLICT",
             "is_deeper": 0
           }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-003",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Is the concept of 'informed consent' in conflict of interest law coherent and achievable in practice?",
+            "answer": "The SRA Code permits a solicitor to act for two clients with a conflict of interest if both give 'informed consent' and appropriate safeguards are in place (para 6.2). The concept draws on classic consent doctrine but is stretched almost to breaking point in complex transactions. 'Informed' consent presupposes the client understands the nature of the conflict — but clients often do not appreciate what they are consenting to, particularly in commercial contexts where lawyers downplay conflicts. Andrew Boon ('Lawyers' Lives', 2014) argues that informed consent in law practice is frequently a formal ritual rather than a substantive protection: clients sign forms drafted by lawyers who have an interest in finding consent. The academic debate focuses on whether consent can be truly 'informed' when one party to the consent process is also the party creating the conflict. US commentary (Charles Wolfram, 'Modern Legal Ethics', 1986) distinguishes 'waivable' from 'non-waivable' conflicts — a distinction the SRA Code approximates through the 'client conflict' and 'own interest conflict' distinction, but does not make expressly. The Insurance Mediation Directive and MiFID II (for financial services) impose much more detailed disclosure requirements for consent in conflicts than the SRA Code — raising the question of whether legal services regulation is under-calibrated for sophisticated commercial clients.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          }
         ]
       },
       "Referral Fees and Arrangements": {
@@ -918,6 +964,22 @@
             "conclusion": "The Key Rule: LASPO prohibits all payments for referrals of personal injury and death claims, regardless of who the referrer is. The identity of the introducer — CMC, insurer, union, or other — is irrelevant to the prohibition.",
             "summary_line": "LASPO ALL REFERRERS · NOT LIMITED TO CMCs · PI AND DEATH · IDENTITY OF REFERRER IRRELEVANT",
             "is_deeper": 0
+          }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-010",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Does the referral fee prohibition in LASPO 2012 achieve its stated policy objectives, and has it had unintended consequences?",
+            "answer": "Section 56 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 prohibited referral fees in personal injury (PI) cases, responding to the Jackson Review's finding that referral fee culture drove up litigation costs and facilitated claims farming. The prohibition was extended by the SRA Code to all practice areas. The policy objectives were to reduce costs, curb cold-calling and ambulance-chasing, and improve access to justice. Empirical evidence on whether LASPO achieved these objectives is mixed. The Ministry of Justice's 2013 and 2019 reviews found no clear evidence of reduction in genuine claims; the Insurance sector reported declining PI claims volumes but attributed this partly to fraud deterrence measures beyond LASPO. Critics — including the Association of Personal Injury Lawyers (APIL) — argued the prohibition harmed smaller claimant firms by destroying their referral income stream, concentrating PI work in larger defendant-friendly operators. The prohibition has also been criticised for being easily circumvented: arrangements structured as 'marketing agreements' or 'introductory arrangements' often function as referral fees under a different label, and the SRA has reported difficulty distinguishing legitimate partnerships from disguised referrals. More fundamentally, law and economics scholars (Herbert Kritzer, 'Legal Advocacy', 1998) question whether referral fee prohibitions produce welfare gains: in markets with significant information asymmetry, referral fees may be efficient mechanisms for connecting clients to appropriate expertise. The SRA's extension of the prohibition beyond PI to all areas has never been subject to independent empirical evaluation.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
           }
         ]
       },
@@ -1180,6 +1242,22 @@
             "summary_line": "DUTY NOT TO MISLEAD · KNOWLEDGE OR RECKLESSNESS · GOOD FAITH RELIANCE · FALSE INSTRUCTIONS · NO BREACH",
             "is_deeper": 0
           }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-001",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Does the SRA Code of Conduct adequately balance the duty to the client and the duty to the court?",
+            "answer": "The tension between the paramount duty to the court and the duty of loyalty to the client is one of the deepest in professional ethics. The SRA Code (paras 1.4, 2.1) resolves this in favour of the court where they conflict — the solicitor must not mislead the court and must maintain the integrity of the administration of justice. Critics argue this balance is too easily stated and too hard to apply. Richard Moorhead and Varda Sherr ('Access or Excellence', 2003) found that adversarial cultures in litigation create practical pressure on solicitors to suppress the court-facing duties. The cab-rank rule applicable to barristers provides a structural analogue absent for solicitors — a fact Lord Neuberger identified in Medcalf v Mardell [2002] as creating different ethical exposures. The Legal Services Act 2007 formally ranks 'supporting the rule of law' and 'supporting the constitutional principle of the rule of law' as primary regulatory objectives — but regulatory sanctions for breach of court duty remain largely reactive. David Wilkins ('Legal Realism for Lawyers', 1990) questioned whether deontological duty-based frameworks adequately capture the complexity of lawyer loyalty in multi-party and class action contexts. The SRA Code's withdrawal mechanism (cease to act, not disclose) may be adequate for most cases but fails to address the situation where withdrawal itself signals the client's guilt — a structural limitation the Code does not resolve.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          }
         ]
       },
       "Reporting Obligations": {
@@ -1386,6 +1464,22 @@
             "conclusion": "The Key Rule: Once money laundering suspicion crystallises, the solicitor must file a SAR immediately and must not take any step that discloses the suspicion to the client. Targeted questioning at this stage risks tipping off, even if framed as due diligence.",
             "summary_line": "TIPPING OFF · SAR FIRST · NO TARGETED QUESTIONING AFTER SUSPICION · POCA S.333A · KYC ≠ TIPPING OFF",
             "is_deeper": 0
+          }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-004",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Does anti-money laundering compliance undermine the solicitor-client relationship, and is the current regime proportionate?",
+            "answer": "The anti-money laundering regime (POCA 2002, the Money Laundering Regulations 2017, and SRA AML guidance) places solicitors in a structurally awkward position: they are required to file Suspicious Activity Reports (SARs) without tipping off the client, potentially while continuing to act. Critics argue this transforms solicitors into agents of the state in a way that is fundamentally inconsistent with the duty of loyalty. The number of SARs filed by legal professionals has been criticised by the National Crime Agency as insufficient relative to the volume of legal work in high-risk sectors (property, company formation, private client). The Law Society has argued that the tipping-off prohibition combined with continuing to act creates a moral impossibility: the solicitor knows information the client is entitled to know, but is legally prevented from disclosing it. Conversely, the government's 2019 review of the legal sector's AML performance found that professional privilege was being used to justify non-reporting in circumstances where reporting should have occurred. The deeper tension — between confidentiality as a foundational professional obligation and the state's legitimate interest in preventing financial crime — has not been resolved by the current hybrid regime. Reform proposals have included a duty to withdraw rather than to continue acting; others favour a mandatory reporting threshold lower than 'suspicion'.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
           }
         ]
       },
@@ -1751,6 +1845,22 @@
             "summary_line": "COLP MUST BE EFFECTIVE · SENIORITY AND AUTHORITY · TITULAR APPOINTMENT INSUFFICIENT · SUBSTANCE NOT FORM",
             "is_deeper": 0
           }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-007",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Is the duty to self-report to the SRA adequately calibrated, and does it create a risk of regulatory over-capture?",
+            "answer": "Para 7.7 and 7.8 of the SRA Code require a solicitor to report 'serious concerns' about themselves or others to the SRA promptly. The duty is unusual: it requires a professional to expose themselves or colleagues to regulatory sanction. Whistleblowing obligations are common in regulated financial services (Senior Managers and Certification Regime) but are relatively novel in legal services. Critics argue the self-reporting obligation is under-enforced: SRA enforcement data shows that most referrals come from third parties (clients, courts, banks) rather than self-reports. Richard Abel ('Lawyers: A Critical Reader', 2015) argues professional self-regulation creates structural incentives not to report colleagues — solidarity and economic self-interest work against disclosure. Conversely, William Simon ('The Practice of Justice', 1998) contends that the duty to self-report is the hallmark of a mature profession: the alternative (waiting for external detection) undermines public trust more severely than voluntary disclosure. The SRA's approach to self-reporting mitigation (reduced sanctions for early disclosure) provides a positive incentive, but critics argue the discount is insufficiently large to overcome the risk calculus. The deeper question is whether a profession can simultaneously self-regulate and effectively enforce reporting obligations — or whether independent external enforcement is structurally necessary.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          }
         ]
       },
       "Informed Consent": {
@@ -2034,6 +2144,280 @@
             "conclusion": "The Key Rule: All forms of publicity — including brochures, fact sheets, and background materials — must be accurate, not misleading, and should not be used to circumvent the SRA's requirements for disclosure of key firm information.",
             "summary_line": "BROCHURE = PUBLICITY · ALL COMMUNICATIONS · ACCURATE · NOT MISLEADING · NO RINGFENCING",
             "is_deeper": 0
+          }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-009",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Is the Legal Ombudsman scheme an adequate remedy for consumers of legal services, or does it replicate the profession's own biases?",
+            "answer": "The Legal Ombudsman (LeO) was created by the LSA 2007 to provide an independent scheme for resolving complaints about legal services. Its jurisdiction covers service complaints (not conduct); its remedies include compensation up to £50,000 (since 2023) and directions to redo work or apologise. Critics have raised three structural concerns. First, the time limits (one year from knowledge, or one year from the act/omission, whichever is later — subject to a six-year absolute backstop) can exclude valid complaints where clients delayed seeking advice, particularly where the problem only became apparent years later. Second, the LeO lacks enforcement powers beyond making orders — it cannot impose fines or suspend authorisation; it must refer serious conduct to the SRA. Third, the Legal Services Consumer Panel has repeatedly reported that consumer awareness of the LeO is low, particularly among vulnerable consumers and those from disadvantaged backgrounds. Richard Moorhead's empirical research ('Lawyers and the Courts', 2010) found that ombudsman schemes in professional services tend to produce lower uphold rates than analogous schemes in financial services, potentially reflecting a pro-professional institutional culture. Counter-arguments emphasise the LeO's independence from the SRA and its user-friendly (non-adversarial) process. The deeper structural question is whether a complaints scheme tethered to service quality (rather than legal outcome) can meaningfully remedy the power imbalance between solicitors and individual clients.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          }
+        ]
+      },
+      "Confidentiality": {
+        "Foundation rules": [
+          {
+            "card_code": "FLK-PC-148",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the duty of confidentiality, when does it arise, and to whom is it owed?",
+            "answer": "The duty of confidentiality is set out in SRA Code of Conduct para 6.3: a solicitor must keep the affairs of current and former clients confidential unless disclosure is required or permitted by law or the client consents.\n\n**When it arises:** The duty arises as soon as a person approaches a solicitor for legal advice — even before a formal retainer is signed and even if no fees are paid. A free initial consultation is covered.\n\n**Scope:** It covers all information about the client's affairs acquired during the professional relationship, not only information explicitly labelled confidential. It is not limited to the subject matter of the retainer.\n\n**Duration:** The duty is indefinite. It applies equally to former clients and continues after the retainer ends — there is no time limit.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SRA CODE PARA 6.3 · CURRENT AND FORMER CLIENTS · ALL INFORMATION · NO RETAINER NEEDED · INDEFINITE DURATION"
+          },
+          {
+            "card_code": "FLK-PC-149",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What is the difference between the duty of confidentiality and legal professional privilege?",
+            "answer": "Both protect client information, but they are distinct in nature, scope, and effect.\n\n**Confidentiality (SRA Code para 6.3):**\n- A professional duty not to disclose client information\n- Applies to all information obtained in the course of the professional relationship\n- Can be overridden by client consent, or where disclosure is required or permitted by law (e.g. court order, POCA)\n- Voluntary disclosure by the solicitor is prevented, but compelled disclosure is possible if not privileged\n\n**Legal professional privilege (LAP / litigation privilege):**\n- A substantive legal right recognised by the courts\n- Narrower: LAP covers only confidential communications for the dominant purpose of legal advice; litigation privilege covers documents for the dominant purpose of litigation\n- Cannot be overridden even by court order — it is an absolute protection against compelled disclosure\n- Can be waived only by the client\n\n**Key consequence:** Information may be confidential but not privileged (e.g. business plans shared with a solicitor for non-legal purposes). A court can compel production of such material despite the solicitor's confidentiality duty.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CONFIDENTIALITY = PROFESSIONAL DUTY · PRIVILEGE = LEGAL RIGHT · PRIVILEGE NARROWER · COURT CAN COMPEL CONFIDENTIAL NON-PRIVILEGED INFO · CLIENT WAIVES BOTH"
+          },
+          {
+            "card_code": "FLK-PC-150",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "Does the duty of confidentiality survive the end of the retainer?",
+            "answer": "Yes — the duty of confidentiality survives the retainer indefinitely. SRA Code para 6.3 expressly covers 'former clients.' There is no time limit on the duty.\n\nThis means:\n- Information obtained during a completed matter cannot be disclosed after the retainer ends, absent the former client's consent or a legal obligation\n- The duty survives the client's death (the right passes to the estate / executors)\n- It is not discharged by firm mergers, changes in personnel, or the passage of time\n- A solicitor who joins a new firm and is given access to former client files of that firm inherits the duty\n\nPractical consequence: a solicitor cannot use a former client's confidential information in advising a subsequent client, even years later, without the former client's consent or a legal basis for disclosure.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SRA CODE PARA 6.3 · FORMER CLIENTS COVERED · NO TIME LIMIT · SURVIVES DEATH · FIRM MERGERS IRRELEVANT · CANNOT USE IN SUBSEQUENT MATTERS"
+          }
+        ],
+        "Exceptions and conflicts": [
+          {
+            "card_code": "FLK-PC-151",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the three categories of exception to the duty of confidentiality under SRA Code para 6.3?",
+            "answer": "Para 6.3 permits disclosure only where:\n\n**1. Client consent** — The client is the owner of the right to confidentiality and may authorise disclosure. Consent may be express (written or verbal authority) or implied (e.g. instructing the solicitor to negotiate necessarily implies consent to share relevant information with the counterparty). Consent must be informed.\n\n**2. Required by law** — A legal obligation compels disclosure despite the client's wishes:\n- Court order for production of documents (unless privileged)\n- POCA 2002 s.330: duty to report suspected money laundering to the NCA\n- HMRC information notices and statutory tax obligations\n- SRA regulatory investigations under the Legal Services Act 2007\n\n**3. Permitted by law** — No compulsion, but law allows disclosure:\n- Self-defence in professional disciplinary proceedings where the client's conduct is directly in issue\n- Statutory gateways for information sharing\n- Where the information has entered the public domain through no breach by the solicitor\n\nThe exceptions are narrow. Where in doubt, the default is to maintain confidentiality.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PARA 6.3 · THREE EXCEPTIONS: CONSENT / REQUIRED BY LAW / PERMITTED BY LAW · POCA = REQUIRED · SELF-DEFENCE = PERMITTED · DEFAULT = MAINTAIN CONFIDENTIALITY"
+          },
+          {
+            "card_code": "FLK-PC-152",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the duty of confidentiality interact with the obligation to report suspected money laundering under POCA 2002?",
+            "answer": "This is one of the most frequently tested confidentiality conflicts.\n\n**The conflict:** POCA 2002 s.330 makes it a criminal offence for a person in the regulated sector to fail to disclose, as soon as practicable, information that they know or suspect (or have reasonable grounds to suspect) relates to money laundering. This obligation runs directly against the duty of confidentiality.\n\n**Resolution:** The 'required by law' exception in para 6.3 applies. The POCA reporting obligation overrides confidentiality — the solicitor must make an authorised disclosure to the National Crime Agency without the client's consent.\n\n**Critical additional rule — tipping off (POCA s.333A):** Once a suspicion arises, the solicitor must NOT tell the client that a report has been made or is being considered. Tipping off is a separate criminal offence. The solicitor cannot even explain to the client why they are pausing the matter or seeking to end the retainer, if doing so would identify the NCA disclosure.\n\n**Privilege exception:** Information subject to legal advice privilege is exempt from the s.330 duty (s.330(6)) — but the crime/fraud exception to privilege applies where the client is using the solicitor to further a criminal purpose.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "POCA S.330 · FAILURE TO DISCLOSE OFFENCE · OVERRIDES CONFIDENTIALITY · TIPPING OFF S.333A · CANNOT INFORM CLIENT · LAP EXEMPT BUT CRIME/FRAUD EXCEPTION APPLIES"
+          },
+          {
+            "card_code": "FLK-PC-153",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does the duty of confidentiality interact with the duty not to mislead the court? Must a solicitor disclose a client's lie to prevent the court being misled?",
+            "answer": "No. The duty not to mislead the court does not require a solicitor to breach confidentiality by disclosing a client's false evidence.\n\n**The correct analysis:**\n- The duty not to mislead the court (Principle 1, para 1.4) is a **negative** duty: the solicitor must not actively lie to, or assist in misleading, the court\n- It is NOT a **positive** duty to reveal confidential information to protect the court's interests\n- Confidentiality is only overridden where disclosure is 'required by law' — the court conduct rules do not require disclosure of client confidences\n\n**What the solicitor must do when they know a client has given false evidence:**\n1. Advise the client strongly to correct the false statement\n2. If the client refuses: withdraw from the retainer\n3. On withdrawal: give no reason (preserving confidentiality)\n4. Do NOT disclose the false evidence to the court\n5. Do NOT assist any party to use the false evidence after withdrawal\n\n**The mechanism is withdrawal, not disclosure.** Confidentiality survives the conflict.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NEGATIVE DUTY NOT POSITIVE · WITHDRAWAL NOT DISCLOSURE · ADVISE TO CORRECT FIRST · NO REASON ON WITHDRAWAL · CONFIDENTIALITY SURVIVES · PARA 1.4 + PARA 6.3"
+          },
+          {
+            "card_code": "FLK-PC-154",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When must a solicitor cease acting because of a confidentiality conflict involving a former client?",
+            "answer": "A confidentiality conflict requiring the solicitor (or firm) to cease acting arises where:\n1. The firm holds material confidential information about a **former** client\n2. The interests of the former and current clients are **adverse** — the current instruction puts the firm on the other side from the former client\n3. The former client's confidential information is **directly relevant** to the current matter\n4. The former client's consent is unavailable (typically because interests are adverse)\n\n**Consequences:**\n- The firm cannot use or disclose the former client's confidential information, even to benefit the current client\n- If an information barrier under para 6.5 cannot reliably prevent the risk of disclosure, the firm must cease acting for the current client\n- The firm cannot explain to the current client why it is unable to act (that itself would breach the former client's confidentiality)\n- The test (from Bolkiah v KPMG [1999]): once material confidential information is established, the burden shifts to the firm to show no real risk of disclosure exists",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MATERIAL INFO FROM FORMER CLIENT · ADVERSE INTERESTS · PARA 6.5 · CEASE ACTING OR BARRIERS · BOLKIAH [1999] · BURDEN ON FIRM · NO REASON TO CURRENT CLIENT"
+          },
+          {
+            "card_code": "FLK-PC-155",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are information barriers ('Chinese walls'), and when does the SRA Code permit their use to manage a confidentiality conflict?",
+            "answer": "An information barrier is an internal firm arrangement designed to prevent confidential information held in one part of a firm from reaching another part.\n\n**When permitted (SRA Code para 6.5):** A firm may use information barriers to enable it to act for a current client while holding confidential information about a former (or current) client with adverse interests, if:\n- An effective barrier is in place before the new matter commences\n- There is no real risk of the confidential information being disclosed\n- The firm is satisfied the barrier is sufficient in all the circumstances\n\n**What a valid barrier requires:**\n1. Physical separation of the teams involved\n2. No shared files, systems, databases or communications\n3. Written undertakings by all relevant staff not to discuss or share the information\n4. Management oversight by a senior uninvolved partner\n5. Documented barrier policy and staff training\n\n**The Bolkiah v KPMG [1999] test:** Once material confidential information is established, the burden shifts to the firm to show there is no real risk of disclosure. A theoretical or speculative risk is insufficient to defeat the barrier — but a real (not fanciful) risk will be enough for a court to grant an injunction restraining the firm from acting.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "INFORMATION BARRIER · PARA 6.5 · PHYSICAL SEPARATION + UNDERTAKINGS + OVERSIGHT · BOLKIAH V KPMG [1999] · BURDEN ON FIRM · REAL RISK = INJUNCTION"
+          }
+        ],
+        "Complex analysis": [
+          {
+            "card_code": "FLK-PC-156",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "A solicitor holds confidential information from a former client that is directly material to a current instruction against that former client. Walk through the analysis.",
+            "answer": "**Step 1 — Identify the information:** Is it genuinely confidential? Is it material to the current matter — i.e., would it give the current client an advantage in the dispute or affect the advice given?\n\n**Step 2 — Is the former client's consent available?** Where interests are adverse, this is almost never obtainable. Without consent, move to step 3.\n\n**Step 3 — Can a valid information barrier be established?**\nApply the Bolkiah v KPMG [1999] framework:\n- Identify who within the firm holds the relevant confidential information\n- Assess whether a barrier can genuinely prevent transmission of that information\n- The more specific and material the information, the harder it is to show no real risk of disclosure exists\n- If the fee earner with knowledge is in the same team or has any connection to the current matter, barriers are unlikely to be sufficient\n\n**Step 4 — Outcome:**\n- If a robust barrier with no real risk of disclosure can be established: the firm may continue, using the barrier\n- If not: the firm must **decline to act** for the current client\n- The firm cannot explain why to the current client beyond saying it is unable to act in this matter\n- The firm must not use any of the former client's information even before declining",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "IDENTIFY MATERIALITY · CONSENT UNAVAILABLE · BOLKIAH FRAMEWORK · BARRIER ASSESSED · REAL RISK = DECLINE · NOTIFY CURRENT CLIENT (NO REASON) · PARA 6.3 + PARA 6.5"
+          },
+          {
+            "card_code": "FLK-PC-157",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "What are a solicitor's obligations under SRA Code para 6.4 when they receive unsolicited information from a third party that is relevant to a client's matter?",
+            "answer": "SRA Code para 6.4 addresses a specific and underappreciated situation: where a solicitor receives information from a third party (not the client) that is relevant to the client's matter, and the solicitor has good reason to believe the third party would not want that information disclosed to the client.\n\n**The conflict:** The solicitor holds material information but cannot share it. This creates a tension:\n- Duty to act in the client's best interests requires sharing relevant information\n- Implicit obligation to the third party requires not disclosing information given in confidence\n\n**Options:**\n1. Return the information to the third party and proceed without it\n2. Seek the third party's consent to disclose it to the client\n3. If neither is possible, and the information is material, the solicitor may be unable to continue acting without compromising the client's interests — withdrawal may be necessary\n\n**Key distinction:** This is not the same as the duty of confidentiality to a client — it is a separate third-party confidentiality obligation embedded in the Code. The solicitor cannot resolve it by obtaining the client's consent; only the third party's consent will do.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SRA CODE PARA 6.4 · THIRD PARTY UNSOLICITED INFO · CANNOT DISCLOSE WITHOUT THIRD PARTY CONSENT · CONFLICTS WITH BEST INTERESTS · RETURN / SEEK CONSENT / WITHDRAW · DISTINCT FROM PARA 6.3"
+          }
+        ],
+        "Scenario cards": [
+          {
+            "card_code": "FLK-PC-SCE-044",
+            "card_type": 3,
+            "difficulty": "Foundation",
+            "front": "A potential client attends a free 30-minute initial consultation with a solicitor. No retainer is signed and no fees are paid. During the meeting, the client shares sensitive personal financial information. The firm decides not to take on the matter. Is any duty of confidentiality owed in relation to the information disclosed?",
+            "answer": "Yes. The duty of confidentiality arises when a person approaches a solicitor for legal advice, regardless of whether a formal retainer is entered into or fees are paid.\n\nSRA Code para 6.3 requires the solicitor to keep the affairs of clients confidential. 'Client' in this context includes a potential client who attends for advice — the duty is triggered by the professional relationship, not the execution of a contract.\n\nThe firm must treat all information disclosed in the consultation as confidential. This duty continues indefinitely even though the firm declined the matter — the information cannot be used in acting for another party, shared with third parties, or used for any purpose without the potential client's consent or a legal basis for disclosure.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DUTY ARISES FROM APPROACH · NO RETAINER NEEDED · FREE CONSULTATION COVERED · INDEFINITE · PARA 6.3"
+          },
+          {
+            "card_code": "FLK-PC-SCE-045",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Maya is a solicitor advising a property developer. During the transaction, she develops reasonable grounds to suspect the client is using the transaction to launder money. The client says: 'Don't tell anyone about my affairs — you're bound by confidentiality.' What must Maya do, and what must she not do?",
+            "answer": "Maya must make an authorised disclosure to the National Crime Agency (NCA) under POCA 2002 s.330, despite the client's instructions.\n\n**Why confidentiality does not prevent this:** The 'required by law' exception in SRA Code para 6.3 applies. Where a solicitor in the regulated sector has reasonable grounds to suspect money laundering and fails to disclose, they commit a criminal offence. The legal obligation overrides the contractual and professional duty of confidentiality.\n\n**What Maya must NOT do — tipping off (POCA s.333A):** Maya cannot tell the client that she has made, or is considering making, a disclosure to the NCA. This is a separate criminal offence. If she needs to pause the transaction or withdraw, she cannot give a reason that would reveal the NCA report.\n\n**Privilege:** If any information came to Maya in circumstances attracting legal advice privilege, that information is exempt from the s.330 obligation. But if the client is using the retainer to further a criminal purpose, the crime/fraud exception removes the privilege protection.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "POCA S.330 · REQUIRED BY LAW EXCEPTION · DISCLOSE TO NCA · TIPPING OFF S.333A · NO REASON GIVEN · LAP EXEMPT BUT CRIME/FRAUD EXCEPTION"
+          },
+          {
+            "card_code": "FLK-PC-SCE-046",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "During a civil trial, a solicitor's client gives evidence that the solicitor knows, from a private conversation with the client, to be false. The client refuses to correct the false statement. A trainee says: 'You must tell the judge — your duty to the court overrides confidentiality.' Is the trainee correct, and what should the solicitor do?",
+            "answer": "The trainee is wrong. The duty to the court does not require the solicitor to disclose confidential client information.\n\n**The duty not to mislead the court (Principle 1, para 1.4) is a negative duty:** the solicitor must not lie to or actively deceive the court. It does not create a positive obligation to betray client confidence.\n\nConfidentiality under para 6.3 is only overridden where disclosure is 'required by law.' The court conduct rules do not require the solicitor to disclose the client's lie — they prohibit the solicitor from helping to perpetuate it.\n\n**What the solicitor must do:**\n1. Advise the client to correct the false evidence\n2. If the client refuses — withdraw from the matter\n3. Give no reason for withdrawal (preserving confidentiality)\n4. Do not disclose the false evidence to the court or any party\n5. After withdrawal, do not assist the client or the court using the confidential knowledge\n\nThe mechanism for managing the conflict is **withdrawal**, not disclosure.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "NEGATIVE DUTY NOT POSITIVE · WITHDRAW NOT DISCLOSE · ADVISE TO CORRECT FIRST · NO REASON ON WITHDRAWAL · CONFIDENTIALITY SURVIVES · PARA 1.4 + PARA 6.3"
+          },
+          {
+            "card_code": "FLK-PC-SCE-047",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "Crane & Partners acted for Digby Ltd two years ago on a property acquisition. The retainer has concluded. The firm is now instructed by Atlas Corp in a commercial dispute against Digby Ltd. During the earlier retainer, the firm learned confidential and specific information about Digby's financial position which is directly relevant to Atlas's claim. May the firm act for Atlas?",
+            "answer": "This is a confidentiality conflict between a former client (Digby) and a current prospective client (Atlas).\n\n**Step 1 — Confidentiality survives the retainer:** The duty under para 6.3 applies to former clients indefinitely. The two-year gap is irrelevant.\n\n**Step 2 — The information is material:** Digby's financial position is directly relevant to Atlas's claim — it would plainly be of value to Atlas and affect the advice the solicitor gives.\n\n**Step 3 — Digby's consent:** Digby's interests are adverse to Atlas. Consent is unavailable.\n\n**Step 4 — Information barrier:** Apply the Bolkiah v KPMG [1999] test. The burden is on the firm to show no real risk of disclosure. Given the information is specific and material, and the same firm holds it, the real risk threshold is very likely met — the barrier would need to be extremely robust, and in practice a court is very likely to find it insufficient on these facts.\n\n**Conclusion:** The firm should decline to act for Atlas in this matter. It may tell Atlas only that it is unable to act — it cannot say why, as even that risks inferring Digby's connection to the firm.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PARA 6.3 SURVIVES RETAINER · MATERIAL INFORMATION · CONSENT UNAVAILABLE · BOLKIAH TEST · BURDEN ON FIRM · DECLINE TO ACT · TELL ATLAS UNABLE ONLY"
+          },
+          {
+            "card_code": "FLK-PC-SCE-048",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A solicitor who previously worked on a matter for Widget Co — and holds specific confidential information about their pricing strategy — has moved to a new department at the same firm. The firm is now instructed by a competitor of Widget Co. The managing partner proposes using an information barrier. What must the firm establish, and how would a court assess it if challenged?",
+            "answer": "The firm must establish a valid information barrier under SRA Code para 6.5.\n\n**Minimum requirements:**\n1. Physical separation — the solicitor with Widget Co knowledge must be genuinely excluded: separate files, systems, and communications\n2. Written undertakings — all relevant staff sign undertakings not to discuss or share the information\n3. Management oversight — a senior partner uninvolved in either matter monitors compliance\n4. Documented policy — a firm-wide information barrier policy exists and staff are trained\n5. The barrier must be in place before the new matter commences\n\n**Court assessment — Bolkiah v KPMG [1999]:**\n- Once Widget Co establishes that the firm holds material confidential information, the burden shifts to the **firm** to prove there is no real risk of disclosure\n- The court will look at the specificity of the information, the size of the firm, the physical proximity of the teams, and the robustness of the monitoring\n- A real (not merely theoretical or fanciful) risk is enough for an injunction to restrain the firm from acting\n- If the solicitor with Widget Co knowledge remains in the same building with no structural separation, courts are very unlikely to accept the barrier\n\n**If the barrier fails:** the firm must immediately cease acting and return all papers. The breach cannot be retrospectively cured.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "PARA 6.5 · PHYSICAL SEPARATION + UNDERTAKINGS + OVERSIGHT · BOLKIAH [1999] · BURDEN ON FIRM · REAL RISK = INJUNCTION · CEASE ACTING IF BARRIER FAILS"
+          }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK-PC-TRAP-021",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA firm acted for Ingrid two years ago on a personal injury claim. The matter concluded and the file is closed. A journalist contacts the firm asking for details of Ingrid's case, offering a substantial fee. A fee earner responds: 'The retainer ended two years ago — we're no longer bound by confidentiality.' Is this correct?",
+            "answer": null,
+            "issue": "The Trap: The duty of confidentiality is a contractual obligation that runs only for the duration of the retainer. Once the matter has concluded and the client relationship ended, the solicitor is free to discuss the former client's affairs.",
+            "rule": "The Reality: The duty of confidentiality under SRA Code para 6.3 expressly applies to **former** clients. There is no time limit on the duty — it continues indefinitely after the retainer ends. The passage of time does not erode or discharge it.",
+            "application": "Why the Distractor Fails: The confidentiality obligation is not a contractual term that expires when the retainer does. It is a professional obligation embedded in the SRA Principles and the Code of Conduct. No limitation period applies. The fact that the matter concluded two years ago is entirely irrelevant — Ingrid's information remains confidential and cannot be disclosed without her consent or a legal basis.",
+            "conclusion": "The Key Rule: SRA Code para 6.3 — confidentiality applies to former clients and survives the retainer indefinitely. Time does not erode it. Disclosing a former client's information without consent or legal basis is a breach of the Code regardless of when the matter concluded.",
+            "summary_line": "PARA 6.3 · FORMER CLIENTS COVERED · INDEFINITE DURATION · TIME IRRELEVANT · PROFESSIONAL NOT CONTRACTUAL OBLIGATION"
+          },
+          {
+            "card_code": "FLK-PC-TRAP-022",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA client consults their solicitor about setting up a new business. During the meeting the client shares detailed business plans, financial projections and personal financial position — none of which relate to legal advice. The solicitor is later ordered by a court to produce these documents in separate proceedings. The solicitor refuses, claiming 'legal professional privilege — all communications with a solicitor are privileged.' Is the solicitor correct?",
+            "answer": null,
+            "issue": "The Trap: Any information shared with a solicitor in confidence attracts legal professional privilege — the fact that it was shared in a solicitor-client meeting gives it absolute protection from compelled disclosure.",
+            "rule": "The Reality: Legal professional privilege (LAP) is narrower than the duty of confidentiality. LAP applies only to communications made for the **dominant purpose of obtaining or giving legal advice**. Business plans and financial projections shared for commercial (not legal) purposes attract the professional duty of confidentiality but do NOT attract privilege. A court can compel their production.",
+            "application": "Why the Distractor Fails: The location of a communication (a solicitor's office, a meeting with a solicitor) does not determine whether it is privileged. The dominant purpose test controls. Where a client shares business information with a solicitor acting in an advisory or commercial capacity rather than a strictly legal one, the communication is confidential but not privileged. Confidentiality prevents voluntary disclosure; it does not prevent compelled disclosure under a court order.",
+            "conclusion": "The Key Rule: Confidential ≠ privileged. LAP requires the dominant purpose of the communication to be legal advice. Non-legal business information shared with a solicitor is confidential under para 6.3 but can be compelled by court order if it is not privileged.",
+            "summary_line": "CONFIDENTIAL ≠ PRIVILEGED · LAP = DOMINANT PURPOSE LEGAL ADVICE · NON-LEGAL INFO = CONFIDENTIAL ONLY · COURT ORDER CAN COMPEL · PARA 6.3 VS LAP"
+          },
+          {
+            "card_code": "FLK-PC-TRAP-023",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nDuring trial, a solicitor realises that their client's witness statement contains a material false claim. The client has privately confirmed it is false and refuses to correct it. A trainee says: 'You have a duty to the court — you must immediately tell the judge what the client told you.' The solicitor is about to do so. Should they?",
+            "answer": null,
+            "issue": "The Trap: The solicitor's overriding duty to the court under Principle 1 and the duty not to mislead the court (para 1.4) requires the solicitor to proactively disclose confidential information to prevent the court being deceived — the duty to the court overrides confidentiality.",
+            "rule": "The Reality: The duty not to mislead the court is a **negative** duty — the solicitor must not actively deceive or assist in deceiving the court. It does not create a positive obligation to reveal confidential client information. Confidentiality under para 6.3 is only overridden where disclosure is **required by law** — and the court conduct rules do not require disclosure of client confidences.",
+            "application": "Why the Distractor Fails: The solicitor correctly understands that they cannot help perpetuate the false evidence. But the mechanism for managing this conflict is **withdrawal**, not disclosure. Disclosing what the client said in confidence to correct the lie would itself be a breach of para 6.3. The solicitor must advise the client to correct the statement; if the client refuses, they must withdraw without explanation.",
+            "conclusion": "The Key Rule: Duty to court = negative duty (do not mislead). Confidentiality survives: advise the client to correct, withdraw if refused, give no reason on withdrawal, do not disclose the client's lie to the court. Withdrawal is the mechanism — disclosure is not.",
+            "summary_line": "NEGATIVE DUTY NOT POSITIVE · WITHDRAWAL NOT DISCLOSURE · ADVISE TO CORRECT · WITHDRAW IF REFUSED · NO REASON · CONFIDENTIALITY SURVIVES · PARA 1.4 + PARA 6.3"
+          }
+        ],
+        "Deeper understanding": [
+          {
+            "card_code": "FLK-PC-DEEP-005",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Is legal professional privilege drawing too wide a boundary, or not wide enough?",
+            "answer": "Legal professional privilege (LPP) is absolute in English law — once established, it cannot be overridden by competing public interest: R v Derby Magistrates' Court, ex parte B [1996] (HL). This stands in sharp contrast to approaches in other common law jurisdictions (Canada, Australia) that recognise a public interest override. Critics in the academic literature (Neil Andrews, 'English Civil Procedure', 2003; Adrian Zuckerman, 'Civil Procedure', 2006) argue the absolute rule is constitutionally appropriate: privilege is a fundamental right that the state cannot override without destroying the relationship between lawyer and client. But the absolute rule creates perverse consequences — it protects communications even in cases of mass corporate fraud (Three Rivers No.5 [2003]) and child safeguarding scenarios. The contrary view — that privilege is too wide — focuses on its extension to in-house lawyers and to the crime-fraud exception's narrow scope. Re L (A Minor) [1997] created a child welfare exception to litigation privilege, but no equivalent exists for legal advice privilege. The EU takes a narrower view: the ECJ in AM & S v Commission [1982] and Akzo Nobel Chemicals [2010] refused to extend privilege to in-house lawyers in competition proceedings. The unresolved tension is whether LPP protects the individual's right to legal advice (broad application justified) or primarily serves the administration of justice (narrower scope defensible).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
+          },
+          {
+            "card_code": "FLK-PC-DEEP-006",
+            "card_type": 4,
+            "difficulty": null,
+            "flk": "FLK",
+            "front": "Going deeper: Has Bolkiah v KPMG created an unworkable standard for information barriers in law firms?",
+            "answer": "Bolkiah v KPMG [1999] 2 AC 222 held that a fiduciary (applied by extension to solicitors) cannot act for a new client where there is a risk of disclosure of a former client's confidential information unless it can show a 'effective' system to prevent disclosure — an 'effective' information barrier. Lord Millett set a high standard: the barrier must be such that 'real risk' of disclosure is removed. Critics argue this has made mergers of large law firms practically impossible where former clients overlap — every significant transaction creates a Bolkiah problem. Charles Mitchell and Stephen Watterson ('Subrogation: Law and Practice', 2007) note that no English court has ever found a Chinese wall to be sufficient under Bolkiah. The SRA Code para 6.5 permits information barriers, but the standard it sets is ambiguous relative to Bolkiah's high threshold. Academic debate centres on whether Bolkiah is too demanding: if the individuals within the firm are genuinely separated and there is demonstrably no communication, why should the firm be prevented from acting? The counter-argument is that the fiduciary principle requires more than factual separation — it requires that the former client can have confidence that their information will never be at risk. Some practitioners argue that managed information barriers with technological reinforcement (separate IT systems, separate floors, monitored email) do satisfy Bolkiah in practice — but no court has confirmed this.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": null,
+            "is_deeper": 1
           }
         ]
       }

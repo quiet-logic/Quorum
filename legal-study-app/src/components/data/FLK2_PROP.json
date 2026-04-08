@@ -2588,6 +2588,90 @@
             "conclusion": null,
             "summary_line": "CONTAMINATED LAND · S.78A EPA 1990 · REMEDIATION NOTICE · POLLUTER PAYS · APPROPRIATE PERSON · DUE DILIGENCE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-PROP-101",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "front": "What must a solicitor report to a buyer client on title in a conveyancing transaction?",
+            "answer": "The reporting on title is one of the solicitor's core duties to the buyer. The report must cover all matters affecting the title **before exchange of contracts** (or as soon as possible after investigation). It should include:\n\n1. **Title defects** — gaps in the title, break in the chain of ownership, missing deeds or documents.\n2. **Incumbrances** — mortgages, charges, or other financial encumbrances on the title.\n3. **Restrictive covenants** — covenants limiting the use of the property (e.g. no commercial use, no extension over 2 storeys).\n4. **Positive covenants** — obligations that run with the land (e.g. to maintain a boundary, contribute to a road).\n5. **Search results** — any adverse entries in local authority, drainage, environmental, or other searches.\n6. **Mortgage offer conditions** — any special conditions in the mortgage offer that must be satisfied.\n7. **Leasehold matters** (if applicable) — length of lease, service charge obligations, ground rent, alienation provisions.\n8. **Rights and easements** — easements, rights of way affecting the property.\n9. **Recommended action** — the solicitor must advise the client on significant issues and recommend indemnity insurance where appropriate.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "REPORTING ON TITLE · BEFORE EXCHANGE · DEFECTS · COVENANTS · SEARCHES · MORTGAGE CONDITIONS · LEASEHOLD ISSUES · RECOMMENDED ACTION"
+          },
+          {
+            "card_code": "FLK2-PROP-102",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are undertakings in conveyancing and what are the consequences of breaching one?",
+            "answer": "An **undertaking** is a solemn promise given by a solicitor in the course of practice — it binds the solicitor **personally** and their firm.\n\n**Common conveyancing undertakings:**\n- To discharge the seller's existing mortgage on or shortly after completion and provide evidence of discharge.\n- To hold the deposit (or part of it) to the order of the seller's solicitor pending completion.\n- To provide indemnity insurance upon request.\n- To use the completion funds only for the purpose of completing the purchase.\n\n**Consequences of breach:**\n1. **Professional discipline** — breach of an undertaking is serious professional misconduct; the SRA may impose a fine, suspension, or strike-off.\n2. **Personal liability** — the solicitor may be personally liable to the other party for the loss caused by the breach (even if the firm's indemnity insurance does not cover it).\n3. **Loss of professional reputation** — courts take a dim view of solicitors who breach undertakings.\n\n**Key rule:** A solicitor should never give an undertaking they cannot be certain of fulfilling. If in doubt, do not give the undertaking or qualify it clearly.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "UNDERTAKINGS · BINDING ON SOLICITOR PERSONALLY · DISCHARGE MORTGAGE · BREACH = MISCONDUCT · PERSONAL LIABILITY · NEVER GIVE IF UNCERTAIN"
+          },
+          {
+            "card_code": "FLK2-PROP-103",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When must a solicitor make a Suspicious Activity Report (SAR) in a conveyancing transaction and what must they do afterwards?",
+            "answer": "A solicitor must make a **SAR** to the National Crime Agency (NCA) if they **know or suspect** that a person is engaged in money laundering under POCA 2002 s.330 (regulated sector reporting offence).\n\n**Suspicion threshold:** Lower than knowledge — a subjective belief based on reasonable grounds that property represents the proceeds of crime or is being used in connection with money laundering.\n\n**Common red flags in conveyancing:** unverifiable source of funds; third-party payments; cash transactions; pressure to complete quickly; back-to-back transactions at inflated prices; buyer has never visited the property; property purchased significantly below market value.\n\n**After making a SAR:**\n1. The solicitor must **not proceed with the transaction** until:\n   - The NCA grants **consent** to proceed, OR\n   - **Seven days** have elapsed without the NCA refusing consent (deemed consent).\n2. The solicitor **must not tip off** the client that a SAR has been made (tipping off is a separate criminal offence under POCA 2002 s.333A — up to 5 years' imprisonment).\n3. The solicitor may need to explain to the client that they cannot proceed immediately, without revealing why.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "SAR · NCA · POCA 2002 S.330 · KNOW OR SUSPECT · SEVEN-DAY DEEMED CONSENT · CANNOT PROCEED · TIPPING OFF OFFENCE S.333A"
+          },
+          {
+            "card_code": "FLK2-PROP-104",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "When may a solicitor act for both buyer and seller in a conveyancing transaction under the SRA Code of Conduct?",
+            "answer": "Under **SRA Code of Conduct paragraph 6.2**, a solicitor may not act for parties whose interests conflict.\n\n**General rule for conveyancing dual representation:**\n- In **residential conveyancing** where the consideration **exceeds £50,000**, a solicitor (or firm) **may not** act for both buyer and seller, even if both parties consent. This is an absolute prohibition.\n- In **commercial conveyancing** or residential transactions where the consideration is **£50,000 or less**, dual representation is permitted provided: (1) both parties **give informed consent**; and (2) there is no **conflict of interest** (or significant risk of one).\n\n**What triggers impermissibility:**\n- A conflict arises mid-transaction (e.g. dispute over condition, seller reveals concealed defect) — the solicitor must cease acting for one (or both) parties.\n- The parties' interests diverge in negotiation of price, terms, searches, or contractual provisions.\n\n**On conflict emerging:** The solicitor must cease to act for one party. Confidential information obtained from one client cannot be used for the benefit of the other. In many cases, the solicitor will need to cease acting for both.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DUAL REPRESENTATION · SRA COC 6.2 · RESIDENTIAL > £50K PROHIBITED · COMMERCIAL CONSENT REQUIRED · CONFLICT EMERGES = CEASE ACTING"
+          },
+          {
+            "card_code": "FLK2-PROP-105",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What are the key red flags for mortgage fraud and money laundering that a conveyancing solicitor must recognise?",
+            "answer": "A conveyancing solicitor must remain alert to the following red flags:\n\n**Mortgage fraud red flags:**\n1. **Back-to-back transactions** — property purchased, then immediately sold at a higher price, artificially inflating values.\n2. **Cash-back to buyer** — buyer receives a rebate or discount off the stated purchase price (undisclosed to the lender).\n3. **Buyer unfamiliar with property** — never visited it, knows little about it.\n4. **Seller is also the introducer** — seller arranged the buyer and finance.\n5. **Unusual urgency** — artificial pressure to complete quickly.\n6. **Multiple mortgages** on the same property.\n\n**Money laundering red flags:**\n1. **Unverifiable source of funds** — cash, offshore accounts, third-party payments.\n2. **Beneficial ownership unclear** — buyer is a company, trust, or nominee with opaque ownership.\n3. **Significant price reduction** without explanation.\n4. **Complex ownership structure** with no clear business rationale.\n5. **Inconsistent financial picture** — client's income/wealth does not support the transaction.\n\n**Action required:** Make a SAR to the NCA and do not proceed without NCA consent or deemed consent. Do not tip off the client.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "MORTGAGE FRAUD RED FLAGS · BACK-TO-BACK SALES · CASH-BACK · MONEY LAUNDERING · UNVERIFIABLE FUNDS · OPAQUE OWNERSHIP · SAR REQUIRED"
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-058",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "A solicitor is acting for both buyer and seller in a residential conveyancing transaction (value £350,000). At exchange, the seller tells the solicitor about significant structural problems deliberately concealed from the buyer's survey. The seller instructs the solicitor to say nothing to the buyer. What must the solicitor do?",
+            "answer": "The solicitor must **immediately cease acting for both parties**.\n\n**Analysis:**\n\n1. **Conflict of interest:** A direct conflict now exists between buyer and seller — the seller wants to conceal a material defect; the buyer has a right to know. Acting for both is impermissible under SRA CoC 6.2 in any event for a residential transaction over £50,000.\n\n2. **Confidentiality vs disclosure:** The solicitor owes a duty of confidentiality to the seller — they cannot tell the buyer about the structural problems without the seller's consent. However, the solicitor **cannot use** the buyer's trust to allow a fraud to proceed.\n\n3. **Cannot remain silent:** If the solicitor proceeds to exchange knowing of a material concealment, they are facilitating a fraudulent misrepresentation. This is professional misconduct (SRA Principles: act with integrity; do not assist dishonesty).\n\n4. **Required action:**\n   - Advise the seller that the solicitor can no longer act for them.\n   - Advise the seller to instruct separate solicitors and to disclose the defect or the contract cannot proceed.\n   - Cease acting for the buyer until the seller has resolved the disclosure issue.\n   - If the seller refuses to disclose and presses for exchange, cease acting for the seller entirely and advise the buyer to seek independent advice (without revealing the specific confidential information).\n\n5. **Consider reporting:** If the situation involves fraud on the buyer, the solicitor may need to consider whether a report to the SRA is required.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "CEASE ACTING BOTH PARTIES · CONFLICT OF INTEREST · CANNOT FACILITATE FRAUD · CONFIDENTIALITY VS INTEGRITY · ADVISE SELLER TO DISCLOSE · CEASE IF REFUSED"
+          },
+          {
+            "card_code": "FLK2-PROP-SCE-059",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "A property purchase is being funded 80% by an unidentified third party. The buyer cannot explain who the funder is or where the funds originate. The transaction is otherwise straightforward. Advise the solicitor on their AML obligations.",
+            "answer": "The solicitor has serious AML concerns and should proceed as follows:\n\n**Step 1 — Customer Due Diligence (CDD):** Under the Money Laundering Regulations 2017, the solicitor must conduct CDD on the buyer **and** on any third-party funder providing more than a minimal contribution. The solicitor must:\n- Verify the identity of the funder.\n- Establish the source of funds (bank statements, proof of wealth, business accounts).\n- Establish the beneficial ownership of the funder (if the funder is a company, trust, or other entity).\n\n**Step 2 — Enhanced CDD:** Given the unknown source of a substantial portion of funds (80%), this is a high-risk situation triggering **Enhanced Due Diligence** under the Regulations. The solicitor must take additional steps to understand the transaction's purpose and source of wealth.\n\n**Step 3 — SAR if suspicion arises:** If, after investigation, the solicitor still cannot verify the source of funds or the funder's identity, the solicitor **must not proceed** and should make a SAR to the NCA. Proceeding without satisfying AML requirements would be a criminal offence (POCA 2002 s.328 — arrangement offence).\n\n**Step 4 — Cease acting:** If the client refuses to provide the required information, the solicitor must cease acting and should consider whether a SAR is required.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "AML OBLIGATIONS · CDD ON FUNDER · ENHANCED DUE DILIGENCE · SOURCE OF FUNDS · BENEFICIAL OWNERSHIP · SAR IF UNVERIFIED · CEASE IF REFUSED"
           }
         ],
         "Key Cases — Chancel Repair": [
@@ -2607,6 +2691,20 @@
             "summary_line": "ASTON CANTLOW v WALLBANK · CHANCEL REPAIR · PROPRIETARY BURDEN · OCTOBER 2013 REGISTRATION · HRA",
             "is_deeper": 0
           }
+        ],
+        "Trap cards": [
+          {
+            "card_code": "FLK2-PROP-TRAP-013",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA solicitor is instructed by both buyer and seller in a residential conveyancing transaction worth £350,000. Both clients sign a written consent form agreeing to dual representation. The student concludes: 'Consent has been given in writing, so the solicitor may proceed.'",
+            "answer": null,
+            "issue": "The Trap: Written consent from both parties is sufficient to permit a solicitor to act for both buyer and seller in any conveyancing transaction.",
+            "rule": "The Reality: In a residential conveyancing transaction where the consideration **exceeds £50,000**, a solicitor (or firm) is **absolutely prohibited** from acting for both parties under SRA CoC 6.2, **regardless of consent**. The prohibition is categorical for standard residential transactions above the threshold. Written consent does not override the rule.",
+            "application": "Why the Distractor Fails: Students are taught that conflicts of interest can often be resolved through informed consent. This is true in many professional contexts, but the SRA Code of Conduct imposes a hard rule for residential conveyancing above £50,000 — consent is irrelevant. The rationale is consumer protection: in residential property transactions, information asymmetry is high and the potential for one party to be prejudiced by the solicitor's divided loyalties is significant. The rule removes the temptation entirely.",
+            "conclusion": "The Key Rule: Residential conveyancing > £50,000 = **no dual representation**, even with written consent. Commercial conveyancing or residential ≤ £50,000 = permitted if no conflict and informed consent. Always check the consideration threshold first.",
+            "summary_line": "RESIDENTIAL > £50K · ABSOLUTE PROHIBITION · CONSENT IRRELEVANT · SRA COC 6.2 · CONSUMER PROTECTION RATIONALE · CHECK THRESHOLD FIRST"
+          }
         ]
       },
       "Deeper Understanding": {
@@ -2624,7 +2722,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "WALSH V LONSDALE · EQUITABLE LEASE · SPECIFICALLY ENFORCEABLE · LEGAL LEASE EQUIVALENT · LIMITS — THIRD PARTIES · BONA FIDE PURCHASER · TULK V MOXHAY",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2640,7 +2738,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ADVERSE POSSESSION · LRA 2002 SCHEDULE 6 · REGISTERED PROPRIETOR NOTIFIED · 10-YEAR PERIOD · LIMITATION ACT 1980 REPLACED · BEAULANE · LAW COMMISSION",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2656,7 +2754,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "OVERRIDING INTERESTS · REGISTER RELIABILITY · ACTUAL OCCUPATION · WILLIAMS V GLYNS BANK · LRA 2002 S.29 · CURTAILMENT · THORNTON · LAW COMMISSION",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2672,7 +2770,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "BRUTON TENANCY · NO PROPRIETARY ESTATE · CONTRACTUAL TENANCY · STREET V MOUNTFORD · LONDON AND QUADRANT · GRAY AND GRAY · PROPRIETARY PARADOX",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2688,7 +2786,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "LEASEHOLD ABOLITION · LEASEHOLD REFORM · ENFRANCHISEMENT · COMMONHOLD · LEASEHOLD REFORM HOUSING AND URBAN DEVELOPMENT ACT 1993 · LAW COMMISSION 2020",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2704,7 +2802,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "UNDUE INFLUENCE · ETRIDGE NO 2 · BANK'S OBLIGATIONS · CERTIFICATE OF INDEPENDENT ADVICE · O'BRIEN · SURETY PROTECTION · UNCONSCIONABILITY",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2720,7 +2818,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "RESTRICTIVE COVENANTS · TULK V MOXHAY · LAW COMMISSION · LAND OBLIGATIONS · POSITIVE COVENANTS DO NOT RUN · REFORM PROPOSALS · HALSALL V BRIZELL",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2736,7 +2834,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "LTA 1954 · SECURITY OF TENURE · COMMERCIAL TENANTS · LAW COMMISSION 1992 · CONTRACTING OUT · RENEWAL RIGHTS · MODERN FITNESS · LCCP 208",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2752,7 +2850,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "CHANCEL REPAIR LIABILITY · ASTON CANTLOW · HUMAN RIGHTS · WALLBANK · ARTICLE 1 PROTOCOL 1 · OVERRIDING INTEREST PRE-2013 · REGISTRATION NOW REQUIRED",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
@@ -2768,7 +2866,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "VAT ON COMMERCIAL PROPERTY · OPTION TO TAX · TOGC · COMPLEXITY · EXEMPT SUPPLY · STANDARD RATED · INPUT TAX RECOVERY · OTS REVIEW",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]

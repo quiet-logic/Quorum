@@ -1128,40 +1128,6 @@
             "is_deeper": 0
           }
         ],
-        "Witnessing and s.15": [
-          {
-            "card_code": "FLK2-WTP-028",
-            "card_type": 1,
-            "difficulty": "Foundation",
-            "flk": "FLK2",
-            "topic": "Construction and Effect of Wills",
-            "subtopic": "Witnessing and s.15",
-            "front": "What is the effect of a witness or their spouse/civil partner being a beneficiary under the will?",
-            "answer": "Under s.15 Wills Act 1837, a gift to a witness (or to the spouse or civil partner of a witness at the time of execution) is void. The will itself remains valid and is admitted to probate — only the gift fails.\n\nThe witness still counts for the purpose of s.9 attestation — the will is not invalidated by the conflict. The effect is that the witness loses their benefit but their attestation is still valid.\n\nIf there are only two witnesses and one is a beneficiary (or their spouse is), the gift to that person fails absolutely. There is no saving provision.\n\nNote: the relevant relationship is at the time of execution — a witness who marries a beneficiary after execution is not affected.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "s.15 WILLS ACT · WITNESS SPOUSE · GIFT VOID · WILL VALID · ATTESTATION COUNTS · TIME OF EXECUTION",
-            "is_deeper": 0
-          },
-          {
-            "card_code": "FLK2-WTP-029",
-            "card_type": 1,
-            "difficulty": "Application",
-            "flk": "FLK2",
-            "topic": "Construction and Effect of Wills",
-            "subtopic": "Witnessing and s.15",
-            "front": "The testator's will leaves the residue to their spouse. The spouse witnesses the will. What are the consequences?",
-            "answer": "The gift of residue to the spouse is void under s.15 Wills Act 1837. The spouse is a witness and a beneficiary — the gift fails absolutely.\n\nThe will itself is not invalidated — it is admitted to probate. The attestation counts for the purpose of s.9.\n\nConsequence for the estate: if the residue fails, there is a total or partial intestacy in respect of the residue. On intestacy, the spouse may still be entitled to a share of the estate under the AEA 1925 intestacy rules — but they have lost the testamentary gift.\n\nThis is a common and serious drafting error. The solicitor who prepared the will without advising the client to use independent witnesses may be liable in negligence: White v Jones [1995].",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "s.15 · SPOUSE WITNESSES · GIFT TO SPOUSE VOID · RESIDUE ABSORBS · WHITE V JONES · SOLICITOR NEGLIGENCE",
-            "is_deeper": 0
-          }
-        ],
         "Ademption and abatement": [
           {
             "card_code": "FLK2-WTP-030",
@@ -1296,7 +1262,57 @@
             "is_deeper": 0
           }
         ],
-        "Witnessing / s.15": [
+        "Gift classification": [
+          {
+            "card_code": "FLK2-WTP-SCE-023",
+            "card_type": 3,
+            "difficulty": "Foundation",
+            "flk": "FLK2",
+            "topic": "Construction and Effect of Wills",
+            "subtopic": "Gift classification",
+            "front": "Rita's will leaves '£20,000 from my HSBC savings account to my nephew Sam'. At Rita's death the HSBC account contains only £8,000. What does Sam receive and why?",
+            "answer": "This is a demonstrative gift — a gift of a general amount directed to be satisfied from a specific fund.\n\nA demonstrative gift is not subject to full ademption. Where the specified fund is insufficient to satisfy the full gift, the shortfall is met from the general estate.\n\nSam receives £20,000 in total: £8,000 from the HSBC account and £12,000 from the general estate.\n\nContrast with a specific gift: if the gift had been 'the balance of my HSBC savings account', that would be a specific gift — Sam would receive only £8,000 (the balance) with no right to claim the shortfall from the general estate.\n\nDemonstrative gifts occupy an intermediate position — they benefit from the general estate if the fund is insufficient, but are satisfied from the named fund first.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DEMONSTRATIVE GIFT · FUND INSUFFICIENT · GENERAL ESTATE TOPS UP · CONTRAST SPECIFIC · £20K PAID",
+            "is_deeper": 0
+          }
+        ],
+        "Witnessing and s.15": [
+          {
+            "card_code": "FLK2-WTP-028",
+            "card_type": 1,
+            "difficulty": "Foundation",
+            "flk": "FLK2",
+            "topic": "Construction and Effect of Wills",
+            "subtopic": "Witnessing and s.15",
+            "front": "What is the effect of a witness or their spouse/civil partner being a beneficiary under the will?",
+            "answer": "Under s.15 Wills Act 1837, a gift to a witness (or to the spouse or civil partner of a witness at the time of execution) is void. The will itself remains valid and is admitted to probate — only the gift fails.\n\nThe witness still counts for the purpose of s.9 attestation — the will is not invalidated by the conflict. The effect is that the witness loses their benefit but their attestation is still valid.\n\nIf there are only two witnesses and one is a beneficiary (or their spouse is), the gift to that person fails absolutely. There is no saving provision.\n\nNote: the relevant relationship is at the time of execution — a witness who marries a beneficiary after execution is not affected.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "s.15 WILLS ACT · WITNESS SPOUSE · GIFT VOID · WILL VALID · ATTESTATION COUNTS · TIME OF EXECUTION",
+            "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-029",
+            "card_type": 1,
+            "difficulty": "Application",
+            "flk": "FLK2",
+            "topic": "Construction and Effect of Wills",
+            "subtopic": "Witnessing and s.15",
+            "front": "The testator's will leaves the residue to their spouse. The spouse witnesses the will. What are the consequences?",
+            "answer": "The gift of residue to the spouse is void under s.15 Wills Act 1837. The spouse is a witness and a beneficiary — the gift fails absolutely.\n\nThe will itself is not invalidated — it is admitted to probate. The attestation counts for the purpose of s.9.\n\nConsequence for the estate: if the residue fails, there is a total or partial intestacy in respect of the residue. On intestacy, the spouse may still be entitled to a share of the estate under the AEA 1925 intestacy rules — but they have lost the testamentary gift.\n\nThis is a common and serious drafting error. The solicitor who prepared the will without advising the client to use independent witnesses may be liable in negligence: White v Jones [1995].",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "s.15 · SPOUSE WITNESSES · GIFT TO SPOUSE VOID · RESIDUE ABSORBS · WHITE V JONES · SOLICITOR NEGLIGENCE",
+            "is_deeper": 0
+          },
           {
             "card_code": "FLK2-WTP-SCE-019",
             "card_type": 3,
@@ -1327,24 +1343,6 @@
             "application": null,
             "conclusion": null,
             "summary_line": "s.15 · TIME OF EXECUTION · SUBSEQUENT DISSOLUTION · STILL VOID · RELATIONSHIP AT EXECUTION GOVERNS",
-            "is_deeper": 0
-          }
-        ],
-        "Gift classification": [
-          {
-            "card_code": "FLK2-WTP-SCE-023",
-            "card_type": 3,
-            "difficulty": "Foundation",
-            "flk": "FLK2",
-            "topic": "Construction and Effect of Wills",
-            "subtopic": "Gift classification",
-            "front": "Rita's will leaves '£20,000 from my HSBC savings account to my nephew Sam'. At Rita's death the HSBC account contains only £8,000. What does Sam receive and why?",
-            "answer": "This is a demonstrative gift — a gift of a general amount directed to be satisfied from a specific fund.\n\nA demonstrative gift is not subject to full ademption. Where the specified fund is insufficient to satisfy the full gift, the shortfall is met from the general estate.\n\nSam receives £20,000 in total: £8,000 from the HSBC account and £12,000 from the general estate.\n\nContrast with a specific gift: if the gift had been 'the balance of my HSBC savings account', that would be a specific gift — Sam would receive only £8,000 (the balance) with no right to claim the shortfall from the general estate.\n\nDemonstrative gifts occupy an intermediate position — they benefit from the general estate if the fund is insufficient, but are satisfied from the named fund first.",
-            "issue": null,
-            "rule": null,
-            "application": null,
-            "conclusion": null,
-            "summary_line": "DEMONSTRATIVE GIFT · FUND INSUFFICIENT · GENERAL ESTATE TOPS UP · CONTRAST SPECIFIC · £20K PAID",
             "is_deeper": 0
           }
         ]
@@ -1776,6 +1774,78 @@
             "conclusion": null,
             "summary_line": "DISCLAIMER · REFUSE INTEREST · NO REDIRECTION · AS IF PREDECEASED · s.93 IHTA · DEED OF VARIATION CONTRAST",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-080",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What conditions must be satisfied for a deed of variation to be effective for IHT purposes under s.142 IHTA 1984?",
+            "answer": "A deed of variation (DOV) is treated for IHT purposes as if the deceased had made the varied disposition, **reading back** to the date of death, provided:\n\n1. **Written instrument** — the variation must be in writing.\n2. **Two-year window** — the instrument must be executed within **two years** of the deceased's death.\n3. **Statement of intent** — the instrument must contain a statement by the parties that it is intended to have IHT effect under s.142 IHTA 1984. Without this election, the read-back does not apply for IHT.\n4. **No prior variation** — the property being varied must not have already been the subject of a previous variation.\n5. **Executed by all beneficiaries affected** — all those whose entitlement is reduced must be party to the instrument and must be adults with capacity.\n\nIf the variation increases the estate's IHT liability, HMRC must also be notified.\n\n**Effect:** HMRC treats the estate as if it passed in the varied form from the date of death — useful for redirecting assets to charities (100% exemption) or to a surviving spouse (spouse exemption).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.142 IHTA 1984 · DOV · TWO YEARS · WRITTEN · STATEMENT OF INTENT · READ-BACK TO DATE OF DEATH · NO PRIOR VARIATION"
+          },
+          {
+            "card_code": "FLK2-WTP-081",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "How does s.62(6)–(7) TCGA 1992 apply to deeds of variation, and when is a separate CGT election required?",
+            "answer": "Under s.62(6)–(7) TCGA 1992, assets passing on death are acquired by the beneficiary at **market value at the date of death** (no CGT charge at death). A deed of variation does not itself constitute a disposal by the original beneficiary for CGT purposes **if** a specific election is made.\n\n**CGT election requirements:**\n- The instrument must contain a **separate written election** that s.62(6) TCGA 1992 applies.\n- This election is in **addition to** (not instead of) the IHT election under s.142 IHTA.\n- The CGT election means the variation is treated as if the deceased had made the varied disposal — the new beneficiary acquires the asset at date-of-death probate value.\n\n**What if no CGT election is made?**\n- The variation is treated as a disposal by the original beneficiary to the new beneficiary at market value at the date of the DOV.\n- If assets have risen in value between death and the DOV, the original beneficiary may incur a CGT liability.\n\n**Practical point:** Always check whether both the IHT and CGT elections are needed. They apply independently — a DOV can elect for one but not the other.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "S.62 TCGA 1992 · CGT ELECTION · SEPARATE FROM IHT ELECTION · NO DISPOSAL IF ELECTION MADE · PROBATE VALUE BASIS · RISING ASSETS RISK"
+          },
+          {
+            "card_code": "FLK2-WTP-082",
+            "card_type": 1,
+            "difficulty": "Complex",
+            "front": "Can beneficiaries execute a deed of variation where one of the affected beneficiaries is a minor or lacks mental capacity?",
+            "answer": "No — not without court approval. A deed of variation requires the **consent of all beneficiaries whose entitlements are varied**. A person under 18 lacks capacity to execute a DOV, and a person who lacks mental capacity cannot consent.\n\n**Options where a minor or incapacitated beneficiary is involved:**\n\n1. **Court approval under the Variation of Trusts Act 1958 (VTA 1958):** The court can approve a variation on behalf of minor or unborn beneficiaries if the variation is for their **benefit**. Benefit is broadly construed — may include tax savings for the family as a whole, even if the minor's individual entitlement is reduced, provided the overall benefit is real.\n\n2. **Court approval under the Mental Capacity Act 2005 / Court of Protection:** For an adult lacking capacity, the Court of Protection may authorise the variation on behalf of that person if it is in their **best interests**.\n\n**Note:** HMRC will still accept the DOV for IHT/CGT purposes if the court has authorised it on behalf of the incapacitated party — the read-back under s.142 IHTA 1984 / s.62 TCGA 1992 can still apply.\n\n**Practical point:** Seek court approval early — it takes time and the two-year window for the DOV cannot be extended.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DOV MINOR BENEFICIARY · VTA 1958 COURT APPROVAL · BENEFIT TEST · MCA 2005 INCAPACITY · COURT OF PROTECTION · TWO-YEAR WINDOW STRICT"
+          },
+          {
+            "card_code": "FLK2-WTP-SCE-054",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Harry dies leaving his estate of £800,000 equally between his two adult children, Imogen and James. Imogen wants to redirect her share to her adult daughter, Lily, to reduce IHT. Harry died 14 months ago. Both children and Lily agree. What steps must be taken and what tax effect will the variation produce?",
+            "answer": "**Steps:**\n1. Execute a **deed of variation** within two years of Harry's death — 14 months have elapsed, leaving up to 10 months to execute. The two-year window is still open.\n2. The instrument must be **in writing** and signed by all affected parties — Imogen (whose entitlement is reduced) and Lily (the new beneficiary). James is not affected so need not be a party.\n3. Include the **s.142 IHTA 1984 election** to achieve IHT read-back.\n4. Consider whether a **s.62 TCGA 1992 CGT election** is needed — if the assets in Imogen's share have risen since Harry's death, omitting it would create a CGT disposal by Imogen.\n\n**IHT effect:**\nWith the read-back, HMRC treats Harry's estate as having passed £400,000 to Lily (not Imogen). This does not itself save IHT on Harry's estate (both Imogen and Lily are chargeable beneficiaries outside the exemptions), but it could be useful if Lily were a charity or if the purpose is to skip a generation and avoid IHT on Imogen's own estate later.\n\n**No IHT saving here if Lily is not exempt** — but the DOV achieves estate planning by ensuring the asset passes directly from Harry's estate to Lily, without forming part of Imogen's estate for future IHT.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DOV · TWO YEARS NOT EXPIRED · S.142 IHTA ELECTION · S.62 TCGA ELECTION · GENERATION SKIP · NOT INHERENTLY IHT-FREE · ESTATE PLANNING TOOL"
+          },
+          {
+            "card_code": "FLK2-WTP-SCE-055",
+            "card_type": 3,
+            "difficulty": "Complex",
+            "front": "Clare dies leaving her estate to her son David. Two years and three months after her death, David tries to execute a deed of variation to redirect part of the estate to his children. His solicitor advises this is out of time. David argues the solicitor can apply to court for an extension. Is the solicitor right and is the argument correct?",
+            "answer": "The solicitor is correct and David's argument is wrong.\n\n**The two-year window is absolute:** Section 142 IHTA 1984 requires the deed of variation to be executed within **two years of the deceased's death**. There is no discretion to extend this period and no mechanism for a court to grant an extension. The limitation is statutory and strictly applied.\n\n**David cannot use a DOV** — it is now out of time. The statutory read-back under s.142 IHTA 1984 is unavailable. Executing a deed of variation now would not achieve IHT or CGT treatment as if the varied disposition had been made by Clare.\n\n**What are the alternatives?**\n- David could make **lifetime gifts** to his children from the inherited assets — these would be potentially exempt transfers (PETs) for IHT. If David survives seven years, no IHT is payable.\n- A **trust** established by David could also be used, though this would be a chargeable lifetime transfer if a discretionary trust.\n- There is **no retrospective relief** equivalent to the DOV available outside the two-year window.\n\n**Key point:** Solicitors advising estates must flag the two-year window early and ensure clients know the deadline.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "DOV OUT OF TIME · TWO YEARS ABSOLUTE · NO COURT EXTENSION · S.142 IHTA UNAVAILABLE · LIFETIME GIFT PET ALTERNATIVE · STRICT STATUTORY DEADLINE"
+          },
+          {
+            "card_code": "FLK2-WTP-TRAP-016",
+            "card_type": 5,
+            "difficulty": null,
+            "front": "⚠️ TRAP CARD\n\nA client says: 'I have signed a deed of variation this week redirecting my late mother's shares to my children. That means the shares have now transferred from me to them today and I'll be assessed to CGT on any gain since probate.' Correct any errors in the client's understanding.",
+            "answer": null,
+            "issue": "The Trap: The client assumes a deed of variation operates as a present transfer from the original beneficiary to the new beneficiary, creating a disposal at today's market value and triggering CGT.",
+            "rule": "The Reality: A deed of variation with a valid s.62(6) TCGA 1992 CGT election does **not** constitute a disposal by the original beneficiary. Instead, the variation is treated as if the deceased had made the varied disposition — the new beneficiary acquires the asset at **probate value (date of death)**. There is no CGT disposal by the original beneficiary. Without the CGT election, however, the client's assumption is correct — it would be treated as a disposal at today's market value.",
+            "application": "Why the Distractor Fails: The client has overlooked the CGT election mechanism. The whole point of the election under s.62 TCGA 1992 is to avoid treating the variation as a disposal. The instruction to include 'a statement that s.62(6) TCGA 1992 applies' in the DOV is the step that prevents the CGT charge the client fears. The client's understanding would be correct only if the CGT election is omitted — which would be poor practice where the assets have appreciated since probate.",
+            "conclusion": "The Key Rule: DOV + s.62 TCGA election = no disposal by original beneficiary + new beneficiary acquires at probate value. DOV without CGT election = disposal at current market value + potential CGT for original beneficiary. Always include both elections (IHT and CGT) unless there is a specific reason not to.",
+            "summary_line": "DOV · S.62 TCGA ELECTION · NO DISPOSAL IF ELECTION MADE · PROBATE VALUE · WITHOUT ELECTION DISPOSAL AT MARKET VALUE · ALWAYS INCLUDE BOTH ELECTIONS"
           }
         ],
         "PR duties and the executor's year": [
@@ -2577,9 +2647,7 @@
             "summary_line": "TIME LIMIT · FROM GRANT NOT DEATH · s.4 · DISTRIBUTED BEFORE EXPIRY · PERMISSION · MINISTRY V SIMPSON",
             "is_deeper": 0
           }
-        ]
-      },
-      "IPFDA 1975 — Standard Distinction": {
+        ],
         "The two standards": [
           {
             "card_code": "FLK2-WTP-072",
@@ -2739,6 +2807,18 @@
             "conclusion": null,
             "summary_line": "BANKS v GOODFELLOW · FOUR LIMBS · GOLDEN RULE · MEDICAL ASSESSMENT IF DOUBT · CONTEMPORANEOUS EVIDENCE",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-083",
+            "card_type": 1,
+            "difficulty": "Application",
+            "front": "What is the 'golden rule' in will-making, when does it apply, and what should a solicitor do to comply?",
+            "answer": "The golden rule (Kenward v Adams [1975], Templeman J) states that where a testator is elderly, ill, or otherwise of doubtful testamentary capacity, a solicitor should arrange for the testator to be assessed by a medical practitioner before the will is executed, and the doctor should, if practicable, witness or certify the will. This is best practice rather than a strict legal obligation, but failure to follow it may make it very difficult to propound the will if capacity is later challenged. The rule particularly applies where: the testator is of advanced age; suffers from dementia, mental illness, or serious physical illness; or where there are suspicious circumstances (e.g., a new will excluding family in favour of a recent acquaintance).",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GOLDEN RULE · KENWARD v ADAMS · TESTAMENTARY CAPACITY · MEDICAL ASSESSMENT · ELDERLY ILL TESTATOR · DOCTOR WITNESS · SOLICITOR OBLIGATION"
           }
         ],
         "Contested wills": [
@@ -2795,6 +2875,18 @@
             "conclusion": null,
             "summary_line": "CARER BENEFICIARY · 92 YEARS OLD · GOLDEN RULE MANDATORY · SEE ALONE · BANKS v GOODFELLOW · ALL CHILDREN EXCLUDED",
             "is_deeper": 0
+          },
+          {
+            "card_code": "FLK2-WTP-SCE-056",
+            "card_type": 3,
+            "difficulty": "Application",
+            "front": "Miriam is 87 and has recently been diagnosed with early-stage dementia. She contacts her solicitor to make a new will leaving her entire estate to her live-in carer, Rosaria, instead of her adult children. The solicitor meets Miriam with Rosaria present. Advise on the solicitor's obligations.",
+            "answer": "This scenario presents multiple red flags requiring careful management. (1) Testamentary capacity: dementia at 87 raises serious doubts — the solicitor must apply the Banks v Goodfellow [1870] test (understands nature of will, extent of estate, claims of relatives). The golden rule (Kenward v Adams) requires the solicitor to obtain a medical assessment before execution. (2) Undue influence: Rosaria is the sole beneficiary and a carer in a position of potential influence — the solicitor must see Miriam alone, without Rosaria present, to assess whether the instructions are truly independent. (3) Attendance note: a detailed note documenting Miriam's apparent understanding and independent intention is essential. (4) If doubt remains after assessment, the solicitor should decline to prepare the will until capacity is confirmed.",
+            "issue": null,
+            "rule": null,
+            "application": null,
+            "conclusion": null,
+            "summary_line": "GOLDEN RULE · BANKS v GOODFELLOW · CAPACITY DOUBTS · MEDICAL ASSESSMENT · UNDUE INFLUENCE · SEE ALONE · ATTENDANCE NOTE · CARER BENEFICIARY"
           }
         ],
         "Trap cards": [

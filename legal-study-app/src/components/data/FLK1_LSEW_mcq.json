@@ -1,0 +1,1866 @@
+{
+  "FLK1": {
+    "Legal System of England & Wales": [
+      {
+        "question_id": "FLK1-LSEW-MCQ-001",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "The Constitution",
+        "subtopic": "Parliamentary Supremacy",
+        "difficulty": "Foundation",
+        "stem": "According to Dicey's doctrine of parliamentary supremacy, which of the following best describes the relationship between Parliament and the courts?",
+        "options": {
+          "A": "Parliament may make any law, and no later Parliament can bind its successors.",
+          "B": "The courts have the power to strike down Acts of Parliament that breach fundamental rights.",
+          "C": "Parliament is the supreme legal authority, and the courts cannot override valid legislation.",
+          "D": "The courts and Parliament share legislative power equally."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Dicey's doctrine establishes that Parliament is the supreme legal authority with no body external to Parliament having power to override its legislation. Option B contradicts parliamentary supremacy — courts cannot strike down Acts of Parliament (subject to limited qualifications regarding retained constitutional statutes under Thoburn). A is correct in describing two elements of Dicey but omits the third element about external bodies. Option D is incorrect as Parliament is supreme and courts are subordinate.",
+        "card_refs": [
+          "FLK1-LSYS-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-002",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "The Literal Rule",
+        "difficulty": "Application",
+        "stem": "In Whiteley v Chappell, a statute made it an offence to impersonate 'any person entitled to vote' at an election. The defendant impersonated a dead person on the electoral register. What principle of statutory interpretation did this case establish?",
+        "options": {
+          "A": "The court should look at Parliamentary debates to ascertain legislative intent.",
+          "B": "Words should be interpreted according to the absurdity they produce.",
+          "C": "The court should interpret statutes to remedy the mischief they were designed to address.",
+          "D": "Words should be given their ordinary, natural meaning, regardless of the consequences."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Whiteley v Chappell established the literal rule — words should be interpreted according to their ordinary, natural meaning, even if the result is absurd or unintended. The defendant could not be convicted because a dead person is not 'entitled to vote'. Option B describes the golden rule. Option C describes the mischief rule. Option A relates to the use of Hansard aids to interpretation under s.3(2) HRA 1998.",
+        "card_refs": [
+          "FLK1-LSYS-007"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-003",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "The Golden Rule",
+        "difficulty": "Application",
+        "stem": "A statute states that 'no vehicles are permitted in the park'. The council seeks to prosecute a war veteran who parks his immaculate tank in the park as a memorial display, which creates no obstruction or danger. The literal meaning of 'vehicle' covers the tank. Which rule of interpretation would allow a court to avoid this absurd result?",
+        "options": {
+          "A": "The purposive rule — the court examines Parliamentary debates using Pepper v Hart to find the intended purpose.",
+          "B": "The ejusdem generis rule — the general word 'vehicles' must be read by reference to specific categories in the same section.",
+          "C": "The golden rule — the court may modify the literal meaning of words where their strict application would produce an absurd result.",
+          "D": "The mischief rule — the court examines what common law deficiency the statute was designed to remedy."
+        },
+        "correct": "C",
+        "explanation": "The golden rule (applied in its wider sense: Adler v George [1964]) permits a court to modify the literal meaning of statutory words where strict application produces an absurd, inconvenient or unjust result. A memorial tank display is not the mischief the 'no vehicles' prohibition addresses. The mischief rule (option D) looks at the pre-existing defect in the law; the purposive rule (option A) uses Parliamentary intent broadly; ejusdem generis (option B) applies to lists of specific items followed by general words — not applicable here.",
+        "card_refs": [
+          "FLK1-LSYS-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-004",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "The Mischief Rule",
+        "difficulty": "Application",
+        "stem": "Before a road traffic statute was enacted, drivers who changed lanes without signalling were not liable in negligence under the common law. The new statute requires lane-change signals. A judge must decide whether the statute applies to a driver who changed lanes on a motorway and caused an accident. Which rule of interpretation, established in Heydon's Case (1584), best guides the judge?",
+        "options": {
+          "A": "The contextual rule — words must be read in context with surrounding provisions of the statute.",
+          "B": "The mischief rule — the court identifies the deficiency in the common law that the statute was passed to remedy and interprets the statute to suppress that mischief.",
+          "C": "The purposive rule — the court interprets the statute to achieve its modern social objectives regardless of Parliamentary intent.",
+          "D": "The ejusdem generis rule — general words after specific examples are limited to the same class."
+        },
+        "correct": "B",
+        "explanation": "Heydon's Case (1584) established the mischief rule, which requires the court to ask: (1) what was the common law before the Act; (2) what was the mischief or deficiency not provided for; (3) what remedy Parliament provided; and (4) the reason for the remedy. Applying it here: the common law did not cover lane-changing liability (the mischief); the statute remedied this by requiring signals. The court should interpret the statute to suppress the mischief (unsafe lane changes), supporting liability. The purposive rule (option C) is a broader modern development; the mischief rule is specifically the Heydon's Case rule.",
+        "card_refs": [
+          "FLK1-LSYS-009"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-005",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "The Purposive Rule",
+        "difficulty": "Application",
+        "stem": "Under the modern purposive approach to statutory interpretation, how do courts determine the purpose of a statute?",
+        "options": {
+          "A": "By applying the statute's words in their literal and ordinary meaning only.",
+          "B": "By dismissing all legislative history as unreliable.",
+          "C": "By studying only the preamble of the statute.",
+          "D": "By examining the statute's purpose and interpreting its language to give effect to that purpose, even if this requires departing from strict literal meaning."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. The purposive rule allows courts to depart from strict literal meaning to give effect to the purpose of the statute. This approach is now mainstream, supported by s.3(2) HRA 1998 (regarding Hansard) and the Interpretation Act 1978. Option B describes the literal rule. Option C is too narrow — courts now use various aids to interpretation beyond the preamble. Option A overstates the position; legislative history is now a valuable aid.",
+        "card_refs": [
+          "FLK1-LSYS-010"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-006",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Aids to Interpretation — Hansard",
+        "difficulty": "Application",
+        "stem": "In Pepper v Hart [1993], the House of Lords held that courts may refer to Parliamentary debates (Hansard) as an aid to statutory interpretation. Under what circumstances is this permitted?",
+        "options": {
+          "A": "Always, as Hansard is the most reliable evidence of legislative intent.",
+          "B": "Never, because the separation of powers prevents courts from examining the legislative process.",
+          "C": "Only when the statute is ambiguous, and the relevant Parliamentary statement clearly expresses the legislative intent.",
+          "D": "Only if the statute concerns human rights under the HRA 1998."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Pepper v Hart permits reference to Hansard where: (1) legislation is ambiguous; (2) the material is sought from clear, unequivocal statements by a minister or promoter; and (3) the statements are relevant to the ambiguity. This is now codified in s.3(2) HRA 1998. Option A overstates — Hansard is only a supplementary aid and courts must find ambiguity first. Option B is outdated and contradicts Pepper v Hart. Option D is too narrow — Hansard applies to all statutes, not just human rights legislation.",
+        "card_refs": [
+          "FLK1-LSYS-011"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-007",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Rules of Language",
+        "difficulty": "Application",
+        "stem": "A statute provides penalties for keeping 'lions, tigers, leopards and other dangerous animals'. A council wishes to prosecute the owner of a highly aggressive golden retriever as an 'other dangerous animal'. Using the Latin maxim noscitur a sociis, what is the likely outcome?",
+        "options": {
+          "A": "The dog is covered — the express mention of specific wild cats does not limit the general words.",
+          "B": "The dog is not covered — the literal rule applies and dogs are not listed.",
+          "C": "The dog is covered — all animals capable of causing injury are within the statute's purpose.",
+          "D": "The dog is not covered — noscitur a sociis means the general words 'other dangerous animals' take their meaning from the surrounding specific examples (wild cats), and a domestic dog is not of the same class."
+        },
+        "correct": "D",
+        "explanation": "Noscitur a sociis ('a word is known by the company it keeps') provides that the meaning of ambiguous words is determined by context and association with adjacent words. 'Other dangerous animals' must be read in the context of the specific animals listed (lion, tiger, leopard) — all of which are wild, exotic, non-domesticated predators. A domestic golden retriever, however aggressive, is not of the same class. The statute would not cover it. This maxim prevents strained interpretations that extend a provision beyond its evident scope.",
+        "card_refs": [
+          "FLK1-LSYS-012"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-008",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Rules of Language — Ejusdem Generis",
+        "difficulty": "Application",
+        "stem": "The rule of 'ejusdem generis' applies when a statute lists specific items followed by general words. What does this rule establish?",
+        "options": {
+          "A": "General words must be read as widely as possible to cover all possible circumstances.",
+          "B": "The meaning of each word must be determined independently without reference to context.",
+          "C": "General words should be limited to items of the same class or kind as the specific examples listed.",
+          "D": "General words override any specific examples mentioned earlier."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Ejusdem generis (of the same kind) limits general words following a list of specific items to the same class as those examples. For instance, 'cats, dogs, and other animals' would be limited to domestic animals, not all animals. Option A contradicts the rule by reading words as widely as possible. Option D is incorrect — the specific examples guide the interpretation. Option B describes a non-contextual approach contrary to this rule.",
+        "card_refs": [
+          "FLK1-LSYS-013"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-009",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Presumptions in Interpretation",
+        "difficulty": "Application",
+        "stem": "A new statute removes the right of arrested persons to remain silent during police questioning but does not expressly address whether this applies to pending prosecutions for offences committed before the statute was passed. A defendant argues a presumption should protect him. Which presumption is most relevant?",
+        "options": {
+          "A": "The presumption that Parliament intends to change the common law wherever convenient.",
+          "B": "The presumption that words in a statute retain their pre-enactment meaning in all circumstances.",
+          "C": "The presumption that statutes do not have retrospective effect — a statute alters rights prospectively from enactment unless Parliament expressly provides otherwise.",
+          "D": "The presumption that all criminal statutes apply retrospectively to achieve justice."
+        },
+        "correct": "C",
+        "explanation": "The presumption against retrospective effect is a well-established principle of statutory interpretation: Parliament is presumed not to intend to alter the legal position for events that occurred before the statute came into force, unless the statute expressly or by necessary implication provides for retrospective application. This protects legal certainty and the defendant's legitimate expectations under the pre-existing law. The Human Rights Act 1998 (Art 7 ECHR) also prohibits retrospective criminal penalties. The defendant's argument — that the silence removal does not apply to his pre-enactment conduct — is supported by this presumption.",
+        "card_refs": [
+          "FLK1-LSYS-014"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-010",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Binding Precedent — House of Lords",
+        "difficulty": "Complex",
+        "stem": "Before the Practice Statement 1966, was the House of Lords bound by its own previous decisions?",
+        "options": {
+          "A": "No, the House of Lords could overrule itself at any time.",
+          "B": "Yes, absolutely. The House of Lords was bound by its own decisions without any exception.",
+          "C": "Only when deciding criminal cases.",
+          "D": "Yes, but only since 1998 when the HRA 1998 came into force."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. In London Tramways v LCC (1898), it was established that the House of Lords was bound by its own previous decisions absolutely. This created significant rigidity until the Practice Statement 1966 allowed the House to depart from previous decisions in the interests of justice. Option A describes the position after 1966. Option C is incorrect — the absolute rule applied to civil cases; criminal cases had some limited flexibility. Option D is inaccurate — the 1966 Practice Statement, not the 1998 HRA, introduced flexibility.",
+        "card_refs": [
+          "FLK1-LSYS-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-011",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Practice Statement 1966",
+        "difficulty": "Application",
+        "stem": "After the Practice Statement 1966, the House of Lords stated it would depart from its previous decisions 'when it appears right to do so'. Which factor is LEAST relevant in determining whether to exercise this power?",
+        "options": {
+          "A": "Whether the previous decision was clearly wrong.",
+          "B": "The nature of the change in law or circumstances since the earlier decision.",
+          "C": "The effect of departing on the law and on legal certainty.",
+          "D": "The nationality of the parties involved in the case."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct — the nationality of the parties is irrelevant to the decision to depart from precedent. The Practice Statement identifies relevant considerations: (1) wrongness of the earlier decision; (2) changed circumstances or understanding; (3) effects on the law and legal certainty. Option A is clearly relevant — a clearly wrong decision is a primary reason to depart. Option B addresses changed circumstances, which is explicitly relevant. Option C addresses the broader legal impact, which is relevant to the exercise of discretion.",
+        "card_refs": [
+          "FLK1-LSYS-017"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-012",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Ratio Decidendi and Obiter Dictum",
+        "difficulty": "Application",
+        "stem": "In Donoghue v Stevenson [1932], Lord Atkin formulated the neighbour principle as the basis for the duty of care. Lord Buckmaster dissented, arguing that manufacturers owed no duty to ultimate consumers. A first-instance judge in a later case involving a defective product is asked to follow Lord Buckmaster's reasoning. Which statement correctly describes the status of Lord Atkin's principle and Lord Buckmaster's remarks?",
+        "options": {
+          "A": "Both statements are obiter — the ratio is only found in the formal order, not the judgments.",
+          "B": "Both Lord Atkin's and Lord Buckmaster's statements are ratio decidendi as they were made in the same case.",
+          "C": "Lord Buckmaster's dissent is binding because he was in the majority on procedural grounds.",
+          "D": "Lord Atkin's principle is ratio decidendi — the rule of law necessary to the decision — and is binding; Lord Buckmaster's dissent is obiter and not binding."
+        },
+        "correct": "D",
+        "explanation": "The ratio decidendi is the principle of law necessary to the court's decision — in Donoghue v Stevenson, Lord Atkin's neighbour principle (that a manufacturer owes a duty of care to the ultimate consumer) was the legal reasoning binding on the outcome. It is binding on lower courts. Lord Buckmaster dissented — his remarks form no part of the majority's ratio and are obiter dicta (remarks made in passing). A dissenting judgment has no binding force, though it may be persuasive. The first-instance judge must apply Lord Atkin's ratio.",
+        "card_refs": [
+          "FLK1-LSYS-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-013",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Binding vs Persuasive Authority",
+        "difficulty": "Application",
+        "stem": "Which of the following represents a persuasive (but not binding) form of precedent?",
+        "options": {
+          "A": "A decision of the Court of Appeal (Civil Division) on a lower court in the same jurisdiction.",
+          "B": "A decision of the Supreme Court (formerly House of Lords) on any lower court.",
+          "C": "A decision of the Court of Appeal of another common law jurisdiction (e.g. Australia).",
+          "D": "A decision of the same judge who decided the current case in previous cases."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct. Decisions from courts in other common law jurisdictions are persuasive but not binding. Option A is binding authority — CoA decisions bind lower courts (subject to limited exceptions). Option B is binding — Supreme Court decisions are absolutely binding on all lower courts. Option D — while judges often follow their own previous decisions for consistency, this is a matter of comity and is not formally binding authority (they can reverse themselves).",
+        "card_refs": [
+          "FLK1-LSYS-019"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-014",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Distinguishing and Overruling",
+        "difficulty": "Application",
+        "stem": "In Balfour v Balfour [1919] the Court of Appeal held that domestic agreements between spouses lack contractual intent. A claimant brings a contract claim based on a written payment arrangement made by separated spouses in the context of divorce proceedings. The defendant argues Balfour v Balfour is directly binding. The judge considers whether to apply or distinguish it. What does 'distinguishing' a precedent mean?",
+        "options": {
+          "A": "The court finds the previous decision was incorrectly decided and overrules it for all future purposes.",
+          "B": "The court finds that the material facts of the current case are sufficiently different from the precedent that the precedent does not govern the outcome — the ratio does not apply to these facts.",
+          "C": "The court agrees with the reasoning of the previous decision but reaches a different conclusion.",
+          "D": "The court declares the previous decision was made without jurisdiction and sets it aside."
+        },
+        "correct": "B",
+        "explanation": "Distinguishing means the court acknowledges the binding precedent but finds a material distinction in the facts or legal context, so that the precedent's ratio does not logically apply to the current case. In Merritt v Merritt [1970] (distinguishing Balfour v Balfour) the Court of Appeal held that a written agreement between separated spouses (who were dealing at arm's length) did intend legal relations — the domestic presumption did not apply. Distinguishing is different from overruling (which reverses the precedent entirely) and from disapproving (criticising without overruling).",
+        "card_refs": [
+          "FLK1-LSYS-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-015",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Young v Bristol Aeroplane — Court of Appeal Exceptions",
+        "difficulty": "Application",
+        "stem": "In Young v Bristol Aeroplane Co Ltd [1944], the Court of Appeal identified three circumstances in which it could depart from its own previous decisions. Which is NOT one of those exceptions?",
+        "options": {
+          "A": "When there is a direct conflict between two previous Court of Appeal decisions.",
+          "B": "When a previous Court of Appeal decision was made per incuriam (in the absence of relevant authority).",
+          "C": "When a previous Court of Appeal decision was overruled by a House of Lords decision.",
+          "D": "When the previous decision would produce a manifestly unjust result."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. The manifest injustice exception does NOT exist under Young v Bristol Aeroplane. The three exceptions are: (1) conflicting previous CoA decisions; (2) per incuriam decisions; (3) decisions overruled by HL/Supreme Court decisions. Option A is one of the exceptions. Option B is one of the exceptions. Option C is one of the exceptions. Courts cannot depart on grounds of injustice alone.",
+        "card_refs": [
+          "FLK1-LSYS-021"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-016",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Per Incuriam and Binding Precedent",
+        "difficulty": "Application",
+        "stem": "The Court of Appeal (Civil Division) hears an appeal and, in giving judgment, fails to consider a House of Lords authority that directly governs the issue. The decision is later challenged. A solicitor advises the client on the status of the Court of Appeal decision. What is the correct advice about decisions made per incuriam?",
+        "options": {
+          "A": "The decision stands — Courts of Appeal cannot make per incuriam decisions as they always have access to full legal argument.",
+          "B": "The decision is per incuriam and is therefore not binding precedent because it was made without consideration of a relevant binding authority or statute that would have changed the outcome.",
+          "C": "The decision remains binding but the missing authority can be raised by counsel in future cases to argue it should be overruled.",
+          "D": "Per incuriam decisions are binding on lower courts but not the Court of Appeal itself."
+        },
+        "correct": "B",
+        "explanation": "Per incuriam (Latin: 'through lack of care') describes a decision reached without the court having considered a relevant and binding authority or statutory provision that, had it been considered, would or might have produced a different result: Young v Bristol Aeroplane Co [1944]. A per incuriam decision does not create binding precedent — a court can decline to follow it on that basis. The Court of Appeal's failure to consider a directly applicable House of Lords authority would render its decision per incuriam. The subsequent court must apply the overlooked House of Lords authority instead.",
+        "card_refs": [
+          "FLK1-LSYS-022"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-017",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure & Jurisdiction",
+        "subtopic": "Civil and Criminal Hierarchy",
+        "difficulty": "Application",
+        "stem": "A claimant brings a negligence claim for breach of contract where the claim value is £80,000. The defendant's solicitor advises that the claim should be issued in the High Court. A trainee solicitor queries which division and whether the High Court has jurisdiction. Which statement correctly describes the English civil court hierarchy for claims of this value?",
+        "options": {
+          "A": "Claims over £25,000 must be issued in the High Court; the Court of Appeal only hears appeals from the Supreme Court.",
+          "B": "Claims of £80,000 can be issued in either the County Court or the High Court; the Court of Appeal (Civil Division) hears appeals from both; the Supreme Court hears appeals from the Court of Appeal on points of law of general public importance.",
+          "C": "The Supreme Court is the highest civil court, with the High Court directly below it; the Court of Appeal has no civil jurisdiction.",
+          "D": "All civil claims must be issued in the County Court; only claims exceeding £1 million can be transferred to the High Court."
+        },
+        "correct": "B",
+        "explanation": "The English civil court hierarchy (from lowest to highest): County Court → High Court (Queen's Bench, Chancery, Family Divisions) → Court of Appeal (Civil Division) → Supreme Court. Claims up to £100,000 are generally allocated to the County Court (fast track or multi-track), but parties may issue in the High Court. An £80,000 claim could be issued in either court. Appeals from the County Court and High Court go to the Court of Appeal (Civil Division); further appeals to the Supreme Court require permission on a point of law of general public importance. The Supreme Court is the final court of appeal for England, Wales, Scotland, and Northern Ireland (except Scottish criminal cases).",
+        "card_refs": [
+          "FLK1-LSYS-026"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-018",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure & Jurisdiction",
+        "subtopic": "Appellate Jurisdiction",
+        "difficulty": "Application",
+        "stem": "Under what circumstances can a case go directly from a trial court to the Supreme Court, bypassing the Court of Appeal?",
+        "options": {
+          "A": "Whenever the defendant requests it.",
+          "B": "In leapfrog appeals, where the case involves a point of law of general public importance and all parties agree.",
+          "C": "Only in criminal cases with sentences over 10 years.",
+          "D": "Never — all appeals must go through the Court of Appeal first."
+        },
+        "correct": "B",
+        "explanation": "Option B is correct. Leapfrog appeals to the Supreme Court are available under the Administration of Justice Act 1969 when: (1) the case involves a point of law of general public importance; (2) all parties consent; (3) the trial judge certifies the conditions are met. This bypasses the Court of Appeal. Option A is too broad — not merely requesting bypasses the CoA. Option C is incorrectly limited to criminal cases with long sentences. Option D is false — leapfrog appeals demonstrate that the CoA can be bypassed in appropriate circumstances.",
+        "card_refs": [
+          "FLK1-LSYS-027"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-019",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure & Jurisdiction",
+        "subtopic": "Specialist Courts and Tribunals",
+        "difficulty": "Foundation",
+        "stem": "What is the principal advantage of using specialist courts and tribunals (such as employment tribunals, immigration tribunals) rather than the ordinary court system?",
+        "options": {
+          "A": "Specialist courts are independent of the ordinary court system.",
+          "B": "Specialist courts are always faster and cheaper than ordinary courts.",
+          "C": "Specialist courts have higher appeal rates than ordinary courts.",
+          "D": "Specialist courts develop expertise in their specific area and can provide more accessible justice for lay parties."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Specialist courts and tribunals develop expertise in specific areas (employment, immigration, social security, etc.), tend to be more informal, accessible to lay parties, and often do not require legal representation. This makes justice more accessible and appropriate for the subject matter. Option B is true but not the principal legal advantage — cost and speed vary. Option C is false — these tribunals typically have lower formal appeal rights than ordinary courts. A is false — tribunals are generally part of the court structure with defined appeal routes.",
+        "card_refs": [
+          "FLK1-LSYS-028"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-020",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Section 3 — Interpretation of Legislation",
+        "difficulty": "Application",
+        "stem": "Under s.3 of the Human Rights Act 1998, how far can courts go when interpreting legislation to make it compatible with Convention rights?",
+        "options": {
+          "A": "Courts cannot interpret legislation under s.3; they can only issue a Declaration of Incompatibility.",
+          "B": "Courts can rewrite legislation completely to align with human rights, even if this fundamentally changes the statute's meaning.",
+          "C": "Courts can only interpret legislation to be compatible with human rights if the statute is ambiguous.",
+          "D": "Courts must interpret legislation in a way that is compatible with Convention rights, so far as it is possible to do so."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Section 3 HRA 1998 requires courts to interpret legislation 'so far as it is possible to do so' to be compatible with Convention rights. This is a strong interpretative obligation (as seen in Ghaidan v Godin-Mendoza [2004]) but has limits — courts cannot completely rewrite statutes. Option B overstates the power. Option C is wrong — s.3 applies even to clear, unambiguous statutes. A is false — s.3 is the primary remedy; s.4 Declarations are only when s.3 interpretation is impossible.",
+        "card_refs": [
+          "FLK1-LSYS-032"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-021",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Section 4 — Declaration of Incompatibility",
+        "difficulty": "Complex",
+        "stem": "What is a Declaration of Incompatibility under s.4 of the Human Rights Act 1998, and what is its effect?",
+        "options": {
+          "A": "A judicial review mechanism by which legislation can be struck down as unconstitutional.",
+          "B": "A court declaration that legislation is incompatible with Convention rights; this automatically repeals the legislation.",
+          "C": "A court order that prevents enforcement of any legislation deemed incompatible with human rights.",
+          "D": "A court declaration that legislation is incompatible with Convention rights; this does not affect the validity of the legislation but signals to Parliament that amendment is needed."
+        },
+        "correct": "D",
+        "explanation": "Option D is correct. Under s.4 HRA 1998, when s.3 interpretation is impossible, courts can issue a Declaration of Incompatibility. This does NOT automatically repeal or affect the validity of the legislation — it is a signal to Parliament that amendment is needed and triggers fast-track amendment procedures (s.10 HRA). Option B wrongly states the declaration repeals legislation. Option C overstates the effect. A is incorrect — this is not judicial review of constitutionality but a specific HRA mechanism.",
+        "card_refs": [
+          "FLK1-LSYS-033"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-022",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Section 6 — Public Authority Obligation",
+        "difficulty": "Application",
+        "stem": "Under s.6 of the Human Rights Act 1998, it is unlawful for a public authority to act in a way that is incompatible with Convention rights. Which of the following is NOT typically considered a 'public authority' for purposes of s.6?",
+        "options": {
+          "A": "A private security company providing services at a shopping mall.",
+          "B": "A local authority enforcing planning regulations.",
+          "C": "A hospital funded by the NHS.",
+          "D": "A police force investigating crime."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. A private security company at a shopping mall would not typically be considered a 'public authority' under s.6 HRA, unless it is exercising specific public functions (such as running a prison). The definition of 'public authority' in s.6(3) includes courts and any person who exercises functions of a public nature. A private security firm is generally private, not public. Option B is clearly public (local authority). Option C is public (NHS-funded hospital). Option D is clearly public (police).",
+        "card_refs": [
+          "FLK1-LSYS-034"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-023",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Section 7 — Victim Status and Standing",
+        "difficulty": "Application",
+        "stem": "Under s.7 of the Human Rights Act 1998, who has standing to bring a claim for breach of Convention rights?",
+        "options": {
+          "A": "Only 'victims' of unlawful acts, as defined by the jurisprudence of the European Court of Human Rights.",
+          "B": "Any member of the public, regardless of whether they have been directly affected.",
+          "C": "Only those who can prove direct financial loss.",
+          "D": "Only government representatives acting in the public interest."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Section 7 HRA 1998 restricts claims to 'victims' — a term adopted from ECHR jurisprudence. This is narrower than traditional judicial review standing. A person must show they have been directly affected by an unlawful act of a public authority. Option B is too broad — not any member of the public can sue. Option C is too narrow — financial loss is not always required (e.g., emotional harm can suffice). Option D is incorrect — individuals who are victims can sue, not only government representatives.",
+        "card_refs": [
+          "FLK1-LSYS-035"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-024",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights Act 1998",
+        "subtopic": "Limits — Derogation and Retrospective Application",
+        "difficulty": "Complex",
+        "stem": "In R v R [1991], the House of Lords found that the legal principle that a husband cannot rape his wife breached the Convention right to private and family life. How did the court address this under human rights law?",
+        "options": {
+          "A": "The court applied the common law doctrine of modification when the common law conflicts with rights.",
+          "B": "The court issued a Declaration of Incompatibility under s.4 HRA 1998.",
+          "C": "The court applied s.3 HRA 1998 to interpret the common law rule as compatible with human rights.",
+          "D": "The court held that the UK had properly derogated from its human rights obligations."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. R v R [1991] occurred before the HRA 1998 came into force. The House of Lords modified the common law rule itself, finding that modern understandings of marriage and equality required that a husband could be guilty of rape. This was a common law development, not relying on the HRA mechanism. Option B would be the modern s.4 approach but the HRA wasn't in force. Option C similarly assumes HRA 1998 was available. Option D is incorrect — derogation is not the issue; the law was simply updated.",
+        "card_refs": [
+          "FLK1-LSYS-036"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-025",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Constitutional Law",
+        "subtopic": "Constitutional Conventions",
+        "difficulty": "Application",
+        "stem": "A newly appointed minister acts contrary to the convention of collective Cabinet responsibility by publicly disagreeing with government policy in a press interview. The Prime Minister demands the minister's resignation. The minister argues the convention has no legal force and she cannot be forced to resign. Is the minister correct as a matter of constitutional law?",
+        "options": {
+          "A": "No — constitutional conventions are legally enforceable in court; the minister can be injuncted.",
+          "B": "No — conventions are written into the Constitutional Reform Act 2005 and therefore have statutory force.",
+          "C": "Yes — constitutional conventions are non-legal political rules; they are generally observed but are not enforceable by courts, though breach carries significant political consequences.",
+          "D": "Yes — only conventions codified in statute have any binding effect; uncodified conventions are purely discretionary."
+        },
+        "correct": "C",
+        "explanation": "Constitutional conventions are non-legal rules of political practice that are observed because of their political legitimacy, not because courts will enforce them. The collective ministerial responsibility convention requires Cabinet ministers to support government policy publicly or resign. Breach is not justiciable — courts will not enforce it (as confirmed in Madzimbamuto v Lardner-Burke [1969]). However, breach carries significant political consequences — the Prime Minister can demand resignation and dismiss the minister. The minister is legally correct (no court remedy) but politically exposed. The distinction between legal rules (enforceable by courts) and conventions (political practice) is fundamental to the UK constitution.",
+        "card_refs": [
+          "FLK1-LSYS-068"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-026",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Constitutional Law",
+        "subtopic": "Rule of Law and Separation of Powers",
+        "difficulty": "Application",
+        "stem": "Which principle is NOT typically considered a core element of the 'rule of law'?",
+        "options": {
+          "A": "Laws should be clear, prospective, and consistently applied.",
+          "B": "No one, including the Executive, is above the law.",
+          "C": "The government may change laws at any time without Parliamentary approval.",
+          "D": "Individuals should have access to courts to enforce their rights."
+        },
+        "correct": "C",
+        "explanation": "Option C is correct — it contradicts the rule of law. The rule of law requires that laws be changed through formal, public processes (typically Parliamentary legislation), not by arbitrary executive action. Option A embodies rule of law principles (clarity and consistency). Option B is the principle that all are subject to law. Option D requires access to justice. The rule of law, as articulated by Dicey and refined by modern jurisprudence, protects against arbitrary government power.",
+        "card_refs": [
+          "FLK1-LSYS-070"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-027",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Retained EU Law",
+        "subtopic": "EU Withdrawal Act 2018 and REUL Act 2023",
+        "difficulty": "Application",
+        "stem": "Under the European Union (Withdrawal) Act 2018, what happened to EU law that was in force in the UK on the date of withdrawal (31 January 2020)?",
+        "options": {
+          "A": "EU law was converted into 'retained EU law' and continued to have effect in domestic law with limited exceptions.",
+          "B": "All EU law was immediately repealed and ceased to have any effect.",
+          "C": "EU law continued to apply through ongoing supremacy of EU law over UK law.",
+          "D": "EU law was suspended pending a referendum on its continued application."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The EUWA 2018 converted EU law in force pre-withdrawal into 'retained EU law' which continued to apply in domestic law (subject to exceptions including the Great Repeal Bill). This was subsequently modified by the Retained EU Law (Revocation) Act 2023, which established a sunset date for most retained EU law. Option B is false — law was retained, not repealed. Option C is false — EU law no longer has supremacy post-withdrawal. Option D is inaccurate — there was no automatic suspension pending referendum.",
+        "card_refs": [
+          "FLK1-LSYS-051"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-028",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Retained EU Law",
+        "subtopic": "Status and Hierarchy Post-REUL Act 2023",
+        "difficulty": "Complex",
+        "stem": "After the Retained EU Law (Revocation) Act 2023, what is the hierarchy between retained EU law and UK domestic law (primary legislation)?",
+        "options": {
+          "A": "Retained EU law is subordinate to primary legislation; if there is conflict, primary legislation prevails.",
+          "B": "Retained EU law has supremacy over primary legislation, as it did before Brexit.",
+          "C": "Retained EU law has the same status as primary legislation and must be interpreted consistently.",
+          "D": "Retained EU law is automatically repealed if it conflicts with primary legislation."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. The REUL Act 2023 established that retained EU law is subordinate to primary legislation — UK Parliament's legislation takes precedence. This represents a fundamental change from the period post-EUWA 2018 when retained EU law had an uncertain status. Option B is false — retained EU law no longer has supremacy. Option C is misleading — while they should be interpreted consistently, primary legislation prevails in case of conflict. Option D is too absolute — retained EU law is not automatically repealed but is subordinate.",
+        "card_refs": [
+          "FLK1-LSYS-052"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-029",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Case Law & Precedent",
+        "subtopic": "Reversing, Overruling, and Distinguishing",
+        "difficulty": "Complex",
+        "stem": "A barrister correctly notes that the decision in Case A, which established principle X, was later found to be wrong by the Supreme Court in Case B, which established principle Y. When advising a client in Case C (a case in the Court of Appeal on the same issue), what can the Court of Appeal do?",
+        "options": {
+          "A": "Apply principle Y from Case B because it represents the current law after being established by the Supreme Court.",
+          "B": "Apply principle X from Case A because it remains binding precedent unless the same court overrules it.",
+          "C": "Choose either principle X or principle Y based on which is more just.",
+          "D": "Declare that both principles are invalid and create a new principle Z."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. When the Supreme Court (formerly House of Lords) overrules a principle, that overruling becomes binding on lower courts including the Court of Appeal. Case A's principle X is superseded by Case B's principle Y, which must be applied. Option B is incorrect — the Supreme Court's overruling has overridden the earlier precedent. Option C wrongly suggests discretion — courts must apply binding law, not choose based on justice. Option D is false — courts cannot create new law by invalidating existing binding precedents.",
+        "card_refs": [
+          "FLK1-LSYS-023"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-030",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Constitutional Law",
+        "subtopic": "Constitutional Statutes and Parliamentary Supremacy",
+        "difficulty": "Complex",
+        "stem": "In Thoburn v Sunderland City Council [2002], the High Court identified certain statutes as 'constitutional statutes'. What is the significance of this classification?",
+        "options": {
+          "A": "Constitutional statutes can only be repealed by express words, not by implication, because they condition Parliament's power.",
+          "B": "Constitutional statutes cannot be repealed by Parliament.",
+          "C": "Constitutional statutes are laws that deal with constitutional matters and have no special legal status.",
+          "D": "Constitutional statutes are those passed by a supermajority in Parliament."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Thoburn v Sunderland identified that constitutional statutes (such as Magna Carta, Bill of Rights 1689, Act of Settlement 1701, and the HRA 1998) have special status — they cannot be repealed by implication; repeal requires express words. This qualified the absolute doctrine of parliamentary supremacy by establishing that Parliament's own supreme power is conditioned by these foundational statutes. Option B is too strong — they can be repealed but not impliedly. Option C fails to recognize the special status. Option D is incorrect — there is no supermajority requirement.",
+        "card_refs": [
+          "FLK1-LSYS-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-031",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Precedent",
+        "subtopic": "Binding and persuasive precedent",
+        "difficulty": "Application",
+        "stem": "A solicitor is researching whether the Court of Appeal is bound by one of its own previous decisions. A client's appeal raises the same point of law that was decided in an earlier Court of Appeal judgment two years ago, which the solicitor believes was wrongly decided. The client asks whether the Court of Appeal can simply depart from its own earlier ruling. What is the correct position?",
+        "options": {
+          "A": "The Court of Appeal can depart freely from its own previous decisions whenever a panel of three judges considers them wrongly decided.",
+          "B": "The Court of Appeal (Civil Division) is generally bound by its own previous decisions under Young v Bristol Aeroplane Co [1944], subject to three established exceptions: where two previous decisions conflict; where the previous decision was made per incuriam; or where a House of Lords/Supreme Court decision (though not expressly overruling it) is inconsistent with it.",
+          "C": "The Court of Appeal is never bound by its own decisions — it has the same freedom as the Supreme Court under the Practice Statement.",
+          "D": "The Court of Appeal is bound by its own decisions without exception."
+        },
+        "correct": "B",
+        "explanation": "Young v Bristol Aeroplane Co [1944] established that the Court of Appeal (Civil Division) is generally bound by its own previous decisions, but identified three exceptions where it may depart: (1) two previous Court of Appeal decisions conflict — the court chooses which to follow; (2) the previous decision was made per incuriam (without considering a relevant binding authority or statute); or (3) a subsequent House of Lords/Supreme Court decision is inconsistent with the previous Court of Appeal decision even without expressly overruling it. The Court of Appeal cannot simply depart because it disagrees — it must apply the 1966 Practice Statement (which applies to the Supreme Court, not the Court of Appeal).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-032",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Precedent",
+        "subtopic": "Ratio decidendi and obiter dicta",
+        "difficulty": "Application",
+        "stem": "In a contract case, a judge decides the main issue in favour of the claimant (the ratio decidendi). She also comments that had the facts been different, she would have reached the opposite conclusion. What is the status of this additional comment?",
+        "options": {
+          "A": "Ratio decidendi — it is part of the court's reasoning.",
+          "B": "Obiter dicta — remarks made by a judge which are not necessary for the decision and are persuasive but not binding on later courts.",
+          "C": "Dissenting judgment — the judge is disagreeing with herself.",
+          "D": "Per incuriam — the judge made an error."
+        },
+        "correct": "B",
+        "explanation": "The ratio decidendi is the legal reason necessary for the decision — it binds lower courts. Obiter dicta (things said 'by the way') are statements of law or comments not necessary for the actual decision, made in anticipation of different facts. They are persuasive but not binding. The judge's hypothetical comment about different facts is classic obiter dicta. Option A is wrong. Option C is wrong — dissenting judgments are those of judges in a panel who disagree with the majority. Option D is wrong — per incuriam means a decision made without being referred to a relevant authority.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-033",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Precedent",
+        "subtopic": "Distinguishing — avoiding a binding precedent",
+        "difficulty": "Application",
+        "stem": "A lower court judge is faced with a binding precedent that appears to lead to an unjust result on the current facts. The current facts differ materially from those in the precedent. What can the judge do?",
+        "options": {
+          "A": "Ignore the precedent — lower court judges have discretion to depart from any precedent.",
+          "B": "Distinguish the precedent — find that the material difference in facts means the binding ratio does not apply to the present case, thereby reaching a different outcome without overruling the precedent.",
+          "C": "Overrule the precedent — any judge can overrule a higher court's decision if it is unjust.",
+          "D": "Refuse to decide the case until a higher court clarifies the law."
+        },
+        "correct": "B",
+        "explanation": "Distinguishing is the technique by which a lower court avoids applying a binding precedent by finding that the material facts of the present case differ sufficiently from those in the earlier case. If the facts are materially different, the binding ratio does not necessarily apply and the court is free to reach a different decision. Overruling (C) is the power of a higher court to set aside the decision of a lower court — a lower court cannot overrule a higher court's decision. Ignoring the precedent (A) would be a breach of the doctrine of stare decisis. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-034",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Precedent",
+        "subtopic": "Supreme Court — Practice Statement 1966",
+        "difficulty": "Application",
+        "stem": "The Supreme Court is asked to overrule its own precedent from 1985 which held that a particular category of economic loss in negligence is not recoverable. Counsel for the claimant argues the 1985 decision was wrongly decided and has caused injustice in subsequent cases. The defendant argues the court is bound by its own precedent. Under what circumstances may the Supreme Court depart from its own previous decisions?",
+        "options": {
+          "A": "The Supreme Court is absolutely bound by its own previous decisions and cannot depart under any circumstances.",
+          "B": "The Supreme Court may depart when Parliament enacts legislation specifically authorising it to do so.",
+          "C": "Under the Practice Statement [1966] 1 WLR 1234, the Supreme Court (then the House of Lords) declared it may depart from its own previous decisions when it appears right to do so — treating this power as one to be used sparingly, having regard to the danger of disturbing retrospectively rights, contracts, and fiscal arrangements, and the need for certainty.",
+          "D": "The Supreme Court may freely overrule its previous decisions whenever a majority of justices consider the previous decision was incorrect."
+        },
+        "correct": "C",
+        "explanation": "The Practice Statement [1966] 1 WLR 1234 announced that the House of Lords (whose jurisdiction was transferred to the Supreme Court in 2009) would no longer treat itself as absolutely bound by its own previous decisions. The court may depart from a previous decision 'when it appears right to do so' — but this power is used sparingly. The statement explicitly notes the risks of disturbing: rights acquired under prior law; fiscal arrangements; and contractual relationships relying on legal certainty. Examples of use: British Railways Board v Herrington [1972] (occupiers' duty); Pepper v Hart [1993] (Hansard admissibility); Horton v Sadler [2006].",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-035",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Literal rule",
+        "difficulty": "Foundation",
+        "stem": "A court applies the literal rule to interpret a statute. What does this involve?",
+        "options": {
+          "A": "Considering the purpose of the legislation and interpreting it accordingly.",
+          "B": "Giving the words of the statute their plain, ordinary and grammatical meaning, even if the result appears harsh or absurd.",
+          "C": "Filling in gaps in the legislation to achieve a just result.",
+          "D": "Reading the statute as a whole to identify Parliament's intent."
+        },
+        "correct": "B",
+        "explanation": "The literal rule requires a court to apply the ordinary and natural meaning of the statutory words, even if that leads to an undesirable or absurd result (Whiteley v Chappell (1868)). The rationale is that Parliament's will is expressed in the words it used. Option A describes the purposive approach. Option C describes the mischief rule or purposive approach. Option D is part of any interpretation but does not specifically describe the literal rule.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-036",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Golden rule",
+        "difficulty": "Foundation",
+        "stem": "A court uses the golden rule to interpret a statutory provision. What approach does this involve?",
+        "options": {
+          "A": "Apply the literal meaning of the words unless to do so would lead to an absurdity, in which case the court may modify the words to avoid the absurdity.",
+          "B": "Always adopt the purposive approach and consider Parliamentary debates.",
+          "C": "Apply the most favourable interpretation to the defendant.",
+          "D": "Give words their widest possible meaning."
+        },
+        "correct": "A",
+        "explanation": "The golden rule is a modification of the literal rule: the court first applies the ordinary/literal meaning, but where to do so would produce an absurd or repugnant result, the court may depart from the literal meaning to avoid the absurdity (Grey v Pearson (1857); R v Allen (1872)). It does not require consideration of Parliamentary debates (B). It does not involve a pro-defendant principle (C). It does not mandate the widest meaning (D).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-037",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Mischief rule — Heydon's Case",
+        "difficulty": "Foundation",
+        "stem": "A court applies the mischief rule from Heydon's Case (1584). What does the court seek to identify?",
+        "options": {
+          "A": "The literal meaning of the Act's words.",
+          "B": "The mischief or defect in the common law that the Act was designed to remedy, and interprets the statute to suppress the mischief and advance the remedy.",
+          "C": "Whether the Act is compatible with EU law.",
+          "D": "The most recent judicial interpretation of the provision."
+        },
+        "correct": "B",
+        "explanation": "Under the mischief rule from Heydon's Case (1584), the court considers: (i) what was the common law before the Act? (ii) what was the mischief or defect for which the common law did not provide? (iii) what remedy did Parliament resolve and appoint? (iv) the true reason for the remedy? The court then interprets the Act so as to suppress the mischief and advance the remedy. This is a purposive approach focusing on the problem Parliament sought to solve. Options A, C and D do not describe the mischief rule.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-038",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Purposive approach — Hansard and Pepper v Hart",
+        "difficulty": "Application",
+        "stem": "A judge interpreting an ambiguous statutory provision wishes to refer to a Minister's statement in Hansard (Parliamentary debates). Under what conditions is this permissible following Pepper v Hart [1993]?",
+        "options": {
+          "A": "It is never permissible to refer to Hansard.",
+          "B": "Under Pepper v Hart [1993], courts may refer to Hansard where: (i) the legislation is ambiguous or obscure, or its literal meaning leads to an absurdity; (ii) the material in Hansard consists of statements by the minister or promoter of the bill; and (iii) the statements are clear.",
+          "C": "Courts may refer to Hansard whenever the wording of an Act is clear.",
+          "D": "Courts may refer to all parliamentary materials including committee reports without restriction."
+        },
+        "correct": "B",
+        "explanation": "Before Pepper v Hart [1993] HL, courts could not refer to Hansard as a tool of statutory interpretation. In Pepper v Hart the House of Lords relaxed this rule: courts may refer to Hansard if the legislation is ambiguous, obscure, or leads to absurdity; the materials relied on are clear statements by a minister or promoter of the bill; and those statements clearly disclose the mischief aimed at or the legislative intention. Option A reflects the old rule. Option C is wrong — Hansard is only admissible when the statute is unclear. Option D overstates the rule.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-039",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Interpretation Act 1978 — presumptions",
+        "difficulty": "Foundation",
+        "stem": "A statute uses the word 'he' but does not expressly address whether it covers women. Which statutory rule assists interpretation?",
+        "options": {
+          "A": "The contra proferentem rule.",
+          "B": "Interpretation Act 1978 s.6 — words importing the masculine gender include the feminine and vice versa, unless the contrary intention appears.",
+          "C": "The ejusdem generis rule.",
+          "D": "The Pepper v Hart rule."
+        },
+        "correct": "B",
+        "explanation": "Interpretation Act 1978 s.6 provides that in every Act (unless the contrary intention appears): words importing the masculine gender include the feminine; words importing the feminine include the masculine; and words in the singular include the plural and vice versa. This is a default rule of construction that applies across all Acts. Contra proferentem (A) is a contract law rule. Ejusdem generis (C) is a statutory interpretation aid for generic words following specific words in a list. Pepper v Hart (D) concerns use of Hansard.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-040",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Ejusdem generis rule",
+        "difficulty": "Application",
+        "stem": "A statute states: 'No person shall carry a knife, machete, sword, or other weapon.' A defendant carries a loaded firearm. The prosecution argues this falls within 'other weapon'. The defence argues ejusdem generis. How does the ejusdem generis rule apply?",
+        "options": {
+          "A": "The firearm is covered because it is clearly dangerous.",
+          "B": "The ejusdem generis rule provides that general words following a list of specific words are limited to items of the same genus (class) as the specific words; knives, machetes and swords are all bladed edged weapons, so 'other weapon' may be limited to bladed weapons — a firearm may fall outside this genus.",
+          "C": "The ejusdem generis rule means specific words prevail over general words.",
+          "D": "The rule does not apply here because the list is long enough."
+        },
+        "correct": "B",
+        "explanation": "The ejusdem generis rule provides that where specific words are followed by general words, the general words are to be construed as limited to things of the same kind (genus) as those in the specific list. Knives, machetes and swords are all bladed, hand-held, cutting/stabbing weapons. A firearm is not a bladed weapon and may fall outside this genus. Whether the genus is 'bladed weapons' or simply 'weapons' is a matter of construction. Option A ignores the ejusdem generis argument. Option C describes the expressio unius rule. Option D is not a legal test.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-041",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Sources of Law",
+        "subtopic": "Retained EU law post-Brexit",
+        "difficulty": "Foundation",
+        "stem": "Which statement correctly describes the status of EU law in England and Wales following the UK's departure from the EU on 31 January 2020?",
+        "options": {
+          "A": "All EU law automatically ceased to have effect on 31 January 2020.",
+          "B": "Under the European Union (Withdrawal) Act 2018 (as amended by the Retained EU Law (Revocation and Reform) Act 2023), EU-derived domestic legislation was retained as 'retained EU law' and continues to form part of domestic law until amended or revoked by Parliament or secondary legislation.",
+          "C": "EU law continues to apply in full and courts must still follow Court of Justice of the European Union rulings.",
+          "D": "EU law continues to apply only to commercial contracts entered into before Brexit."
+        },
+        "correct": "B",
+        "explanation": "The European Union (Withdrawal) Act 2018 converted existing EU-derived law into 'retained EU law' which remained part of domestic law after the UK's departure. The Retained EU Law (Revocation and Reform) Act 2023 modified this framework, giving ministers power to revoke or reform retained EU law and setting a 'sunset' mechanism. UK courts are no longer bound by CJEU decisions (they may have regard to them as persuasive). Option A is wrong — EU law was retained, not automatically extinguished. Option C is wrong — CJEU rulings are no longer binding. Option D is wrong — the cut-off date does not depend on the type of contract.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-042",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "HRA 1998 — s.3 interpretation duty",
+        "difficulty": "Foundation",
+        "stem": "A court is interpreting a statute that appears to be incompatible with a Convention right. What is the primary obligation of the court under HRA 1998 s.3?",
+        "options": {
+          "A": "To declare the statute incompatible with the Convention and disapply it.",
+          "B": "So far as it is possible to do so, to read and give effect to primary and subordinate legislation in a way which is compatible with Convention rights (HRA 1998 s.3).",
+          "C": "To refer the matter to the European Court of Human Rights.",
+          "D": "To apply the statute as written and make no reference to Convention rights."
+        },
+        "correct": "B",
+        "explanation": "HRA 1998 s.3 imposes a primary duty on courts to read and give effect to legislation in a way that is compatible with Convention rights, so far as it is possible to do so. This may require reading words in or out of a statute (R v A [2001]). However, if compatible interpretation is not possible, the court cannot disapply the statute (which Parliament could do) — it can only make a declaration of incompatibility under s.4. Option A misstates the effect of a declaration of incompatibility — it does not automatically disapply the legislation. Option C is wrong — the HRA does not require domestic courts to refer to Strasbourg. Option D ignores s.3.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-043",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "HRA 1998 — s.4 declaration of incompatibility",
+        "difficulty": "Foundation",
+        "stem": "A High Court judge concludes that a statutory provision is incompatible with a Convention right and cannot be read compatibly under s.3. What can the court do?",
+        "options": {
+          "A": "Strike down the legislation.",
+          "B": "Make a declaration of incompatibility under HRA 1998 s.4; this does not affect the validity of the legislation but invites Parliament to remedy the incompatibility.",
+          "C": "Apply the statute with modifications to make it compatible.",
+          "D": "Refer the case to the Supreme Court automatically."
+        },
+        "correct": "B",
+        "explanation": "HRA 1998 s.4 gives certain courts (including the High Court and above) the power to make a declaration of incompatibility where primary legislation is incompatible with a Convention right. Crucially, a declaration of incompatibility does not affect the validity, continuing operation, or enforcement of the provision — the statute remains in force. It signals to Parliament that the legislation is incompatible, enabling (but not requiring) Parliament to use the fast-track remedial procedure in s.10 to amend it. The UK's constitutional settlement does not permit courts to strike down Acts of Parliament (A). Option C would go beyond compatible reading under s.3. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-044",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "Convention rights — positive and negative obligations",
+        "difficulty": "Application",
+        "stem": "Article 8 ECHR protects the right to respect for private and family life. A state authority takes action that directly interferes with this right. Which type of Article 8 obligation is primarily engaged?",
+        "options": {
+          "A": "A positive obligation to provide services.",
+          "B": "A negative obligation — the state must not interfere with the right except in accordance with law and where necessary and proportionate in a democratic society for a legitimate aim (Article 8(2)).",
+          "C": "An absolute right that cannot be interfered with under any circumstances.",
+          "D": "A positive obligation to create legislation protecting privacy."
+        },
+        "correct": "B",
+        "explanation": "Article 8 rights are qualified rights — they can be limited by the state if: (i) the interference is in accordance with the law; (ii) it pursues a legitimate aim set out in Article 8(2) (e.g., national security, crime prevention, protection of the rights of others); and (iii) the interference is necessary and proportionate in a democratic society. Where the state directly interferes, the negative obligation (to refrain from unlawful interference) is primarily engaged. The ECHR also recognises positive obligations under Article 8 (e.g., taking measures to prevent interference by private persons) but these arise in different circumstances. Article 8 is not absolute (C is wrong). Option D conflates positive obligations with specific legislative duties.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-045",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Civil court hierarchy",
+        "difficulty": "Foundation",
+        "stem": "A High Court judge makes a decision. A party wishes to appeal. To which court will the appeal lie in the first instance?",
+        "options": {
+          "A": "The Magistrates' Court.",
+          "B": "The Court of Appeal (Civil Division) — appeals from the High Court in civil matters go to the Court of Appeal as of right or with permission.",
+          "C": "The Supreme Court directly.",
+          "D": "The County Court."
+        },
+        "correct": "B",
+        "explanation": "In the civil court hierarchy: Magistrates' Court → County Court → High Court → Court of Appeal (Civil Division) → Supreme Court. An appeal from a High Court decision lies to the Court of Appeal (Civil Division). Permission to appeal is generally required (CPR r.52.6). Further appeal from the Court of Appeal goes to the Supreme Court. The Supreme Court can only be reached directly from the High Court in exceptional cases under the 'leapfrog' appeal procedure. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-046",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Criminal court hierarchy",
+        "difficulty": "Foundation",
+        "stem": "A defendant is convicted of a summary-only offence in the Magistrates' Court and wishes to appeal conviction. To which court does the appeal lie?",
+        "options": {
+          "A": "The High Court (Administrative Court) directly.",
+          "B": "The Crown Court — appeals against conviction or sentence from the Magistrates' Court go to the Crown Court for a rehearing.",
+          "C": "The Court of Appeal (Criminal Division).",
+          "D": "The Supreme Court."
+        },
+        "correct": "B",
+        "explanation": "Under the Magistrates' Courts Act 1980 and Senior Courts Act 1981, a defendant convicted in the Magistrates' Court may appeal against conviction and/or sentence to the Crown Court. The Crown Court rehears the case. A further appeal on a point of law by way of case stated goes to the Divisional Court (High Court). The Court of Appeal (Criminal Division) (C) hears appeals from the Crown Court, not the Magistrates' Court directly.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-047",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Tribunals — First-tier and Upper Tribunal",
+        "difficulty": "Foundation",
+        "stem": "Ravi Sharma advises a client who has been refused asylum and wishes to challenge the decision. Which tribunal system will hear the appeal?",
+        "options": {
+          "A": "The County Court.",
+          "B": "The First-tier Tribunal (Immigration and Asylum Chamber), with a further appeal to the Upper Tribunal (Immigration and Asylum Chamber) on a point of law.",
+          "C": "The Employment Tribunal.",
+          "D": "The Crown Court."
+        },
+        "correct": "B",
+        "explanation": "Under the Tribunals, Courts and Enforcement Act 2007 and the tribunal chamber structure, immigration and asylum appeals are heard by the First-tier Tribunal (Immigration and Asylum Chamber). Appeals on points of law from the First-tier Tribunal go to the Upper Tribunal (Immigration and Asylum Chamber). Further appeals on points of law go to the Court of Appeal. The County Court (A) handles civil disputes. The Employment Tribunal (C) handles employment disputes. The Crown Court (D) handles criminal matters.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-048",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Professionals",
+        "subtopic": "Barristers and solicitors — rights of audience",
+        "difficulty": "Foundation",
+        "stem": "Which statement correctly describes the rights of audience of a solicitor who has not obtained Higher Courts Qualification?",
+        "options": {
+          "A": "Solicitors have full rights of audience in all courts by virtue of their qualification.",
+          "B": "Solicitors have rights of audience in the Magistrates' Court, County Court, and Crown Court (for certain proceedings), but require a Higher Courts Qualification (HCQ) for rights of audience in the High Court and above.",
+          "C": "Solicitors have no rights of audience — all advocacy must be done by barristers.",
+          "D": "Solicitors can appear in any court with the client's written consent."
+        },
+        "correct": "B",
+        "explanation": "Under the Courts and Legal Services Act 1990 and the Legal Services Act 2007, solicitors have rights of audience in some courts by virtue of their qualification (Magistrates' Court, County Court, and some Crown Court proceedings). To appear as an advocate in the High Court, Court of Appeal or Supreme Court, a solicitor must obtain the Higher Courts Qualification (HCQ). Barristers historically held rights of audience in the higher courts. The Legal Services Act 2007 opened up rights of audience to other authorised persons. Option A overstates solicitors' rights. Option C is wrong — solicitors have extensive rights of audience. Option D invents a consent mechanism.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-049",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Aid",
+        "subtopic": "Legal aid — civil and criminal",
+        "difficulty": "Application",
+        "stem": "Diana Pelletier advises a client who may be eligible for civil legal aid. Under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO), what is the scope of civil legal aid?",
+        "options": {
+          "A": "Under LASPO 2012, civil legal aid is available only for matters listed in Schedule 1 (which includes asylum, domestic violence, judicial review, mental health, and other specified areas) unless an exceptional case determination is made under s.10.",
+          "B": "Civil legal aid is available for all civil disputes.",
+          "C": "Civil legal aid is available for all tort claims.",
+          "D": "Civil legal aid was abolished by LASPO 2012."
+        },
+        "correct": "A",
+        "explanation": "LASPO 2012 significantly reduced the scope of civil legal aid. Schedule 1 Part 1 sets out the types of case that are within scope (asylum, domestic violence, debt where the home is at risk, judicial review, mental health tribunal, etc.). Most areas previously covered (general civil disputes, family financial proceedings, clinical negligence) were removed from scope. The Lord Chancellor can make a determination under s.10 that exceptional funding should be provided in cases not within scope where failure to do so would breach the individual's human rights. Option B is wrong — most civil disputes are out of scope. Option C is wrong — tort claims are generally out of scope. Option D is wrong — legal aid continues but in reduced form.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-050",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Primary and delegated legislation",
+        "difficulty": "Foundation",
+        "stem": "A Minister makes an order under powers conferred by an Act of Parliament to set new workplace safety standards. What type of legislation is this?",
+        "options": {
+          "A": "Delegated (secondary) legislation — legislation made by a person or body to whom Parliament has delegated power, such as a statutory instrument made under an enabling Act.",
+          "B": "A Green Paper.",
+          "C": "A constitutional convention.",
+          "D": "Primary legislation."
+        },
+        "correct": "A",
+        "explanation": "Delegated legislation (also called secondary or subordinate legislation) is made by a body other than Parliament, acting under powers delegated by Parliament in an enabling Act (parent Act). Examples include statutory instruments, Orders in Council, byelaws, and rules made by ministers. It is still law but can be challenged by judicial review on grounds of ultra vires (exceeding the delegated power). A Green Paper (A) is a government consultation document, not law. A constitutional convention (C) is a non-legal rule of practice. Primary legislation (D) is an Act of Parliament itself.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-051",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Parliamentary sovereignty",
+        "difficulty": "Foundation",
+        "stem": "Which statement most accurately describes the doctrine of parliamentary sovereignty in English constitutional law?",
+        "options": {
+          "A": "Parliament can make any law it chooses and no court can declare an Act of Parliament to be void.",
+          "B": "Parliament's legislative power is limited by the Human Rights Act 1998.",
+          "C": "Parliament's sovereignty is subject to common law constraints imposed by the courts.",
+          "D": "Parliament and the courts share legislative power equally."
+        },
+        "correct": "A",
+        "explanation": "Parliamentary sovereignty (Dicey) holds that Parliament can make or unmake any law and no body (including the courts) has the right to override or set aside an Act of Parliament. Courts may make a declaration of incompatibility under HRA 1998 s.4, but this does not invalidate the legislation. Option B is incorrect — the HRA 1998 does not limit Parliament's power to legislate; it can even legislate contrary to Convention rights (though it may face political consequences). Option C is a contested position — the orthodox view is that Parliament is supreme. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-052",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Devolution",
+        "subtopic": "Scottish Parliament — devolved competence",
+        "difficulty": "Foundation",
+        "stem": "The Scottish Parliament passes a bill dealing with broadcasting regulation. Is broadcasting within the Scottish Parliament's legislative competence?",
+        "options": {
+          "A": "No — broadcasting is a reserved matter under the Scotland Act 1998 Schedule 5; the Scottish Parliament can only legislate on devolved matters.",
+          "B": "Yes — the Scottish Parliament has unlimited legislative power.",
+          "C": "Yes — if a majority of Scottish MSPs vote for it.",
+          "D": "No — the Scottish Parliament has no power to legislate at all."
+        },
+        "correct": "A",
+        "explanation": "Under the Scotland Act 1998, the Scottish Parliament has legislative competence for devolved matters. Schedule 5 to the Act sets out matters reserved to the UK Parliament, which include broadcasting, defence, foreign affairs, social security, and employment. Broadcasting is a reserved matter. Legislation on a reserved matter would be outside the Scottish Parliament's competence and could be struck down. The Scottish Parliament's competence is extensive within devolved areas (health, education, justice, etc.) but not unlimited (A is wrong). A majority vote does not extend competence beyond the statutory framework (C is wrong). Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-053",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Juries",
+        "subtopic": "Jury eligibility and selection",
+        "difficulty": "Foundation",
+        "stem": "Which of the following persons is ineligible to serve as a juror under the Juries Act 1974?",
+        "options": {
+          "A": "A person who is currently serving a custodial sentence or who has been sentenced to five or more years' imprisonment at any time.",
+          "B": "A person aged 18 to 70 who is on the electoral register.",
+          "C": "A person with no previous criminal convictions.",
+          "D": "A retired judge."
+        },
+        "correct": "A",
+        "explanation": "Under the Juries Act 1974 (as amended by the Criminal Justice Act 2003), the general eligibility criteria for jury service are: aged 18-75; on the electoral roll; resident in the UK for at least 5 years since age 13. Disqualification applies (Schedule 1) to persons who are currently on bail in criminal proceedings, or have served certain custodial sentences (including any person who has at any time been sentenced to imprisonment for 5 years or more). Option B describes an eligible person. Option C (no convictions) is not a prerequisite — persons with minor convictions may serve. Option D — since CJA 2003 removed the list of ineligible professions (including judges and lawyers), retired judges are eligible to serve.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-054",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Juries",
+        "subtopic": "Role of the jury — directing verdicts",
+        "difficulty": "Foundation",
+        "stem": "In a criminal trial at the Crown Court, the judge is satisfied that no reasonable jury properly directed could convict the defendant on the evidence adduced. What power does the judge have?",
+        "options": {
+          "A": "The judge may withdraw the case from the jury and direct an acquittal (a 'direction to acquit') on the ground that there is no case to answer.",
+          "B": "The judge must let the case go to the jury regardless of the state of the evidence.",
+          "C": "The judge may discharge the jury and retry the case.",
+          "D": "The judge must refer the matter to the Court of Appeal."
+        },
+        "correct": "A",
+        "explanation": "A judge in a Crown Court criminal trial has the power to withdraw the case from the jury and direct an acquittal (also called a 'directed verdict' or finding that there is 'no case to answer') where the prosecution's evidence, taken at its highest, is insufficient to sustain a conviction by a properly directed jury. This prevents the defendant from having to mount a defence against a fatally weak prosecution case. The jury's role as the finder of fact is fundamental, but the judge controls the legal sufficiency of the evidence. Options A, C, and D do not correctly describe this power.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-055",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Alternative Dispute Resolution",
+        "subtopic": "Ombudsmen",
+        "difficulty": "Application",
+        "stem": "Victoria Ashworth has a complaint about the service provided by her bank but is dissatisfied with the bank's internal complaints response. What is the appropriate next step under the financial complaints regime?",
+        "options": {
+          "A": "Refer the complaint to the Financial Ombudsman Service (FOS), which can investigate complaints against regulated financial services firms and award compensation up to the FOS limit.",
+          "B": "Issue proceedings in the County Court immediately.",
+          "C": "Report the bank to the Financial Conduct Authority for enforcement action.",
+          "D": "Refer the complaint to the Legal Ombudsman."
+        },
+        "correct": "A",
+        "explanation": "The Financial Ombudsman Service (FOS) is a free, independent service that resolves complaints between consumers (and small businesses) and financial services firms. A complainant must first go through the firm's internal complaints process and receive a final response (or wait 8 weeks) before referring to the FOS. The FOS can award compensation up to a prescribed limit and make directions. Issuing court proceedings (A) without exhausting the ADR route may attract adverse costs. The FCA (C) is the regulator for enforcement against firms, not a complaints handler for individual consumers. The Legal Ombudsman (D) handles complaints about legal services.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-056",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Commencement of legislation",
+        "difficulty": "Foundation",
+        "stem": "An Act of Parliament receives Royal Assent but contains no commencement provisions. When does it come into force?",
+        "options": {
+          "A": "On the date of Royal Assent.",
+          "B": "On the date Parliament first debated it.",
+          "C": "28 days after Royal Assent.",
+          "D": "When a commencement order is made by a Minister."
+        },
+        "correct": "A",
+        "explanation": "Under the Interpretation Act 1978 s.4, where an Act does not specify when it is to come into force, it comes into force on the date it receives Royal Assent. Many Acts contain their own commencement provisions (e.g., a specified future date or commencement by order), but absent any such provision, Royal Assent is the default commencement date. Options A, C, and D are incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-057",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Professionals",
+        "subtopic": "Fusion of legal professions debate",
+        "difficulty": "Application",
+        "stem": "Professor Naomi Farrow is writing an article on the potential fusion of the solicitor and barrister branches of the legal profession. Which argument is most commonly advanced in favour of fusion?",
+        "options": {
+          "A": "Fusion would create a more efficient system where one lawyer handles all aspects of a case from initial advice through to advocacy, reducing duplication of work and client costs.",
+          "B": "Fusion would increase the cost of legal services.",
+          "C": "Fusion would preserve the independence of the Bar.",
+          "D": "Fusion would make it impossible to train lawyers."
+        },
+        "correct": "A",
+        "explanation": "The main arguments in favour of fusion are: efficiency (one lawyer handles the case throughout); cost reduction (no 'double briefing' of solicitor and barrister); simpler client relationships; and the trend already existing in practice (solicitor-advocates, QCs, CILEX fellows). Arguments against fusion include: preserving the Bar's independence; the specialist advocacy skills developed by full-time barristers; and the 'cab-rank' rule. Option B is the opposite — critics of fusion say it may actually increase costs. Options C and D are arguments against fusion or irrelevant.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-058",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Specialist courts — Business and Property Courts",
+        "difficulty": "Foundation",
+        "stem": "Ashworth Developments Ltd has a complex commercial dispute worth £5 million involving a joint venture agreement. Which division of the High Court is most likely to be appropriate?",
+        "options": {
+          "A": "The Business and Property Courts — specifically the Commercial Court or Chancery Division, which handle complex commercial and business disputes.",
+          "B": "The Family Division.",
+          "C": "The Magistrates' Court.",
+          "D": "The Court of Appeal."
+        },
+        "correct": "A",
+        "explanation": "The Business and Property Courts of England and Wales bring together specialist business and property jurisdictions including the Commercial Court, Chancery Division, Technology and Construction Court, and Intellectual Property Enterprise Court. Complex commercial disputes involving joint ventures, company law, high-value contracts, and real property belong in this court structure. The Family Division (A) handles matrimonial and children matters. The Magistrates' Court (C) handles summary criminal matters and some civil/family matters. The Court of Appeal (D) is an appellate, not a first-instance court.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-059",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Sources of Law",
+        "subtopic": "Custom as a source of law",
+        "difficulty": "Application",
+        "stem": "A local fishing community in a coastal town claims a customary right to dry nets on a particular stretch of beach. For this claim to succeed as a legally recognised custom, which requirement must be satisfied?",
+        "options": {
+          "A": "The custom must have existed since time immemorial (legally fixed as 1189), be reasonable, certain, consistent, continuous, and exercised as of right.",
+          "B": "The custom must have existed since the Norman Conquest.",
+          "C": "The custom must be in writing and registered with the local authority.",
+          "D": "A majority of local residents must confirm the custom exists."
+        },
+        "correct": "A",
+        "explanation": "For a local custom to be legally recognised as a source of law, it must satisfy a number of criteria: (i) it must have existed since time immemorial (legally, since 1189 — the first year of Richard I's reign); (ii) it must have been exercised continuously; (iii) it must have been exercised peaceably and as of right (nec vi, nec clam, nec precario); (iv) it must be certain; (v) it must be reasonable; and (vi) it must be consistent with other customs. The 1189 date is the legal fiction — courts presume continuity unless evidence rebuts it. Option B states 'Norman Conquest' (1066) which is not the legal date. Options C and D have no legal basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-060",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "Public authorities — s.6 HRA 1998",
+        "difficulty": "Application",
+        "stem": "Gerald Crane advises a client who claims a private hospital (which receives public funding for NHS patients) acted in breach of Article 3 ECHR (prohibition of torture/inhuman treatment). Is the private hospital a 'public authority' for the purposes of HRA 1998 s.6?",
+        "options": {
+          "A": "Possibly — under HRA 1998 s.6(3)(b), a 'hybrid' or 'functional public authority' is a body which is not a standard public authority but which has some functions of a public nature; such bodies are bound by Convention rights when exercising their public functions.",
+          "B": "No — only government departments and local authorities are public authorities.",
+          "C": "Yes — all hospitals are public authorities regardless of funding.",
+          "D": "No — private companies can never be public authorities."
+        },
+        "correct": "A",
+        "explanation": "HRA 1998 s.6 makes it unlawful for a public authority to act in a way incompatible with a Convention right. Section 6(3) defines public authority to include: (a) 'core' public authorities (government departments, courts, police, etc.) — always bound; and (b) 'hybrid' public authorities — private bodies that exercise some functions of a public nature, but only when exercising those public functions (not private ones). The courts have struggled with the boundary (YL v Birmingham City Council [2007] — private care home not a public authority; but the Health and Social Care Act 2008 s.145 reversed this for care homes). A private hospital exercising NHS functions may be a hybrid public authority. Option B is too narrow. Option C is too broad. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-061",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Statutory Interpretation",
+        "subtopic": "Noscitur a sociis and expressio unius",
+        "difficulty": "Application",
+        "stem": "A statute provides that a licensee 'may not sell, hire, or otherwise dispose of' the licensed item. The licensee gives it away as a gift. The prosecution argues a gift falls within 'otherwise dispose of'. Which rule of interpretation supports the prosecution's argument?",
+        "options": {
+          "A": "The wide purposive reading of 'otherwise dispose of' encompasses any act by which the licensee parts with possession or ownership, making the prohibition comprehensive.",
+          "B": "Ejusdem generis — a gift is of the same genus as sale and hire.",
+          "C": "Noscitur a sociis — the general words take their meaning from the specific words alongside them, which are both commercial transactions, limiting 'otherwise dispose of' to commercial dealings only.",
+          "D": "Expressio unius — if gifts were intended to be included, they would have been listed."
+        },
+        "correct": "A",
+        "explanation": "On the facts, the prosecution relies on a purposive/wide reading of the general phrase 'otherwise dispose of', which can be read to capture any parting with the item (including a gift). Option C uses noscitur a sociis to argue the contrary — general words are coloured by the context of their neighbours (sale and hire being commercial). Option D (expressio unius) argues that the express inclusion of some items implies the exclusion of others not listed. Option B (ejusdem generis) concerns a genus from a list of specifics. The question asks which argument supports the prosecution — it is the broad purposive reading in B. The defence might rely on C or D.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-062",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Precedent",
+        "subtopic": "Per incuriam",
+        "difficulty": "Application",
+        "stem": "A Court of Appeal judge considers whether to follow a previous Court of Appeal decision. She discovers the earlier decision was reached without the court being referred to a binding House of Lords authority on the same point. On what basis may she decline to follow the earlier decision?",
+        "options": {
+          "A": "The Practice Statement 1966.",
+          "B": "The purposive approach — the decision was wrongly reasoned.",
+          "C": "Per incuriam — a decision made in ignorance of a relevant statute or binding authority is made per incuriam (in error) and need not be followed (Young v Bristol Aeroplane [1944]).",
+          "D": "Parliamentary sovereignty — the relevant statute overrides the earlier judgment."
+        },
+        "correct": "C",
+        "explanation": "The per incuriam exception to the general rule that the Court of Appeal is bound by its own decisions (Young v Bristol Aeroplane [1944]) applies where the earlier Court of Appeal decision was made in ignorance of a relevant statute or binding authority. If the earlier CA decision failed to consider a binding HL/SC decision, it was arguably decided per incuriam, and a later CA panel may decline to follow it. The Practice Statement 1966 (A) applies to the Supreme Court/House of Lords only. Option B is a matter of disagreement with reasoning, not a recognised exception. Option D is incorrect — parliamentary sovereignty does not directly create a per incuriam exception.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-063",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Precedent",
+        "subtopic": "Reversing, overruling and disapproving",
+        "difficulty": "Foundation",
+        "stem": "The Supreme Court hears an appeal and disagrees with the decision of the Court of Appeal below. It substitutes a different decision in the same case. What is this called?",
+        "options": {
+          "A": "Overruling.",
+          "B": "Distinguishing.",
+          "C": "Reversing — the higher court reverses the decision of the lower court in the same case on appeal.",
+          "D": "Disapproving."
+        },
+        "correct": "C",
+        "explanation": "Reversing occurs when an appellate court replaces the decision of a lower court in the same case. Overruling (A) occurs when a higher court declares the legal rule established in a previous case (decided by itself or a lower court) to be wrong — it applies to later cases, not to the parties in the case being heard. Distinguishing (B) is finding that the present case's facts are materially different from the precedent. Disapproving (D) is expressly criticising a previous decision without overruling it.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-064",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Sources of Law",
+        "subtopic": "Equity — maxims and fusion of courts",
+        "difficulty": "Foundation",
+        "stem": "Before the Judicature Acts 1873–75, a litigant who needed an equitable remedy had to bring separate proceedings in the Court of Chancery. What did the Judicature Acts achieve?",
+        "options": {
+          "A": "They abolished equity as a source of law.",
+          "B": "They transferred all jurisdiction to the Magistrates' Court.",
+          "C": "They fused the administration of common law and equity by creating a unified Supreme Court of Judicature where both common law and equitable rules could be applied, with equity prevailing in cases of conflict.",
+          "D": "They created the Supreme Court as the final court of appeal."
+        },
+        "correct": "C",
+        "explanation": "The Judicature Acts 1873–1875 created the Supreme Court of Judicature (which included what became the High Court and Court of Appeal), fusing the administration of common law and equity so that both could be applied in the same court. This was an administrative/procedural fusion, not a fusion of the substantive rules: equity and common law remain distinct bodies of rules. Where they conflict, equity prevails (s.25(11) of the Judicature Act 1873). Option A is wrong — equity was not abolished. Option B is wrong. Option D is wrong — the Supreme Court (in its current sense) was created by the Constitutional Reform Act 2005.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-065",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Professionals",
+        "subtopic": "CILEx — Chartered Legal Executives",
+        "difficulty": "Foundation",
+        "stem": "Harriet Voss is a Fellow of CILEx (Chartered Institute of Legal Executives). What is the legal status of her work and rights compared to a solicitor?",
+        "options": {
+          "A": "CILEx Fellows have exactly the same rights as solicitors in all respects.",
+          "B": "CILEx Fellows are unqualified legal clerks with no regulated status.",
+          "C": "CILEx Fellows are regulated legal professionals who may be authorised to conduct litigation, have certain rights of audience, and can specialise in their chosen area; they are regulated by CILEx Regulation and may become solicitors via the CILEx Graduate Entry route.",
+          "D": "CILEx Fellows can only work under the direct supervision of a solicitor."
+        },
+        "correct": "C",
+        "explanation": "CILEx Fellows are regulated legal professionals, regulated by CILEx Regulation (an approved regulator under the Legal Services Act 2007). They may be authorised to conduct litigation and have certain rights of audience. Senior CILEx practitioners can become partners in law firms and authorised persons under the Legal Services Act. They are not identical to solicitors in all rights (A is wrong). They are fully qualified regulated professionals (C is wrong). Option D was the position for trainee/junior members but not Fellows.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-066",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Aid",
+        "subtopic": "Criminal legal aid — duty solicitor",
+        "difficulty": "Foundation",
+        "stem": "Frank Hollis is arrested and taken to a police station. He has no solicitor. What legal aid entitlement does he have?",
+        "options": {
+          "A": "No entitlement — criminal legal aid must be applied for in advance.",
+          "B": "Legal aid at the police station is means-tested.",
+          "C": "The right to free legal advice from the duty solicitor at the police station under the Criminal Legal Aid (General) Regulations 2013; this is available to all detained persons regardless of means.",
+          "D": "Hollis must pay privately for police station advice and can claim reimbursement later."
+        },
+        "correct": "C",
+        "explanation": "Under the Police and Criminal Evidence Act 1984 s.58 and the Legal Aid framework, every person detained at a police station has the right to free legal advice from the duty solicitor (or their own solicitor). This right is not means-tested — it is available to all detained persons. The Criminal Legal Aid (General) Regulations 2013 govern the scheme. Police station advice is always free regardless of the suspect's financial means. Options A, C and D are all wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-067",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Coroner's Court",
+        "difficulty": "Foundation",
+        "stem": "A person dies in unexplained circumstances in a police cell in Wharton Magna. Who has jurisdiction to investigate the death?",
+        "options": {
+          "A": "The Crown Court.",
+          "B": "The Magistrates' Court.",
+          "C": "The Coroner for the district — the Coroner's Court investigates deaths which are violent, unnatural, sudden, or of unknown cause, and deaths in state detention (Coroners and Justice Act 2009).",
+          "D": "The High Court (Administrative Court)."
+        },
+        "correct": "C",
+        "explanation": "The Coroners and Justice Act 2009 governs coronial jurisdiction. A coroner must investigate a death where there is reason to suspect the deceased died a violent or unnatural death, or where the death is sudden and of unknown cause, or where the person died in custody or otherwise in state detention. A death in a police cell is a death in state detention requiring a coroner's investigation (and usually an inquest). The standard of proof at inquest is the balance of probabilities for narrative conclusions and beyond reasonable doubt for conclusions equivalent to a criminal verdict. Options A, C and D do not have jurisdiction over unexplained deaths.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-068",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Consolidation and codification",
+        "difficulty": "Application",
+        "stem": "Parliament passes a Consolidation Act bringing together in one Act all existing statutory provisions on a particular topic without changing the substantive law. What is the purpose of consolidation legislation?",
+        "options": {
+          "A": "To change the existing law.",
+          "B": "To replace common law rules with statutory rules.",
+          "C": "To bring together existing statutory provisions on one topic into a single Act for clarity and accessibility, without substantive change to the law.",
+          "D": "To create new legal principles not previously enacted."
+        },
+        "correct": "C",
+        "explanation": "Consolidation Acts gather together previously enacted statutory provisions on a single topic into one act, making the law easier to find and use, without altering the substantive rules. An example is the Companies Act 2006, which consolidated and reformed earlier companies legislation. Codification (C) replaces common law with statute — that is a different exercise involving substantive change. Consolidation involves no substantive change (A and D are wrong).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-069",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Privy Council — jurisdiction",
+        "difficulty": "Foundation",
+        "stem": "The Judicial Committee of the Privy Council hears an appeal from a Caribbean Commonwealth jurisdiction. What is the Privy Council's role in English law?",
+        "options": {
+          "A": "The Privy Council is the final court of appeal for all matters in England and Wales.",
+          "B": "The Privy Council has no judicial function.",
+          "C": "The Privy Council is the final court of appeal for certain Commonwealth countries and Crown Dependencies; its decisions are not technically binding on English courts but are highly persuasive.",
+          "D": "The Privy Council binds the Supreme Court."
+        },
+        "correct": "C",
+        "explanation": "The Judicial Committee of the Privy Council acts as the final court of appeal for certain Commonwealth countries that have retained this jurisdiction (e.g., Jamaica, Trinidad and Tobago) and for UK Crown Dependencies (Jersey, Guernsey, Isle of Man) and Overseas Territories. Its decisions are not technically binding on English courts (the Privy Council is not part of the English court hierarchy) but are highly persuasive, especially when the panel consists of UK Supreme Court justices. Option A is wrong — the Supreme Court is the final court of appeal for England and Wales. Option B is wrong. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-070",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "Article 6 — right to a fair trial",
+        "difficulty": "Application",
+        "stem": "A defendant in a criminal case claims the prosecution has failed to disclose relevant evidence that might have assisted his defence. Which Article 6 ECHR right is engaged?",
+        "options": {
+          "A": "Article 8 — right to respect for private life.",
+          "B": "Article 5 — right to liberty.",
+          "C": "Article 6(1) — right to a fair trial, which includes the right to have access to all material in the prosecution's possession that might undermine the prosecution case or assist the defence (equality of arms).",
+          "D": "Article 3 — prohibition of inhuman treatment."
+        },
+        "correct": "C",
+        "explanation": "Article 6(1) ECHR guarantees the right to a fair trial. The ECtHR has interpreted this to include the right to disclosure of relevant materials held by the prosecution (Rowe and Davis v UK [2000]). Non-disclosure of material that might assist the defence violates the principle of equality of arms and the defendant's right to adversarial proceedings. In English law, the Criminal Procedure and Investigations Act 1996 governs disclosure. Article 8 (A) concerns privacy. Article 5 (C) concerns deprivation of liberty. Article 3 (D) concerns torture and inhuman treatment.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-071",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Constitutional Principles",
+        "subtopic": "Rule of law — Dicey's principles",
+        "difficulty": "Foundation",
+        "stem": "A.V. Dicey identified three principles of the rule of law. Which of the following is one of Dicey's principles?",
+        "options": {
+          "A": "The government has absolute power to act in emergencies.",
+          "B": "Rights can only be protected if enshrined in a written constitution.",
+          "C": "No person is above the law and all persons are subject equally to the ordinary law of the land, enforceable in the ordinary courts.",
+          "D": "Parliament has no binding rules of procedure."
+        },
+        "correct": "C",
+        "explanation": "Dicey identified three aspects of the rule of law in 'Introduction to the Study of the Law of the Constitution' (1885): (i) the absolute supremacy of regular law over arbitrary power — no person is punishable except for a distinct breach of law; (ii) equality before the law — every person, regardless of rank, is subject to ordinary law and justiciable in ordinary courts; and (iii) constitutional law as a consequence of ordinary law — rights are secured through ordinary courts rather than a written constitutional guarantee. Option C reflects Dicey's equality principle. Options A, C and D are inconsistent with or not part of Dicey's formulation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-072",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Constitutional Principles",
+        "subtopic": "Separation of powers",
+        "difficulty": "Application",
+        "stem": "Before the Constitutional Reform Act 2005, the Lord Chancellor was simultaneously a member of the Cabinet, the Speaker of the House of Lords, and the head of the judiciary. Why was this constitutionally problematic?",
+        "options": {
+          "A": "It was not problematic — combining roles improves efficiency.",
+          "B": "The Lord Chancellor had too much power only in relation to criminal justice.",
+          "C": "It breached the separation of powers by concentrating executive, legislative, and judicial functions in one office-holder, undermining judicial independence and the rule of law.",
+          "D": "The combined role was prohibited by the Human Rights Act 1998."
+        },
+        "correct": "C",
+        "explanation": "The separation of powers doctrine (associated with Montesquieu) holds that the three branches of government — executive (government), legislature (Parliament), and judiciary (courts) — should be functionally separate to prevent abuse of power and protect liberty. The Lord Chancellor's role combined all three: a Cabinet minister (executive), Speaker of the House of Lords (legislature), and head of the judiciary (judicial). The Constitutional Reform Act 2005 addressed this by creating the Supreme Court (separating the judiciary from the legislature), abolishing the Lord Chancellor's judicial functions, and requiring the Lord Chancellor to uphold judicial independence. Option A ignores the constitutional dimension. Option B understates the problem. Option D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-073",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Professionals",
+        "subtopic": "Solicitors Qualifying Examination (SQE)",
+        "difficulty": "Foundation",
+        "stem": "Harriet Voss wishes to qualify as a solicitor under the new SQE route. Which combination of requirements must she satisfy?",
+        "options": {
+          "A": "Complete a law degree, a Legal Practice Course, and a two-year training contract.",
+          "B": "Complete only a law degree — no further assessment is required.",
+          "C": "Pass SQE1 (Functioning Legal Knowledge assessments) and SQE2 (practical legal skills assessments); complete two years of Qualifying Work Experience (QWE); satisfy the character and suitability requirements; and be admitted by the Solicitors Regulation Authority.",
+          "D": "Pass SQE1 only — SQE2 is optional."
+        },
+        "correct": "C",
+        "explanation": "The SQE route (introduced from September 2021) requires: (i) a degree (or equivalent) or a statement of equivalent means; (ii) passing SQE1 (multiple-choice and written assessments testing functioning legal knowledge across FLK1 and FLK2); (iii) passing SQE2 (practical legal skills assessments); (iv) completing two years of Qualifying Work Experience recognised by the SRA; and (v) satisfying the SRA's character and suitability requirements. Both SQE1 and SQE2 are mandatory (D is wrong). A law degree alone is insufficient (C is wrong). The LPC/training contract route (A) is the old pathway, though existing students on that route can complete it.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-074",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Statutory instruments — affirmative and negative procedure",
+        "difficulty": "Foundation",
+        "stem": "A statutory instrument is subject to the negative resolution procedure. What does this mean?",
+        "options": {
+          "A": "Parliament must vote to approve the instrument before it comes into force.",
+          "B": "The instrument is invalid unless it receives Royal Assent.",
+          "C": "The instrument comes into force automatically but can be annulled if either House passes a resolution against it within a specified period (usually 40 days).",
+          "D": "The instrument requires a two-thirds majority in Parliament to take effect."
+        },
+        "correct": "C",
+        "explanation": "Statutory instruments subject to the negative resolution procedure (the 'laying before Parliament' procedure) come into force automatically (or at a specified date) and remain in force unless Parliament passes a 'prayer' to annul it within the prescribed period (usually 40 days). This means most negative SIs are never actively debated unless someone objects. Under the affirmative resolution procedure, the instrument must be actively approved by a vote of one or both Houses before it comes into force. Option A describes the affirmative procedure. Options C and D are incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-075",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "Absolute rights — Article 3",
+        "difficulty": "Application",
+        "stem": "A prisoner claims that conditions in a UK prison amount to degrading treatment contrary to Article 3 ECHR. The government argues the conditions are justified on grounds of cost and resource limitations. Is this argument valid under Article 3?",
+        "options": {
+          "A": "Yes — the government can justify any Article 3 breach on public interest grounds.",
+          "B": "No — but only if the claimant suffered physical injury.",
+          "C": "Yes — Article 3 can be balanced against the interests of other prisoners.",
+          "D": "No — Article 3 is an absolute right; it cannot be derogated from or qualified under any circumstances (including national emergencies), and there is no provision in the Convention equivalent to Article 8(2) allowing justified interference."
+        },
+        "correct": "D",
+        "explanation": "Article 3 ECHR (prohibition of torture, inhuman or degrading treatment) is one of the absolute rights in the Convention. Unlike qualified rights such as Article 8, 9, 10 and 11, there is no Article 3(2) — the right cannot be limited even in times of war or public emergency (Article 15(2)). Cost and resource considerations are not a defence to a breach of Article 3. The ECtHR has held that prison conditions can amount to degrading treatment. Physical injury is not a requirement (D is wrong) — psychological suffering can suffice. Options A and C are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-076",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Judicial Appointments",
+        "subtopic": "Judicial Appointments Commission",
+        "difficulty": "Foundation",
+        "stem": "Victoria Ashworth is considering a judicial appointment. Who is responsible for selecting candidates for judicial appointment in England and Wales?",
+        "options": {
+          "A": "The Prime Minister, on the advice of the Lord Chief Justice.",
+          "B": "Parliament by resolution.",
+          "C": "The President of the Law Society.",
+          "D": "The Judicial Appointments Commission (JAC), which selects candidates on merit through fair and open competition, with the aim of encouraging diversity; the Lord Chancellor makes formal appointments on the JAC's recommendation."
+        },
+        "correct": "D",
+        "explanation": "The Constitutional Reform Act 2005 created the Judicial Appointments Commission (JAC) to select candidates for judicial office on merit through fair and open competition. The JAC makes recommendations and the Lord Chancellor (for most appointments) or the Lord Chief Justice (for some) formally appoints. The Prime Minister retains a role only in the appointment of the President of the Supreme Court and senior judiciary in practice but the formal process runs through the JAC. Option A is wrong. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-077",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Juries",
+        "subtopic": "Majority verdicts",
+        "difficulty": "Foundation",
+        "stem": "After several hours of deliberation, the jury in a Crown Court trial cannot reach a unanimous verdict. The judge gives a majority verdict direction. What majority is acceptable?",
+        "options": {
+          "A": "Simple majority — 7 out of 12 jurors.",
+          "B": "Unanimous verdict is always required — if there is no agreement, a mistrial is declared.",
+          "C": "11 out of 12 only.",
+          "D": "10 out of 12 jurors (or 9 out of 10 if reduced to 10); the judge may accept a majority verdict after a period of deliberation (usually at least 2 hours for a 12-person jury) under the Juries Act 1974 s.17."
+        },
+        "correct": "D",
+        "explanation": "Juries Act 1974 s.17 permits majority verdicts where the jury cannot agree unanimously after an appropriate period (at least two hours for a 12-member jury). The acceptable majority is: 10-2 or 11-1 for a 12-member jury; 9-1 for a 10-member jury. If the jury is reduced to 9 or fewer, unanimity is required. The foreman must state the numbers agreeing/disagreeing when the majority verdict is returned. Option A (7/12) is too low. Option C is wrong — 10/12 is also acceptable. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-078",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Magistrates — lay and district judges",
+        "difficulty": "Foundation",
+        "stem": "A magistrate's court is due to hear a complex and lengthy fraud case. What two types of judge may sit in the Magistrates' Court?",
+        "options": {
+          "A": "High Court judges and circuit judges only.",
+          "B": "Crown Court recorders only.",
+          "C": "District judges and barristers only.",
+          "D": "Lay magistrates (Justices of the Peace) — unpaid volunteers trained to sit in panels of two or three — and District Judges (Magistrates' Courts) — professional, legally qualified, salaried judges who sit alone."
+        },
+        "correct": "D",
+        "explanation": "The Magistrates' Court is presided over by: (i) lay magistrates (Justices of the Peace), who are unpaid, non-legally-qualified members of the community, trained and advised by a legal adviser (clerk), sitting in panels of two or three; and (ii) District Judges (Magistrates' Courts), who are legally qualified, salaried, full-time judges who sit alone. District judges are particularly used for complex, lengthy, or sensitive cases where a professional judge is preferable. High Court judges and circuit judges (A) sit in the Crown Court and above. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-079",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Sources of Law",
+        "subtopic": "Common law and equity — trust",
+        "difficulty": "Application",
+        "stem": "Harriet Voss is advising a client about a trust. The trustee holds legal title to property but refuses to act in accordance with the terms of the trust. Which body of law gave rise to the trust and would govern the enforcement of the beneficiary's rights?",
+        "options": {
+          "A": "Common law — trusts are common law creatures enforced in common law courts.",
+          "B": "EU law — trusts are harmonised across EU member states.",
+          "C": "Statute — trusts can only exist if created under the Trustee Act 2000.",
+          "D": "Equity — the trust is an equitable concept developed by the Court of Chancery; the beneficiary's rights are equitable rights enforceable against the trustee."
+        },
+        "correct": "D",
+        "explanation": "The trust is the most significant equitable institution, developed by the Court of Chancery from the 15th century onwards to mitigate the rigidity of common law. The trustee holds legal title, but the beneficiary holds an equitable interest enforceable in equity. Equity acts on the conscience of the trustee. While statute (e.g., Trustee Act 1925, Trustee Act 2000) regulates many aspects of trusts, the foundational nature of the trust as an equitable concept is equity. Option A is wrong. Option C is wrong — trusts can exist under common law, equity, and statute. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-080",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Constitutional Principles",
+        "subtopic": "Constitutional conventions",
+        "difficulty": "Foundation",
+        "stem": "By convention, the Prime Minister must be a Member of Parliament who commands a majority in the House of Commons. This rule is not in any statute. What type of constitutional rule is this?",
+        "options": {
+          "A": "Common law principle.",
+          "B": "A resolution of Parliament.",
+          "C": "Delegated legislation.",
+          "D": "Constitutional convention — a non-legal rule of political practice which is binding as a matter of political obligation but is not enforced by the courts."
+        },
+        "correct": "D",
+        "explanation": "Constitutional conventions are non-legal rules of political practice observed by constitutional actors (the Crown, Ministers, Parliament). They are not enforced by the courts (Madzimbamuto v Lardner-Burke [1969]) but breach carries political and constitutional consequences. The requirement that the PM commands the confidence of the Commons is a constitutional convention. Common law (A) is judge-made law. Delegated legislation (C) is statutory. A parliamentary resolution (D) is a decision of one or both Houses but not a convention.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-081",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "ECHR and ECtHR — relationship to domestic law",
+        "difficulty": "Foundation",
+        "stem": "A claimant exhausts all domestic remedies in the UK and still believes the state has violated his Convention rights. What recourse does he have under the ECHR?",
+        "options": {
+          "A": "He can appeal to the European Court of Justice in Luxembourg.",
+          "B": "He has no further recourse once UK courts have decided the case.",
+          "C": "He must reissue proceedings in the High Court.",
+          "D": "He may bring an application to the European Court of Human Rights in Strasbourg, subject to the admissibility criteria (including exhaustion of domestic remedies and a six-month/four-month time limit from the final domestic decision)."
+        },
+        "correct": "D",
+        "explanation": "The European Court of Human Rights (ECtHR) in Strasbourg is the international court that adjudicates complaints of violations of the ECHR by state parties. Individuals may bring an application (under Article 34 ECHR) after exhausting domestic remedies. Admissibility criteria include exhaustion of domestic remedies, a time limit (reduced from 6 months to 4 months from 1 February 2022 for applications by new applicants), and that the applicant was a 'victim'. The ECJ in Luxembourg (A) is the Court of Justice of the EU — a different court. Option B is wrong. Option C is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-082",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Presumptions in statutory interpretation",
+        "difficulty": "Foundation",
+        "stem": "A criminal statute is silent on whether mens rea (guilty mind) is required. Which presumption guides interpretation?",
+        "options": {
+          "A": "Strict liability is presumed in all criminal offences.",
+          "B": "Parliament always specifies the mens rea required.",
+          "C": "The prosecution must prove mens rea unless the defendant raises this as a defence.",
+          "D": "There is a presumption that mens rea is required for criminal liability unless Parliament has clearly indicated the contrary — statutes are presumed not to create strict liability offences (Sweet v Parsley [1970])."
+        },
+        "correct": "D",
+        "explanation": "The House of Lords in Sweet v Parsley [1970] affirmed the strong presumption that mens rea is required for criminal offences. Parliament may create strict liability offences (usually regulatory offences) but must do so expressly or by clear necessary implication. Where the statute is silent on mental element, courts presume mens rea is required. Option A is the opposite of the presumption. Option C inverts the burden incorrectly. Option B is factually wrong — many older statutes are silent on mens rea.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-083",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Juries",
+        "subtopic": "Jury deliberations — secrecy",
+        "difficulty": "Foundation",
+        "stem": "After a verdict is returned, a juror gives an interview to a journalist revealing how the jury reached its decision and the views expressed during deliberations. What is the legal position?",
+        "options": {
+          "A": "Jurors are free to discuss their deliberations after the verdict.",
+          "B": "The juror can only discuss the deliberations with their solicitor.",
+          "C": "There is no legal restriction on what jurors can say after a verdict.",
+          "D": "This is a criminal offence under the Contempt of Court Act 1981 s.8 — it is contempt to obtain, disclose or solicit any particulars of statements made, opinions expressed, arguments advanced, or votes cast by members of a jury in the course of their deliberations in any legal proceedings."
+        },
+        "correct": "D",
+        "explanation": "Contempt of Court Act 1981 s.8 makes it a contempt of court to obtain, disclose, or solicit any particulars of statements made, opinions expressed, arguments advanced, or votes cast by members of a jury in the course of deliberations in any legal proceedings. This applies both during and after the proceedings. The secrecy of jury deliberations is fundamental to the jury system. Both the juror who discloses and the journalist who publishes can be liable. Options A and C are wrong. Option B is wrong — there is no exception for solicitors.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-084",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Leapfrog appeals",
+        "difficulty": "Foundation",
+        "stem": "In what circumstances may a case proceed directly from the High Court to the Supreme Court, bypassing the Court of Appeal?",
+        "options": {
+          "A": "Whenever both parties agree.",
+          "B": "Only in judicial review cases.",
+          "C": "Where the High Court judge considers the case important enough.",
+          "D": "Under the Administration of Justice Act 1969 ss.12-15, a 'leapfrog' appeal may proceed directly from the High Court to the Supreme Court if the appeal raises a point of law of general public importance which is either bound by a decision of the Court of Appeal or relates to the construction of a statute, and leave is granted."
+        },
+        "correct": "D",
+        "explanation": "The Administration of Justice Act 1969 (as amended) provides a 'leapfrog' procedure allowing direct appeal from the High Court to the Supreme Court, bypassing the Court of Appeal. Conditions include: (i) a certificate from the trial judge that the case involves a point of law of general public importance; (ii) the point relates to construction of a statute, is bound by a Court of Appeal or House of Lords/Supreme Court precedent, or otherwise qualifies; and (iii) the Supreme Court grants leave. Parties' agreement alone (A) is insufficient. The judge's view alone (C) is insufficient. Option B is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-085",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Sources of Law",
+        "subtopic": "Codification — advantages and disadvantages",
+        "difficulty": "Application",
+        "stem": "Professor Naomi Farrow argues that codification of criminal law into a single statute would improve accessibility and certainty. Which of the following is a recognised disadvantage of codification?",
+        "options": {
+          "A": "Codes are easier to find than case law.",
+          "B": "Codification removes the need for judicial interpretation entirely.",
+          "C": "Codes are always shorter than case law compilations.",
+          "D": "Codification can lead to rigidity — codes may not adapt easily to new circumstances without legislative amendment, and judicial creativity in developing the law case-by-case may be lost."
+        },
+        "correct": "D",
+        "explanation": "Advantages of codification include accessibility, certainty, and systematic organisation. Disadvantages include: rigidity (codes may become outdated and require amendment by Parliament rather than judicial development); the risk that attempts at comprehensiveness may introduce gaps or ambiguities; and the loss of the flexibility of judge-made law developing organically through cases. Option A is an advantage, not a disadvantage. Option C is wrong — codes can be very lengthy. Option B is wrong — courts still interpret even codified law.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-086",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legal Professionals",
+        "subtopic": "Pro bono work and access to justice",
+        "difficulty": "Foundation",
+        "stem": "Harriet Voss is considering volunteering at a law centre. What is a law centre and what is its function in the English legal system?",
+        "options": {
+          "A": "A private law firm offering services at reduced fees.",
+          "B": "A paralegal training organisation.",
+          "C": "A court advisory service run by HMCTS.",
+          "D": "A law centre is a not-for-profit organisation providing free legal advice and representation to disadvantaged individuals and communities on matters such as housing, welfare benefits, employment and immigration."
+        },
+        "correct": "D",
+        "explanation": "Law centres are charitable, non-profit organisations that provide free legal advice, casework and representation to those who cannot afford to pay and who do not qualify for legal aid. They typically serve disadvantaged communities and focus on areas such as housing, immigration, welfare benefits, employment, and community care. They are an important part of the access to justice landscape. They are not private firms (A), not HMCTS services (C), and not training organisations (D).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-087",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Human Rights",
+        "subtopic": "Derogation — Article 15 ECHR",
+        "difficulty": "Foundation",
+        "stem": "During a public emergency threatening the life of the nation, the UK government wishes to derogate from certain Convention rights. Which Article governs derogations?",
+        "options": {
+          "A": "Article 3 — absolute rights can always be derogated from.",
+          "B": "Article 8(2) — states may derogate from qualified rights in emergencies.",
+          "C": "Article 1 — permits blanket derogation in any circumstances.",
+          "D": "Article 15 — states may derogate from certain Convention obligations in time of war or other public emergency threatening the life of the nation, to the extent strictly required by the exigencies of the situation, but may not derogate from Articles 2, 3, 4(1), and 7."
+        },
+        "correct": "D",
+        "explanation": "Article 15 ECHR allows contracting states to take measures derogating from their Convention obligations in time of war or other public emergency threatening the life of the nation, but only to the extent strictly required by the exigencies of the situation and provided the measures are not inconsistent with other international obligations. Certain rights are non-derogable: Article 2 (right to life, except deaths from lawful acts of war), Article 3 (prohibition of torture), Article 4(1) (prohibition of slavery) and Article 7 (no punishment without law). Option A is wrong — Article 3 is specifically non-derogable. Options C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-088",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Legislation",
+        "subtopic": "Parliamentary Bills — stages",
+        "difficulty": "Foundation",
+        "stem": "A Government Bill is introduced in the House of Commons. Which of the following correctly lists the stages it must pass before becoming an Act of Parliament?",
+        "options": {
+          "A": "First Reading, Second Reading, Committee Stage, Report Stage, Third Reading (Commons) — then same stages in the House of Lords — then Royal Assent.",
+          "B": "First Reading only in each House, then Royal Assent.",
+          "C": "Committee Stage, Report Stage, Royal Assent.",
+          "D": "Second Reading, Third Reading, then automatically becomes law."
+        },
+        "correct": "A",
+        "explanation": "The legislative process for a Government Bill in the UK Parliament: (1) First Reading (introduction — no debate); (2) Second Reading (debate on general principles); (3) Committee Stage (detailed clause-by-clause scrutiny, usually Public Bill Committee in Commons, full House in Lords); (4) Report Stage (further amendments); (5) Third Reading (final version approved). The Bill then passes to the other House where the same stages occur. Any amendments are resolved (ping-pong). Royal Assent is the final stage, converting the Bill into an Act. Options B, C and D omit essential stages.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-089",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Court Structure",
+        "subtopic": "Judicial review jurisdiction — Administrative Court",
+        "difficulty": "Application",
+        "stem": "Councillor Stubbs of Wharton Magna Council makes a planning decision that Marcus Bridgewater believes was made in breach of procedural fairness rules. In which court does Marcus bring his judicial review claim?",
+        "options": {
+          "A": "The County Court.",
+          "B": "The Court of Appeal.",
+          "C": "The First-tier Tribunal.",
+          "D": "The Administrative Court (a division of the King's Bench Division of the High Court), which has supervisory jurisdiction over public authorities by way of judicial review."
+        },
+        "correct": "D",
+        "explanation": "Judicial review of decisions of public bodies is heard by the Administrative Court, which is part of the King's Bench Division of the High Court. Applications for judicial review are governed by CPR Part 54. The Administrative Court exercises the High Court's supervisory jurisdiction over inferior courts, tribunals, and public bodies (including local councils). Permission to apply for judicial review must first be obtained. The County Court (A) does not have judicial review jurisdiction. The First-tier Tribunal (C) is a specific statutory forum for particular matters. The Court of Appeal (D) is appellate.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      },
+      {
+        "question_id": "FLK1-LSEW-MCQ-090",
+        "flk": "FLK1",
+        "subject": "Legal System of England & Wales",
+        "topic": "Professional Conduct",
+        "subtopic": "Independence — duty not to mislead clients about the law",
+        "difficulty": "Application",
+        "stem": "Ravi Sharma is advising a client about their legal position. The client insists the law is different from what Sharma knows it to be and pressures Sharma to advise accordingly. What must Sharma do?",
+        "options": {
+          "A": "Follow the client's preferred view of the law to maintain the relationship.",
+          "B": "Present both the client's preferred view and the correct view and let the client choose.",
+          "C": "Refuse to advise and close the file.",
+          "D": "Advise the client accurately and honestly about the true legal position, even if this is unwelcome; a solicitor must not give advice he does not believe to be correct in order to please a client (SRA Code para 1.4 — integrity, and para 3.4 — independence)."
+        },
+        "correct": "D",
+        "explanation": "SRA Code para 3.4 requires solicitors not to be pressured into acting in a way which is contrary to their professional judgement. SRA Principle 5 requires solicitors to act with integrity. SRA Principle 7 requires acting in the client's best interests — which includes giving accurate legal advice rather than the advice the client wants to hear. Giving legally incorrect advice to please a client undermines the client's ability to make informed decisions and the integrity of the profession. Option A allows the client to dictate the legal advice. Option C is unnecessarily drastic. Option B creates a misleading impression by presenting a non-legal position as equally valid.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude"
+      }
+    ]
+  }
+}

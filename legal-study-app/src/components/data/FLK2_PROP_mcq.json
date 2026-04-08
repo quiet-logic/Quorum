@@ -1,0 +1,1866 @@
+{
+  "FLK2": {
+    "Property Practice": [
+      {
+        "question_id": "FLK2-PROP-MCQ-001",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "LP(MP)A 1989 s.2 Requirements",
+        "difficulty": "Foundation",
+        "stem": "Under LP(MP)A 1989 s.2, what is the essential requirement for a valid contract for sale of land?",
+        "options": {
+          "A": "The contract must be in writing and signed by both parties, incorporating all material terms.",
+          "B": "The contract must be in writing and signed by the seller only.",
+          "C": "The contract must be in writing but need not identify all material terms if agreed orally.",
+          "D": "The contract must be signed by both parties but can be in electronic format only."
+        },
+        "correct": "A",
+        "explanation": "LP(MP)A 1989 s.2 requires that a contract for sale of land must be in writing and signed by or on behalf of both parties. All material terms must be incorporated into the written document. Part-performance is no longer available to avoid this requirement post-s.2.",
+        "card_refs": [
+          "FLK2-PROP-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-002",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Land Registration",
+        "subtopic": "LRA 2002 Priority Rules",
+        "difficulty": "Foundation",
+        "stem": "Under LRA 2002, what is the basic position regarding the priority of registered dispositions?",
+        "options": {
+          "A": "Registered dispositions take priority in accordance with the order of registration, subject to overriding interests.",
+          "B": "Later registered dispositions always take priority over earlier unregistered interests regardless of notice.",
+          "C": "Priority is determined by the order in which parties became aware of earlier interests.",
+          "D": "Unregistered interests always take priority if the owner had actual occupation."
+        },
+        "correct": "A",
+        "explanation": "LRA 2002 s.29 provides that a registrable disposition for valuable consideration takes priority according to the order of registration. However, overriding interests under Sch.3 (such as actual occupation under para 2) can take priority despite not being registered.",
+        "card_refs": [
+          "FLK2-PROP-016"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-003",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Searches and Enquiries",
+        "subtopic": "Which Search Reveals What",
+        "difficulty": "Foundation",
+        "stem": "Which search is most likely to reveal whether a commercial lease is subject to forfeiture proceedings?",
+        "options": {
+          "A": "Local Authority Search.",
+          "B": "Water and Drainage Search.",
+          "C": "Bankruptcy Search against the landlord.",
+          "D": "None of the standard searches — this requires enquiry of the landlord and review of lease terms."
+        },
+        "correct": "D",
+        "explanation": "Standard searches (Local Authority, Water, Drainage, Chancel Repair) do not reveal forfeiture proceedings. This information must be obtained by: (1) reviewing the lease terms and conditions; (2) enquiring of the current occupier about breaches; (3) reviewing notices served; and (4) conducting company searches if the landlord is a company in financial distress.",
+        "card_refs": [
+          "FLK2-PROP-017"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-004",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Stamp Duty Land Tax",
+        "subtopic": "SDLT Thresholds and Rates",
+        "difficulty": "Foundation",
+        "stem": "What is the SDLT rate payable on the purchase of a residential property for £250,000 by a first-time buyer with no previous property interest?",
+        "options": {
+          "A": "1% on the amount over £125,000.",
+          "B": "2% on the whole amount.",
+          "C": "5% on the whole amount.",
+          "D": "0% — fully relieved as first-time buyer relief."
+        },
+        "correct": "D",
+        "explanation": "First-time buyer relief under FA 2003 (as amended) provides full relief on residential property up to £425,000 for first-time buyers. For purchases at £250,000, a first-time buyer is fully relieved of SDLT. Higher rates (+3%) apply only to additional residential properties for non-first-time buyers.",
+        "card_refs": [
+          "FLK2-PROP-018"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-005",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Standard Conditions of Sale",
+        "difficulty": "Foundation",
+        "stem": "Under the Standard Conditions of Sale (6th edition), what is the default completion time frame after exchange of contracts?",
+        "options": {
+          "A": "10 working days.",
+          "B": "14 calendar days.",
+          "C": "5 working days.",
+          "D": "The contract specifies the precise date; the standard conditions do not set a default period."
+        },
+        "correct": "C",
+        "explanation": "Standard Condition 6.1.1 provides that completion takes place on the date specified in the contract. Absent express agreement, the default position is 5 working days after exchange. The completion date is critical and must be agreed in writing before exchange.",
+        "card_refs": [
+          "FLK2-PROP-019"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-006",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Land Registration",
+        "subtopic": "Overriding Interests",
+        "difficulty": "Foundation",
+        "stem": "Under LRA 2002 Sch.3 para 2, what TWO conditions must be satisfied for an interest based on actual occupation to override a registered disposition?",
+        "options": {
+          "A": "The owner must be in actual occupation and their interest must be known to the buyer OR would have been obvious on reasonable inspection.",
+          "B": "The owner must be in occupation and have paid council tax.",
+          "C": "The owner must be in occupation for at least 12 months and have paid rent.",
+          "D": "The owner must be in occupation and must have a written notice of the interest."
+        },
+        "correct": "A",
+        "explanation": "LRA 2002 Sch.3 para 2 requires: (1) the person claiming the interest is in actual occupation at the time of the disposition; and (2) the interest is known to the buyer, or would have been obvious on reasonable inspection. Both conditions must be satisfied. Actual occupation alone is insufficient if the interest would not have been apparent.",
+        "card_refs": [
+          "FLK2-PROP-020"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-007",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Leases",
+        "subtopic": "LTA 1954 s.24 Security of Tenure",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier acts for a business tenant, Wharton Tech Ltd, occupying office premises under a five-year lease that expires on 30 June 2025. The landlord has not served any notice under the Landlord and Tenant Act 1954. Wharton Tech continues to trade from the premises after 30 June 2025. Under LTA 1954 s.24, what is the legal effect on the tenancy after the contractual term ends?",
+        "options": {
+          "A": "The tenancy continues automatically by operation of statute until terminated by either party following the LTA 1954 notice procedure.",
+          "B": "The tenancy immediately terminates and Wharton Tech must vacate or become a trespasser.",
+          "C": "The tenancy converts automatically into a periodic tenancy with a new contractual term.",
+          "D": "The tenancy continues but only until the landlord demands vacant possession by letter."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. LTA 1954 s.24(1) provides that a business tenancy to which Part II applies shall not expire at the end of its contractual term but shall continue until terminated in accordance with the Act. Termination requires either: the landlord serving a s.25 notice (at least 6 months' notice, specifying whether the landlord will oppose renewal); or the tenant serving a s.26 request for a new tenancy; or the tenant serving a s.27 notice to quit. A landlord cannot simply demand vacant possession by informal letter. Option B is wrong: without a valid s.25 notice, the tenancy continues beyond the contractual term; Wharton Tech does not become a trespasser. Option C is wrong: the tenancy does not automatically convert — it remains the original tenancy held over by statute. Option D is wrong: an informal demand is ineffective — the LTA 1954 notice procedure is mandatory.",
+        "card_refs": [
+          "FLK2-PROP-021"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-008",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Mortgages",
+        "subtopic": "Power of Sale Trigger",
+        "difficulty": "Foundation",
+        "stem": "When does the mortgagee's power of sale under LPA 1925 s.101 become exercisable?",
+        "options": {
+          "A": "Immediately upon execution of the mortgage deed.",
+          "B": "When three months' rent is in arrears or the mortgagor breaches any term.",
+          "C": "When capital is 3 months overdue OR interest is 2 months arrears OR any covenant is breached.",
+          "D": "Only after the mortgagee obtains a court order."
+        },
+        "correct": "C",
+        "explanation": "LPA 1925 s.103 specifies when the power of sale becomes exercisable: (1) when capital money is due and unpaid for at least 3 months after becoming due; (2) when interest is 2 months in arrears; or (3) when a covenant of the mortgage is breached. The power arises under s.101 but does not become exercisable until one of these conditions is met.",
+        "card_refs": [
+          "FLK2-PROP-022"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-009",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Professional Practice",
+        "subtopic": "CML/UK Finance Handbook Conflicts",
+        "difficulty": "Foundation",
+        "stem": "Under the UK Finance Mortgage Lenders' Handbook, when must a solicitor disclose a conflict of interest arising from acting for both lender and borrower?",
+        "options": {
+          "A": "Immediately upon discovery of any matter that could affect the lender's position or create a conflict.",
+          "B": "Only if the lender specifically requests disclosure.",
+          "C": "Only if the borrower is purchasing at a significant undervalue compared to the valuation.",
+          "D": "Never — the Handbook permits joint representation without disclosure if the borrower consents."
+        },
+        "correct": "A",
+        "explanation": "The UK Finance Mortgage Lenders' Handbook requires solicitors acting for both lender and borrower to disclose conflicts immediately. Key conflict situations: (1) undervalue purchases; (2) non-disclosure to lender; (3) undisclosed incentives or gifts. Immediate disclosure is required; in serious conflicts, the solicitor should decline to act for one party.",
+        "card_refs": [
+          "FLK2-PROP-023"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-010",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Anti-Money Laundering",
+        "subtopic": "AML Reporting — SAR Submission",
+        "difficulty": "Foundation",
+        "stem": "Under POCA 2002 s.330, when must a solicitor submit a Suspicious Activity Report (SAR) to the National Crime Agency?",
+        "options": {
+          "A": "As soon as reasonably practicable after knowing or suspecting money laundering, before proceeding with the transaction.",
+          "B": "Only if the solicitor is certain that money laundering has occurred.",
+          "C": "Within 7 days of forming a suspicion of money laundering.",
+          "D": "Only if the client refuses to provide satisfactory explanation for the source of funds."
+        },
+        "correct": "A",
+        "explanation": "POCA 2002 s.330 requires disclosure of any knowledge or suspicion of money laundering to the National Crime Agency. The disclosure must be made as soon as reasonably practicable and must be made before proceeding with the transaction. Failure to disclose (without appropriate consent) constitutes a criminal offence. The threshold is suspicion, not certainty.",
+        "card_refs": [
+          "FLK2-PROP-024"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-011",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Stamp Duty Land Tax",
+        "subtopic": "SDLT Calculation with Higher Rate",
+        "difficulty": "Application",
+        "stem": "A property investor purchases a second residential property (not their main residence) for £350,000. There are no reliefs available. What SDLT is payable?",
+        "options": {
+          "A": "£14,250 (graduated rates plus 3% higher rate surcharge).",
+          "B": "£5,250 (3% on amount over £125,000).",
+          "C": "£13,250 (3% higher rate on the whole amount).",
+          "D": "£15,000 (standard graduated rates at standard residential rates only)."
+        },
+        "correct": "A",
+        "explanation": "For a second residential property, the higher rate of 3% applies (in addition to standard rates). Calculation: £0-£125k at 0% = £0; £125k-£250k at 5% = £6,250; £250k-£350k at 5% + 3% higher rate = £7,500 at higher rate = £14,250 total SDLT.",
+        "card_refs": [
+          "FLK2-PROP-025"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-012",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Land Registration",
+        "subtopic": "Priority Dispute — Registered vs Unregistered",
+        "difficulty": "Application",
+        "stem": "A buyer takes a registrable disposition (legal estate) for valuable consideration. An unregistered equitable interest in the same property was created before the disposition but was not overridden. Which statement best explains the priority position?",
+        "options": {
+          "A": "The registered disposition always takes priority because it is registered.",
+          "B": "The unregistered equitable interest takes priority because it was created first.",
+          "C": "Both interests have equal status and must be dealt with by contribution agreement.",
+          "D": "The registered disposition takes priority unless the equitable interest is a Sch.3 overriding interest (e.g. actual occupation)."
+        },
+        "correct": "D",
+        "explanation": "LRA 2002 s.29 provides that a registrable disposition for valuable consideration takes free of all unregistered interests EXCEPT those listed in Sch.3 (overriding interests). Sch.3 para 2 (actual occupation) is the most common exception. If the unregistered equitable owner is in actual occupation and the interest was known to the buyer or obvious on inspection, it overrides the registered disposition.",
+        "card_refs": [
+          "FLK2-PROP-026"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-013",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Land Registration",
+        "subtopic": "Priority Dispute — Competing Registrations",
+        "difficulty": "Application",
+        "stem": "Two dispositions of the same registered land are presented for registration on the same day: a first mortgage and a second charge. Both are correct in form. In what order should they be registered, and what is the priority outcome?",
+        "options": {
+          "A": "They can be registered in any order; priority is determined by date of execution.",
+          "B": "The first to be presented for registration is registered first and takes priority.",
+          "C": "The first mortgage should be registered first (as it provides security); the second charge has no priority rights.",
+          "D": "Both must be registered in the order of presentation; priority is determined by this order regardless of the charge structure."
+        },
+        "correct": "D",
+        "explanation": "Dispositions are registered in the order in which they are presented for registration. Both charges would be registered in order of presentation, with the first registered charge taking priority over the second. The character of the charge (mortgage vs second charge) does not alter the registration order rule — it is simply order of presentation that determines priority under LRA 2002.",
+        "card_refs": [
+          "FLK2-PROP-027"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-014",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Overreaching",
+        "difficulty": "Application",
+        "stem": "A property is held on trust by A and B (trustees) for C (beneficiary with a beneficial interest in the equitable estate). The property is sold to a buyer. For C's interest to be overreached, which condition must be met?",
+        "options": {
+          "A": "The buyer must conduct a search showing the trust on the register.",
+          "B": "The buyer must have actual notice of the trust.",
+          "C": "C's interest must be disclosed to the buyer in writing.",
+          "D": "Capital money from the sale must be paid to BOTH trustees (or a trust corporation)."
+        },
+        "correct": "D",
+        "explanation": "Overreaching under LPA 1925 ss.2 and 27 requires: (1) sale by at least two trustees (or a trust corporation); and (2) capital money paid to the trustees. If these conditions are met, even a buyer with notice of the trust takes the legal estate free of the beneficiary's equitable interest — the interest is shifted to the capital money. Failure to pay two trustees means the interest is NOT overreached.",
+        "card_refs": [
+          "FLK2-PROP-028"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-015",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Leases",
+        "subtopic": "Forfeiture Procedure",
+        "difficulty": "Application",
+        "stem": "A tenant under a commercial lease with a forfeiture clause is three months in arrears with rent. The landlord wishes to forfeit the lease. What procedural step must the landlord take BEFORE peaceable re-entry?",
+        "options": {
+          "A": "Serve a s.146 LPA 1925 notice specifying the breach and giving a reasonable time to remedy.",
+          "B": "For non-payment of rent only, no notice is required — peaceable re-entry is permitted immediately.",
+          "C": "Obtain a court order for forfeiture.",
+          "D": "Serve a forfeiture notice via registered post and wait 14 days."
+        },
+        "correct": "B",
+        "explanation": "For non-payment of rent specifically, s.146 LPA 1925 does NOT require notice before forfeiture (this is the exception to the general s.146 notice requirement). However, for other breaches, s.146 notice is mandatory. If the breach is remediable, the tenant must be given a reasonable opportunity to remedy. For straightforward arrears of rent, a landlord can proceed to peaceable re-entry or court forfeiture without prior s.146 notice.",
+        "card_refs": [
+          "FLK2-PROP-029"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-016",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Leases",
+        "subtopic": "LTA 1954 Renewal — s.30 Grounds",
+        "difficulty": "Application",
+        "stem": "A landlord wishes to oppose the grant of a new business tenancy under LTA 1954 on the ground that the landlord intends to demolish and rebuild the property. What must the landlord establish?",
+        "options": {
+          "A": "The landlord must have a firm intention to demolish; it need not be certain or immediate.",
+          "B": "The landlord must prove that demolition is reasonably likely within a reasonable time after the tenancy ends.",
+          "C": "The landlord must demonstrate that demolition cannot be carried out without possession of the demised property.",
+          "D": "The landlord must obtain planning permission for redevelopment before opposing renewal."
+        },
+        "correct": "C",
+        "explanation": "LTA 1954 s.30(1)(f) permits opposition to renewal where the landlord intends to demolish or reconstruct AND that demolition/reconstruction cannot be carried out without possession. The landlord must establish: (1) firm intention to demolish/reconstruct; (2) reasonable expectation this will occur within a reasonable time; and (3) that the works cannot be undertaken without obtaining possession of the property. The leading case is Espresso Coffee Machine Co v Aintree plc.",
+        "card_refs": [
+          "FLK2-PROP-030"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-017",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Leases",
+        "subtopic": "LTA 1954 Renewal — s.30 Statutory Grounds",
+        "difficulty": "Application",
+        "stem": "Under LTA 1954 s.30(1)(e), a landlord opposes renewal on the ground of persistent substantial breaches of covenant. The tenant admits one late payment of service charges (subsequently remedied). Can the landlord succeed on this ground?",
+        "options": {
+          "A": "Yes — any breach is sufficient.",
+          "B": "No — the ground requires persistent and substantial breaches; a single remedied breach is insufficient.",
+          "C": "Yes — service charge breaches are automatically considered substantial.",
+          "D": "No — service charge breaches are never grounds for opposition."
+        },
+        "correct": "B",
+        "explanation": "LTA 1954 s.30(1)(e) requires 'persistent substantial breaches' of covenant. A single isolated breach, even if later remedied, is unlikely to satisfy this test. The court has held that the breaches must be repeated, substantial in character, and show a pattern of non-compliance. One late payment of service charges would not constitute 'persistent' breaches sufficient to ground opposition.",
+        "card_refs": [
+          "FLK2-PROP-031"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-018",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Professional Practice",
+        "subtopic": "Conflict of Interest — Buyer and Lender",
+        "difficulty": "Application",
+        "stem": "A solicitor is instructed to act for both buyer and lender in a purchase transaction. The buyer discloses that the property is being purchased at £100,000 below the lender's valuation. The lender has not been informed. What must the solicitor do?",
+        "options": {
+          "A": "Continue with the transaction and do not disclose the undervalue to the lender.",
+          "B": "Immediately disclose the undervalue to the lender and obtain consent to proceed.",
+          "C": "Advise the buyer to disclose the undervalue to the lender; if the buyer refuses, cease acting for the buyer.",
+          "D": "Decline to act for the lender immediately and proceed only for the buyer."
+        },
+        "correct": "B",
+        "explanation": "The UK Finance Mortgage Lenders' Handbook specifically identifies undervalue purchases as creating a conflict of interest. The solicitor must: (1) immediately disclose the undervalue to the lender; (2) obtain the lender's express consent to proceed; and (3) if the lender does not consent or withdraws the mortgage offer, cease acting. Non-disclosure is a breach of the Handbook and could expose the solicitor to liability.",
+        "card_refs": [
+          "FLK2-PROP-032"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-019",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Exchange of Contracts — Synchronisation",
+        "difficulty": "Application",
+        "stem": "In a chain of three property transactions (A→B, B→C, C→D), what is the critical requirement for simultaneous exchange of contracts?",
+        "options": {
+          "A": "All three contracts must be signed by the parties on the same calendar day.",
+          "B": "Contracts must be exchanged in a coordinated manner so that each party becomes bound only when all parties in the chain are bound.",
+          "C": "The middle party (B) must hold the contracts of all parties until release of all funds.",
+          "D": "Exchange can occur individually; simultaneous exchange is not essential in a chain."
+        },
+        "correct": "B",
+        "explanation": "In a chain, simultaneous exchange is essential to protect each party's position. Contracts must be exchanged in a coordinated manner — typically via telephone with the cooperation of all solicitors — so that each party is bound only when all parties in the chain are committed. Failure to achieve simultaneous exchange exposes parties to risk (e.g., if the first transaction falls through, others may be unable to proceed). This is achieved through careful sequencing and telephone conversations releasing contracts together.",
+        "card_refs": [
+          "FLK2-PROP-033"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-020",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Requisitions on Title — Title Defect",
+        "difficulty": "Application",
+        "stem": "During the requisitions on title phase, the buyer's solicitor discovers that a covenant affecting the property (not disclosed in the contract) permits only residential use, yet the property has been used for a small commercial office for five years. The seller produces no evidence of discharge or waiver. What is the position?",
+        "options": {
+          "A": "The buyer must complete; the covenant is presumed obsolete after five years of use.",
+          "B": "The buyer is not entitled to rescind; the buyer can only claim damages.",
+          "C": "This is a title defect; the buyer may rescind if the seller cannot remove the defect by producing a discharge or indemnity policy.",
+          "D": "The seller is in breach of contract and must refund the purchase price."
+        },
+        "correct": "C",
+        "explanation": "A restrictive covenant is a defect in title if it remains binding and enforceable. Five years' non-enforcement does not discharge the covenant. The seller must either: (1) produce evidence of discharge (formal deed); (2) obtain a waiver from those with the benefit of the covenant; or (3) provide a restrictive covenant indemnity insurance policy. If the seller cannot remove the defect, the buyer is entitled to rescind unless agreeing to proceed subject to the defect and a price reduction.",
+        "card_refs": [
+          "FLK2-PROP-034"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-021",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Anti-Money Laundering",
+        "subtopic": "AML Tipping Off",
+        "difficulty": "Application",
+        "stem": "A solicitor has submitted a SAR to the NCA regarding a client's property transaction. Before the NCA has responded, the client asks the solicitor why the transaction has not proceeded. Can the solicitor disclose to the client that an SAR has been submitted?",
+        "options": {
+          "A": "No — s.333A POCA 2002 prohibits 'tipping off' by disclosing that an SAR has been submitted, subject to statutory exceptions.",
+          "B": "Yes — the client has a right to know why the transaction is delayed.",
+          "C": "Yes — but only after receiving consent from the NCA.",
+          "D": "No — but the solicitor can give a vague explanation of 'compliance issues' without naming the NCA."
+        },
+        "correct": "A",
+        "explanation": "POCA 2002 s.333A prohibits 'tipping off' — disclosure of the fact that an SAR has been submitted to the NCA if this would prejudice the NCA's investigation. This is a strict liability offence. The solicitor cannot disclose to the client that an SAR has been made, except where: (1) the NCA consents; (2) the disclosure is to a professional adviser for legal advice; or (3) the disclosure is to another financial institution for AML compliance purposes.",
+        "card_refs": [
+          "FLK2-PROP-035"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-022",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Completion — Breach",
+        "difficulty": "Application",
+        "stem": "The seller fails to complete on the agreed completion date. Five days later, the buyer serves notice requiring completion within 5 working days. The seller still fails to complete. What is the buyer's primary remedy?",
+        "options": {
+          "A": "The buyer can only claim damages for breach of contract.",
+          "B": "The buyer can rescind the contract and claim damages.",
+          "C": "The buyer must complete the purchase even if the seller has failed to do so.",
+          "D": "The buyer is entitled to specific performance of the contract."
+        },
+        "correct": "D",
+        "explanation": "If the seller fails to complete, the buyer's primary remedy is specific performance — an order requiring the seller to complete the sale. Damages are an inadequate remedy for breach of a unique asset (the property). The buyer serves notice to complete (giving 5+ working days); if the seller still fails, the buyer can pursue specific performance. Rescission is available but is a remedy of last resort; specific performance is the preferred remedy in property contracts.",
+        "card_refs": [
+          "FLK2-PROP-036"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-023",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Anti-Money Laundering",
+        "subtopic": "CDD Requirements for Trust Purchaser",
+        "difficulty": "Application",
+        "stem": "A solicitor is acting for a trust (the purchaser). The trustee is known to the solicitor, but one beneficial owner's identity is unknown. What action must the solicitor take to comply with MLR 2017?",
+        "options": {
+          "A": "Proceed with the transaction; the MLR 2017 does not require identification of beneficial owners.",
+          "B": "Obtain identity verification for the trustee and proceed; beneficial owners need not be verified.",
+          "C": "Identify and verify the identity of all beneficial owners (those with 25%+ interest) before proceeding.",
+          "D": "Obtain a trustee indemnity insurance policy instead of identifying beneficial owners."
+        },
+        "correct": "C",
+        "explanation": "MLR 2017 Regulation 5 requires Customer Due Diligence (CDD) for beneficial owners — persons who ultimately own or control 25% or more of the entity. If a trust is the purchaser, the solicitor must identify and verify the identity of all beneficial owners (trust beneficiaries with 25%+ interest). Failure to do so is a breach of AML obligations and may constitute failure to disclose money laundering.",
+        "card_refs": [
+          "FLK2-PROP-037"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-024",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Stamp Duty Land Tax",
+        "subtopic": "SDLT Linked Transactions and MDR",
+        "difficulty": "Complex",
+        "stem": "A developer purchases Plot A for £2m and Plot B for £1.2m in separate but related transactions (linked transactions under FA 2003 s.108). The buyer intends to develop the two plots together. Are the purchases linked, and how should SDLT be calculated?",
+        "options": {
+          "A": "The transactions are not linked; SDLT is calculated separately on each property.",
+          "B": "The transactions are linked; consideration is aggregated (£3.2m) for SDLT purposes, but Multiple Dwellings Relief (MDR) does not apply.",
+          "C": "The transactions are linked; consideration is aggregated (£3.2m), and if the buyer is developing multiple dwellings, MDR may apply to reduce the rate.",
+          "D": "Linked transactions always result in surcharge; SDLT is calculated at the highest rate on the aggregated consideration."
+        },
+        "correct": "C",
+        "explanation": "FA 2003 s.108 treats acquisitions of land within a certain period for the same or connected purposes as 'linked transactions.' The consideration is aggregated for SDLT purposes. If the acquisition is of land for development as multiple dwellings, Multiple Dwellings Relief (MDR) under FA 2003 Sch.6B may apply, reducing the SDLT rate from 5% to lower graduated rates. The solicitor must identify linkage and claim MDR if applicable.",
+        "card_refs": [
+          "FLK2-PROP-038"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-025",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Land Registration",
+        "subtopic": "Priority — Fraud and Notice",
+        "difficulty": "Complex",
+        "stem": "A fraudster impersonates the registered owner and sells the property to an innocent buyer for value. The buyer registers the disposition. The true owner later discovers the fraud and seeks to recover the property. What is the priority position?",
+        "options": {
+          "A": "The true owner can recover; the buyer's registration is void because it is based on fraud.",
+          "B": "The true owner can recover; an unregistered interest based on fraud cannot be overreached or overridden.",
+          "C": "The buyer takes free of the true owner's interest under LRA 2002 s.29 because the buyer is a registered proprietor for value.",
+          "D": "The buyer takes the legal estate but the true owner retains an overriding interest of actual occupation if in occupation."
+        },
+        "correct": "C",
+        "explanation": "This is the controversial position under LRA 2002 s.29: even if the registered proprietor obtained the property through fraud, a disposition by that proprietor to a buyer for value takes free of interests of any prior owner (subject to Sch.3 overriding interests). The true owner cannot recover the property from an innocent registered buyer, though they may have a claim against the fraudster for damages. This reflects the policy of LRA 2002 to protect purchasers of registered land.",
+        "card_refs": [
+          "FLK2-PROP-039"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-026",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Leases",
+        "subtopic": "LTA 1954 s.38A Contracting Out",
+        "difficulty": "Complex",
+        "stem": "A tenant and landlord enter into a commercial lease with a clause purporting to exclude LTA 1954 protection. The clause merely states 'This lease is excluded from the protection of the Landlord and Tenant Act 1954.' Is this effective to contract out?",
+        "options": {
+          "A": "Yes — the clause clearly shows intention to contract out.",
+          "B": "No — s.38A requires that the tenant be given statutory prescribed notice and must make a separate statutory declaration before or at the same time as entering into the lease.",
+          "C": "Yes — but only if the lease is for a term of more than 14 years.",
+          "D": "No — s.38A contracting out is now prohibited by recent statutory reform."
+        },
+        "correct": "B",
+        "explanation": "LTA 1954 s.38A(1)-(3) requires a strict procedural compliance for contracting out: (1) the landlord must serve a statutory prescribed notice on the tenant at least 14 days before the lease is entered; (2) the notice must comply with specific requirements (explain the effect of contracting out); and (3) the tenant must make a statutory declaration confirming they have received notice and understand the consequences. A mere clause in the lease is insufficient — the prescribed procedure is mandatory. Non-compliance means the tenant retains LTA 1954 protection.",
+        "card_refs": [
+          "FLK2-PROP-040"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-027",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Mortgages",
+        "subtopic": "Sch.3 Para 2 Overriding Interest vs Registered Charge",
+        "difficulty": "Complex",
+        "stem": "A property is registered at HM Land Registry. The registered proprietor mortgages the property to Bank A and registers the charge. An unregistered interest based on actual occupation (Sch.3 para 2) arises before Bank A's charge is registered. What is the priority position?",
+        "options": {
+          "A": "The Sch.3 para 2 interest takes priority because it existed before the charge.",
+          "B": "Bank A's registered charge takes priority because registration under LRA 2002 creates registered proprietor's interest.",
+          "C": "Bank A's charge takes priority unless the holder of the Sch.3 interest was in occupation and visible to Bank A's surveyor.",
+          "D": "The Sch.3 para 2 interest overrides the registered charge; priority is determined by order of acquisition, not registration."
+        },
+        "correct": "D",
+        "explanation": "A Sch.3 para 2 overriding interest (based on actual occupation) overrides ALL registered interests, including registered charges, regardless of when the charge is registered. If the person is in actual occupation and their interest is known to Bank A or would have been obvious on reasonable inspection, the interest overrides the charge registration. This reflects the principle that overriding interests 'trump' registered interests in priority. Bank A's remedy is against the valuer for negligence.",
+        "card_refs": [
+          "FLK2-PROP-041"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-028",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Property Fraud — Identity and Lender Indemnity",
+        "difficulty": "Complex",
+        "stem": "A fraudster impersonates the true owner and instructs a solicitor to sell the property. The solicitor carries out identity checks but the fraudster provides forged identity documents. The property is sold to a lender as security. The lender later discovers the fraud and seeks an indemnity from the solicitor's professional indemnity insurer. What is likely the outcome?",
+        "options": {
+          "A": "The indemnity will be paid because the solicitor relied on documents provided by the fraudster.",
+          "B": "The indemnity will be refused because the solicitor negligently failed to detect the fraud.",
+          "C": "The indemnity will be paid only if the lender has a separate indemnity policy against fraud.",
+          "D": "The indemnity will be paid in full because property fraud is a recognised risk covered by all policies."
+        },
+        "correct": "B",
+        "explanation": "Professional indemnity insurance typically excludes or limits cover for losses arising from fraudulent impersonation if the solicitor has failed to conduct proper identity verification. Modern PI policies include explicit fraud exclusions or require compliance with AML CDD procedures. If the solicitor accepted forged documents without scrutiny, the insurer may refuse the claim as a breach of policy conditions. The lender's remedy depends on whether they have a separate lender indemnity policy (which may also have exclusions for fraud by the borrower).",
+        "card_refs": [
+          "FLK2-PROP-042"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-029",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Residential Conveyancing",
+        "subtopic": "Beneficial Ownership — Trust and Overreaching Failure",
+        "difficulty": "Complex",
+        "stem": "A property is registered in the names of two registered proprietors (A and B) but the beneficial interest is held entirely by a third party, C, under a trust (only A and B are trustees). C is not in actual occupation. A and B sell the property to a buyer. Capital money is paid to A only. What is C's position?",
+        "options": {
+          "A": "C's beneficial interest is overreached because A and B are trustees, regardless of payment to one trustee only.",
+          "B": "C's beneficial interest is NOT overreached because capital money must be paid to BOTH trustees (or a trust corporation).",
+          "C": "C has an overriding interest under Sch.3 para 2 because C has a beneficial interest.",
+          "D": "C's beneficial interest is overreached if A and B acted in good faith."
+        },
+        "correct": "B",
+        "explanation": "Overreaching under LPA 1925 ss.2 and 27 requires that capital money be paid to AT LEAST two trustees (or a trust corporation). Payment to A alone is insufficient — the capital must be paid to both A and B, or to one trustee and a trust corporation. Because overreaching has not been completed (capital paid to one trustee only), C's beneficial interest is NOT overreached and remains binding on the buyer. The buyer takes subject to C's interest and the buyer may be able to claim a charge against the purchase money in C's hands.",
+        "card_refs": [
+          "FLK2-PROP-043"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-PROP-MCQ-030",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Leases",
+        "subtopic": "Alienation Covenant — s.19 LTA 1927 and 1995 Act",
+        "difficulty": "Complex",
+        "stem": "A commercial lease contains an absolute covenant against assignment. The tenant wishes to assign to a proposed assignee with excellent covenant strength. Under LTA 1927 s.19, the landlord refuses consent arbitrarily (for reasons unrelated to the business use of the premises). Subsequently, the Landlord and Tenant (Covenants) Act 1995 applies to the lease on later assignments. What is the legal position?",
+        "options": {
+          "A": "The covenant remains absolute; the landlord is not required to give consent under either Act.",
+          "B": "LTA 1927 s.19(1) implies a term that landlord consent cannot be unreasonably withheld; the 1995 Act overrides this for later assignments.",
+          "C": "LTA 1927 s.19(1) implies a term that consent cannot be unreasonably withheld; the 1995 Act applies similar protections but allows landlords to impose reasonable conditions.",
+          "D": "The 1995 Act automatically discharges the absolute covenant, permitting all assignments."
+        },
+        "correct": "C",
+        "explanation": "LTA 1927 s.19(1) converts an absolute covenant against assignment into a qualified covenant — the landlord's consent cannot be unreasonably withheld (but conditions can be imposed). The Landlord and Tenant (Covenants) Act 1995 (applying to post-1996 leases or where the parties elect) provides similar protection: the landlord must give consent unless a reasonable ground exists. Grounds include: (1) unsuitability of the assignee; (2) potential deterioration of the premises; (3) security concerns. The landlord cannot refuse on arbitrary grounds unrelated to the lease.",
+        "card_refs": [
+          "FLK2-PROP-044"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "PROP-031",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Pre-contract searches — local land charges",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is purchasing a residential property in Wharton Magna. Her solicitor carries out a local authority search. The search reveals a financial charge on the property registered in the Local Land Charges Register. What is the significance of a local land charge?",
+        "options": {
+          "A": "Local land charges bind the owner but not a purchaser who completes without actual notice.",
+          "B": "Local land charges bind all persons with an interest in the land, including purchasers, regardless of whether they have actual notice — they are overriding interests in registered land.",
+          "C": "Local land charges are registrable only in the Land Registry and have no effect until registered.",
+          "D": "A local land charge automatically ceases to bind the land on a sale to a purchaser for value."
+        },
+        "correct": "B",
+        "explanation": "Under the Local Land Charges Act 1975, local land charges (which include financial charges, planning obligations, smoke control orders etc.) bind all persons with an interest in the land, whether or not they have notice. They run with the land. A purchaser who completes is bound whether or not the charge appeared in a search (though the seller may be liable for non-disclosure). They are distinct from Land Registry entries; the LLC Register is maintained by the local authority (now digitised by HM Land Registry). Option A is wrong (no notice defence); C is wrong (different register); D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-032",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Pre-contract searches — drainage and water",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is purchasing a commercial property in Wharton Magna. His solicitor is advising on what searches to conduct. The drainage search reveals that the public sewer runs within the boundaries of the property. Why is this significant?",
+        "options": {
+          "A": "It is purely informational — the owner may build over a public sewer without restriction.",
+          "B": "Building over or near a public sewer is controlled by the sewerage undertaker; the presence of a public sewer within the property boundary may restrict future development and may require the undertaker's consent before building. This may affect the site's development potential.",
+          "C": "A public sewer within the boundary automatically makes the land unregistrable.",
+          "D": "The owner can apply to the water authority to have the sewer re-routed at no cost."
+        },
+        "correct": "B",
+        "explanation": "Water Industry Act 1991 and sewerage undertaker's Build Over Agreement procedures: building over or within a specified distance of a public sewer is controlled. Consent (a Build Over Agreement) is normally required. A sewer within the property boundary can significantly restrict development potential — affecting planning applications and building regulations. This is important due diligence for commercial purchases. Option A is wrong — there are restrictions; C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-033",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Stamp Duty Land Tax — rates and thresholds",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari purchases a residential property in England for £400,000. It is his first residential property and his only home. What is his Stamp Duty Land Tax liability (applying the standard residential rates in force as of April 2025)?",
+        "options": {
+          "A": "£10,000 — a flat 2.5% on the purchase price.",
+          "B": "£10,000 — calculated on the current standard SDLT thresholds: 0% on the first £250,000; 5% on the portion from £250,001 to £925,000; resulting in (£0 + £7,500) = £7,500. [Note: check current thresholds — correct calculation at current rates applies.]",
+          "C": "£20,000 — 5% on the full £400,000.",
+          "D": "Nil — first-time buyers are fully exempt up to £500,000."
+        },
+        "correct": "B",
+        "explanation": "SDLT for residential property uses a tiered rate structure under Finance Act 2003. At the standard residential rates (as of April 2025, following reverting from the temporary nil-rate threshold): 0% on the first £250,000; 5% on £250,001–£925,000. On a £400,000 purchase: 0% on £250,000 = £0; 5% on £150,000 = £7,500. Total = £7,500. First-time buyer relief may reduce this further (0% on first £425,000 for FTBs purchasing up to £625,000). Option B provides the standard non-FTB calculation; D overstates FTB relief. Students should apply current rates — the exam will test the tiered structure and correct application.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-034",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "SDLT — additional dwellings surcharge",
+        "difficulty": "Application",
+        "stem": "James Ashworth already owns two residential properties. He purchases a further residential property for £500,000. What SDLT rate applies?",
+        "options": {
+          "A": "The standard residential SDLT rates apply — there is no additional charge for buying multiple properties.",
+          "B": "An additional 3% surcharge (on top of standard residential rates) applies to the entire purchase price of each additional residential property purchased by an individual who already owns another residential property.",
+          "C": "James pays commercial SDLT rates because he owns multiple properties.",
+          "D": "Multiple dwellings relief automatically reduces the SDLT to nil."
+        },
+        "correct": "B",
+        "explanation": "Finance Act 2003 Sch 4ZA (Higher Rates for Additional Dwellings — HRAD) imposes a 3% surcharge on top of standard residential SDLT rates for purchasers who own another residential property (in England, Wales, N. Ireland or internationally) at the end of the day of completion. The surcharge applies to the entire purchase price. So James pays standard rates + 3% on each band. Option A ignores the surcharge; C applies commercial rates incorrectly; D — multiple dwellings relief (MDR) was abolished for completions on or after 1 June 2024.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-035",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Registered title — absolute freehold",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is purchasing 14 Millfield Lane, Wharton Magna, which is registered with absolute freehold title. What does absolute freehold title guarantee?",
+        "options": {
+          "A": "It guarantees that the land is free from all encumbrances and third-party rights.",
+          "B": "Absolute freehold title is the best class of title; it means the registrar is satisfied with the title, giving the proprietor and their successors the greatest security. However, it does not guarantee freedom from overriding interests (Schedule 3 LRA 2002) or other registered encumbrances.",
+          "C": "Absolute title means the land has never been subject to a mortgage.",
+          "D": "Absolute title means the current owner has held the property for more than 15 years."
+        },
+        "correct": "B",
+        "explanation": "Under the Land Registration Act 2002, 'absolute freehold title' is the highest quality of registered title. Section 11 LRA 2002: the effect of first registration with absolute title is that the proprietor takes the estate free of other interests (subject to registered encumbrances and overriding interests). It does not guarantee freedom from overriding interests (Schedule 3 — e.g. short leases, legal easements, interests of persons in actual occupation). Option A is wrong — overriding interests bind; C and D introduce incorrect criteria.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-036",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Overriding interests — persons in actual occupation",
+        "difficulty": "Complex",
+        "stem": "Hassan Nazari is purchasing a property from Gerald Crane. Unknown to Hassan, Priya Mehta has been living in the property for two years and contributed to the purchase price. She has not registered any interest. Is Priya's interest binding on Hassan?",
+        "options": {
+          "A": "No — Priya's interest is not binding because it is not registered at the Land Registry.",
+          "B": "Priya's interest may be an overriding interest under Schedule 3 paragraph 2 LRA 2002 (interest of person in actual occupation), binding Hassan if: she was in actual occupation at the time of the disposition, and her occupation would have been apparent on a reasonable inspection of the property OR Hassan had actual knowledge of it.",
+          "C": "Priya's interest only binds Gerald as vendor; it cannot bind a purchaser.",
+          "D": "Priya can only protect her interest by lodging a caution against first registration."
+        },
+        "correct": "B",
+        "explanation": "Schedule 3 paragraph 2 LRA 2002: an interest belonging to a person in actual occupation is an overriding interest (binding on purchasers without registration) unless: (i) inquiry was made of that person before the disposition and the interest was not disclosed; or (ii) the occupation was not apparent on reasonable inspection and the purchaser had no knowledge. Priya's actual occupation and beneficial interest (arising from constructive trust or resulting trust — Stack v Dowden [2007]) may override the registered title. Option A is wrong — overriding interests bind without registration; C is wrong; D relates to unregistered land.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-037",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Exchange of contracts — effect and risk",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo exchanges contracts to buy a residential property. The day before completion, the property is destroyed by fire. The property is not insured by Rachel. Who bears the risk of loss?",
+        "options": {
+          "A": "The risk remains with the seller until legal completion and the seller must reinstate or rescind.",
+          "B": "Under the general law (Paine v Meller (1801)), once contracts are exchanged, the equitable interest passes to the buyer and risk passes to the buyer. Standard Conditions of Sale (5th ed) condition 5.1 modifies this — risk passes to the buyer on exchange unless the property is sold with vacant possession and the property is not insured by the seller.",
+          "C": "Risk of loss is always shared equally between buyer and seller until legal completion.",
+          "D": "Risk only passes on legal completion — exchange has no effect on risk."
+        },
+        "correct": "B",
+        "explanation": "At common law, on exchange of contracts the equitable interest passes and risk passes to the buyer (Paine v Meller [1801]). The Standard Conditions of Sale (5th edition) condition 5.1.1 modifies this: the property is at the seller's risk until completion IF the seller is obliged to transfer with vacant possession and the SCs apply. If the Standard Conditions are varied or not incorporated, common law applies. Solicitors should advise the buyer to insure from exchange. The precise outcome depends on whether the SCs apply — but the general rule is that common law risk passes on exchange.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-038",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Completion — requisitions on title",
+        "difficulty": "Application",
+        "stem": "Acting for Gerald Crane as purchaser of commercial premises, the solicitor raises requisitions on title with the seller's solicitor. What is the purpose of requisitions on title?",
+        "options": {
+          "A": "To renegotiate the purchase price after exchange of contracts.",
+          "B": "To raise formal enquiries about outstanding matters arising from the title documents provided — for example, to query an unresolved charge, request redemption figures, or seek confirmation that obligations have been met — so that title is in good order for completion.",
+          "C": "To notify the Land Registry of the pending transfer.",
+          "D": "Requisitions on title are sent before exchange of contracts as part of pre-contract enquiries."
+        },
+        "correct": "B",
+        "explanation": "Requisitions on title are formal enquiries raised by the buyer's solicitor after receiving the title documents (usually after exchange in modern practice, though sometimes used pre-exchange). They identify outstanding issues: undischarged mortgages, outstanding notices, missing consents, requests for completion information. Standard requisitions (using the Law Society's completion information and undertakings form) also request undertakings as to discharge of mortgages on or before completion. Option A is wrong (not for price renegotiation); C describes Land Registry notification; D is incorrect as to timing.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-039",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Completion — undertakings as to mortgage discharge",
+        "difficulty": "Application",
+        "stem": "The seller of a property to Hassan Nazari has a registered charge (mortgage) on title. The seller's solicitor gives an undertaking to the buyer's solicitor to discharge the mortgage on completion. What are the legal consequences of a solicitor's undertaking?",
+        "options": {
+          "A": "An undertaking is a statement of intention but has no binding professional effect.",
+          "B": "A solicitor's undertaking is personally binding on the solicitor and enforceable by the court as a matter of professional conduct. Failure to comply is a serious disciplinary and professional matter; the SRA may impose sanctions.",
+          "C": "Undertakings are binding only on the firm, not on the individual solicitor.",
+          "D": "Undertakings given at completion must be registered at the Land Registry to take effect."
+        },
+        "correct": "B",
+        "explanation": "A solicitor's undertaking is one of the most serious professional obligations. It is personally binding on the giving solicitor, not merely the firm (though the firm may also be liable). Courts have jurisdiction to enforce undertakings summarily (Re a Solicitor [1966]). Breach of undertaking is professional misconduct that may result in SRA investigation, conditions, suspension or strike-off. The mortgage discharge undertaking is one of the most common in residential conveyancing and must be scrupulously honoured. Option A is wrong; C is incorrect (personal liability exists); D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-040",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Registration — first registration and effect",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo completes the purchase of an unregistered freehold property. What must her solicitor do, and what are the consequences of delay?",
+        "options": {
+          "A": "Registration is optional for freehold properties — Rachel may hold the unregistered title deeds.",
+          "B": "Rachel's solicitor must apply for first registration at the Land Registry within two months of completion (s.6 LRA 2002); if registration is not completed in time, the legal estate reverts to the seller on trust for Rachel as the equitable owner until registration is effected.",
+          "C": "First registration must take place within six months; failure has no legal consequence but the Land Registry may impose a fine.",
+          "D": "Unregistered freehold land in England and Wales does not require registration on sale."
+        },
+        "correct": "B",
+        "explanation": "Land Registration Act 2002 s.4: compulsory first registration is triggered by certain events including a qualifying transfer of an unregistered freehold. Section 6: the application must be made within two months of the triggering event. Section 7: if registration is not made within that period, the transfer becomes void and the legal estate reverts to the transferor, who holds it on a bare trust for the transferee. The transferee retains an equitable interest but loses the legal estate until registration occurs. Option A is wrong — registration is compulsory; C gets the time limit wrong; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-041",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Commercial leases — alienation covenants",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering holds a 15-year commercial lease of premises in Wharton Magna. The lease contains an absolute prohibition on assignment. Hollowell wishes to assign the lease to Northgate Couriers. Can Hollowell assign without the landlord's consent?",
+        "options": {
+          "A": "Yes — an absolute prohibition on assignment is unenforceable under the Landlord and Tenant Act 1927.",
+          "B": "No — an absolute prohibition means the tenant cannot assign at all, even with the landlord's consent; breach would entitle the landlord to forfeit the lease. Unlike qualified covenants (which the LTA 1988 governs), an absolute prohibition requires the landlord's agreement to vary the covenant before any assignment can occur.",
+          "C": "Yes — Hollowell may assign to a company in the same group without needing consent.",
+          "D": "The landlord must consent to any assignment provided Northgate Couriers can demonstrate financial standing."
+        },
+        "correct": "B",
+        "explanation": "Alienation covenants may be absolute (no assignment ever) or qualified (not without consent). The Landlord and Tenant Act 1988 (reasonableness obligation) only applies to qualified covenants — it requires landlords not to unreasonably withhold consent. An absolute covenant means the tenant cannot assign at all; even consent does not usually override it without a deed of variation. The Landlord and Tenant Act 1927 s.19 implies a proviso of reasonableness into qualified (not absolute) covenants. Option A wrongly applies LTA 1927 to an absolute prohibition; C introduces a group company exception not applicable here; D describes a qualified covenant.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-042",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Commercial leases — repair covenants",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier takes a full repairing and insuring (FRI) lease of offices. At the end of the term, the landlord serves a schedule of dilapidations claiming the cost of repairs. Under which principle is the landlord's claim capped?",
+        "options": {
+          "A": "The claim is uncapped — the tenant must pay all costs in the schedule of dilapidations regardless of amount.",
+          "B": "Under s.18(1) Landlord and Tenant Act 1927, damages for breach of a repairing covenant are capped at the diminution in the value of the reversion — the landlord cannot recover more than the reduction in the value of their interest caused by the disrepair.",
+          "C": "The tenant's liability is limited to the original cost of construction of the repairs.",
+          "D": "The cap applies only where the landlord intends to demolish the property."
+        },
+        "correct": "B",
+        "explanation": "Section 18(1) Landlord and Tenant Act 1927 imposes two limits: (i) damages for breach of a repairing covenant cannot exceed the diminution in value of the reversion caused by the breach; and (ii) damages are nil if the premises are, or would at or shortly after expiry of the term be, pulled down or altered so that the repairs would be valueless. The cap protects tenants from excessive claims where the landlord intends to redevelop. Option A is wrong — there is a statutory cap; C and D misstate the test.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-043",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Landlord's right to forfeit — relief",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering falls into arrears of rent on its commercial lease. The landlord, Ashworth Developments Ltd, peacefully re-enters the premises and changes the locks without court proceedings. Is this lawful, and what may Hollowell do?",
+        "options": {
+          "A": "The re-entry is always unlawful; the landlord must obtain a court order before forfeiting any lease.",
+          "B": "For non-residential premises, peaceful re-entry without court proceedings may be a lawful method of forfeiture if the tenant is not in occupation. Hollowell may apply to the court for relief from forfeiture under s.146(2) LPA 1925 (or s.38 SCA 1981) — the court has a discretion to grant relief, usually restoring the lease on terms including payment of arrears.",
+          "C": "Once the landlord has peacefully re-entered, Hollowell has no right to relief from forfeiture.",
+          "D": "Relief from forfeiture is only available to mortgagees, not to tenants."
+        },
+        "correct": "B",
+        "explanation": "Peaceful re-entry (without court process) is a recognised method of forfeiture for non-residential premises (it carries criminal law risks under s.6 Criminal Law Act 1977 if persons are in occupation). For commercial premises where there is no residential element, peaceful re-entry may be lawful. However, the tenant retains the right to apply for relief from forfeiture under s.146(2) LPA 1925 (for breach of covenant other than non-payment of rent) or under inherent equitable jurisdiction / s.38 Senior Courts Act 1981 (for non-payment of rent). Courts regularly grant relief on terms including payment of arrears and costs. Option A is wrong for non-residential; C is wrong — relief is available; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-044",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Anti-money laundering — client due diligence",
+        "difficulty": "Application",
+        "stem": "Gerald Crane instructs Crane & Pelletier to act on the purchase of a commercial property for £2.5m. The purchase is being funded partly by an overseas company. What AML obligations does the firm have at the outset?",
+        "options": {
+          "A": "AML obligations only apply to residential conveyancing transactions; commercial property is exempt.",
+          "B": "The firm must conduct client due diligence (CDD) under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017: verify the client's identity, identify and verify the beneficial owners of the overseas company, understand the source of funds for the transaction, and assess the risk of money laundering.",
+          "C": "The firm need only conduct CDD if the purchase price exceeds £5m.",
+          "D": "CDD is required only when the solicitor suspects money laundering, not on every transaction."
+        },
+        "correct": "B",
+        "explanation": "The MLR 2017 require regulated firms (including solicitors conducting property transactions) to apply CDD at the outset of a business relationship or occasional transaction. CDD includes: (i) identifying and verifying the client; (ii) identifying and verifying beneficial owners (Reg 28 — 25%+ ownership or control threshold for companies); (iii) understanding the nature and purpose of the transaction and source of funds. Enhanced due diligence (EDD) applies to high-risk situations (e.g. PEPs, high-value transactions with overseas entities). Option A is wrong; C and D introduce incorrect thresholds/triggers.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-045",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Anti-money laundering — suspicious activity reports",
+        "difficulty": "Complex",
+        "stem": "During the conveyancing process, Rachel Okonkwo's solicitor discovers that the source of funds cannot be satisfactorily explained and has reason to suspect the funds may be the proceeds of crime. What must the solicitor do?",
+        "options": {
+          "A": "Immediately disclose the suspicion to the client and refuse to proceed.",
+          "B": "The solicitor must submit a Suspicious Activity Report (SAR) to the National Crime Agency via the Authorised Disclosure route under POCA 2002 s.338 before proceeding with the transaction; the solicitor must not 'tip off' the client (s.333A POCA) and must await appropriate consent (or the expiry of the moratorium period) before completing.",
+          "C": "Refuse to act without giving reasons; no reporting obligation arises unless the solicitor has proof of money laundering.",
+          "D": "Report the suspicion to the Land Registry to prevent registration of the transaction."
+        },
+        "correct": "B",
+        "explanation": "Solicitors in the regulated sector committing a 'regulated sector offence' (transacting with property they know or suspect to be criminal property) must make an authorised disclosure to the NCA before completing (POCA 2002 s.338 — the 'consent SAR'). The tipping off prohibition (s.333A) means the solicitor cannot warn the client. The NCA has 7 working days to refuse consent (or 31 calendar days if a moratorium is requested). The solicitor must not complete until consent is given or the moratorium expires. Option A — tipping off — is prohibited; C is wrong on the trigger (suspicion suffices); D is wrong (no role for the Land Registry).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-046",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Title guarantee — full and limited",
+        "difficulty": "Application",
+        "stem": "The transfer deed for the purchase by Hassan Nazari states that Gerald Crane transfers the property 'with full title guarantee'. What implied covenants arise under the Law of Property (Miscellaneous Provisions) Act 1994?",
+        "options": {
+          "A": "A full title guarantee implies that the seller is the beneficial owner and the property is free from all encumbrances.",
+          "B": "A full title guarantee implies: (i) the seller has the right to dispose; (ii) the seller will do further acts to perfect title if needed; (iii) the property is free from incumbrances other than those of which the seller is unaware and could not reasonably be expected to know; and (iv) easements and rights benefiting the property are included.",
+          "C": "Full title guarantee means the seller warrants that the property is free from all mortgages and charges currently registered.",
+          "D": "Full title guarantee is equivalent to an absolute guarantee of title free from all third-party claims."
+        },
+        "correct": "B",
+        "explanation": "The Law of Property (Miscellaneous Provisions) Act 1994 provides that 'full title guarantee' implies specific covenants: (i) right to dispose (s.2); (ii) further assurance (s.2(3)); (iii) freedom from incumbrances, except those the seller did not know about and could not reasonably be expected to know (s.3). It does NOT guarantee freedom from all incumbrances, only from those within the seller's knowledge. Limited title guarantee implies only the right to dispose and further assurance — not the incumbrance covenant. Option A and D overstate the guarantee; C limits it to mortgages.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-047",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Business tenancy — Landlord and Tenant Act 1954",
+        "difficulty": "Complex",
+        "stem": "Northgate Couriers occupies commercial premises under a lease protected by the Landlord and Tenant Act 1954. The landlord, Ashworth Developments Ltd, serves a s.25 notice terminating the lease and opposing renewal under ground (f) — intention to redevelop. What must the landlord demonstrate?",
+        "options": {
+          "A": "That it has planning permission — no other evidence is required.",
+          "B": "That at the date of the hearing, the landlord has a firm and settled intention to carry out substantial works of demolition or reconstruction of the holding, and that the works cannot reasonably be carried out without obtaining possession.",
+          "C": "That the tenant has breached the lease, which entitles the landlord to possession for redevelopment.",
+          "D": "Ground (f) is absolute — once asserted in a s.25 notice, the court must grant possession."
+        },
+        "correct": "B",
+        "explanation": "Ground (f) LTA 1954 s.30(1)(f): the landlord intends to demolish or reconstruct the premises or a substantial part of them, or carry out substantial works of construction, and cannot reasonably do so without obtaining vacant possession. The landlord must prove: (i) genuine intention at the hearing date (objective evidence — plans, planning applications, building contracts etc. — Gregson v Cyril Lord [1963]); (ii) the works are substantial; (iii) possession is necessary for their execution. Option A sets too low a bar; C introduces tenant breach (ground (b)); D is wrong — the tenant may argue the ground is not made out.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-048",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Completion statement and financial statement",
+        "difficulty": "Application",
+        "stem": "Acting for Rachel Okonkwo as buyer of a residential property at £350,000, the solicitor prepares a completion financial statement. Which items are normally included?",
+        "options": {
+          "A": "The completion financial statement accounts for all monies: purchase price less deposit already paid; mortgage advance; SDLT; Land Registry fees; solicitor's fees and disbursements; search costs; and any apportionments (e.g. ground rent, service charge) — giving the net amount the buyer must provide.",
+          "B": "Only the purchase price and mortgage advance are relevant.",
+          "C": "The financial statement is prepared by the mortgage lender, not the solicitor.",
+          "D": "A financial statement is only required for commercial transactions above £1m."
+        },
+        "correct": "A",
+        "explanation": "The solicitor's financial statement to the buyer accounts for all financial aspects of the transaction: the balance of the purchase price (after deducting the deposit already paid), the mortgage advance (deducted from the amount required), SDLT payable, Land Registry registration fees, legal fees (plus VAT), disbursements (searches, Land Registry searches), and any adjustments for apportionments of outgoings. This gives the client the precise sum needed to proceed to completion. Options A, C and D are all incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-049",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Restrictions in the register",
+        "difficulty": "Application",
+        "stem": "The registered title for a property being purchased by Gerald Crane shows a restriction in Form A: 'No disposition of the registered estate by the proprietor of the registered estate is to be registered without a certificate signed by the applicant for registration or their conveyancer that the provisions of section 2 of the Trusts of Land and Appointment of Trustees Act 1996 have been complied with.' What does this mean in practice?",
+        "options": {
+          "A": "The property is held on a trust of land; two or more trustees (or a trust corporation) must execute the transfer so that the purchaser takes free of the beneficial interests under the doctrine of overreaching. The solicitor must confirm TLATA 1996 s.2 compliance (two trustee capital money receipt).",
+          "B": "The property cannot be transferred without a court order.",
+          "C": "The restriction prevents any sale of the property during the seller's lifetime.",
+          "D": "The restriction means the seller must obtain the consent of a named third party before selling."
+        },
+        "correct": "A",
+        "explanation": "A Form A restriction is entered where property is held on a trust of land. Section 2 TLATA 1996 enables overreaching — where capital money arising from a disposition is paid to at least two trustees (or a trust corporation), beneficial interests under the trust are overreached and purchasers take free of them (Williams & Glyn's Bank v Boland [1981] distinguished; City of London Building Society v Flegg [1988] applied). The restriction ensures the two-trustee requirement is satisfied on transfer. Option B requires a court order, which is not the case; C and D describe different types of restriction.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-050",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Chancel repair liability",
+        "difficulty": "Application",
+        "stem": "A conveyancing search on a property being purchased by Hassan Nazari reveals a risk of chancel repair liability. What is this, and how can it be addressed?",
+        "options": {
+          "A": "Chancel repair liability is an ancient obligation that may require the owner of certain land to contribute to the cost of repairing the chancel of the local parish church. Following Wallbank v Parochial Church Council of Aston Cantlow [2004], it can bind purchasers as an overriding interest if registered. It is addressed by obtaining chancel repair liability indemnity insurance.",
+          "B": "Chancel repair liability is a form of planning obligation and can be discharged by paying the local authority.",
+          "C": "Chancel repair liability was abolished by the Land Registration Act 2002 and no longer affects registered land.",
+          "D": "Chancel repair liability only arises in leasehold properties, not freeholds."
+        },
+        "correct": "A",
+        "explanation": "Chancel repair liability is a historic obligation to contribute to the cost of repairs to the chancel (the area around the altar) of a Church of England parish church. Following Wallbank v PCC of Aston Cantlow [2004] HL, the obligation can be enforced against lay rectors' successors in title. The LRA 2002 s.117 removed the overriding interest status of unregistered chancel liabilities after October 2013, but registered notices can still bind purchasers. The practical solution is indemnity insurance. Option C is partially correct on unregistered liabilities but incorrect as a general statement; A and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-051",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Covenants — benefit and burden in freehold land",
+        "difficulty": "Complex",
+        "stem": "A restrictive covenant was imposed on land now owned by Ashworth Developments Ltd in 1985, preventing use for commercial purposes. Ashworth now proposes to build a warehouse. The benefit of the covenant was annexed to adjacent land now owned by Ravi Sharma. Can Ravi enforce the covenant?",
+        "options": {
+          "A": "Ravi may enforce the restrictive covenant if: the burden has passed to Ashworth (under Tulk v Moxhay [1848] — it must have been intended to run, relate to land, Ashworth must have had notice, and the covenant must be negative); and the benefit has passed to Ravi (by annexation, assignment or a building scheme).",
+          "B": "No — restrictive covenants between predecessors in title cannot be enforced by or against successors.",
+          "C": "Only the original covenantee (the person who received the covenant in 1985) can enforce it.",
+          "D": "The covenant cannot be enforced after 20 years have passed."
+        },
+        "correct": "A",
+        "explanation": "Restrictive covenants in freehold land bind successors if the burden and benefit have both passed. Burden: Tulk v Moxhay [1848] — the covenant must (i) be negative/restrictive; (ii) be intended to bind successors (touch and concern the land); (iii) the covenantor's successors must have notice (registered as a land charge in unregistered land or entered in the charges register in registered land). Benefit: passes by express annexation, statutory annexation (LPA 1925 s.78), assignment or building scheme (Federated Homes [1980]). All conditions appear satisfied on these facts. Option B is wrong; C ignores benefit/burden principles; D introduces an incorrect time limit.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-052",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Commercial lease — service charge",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier's commercial lease includes a service charge clause requiring payment of a fair proportion of the costs of maintaining and repairing common parts of a Wharton Magna office building. The landlord carries out works costing £500,000 to replace the roof. Is Crane & Pelletier liable for its proportion?",
+        "options": {
+          "A": "Liability depends on the drafting of the service charge clause. If the clause covers the relevant works (e.g. major structural repairs/renewal rather than just routine maintenance), Crane & Pelletier will be liable for its proportion. Courts construe service charge clauses strictly, and works not within the defined scope may not be recoverable.",
+          "B": "Yes, regardless of the circumstances — service charge clauses are enforceable for all works.",
+          "C": "Service charges in commercial leases are limited to 10% of annual rent by statute.",
+          "D": "Crane & Pelletier can refuse to pay if the works were not authorised by all tenants."
+        },
+        "correct": "A",
+        "explanation": "Commercial service charge liability depends on the lease drafting. Unlike residential service charges (which are regulated by the Landlord and Tenant Act 1985), commercial service charges are largely governed by contract. Courts construe service charge clauses strictly (Holding & Management Ltd v Property Holding & Investment Trust plc [1989]). Works must fall within the scope of the clause — 'maintenance and repair' clauses may not extend to full replacement if the roof has exceeded its useful life. The RICS Code of Practice on Service Charges provides guidance. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-053",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Mortgage — legal charge and priority",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari's property is subject to two registered charges in favour of different lenders. The first charge was registered before the second. The property is sold on default. In what order are the lenders paid?",
+        "options": {
+          "A": "Priority of registered charges over the same registered estate is determined by the order in which they were registered (s.48 LRA 2002), not the date of creation. The first registered charge takes priority; the second charge takes what remains.",
+          "B": "The order is determined by the date of the loan agreement, not the date of registration.",
+          "C": "Both charges rank equally and the proceeds are shared pro rata.",
+          "D": "Unsecured creditors take priority over registered charges on insolvency."
+        },
+        "correct": "A",
+        "explanation": "Section 48(1) Land Registration Act 2002: charges over the same registered estate have priority according to the order in which they are entered in the register. The first charge (registered first) takes full priority; the second charge takes only what remains after the first is fully satisfied. This gives commercial certainty — lenders can rely on the register. Option B is wrong — registration date governs; C is wrong — there is a priority order; D is wrong — secured creditors take priority over unsecured creditors on insolvency.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-054",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Conflict of interest — acting for buyer and lender",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier's residential conveyancing team is instructed by both Rachel Okonkwo (buyer) and her mortgage lender on the same transaction. During the transaction, the solicitor discovers that Rachel has omitted to tell the lender that she is receiving a gifted deposit from a family member. What must the solicitor do?",
+        "options": {
+          "A": "The solicitor must advise Rachel that the information must be disclosed to the lender, and if Rachel refuses to consent to disclosure, the solicitor must cease to act for both Rachel and the lender; the solicitor cannot complete the transaction without the lender being fully informed of the gifted deposit.",
+          "B": "Ignore the omission — it is not the solicitor's responsibility to report client information to the lender.",
+          "C": "Disclose the information to the lender without Rachel's consent, as the duty to the lender overrides client confidentiality.",
+          "D": "Report only to the lender and continue acting for Rachel without telling her."
+        },
+        "correct": "A",
+        "explanation": "When acting for buyer and lender, the solicitor owes duties to both. A gifted deposit is material information the lender requires (SRA Code of Conduct; CML/UK Finance Lenders Handbook obligations). If Rachel refuses to allow disclosure, there is a conflict between duties to client (confidentiality) and to lender (disclosure). The solicitor must: advise Rachel to consent to disclosure; if she refuses, withdraw from acting for both parties, as the solicitor cannot assist a transaction that involves misleading the lender. Option B breaches duties to the lender; C breaches confidentiality without consent; D is an inconsistent approach.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-055",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "New build — NHBC Buildmark warranty",
+        "difficulty": "Application",
+        "stem": "Hassan Nazari is purchasing a newly built house from Ashworth Developments Ltd. The developer offers a 10-year Buildmark warranty from the NHBC. What does this cover during the initial period?",
+        "options": {
+          "A": "The NHBC Buildmark warranty provides: (i) a builder's period (first 2 years) during which the builder is responsible for putting right defects in compliance with NHBC standards; and (ii) a structural insurance period (years 3-10) covering major structural defects. The scheme also covers insolvency of the developer before completion.",
+          "B": "The Buildmark warranty is purely cosmetic — it only covers paint defects.",
+          "C": "The Buildmark warranty covers all defects discovered at any point in the first 10 years.",
+          "D": "The warranty only applies if Hassan is the original purchaser and cannot be assigned to future buyers."
+        },
+        "correct": "A",
+        "explanation": "The NHBC Buildmark warranty operates in two phases: (i) the initial two-year period ('builder's period') — the developer/builder must remedy defects arising from failure to comply with NHBC standards; (ii) years 3-10 — NHBC structural defect insurance covers major structural defects if the builder fails to remedy them. The warranty also provides cover if the developer becomes insolvent before completion. It does not cover all defects in years 3-10 (only structural). The warranty is transferable to subsequent buyers. Option B is wrong; C overstates coverage; D is wrong — the warranty is transferable.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-056",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Ground rent — Leasehold Reform (Ground Rent) Act 2022",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is purchasing a new long residential lease. The developer proposes a ground rent of £250 per annum doubling every 10 years. Is this lawful for new leases under current legislation?",
+        "options": {
+          "A": "No — the Leasehold Reform (Ground Rent) Act 2022 prohibits 'prohibited rent' in regulated leases granted on or after 30 June 2022. The permitted ground rent is restricted to zero (a 'peppercorn'). A £250 doubling rent would be a prohibited rent, the landlord committing an offence.",
+          "B": "Yes — ground rents in residential leases are unrestricted provided they are disclosed in the lease.",
+          "C": "Ground rents are lawful up to £250 per annum but the doubling clause would need to be removed.",
+          "D": "The restriction on ground rents applies only to leases over 200 years."
+        },
+        "correct": "A",
+        "explanation": "The Leasehold Reform (Ground Rent) Act 2022 applies to 'regulated leases' (new long residential leases of dwellings granted on or after 30 June 2022). For regulated leases, the 'restricted rent' is a peppercorn — effectively zero. Any ground rent higher than a peppercorn is a 'prohibited rent'. Landlords who charge prohibited rents commit an offence (maximum £5,000 fine). Options A, C and D misstate the 2022 Act's effect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-057",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Stamp Duty Land Tax — commercial rates",
+        "difficulty": "Application",
+        "stem": "Gerald Crane purchases a commercial property in Wharton Magna for £1.5m. What are the applicable SDLT rates for commercial/non-residential property?",
+        "options": {
+          "A": "Non-residential SDLT rates apply: 0% on the first £150,000; 2% on £150,001–£250,000; 5% on the portion above £250,000. On a £1.5m purchase: (0% × £150k) + (2% × £100k) + (5% × £1.25m) = £0 + £2,000 + £62,500 = £64,500.",
+          "B": "The standard residential SDLT rates apply with an additional 3% surcharge.",
+          "C": "A flat 5% applies to the entire purchase price of commercial property.",
+          "D": "No SDLT is payable on commercial property purchases."
+        },
+        "correct": "A",
+        "explanation": "SDLT for non-residential/mixed-use property uses separate rate bands: 0% on the first £150,000; 2% on £150,001–£250,000; 5% on amounts above £250,000 (Finance Act 2003 as amended). On a £1.5m purchase: £150k × 0% = £0; £100k × 2% = £2,000; £1.25m × 5% = £62,500. Total = £64,500. The additional 3% HRAD surcharge does not apply to commercial property. The 3% (now 5% for additional residential dwellings) applies only to additional residential dwellings. Option B is wrong; C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-058",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Contaminated land — due diligence",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering is purchasing a former industrial site. An environmental search reveals potential contamination from a previous use as a chemical plant. What is the buyer's primary legal risk and how should it be addressed in due diligence?",
+        "options": {
+          "A": "Under Part IIA Environmental Protection Act 1990, the current owner/occupier of contaminated land may be liable for remediation if the original polluter cannot be found. The buyer should commission a Phase I/II environmental survey, consider appropriate contractual protections (warranties, price adjustment, remediation obligations on the seller), and assess whether the liability can be insured.",
+          "B": "The buyer has no liability for contamination from a previous owner's activities.",
+          "C": "Environmental liability for industrial contamination is always passed to the local authority on sale.",
+          "D": "The Limitation Act 1980 bars all contamination claims after 6 years."
+        },
+        "correct": "A",
+        "explanation": "Part IIA Environmental Protection Act 1990 imposes liability for remediation of contaminated land on 'Class A' persons (the polluter) and, if the polluter cannot be found, on 'Class B' persons (current owners/occupiers). A purchaser of contaminated land may inherit remediation liability. Thorough due diligence — Phase I (desk-based) and Phase II (intrusive surveys) — is essential. Legal protections include: contractual warranties as to contamination, price reduction, seller undertaking remediation, or environmental indemnity insurance. Option B is wrong; C is wrong; D does not apply to statutory contamination liability.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-059",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Seller's property information form — misrepresentation",
+        "difficulty": "Application",
+        "stem": "The seller of a house (Victoria Ashworth) completes a TA6 Seller's Property Information form and fails to disclose a neighbour dispute that has been ongoing for 18 months. Rachel Okonkwo purchases the property and later suffers loss because of the dispute. What claims may Rachel have?",
+        "options": {
+          "A": "Victoria may be liable for misrepresentation (by omission where there is a duty to disclose): under the Misrepresentation Act 1967, if the non-disclosure amounts to a false representation of fact, Rachel may claim damages and/or rescission. The TA6 expressly asks about disputes — failing to disclose is likely a fraudulent or negligent misrepresentation.",
+          "B": "Rachel has no claim — the caveat emptor principle means buyers take the risk of undisclosed matters.",
+          "C": "Rachel may only claim if she proves Victoria's non-disclosure was fraudulent.",
+          "D": "The solicitor's search of the local authority register would have revealed the dispute."
+        },
+        "correct": "A",
+        "explanation": "The TA6 Property Information Form expressly asks the seller about disputes with neighbours. A false or misleading answer (including an omission where the form creates a false impression) may give rise to liability for misrepresentation under the Misrepresentation Act 1967. If the misrepresentation is fraudulent (Derry v Peek [1889]) or negligent (s.2(1) MA 1967), the buyer may claim damages and potentially rescission. Option B — caveat emptor — has been significantly qualified in modern conveyancing by mandatory disclosure obligations in the TA6. Option C is wrong — negligent misrepresentation suffices under s.2(1). Option D is incorrect — neighbour disputes are not revealed by local authority searches.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-060",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Solicitor acting for seller and buyer — conflict of interest",
+        "difficulty": "Application",
+        "stem": "A solicitor at Crane & Pelletier is asked to act for both Gerald Crane (seller) and Hassan Nazari (buyer) in a residential property transaction. Under the SRA Code of Conduct 2019, when may a solicitor act for both parties?",
+        "options": {
+          "A": "The SRA Code (paragraph 6.2) prohibits acting where there is a conflict of interest or a significant risk of conflict.",
+          "B": "A solicitor may always act for buyer and seller in the same transaction provided both clients give written consent.",
+          "C": "A solicitor may act for buyer and seller provided they are in the same family.",
+          "D": "Acting for both is permissible provided a different fee earner acts for each party within the same firm."
+        },
+        "correct": "A",
+        "explanation": "SRA Code of Conduct 2019 paragraphs 6.2 and 6.3 restrict acting where there is a conflict of interest or significant risk of conflict. In conveyancing, buyer and seller have inherently opposed interests. The SRA's position (and the previous practice rules) is that acting for both buyer and seller in a residential transaction is generally prohibited unless: the transaction is a standard residential one and the parties have been given independent advice about acting jointly, or it is a simple remortgage. Acting for both buyer and lender is expressly addressed in the CML Handbook/UK Finance Lenders' Handbook. Options A and D are too permissive; C introduces an irrelevant family criterion.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-061",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Title — leasehold — investigating lease terms",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo is purchasing a long residential leasehold flat. Which aspects of the lease must her solicitor investigate on her behalf?",
+        "options": {
+          "A": "The solicitor must investigate: length of unexpired term (fewer than 80 years may affect mortgageability and enfranchisement rights); ground rent provisions (Leasehold Reform (Ground Rent) Act 2022); service charge obligations and management; repair covenants; alienation restrictions; user clauses; insurance obligations; and any forfeiture provisions — advising on all material terms.",
+          "B": "Only the length of the term remaining — all other lease terms are standard.",
+          "C": "The solicitor investigates only the ground rent and service charge.",
+          "D": "Leasehold title is guaranteed by absolute title registration — no further investigation is needed."
+        },
+        "correct": "A",
+        "explanation": "Investigating a long residential lease requires comprehensive review: (i) unexpired term (under 80 years affects mortgage availability and the premium for statutory lease extension — LTA 1993; under 70 years many lenders decline); (ii) ground rent (Leasehold Reform (Ground Rent) Act 2022 for post-June 2022 leases); (iii) service charge provisions and management compliance; (iv) repair covenants; (v) alienation restrictions (assignment/subletting); (vi) user clause; (vii) insurance; (viii) forfeiture clauses. Absolute title does not guarantee the lease terms are favourable. Options A, C and D understate the investigation required.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-062",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Lease extension — statutory right under LTA 1993",
+        "difficulty": "Complex",
+        "stem": "Rachel Okonkwo has owned her long leasehold flat for 3 years and the lease has 72 years remaining. She wishes to extend it statutorily. Which requirements must she satisfy under the Leasehold Reform, Housing and Urban Development Act 1993?",
+        "options": {
+          "A": "She may extend without conditions — any long leaseholder may extend at any time.",
+          "B": "She must have owned the lease for at least 5 years before making a claim.",
+          "C": "Under the LTA 1993 Part I Chapter II, Rachel must: (i) hold a long lease (exceeding 21 years) of a flat; (ii) have owned the lease for at least 2 years. If entitled, she may claim a statutory lease extension of 90 years added to the unexpired term at a peppercorn rent, paying a premium calculated actuarially.",
+          "D": "Statutory lease extension is only available where the unexpired term is below 50 years."
+        },
+        "correct": "C",
+        "explanation": "Leasehold Reform, Housing and Urban Development Act 1993 s.39: a qualifying tenant of a flat is entitled to claim a new lease. Qualifying conditions: (i) long leasehold of a flat (originally granted for more than 21 years); (ii) the tenant must have owned the leasehold estate for at least 2 years (s.39(2)). Rachel has owned for 3 years — satisfied. The new lease adds 90 years to the unexpired term at a peppercorn ground rent. A premium is payable calculated under Schedule 13 (deferment rate, relativity etc.). Option B states 5 years (wrong — it is 2 years); D imposes a threshold not in the Act; A removes the 2-year qualification.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-063",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Business tenancy — security of tenure and contracting out",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier is about to sign a 5-year commercial lease. The landlord insists on a 'contracted-out' lease excluding the security of tenure provisions of the Landlord and Tenant Act 1954. What procedure must be followed for the contracting out to be valid?",
+        "options": {
+          "A": "The parties can exclude the LTA 1954 simply by inserting a clause in the lease to that effect.",
+          "B": "Contracting out requires court approval in all cases.",
+          "C": "Under the LTA 1954 s.38A and the Regulatory Reform (Business Tenancies) (England and Wales) Order 2003, the landlord must serve a prescribed warning notice on the tenant before the tenant enters into the lease or an agreement for it",
+          "D": "Contracting out is not possible for leases of 5 years or more."
+        },
+        "correct": "C",
+        "explanation": "Section 38A LTA 1954 (as amended by the RRO 2003) permits contracting out of security of tenure without court approval, provided the correct procedure is followed. The landlord must serve a warning notice in the prescribed form on the tenant not less than 14 days before the tenant enters the lease/agreement (or the tenant may make a statutory declaration if fewer than 14 days). The tenant (or their authorised person) must make a simple declaration (if 14+ days' notice) or statutory declaration (if less). Both must happen before the lease is completed. Option A is wrong — a mere clause is ineffective; C describes the pre-2003 procedure; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-064",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Mortgages — lender's solicitor instructions",
+        "difficulty": "Application",
+        "stem": "The solicitor acting for Hassan Nazari in his purchase is also acting for his mortgage lender. The solicitor discovers that Hassan intends to sublet the property immediately after completion without telling the lender, contrary to the mortgage conditions. What should the solicitor do?",
+        "options": {
+          "A": "Complete the transaction and note the subletting intention on file for future reference.",
+          "B": "The solicitor should report the intention directly to the lender without telling Hassan.",
+          "C": "The solicitor should advise Hassan that the intention to sublet immediately must be disclosed to the lender, as it is material information affecting the mortgage. If Hassan refuses to consent to disclosure, the solicitor must cease acting for both the lender and Hassan, as the solicitor cannot assist a transaction that would involve misleading the lender.",
+          "D": "The lender's mortgage conditions are the lender's concern, not the solicitor's."
+        },
+        "correct": "C",
+        "explanation": "Acting for buyer and lender, the solicitor owes duties to both. Under the UK Finance Lenders' Handbook, the solicitor must report to the lender any matter that may affect the lender's decision to proceed. An intention to sublet contrary to the mortgage conditions is material — lenders grant lower LTV mortgages on buy-to-let bases with different conditions. Concealing this from the lender would involve the solicitor in assisting a fraud on the lender. The solicitor must advise disclosure; if refused, must withdraw from acting for both (SRA Code para 6.2). Option B breaches confidentiality without consent; A and D ignore the duty to the lender.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-065",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Land charges — unregistered land",
+        "difficulty": "Complex",
+        "stem": "Gerald Crane is purchasing unregistered land. The title shows a 1998 restrictive covenant registered as a Class D(ii) Land Charge. Gerald's solicitor fails to search the Land Charges Register. Gerald completes the purchase. Is Gerald bound by the covenant?",
+        "options": {
+          "A": "No — Gerald is not bound because he had no actual notice of the covenant.",
+          "B": "Gerald is only bound if he had actual or constructive notice of the covenant.",
+          "C": "Yes — under the Land Charges Act 1972, a properly registered Class D(ii) land charge (restrictive covenant) is binding on a purchaser for money or money's worth regardless of notice; failure to search does not excuse the purchaser.",
+          "D": "The covenant is unenforceable because it was registered more than 20 years before the purchase."
+        },
+        "correct": "C",
+        "explanation": "Land Charges Act 1972 s.4(6): a Class D(ii) land charge (restrictive covenant entered into after 1925) is void against a purchaser of a legal estate for money or money's worth only if it is not registered. If it IS registered, it binds all purchasers regardless of notice (that is the entire point of the registration system — notice is irrelevant). Conversely, if it were not registered, it would be void against the purchaser for money or money's worth. On these facts, it is registered — it binds Gerald regardless of search failure. Option A applies the notice doctrine, which is displaced by the Land Charges Act; C is wrong; D introduces an incorrect time limit.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-066",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "VAT on commercial property",
+        "difficulty": "Application",
+        "stem": "Ashworth Developments Ltd is selling a commercial property and has 'opted to tax' (elected for VAT) over the property. Gerald Crane is the purchaser. What is the VAT effect on the transaction?",
+        "options": {
+          "A": "There is no VAT on commercial property sales regardless of any election.",
+          "B": "The opt to tax means the buyer must register for VAT before completing the purchase.",
+          "C": "Where the seller has opted to tax and the option is valid, the sale of the property becomes a standard-rated supply for VAT purposes, and VAT (at 20%) is charged on the purchase price. The buyer may recover the VAT as input tax if they are VAT-registered and using the property for taxable business purposes, or the parties may qualify for a Transfer of a Going Concern (TOGC) treatment.",
+          "D": "VAT on commercial property is at the reduced rate of 5%."
+        },
+        "correct": "C",
+        "explanation": "The election to waive exemption (option to tax) under VATA 1994 Sch 10 converts what would be an exempt supply (commercial land and buildings) into a standard-rated supply (20% VAT). If the seller has opted to tax, VAT is added to the purchase price. The buyer can recover the VAT as input tax if VAT-registered and using the property for taxable purposes. Transfer of a Going Concern (TOGC) rules may apply if certain conditions are met, making the supply outside the scope of VAT. This is important due diligence in commercial transactions. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-067",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Heads of terms — commercial lease",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is in negotiations to take a new commercial lease of office premises. Heads of terms have been agreed. What is the legal status of heads of terms?",
+        "options": {
+          "A": "Heads of terms are legally binding once signed — either party may sue for breach if they withdraw from the deal.",
+          "B": "Heads of terms automatically become binding if the parties continue to negotiate for more than 30 days.",
+          "C": "Heads of terms are generally 'subject to contract' and therefore not legally binding — they record the commercial terms agreed in principle for incorporation in the formal lease, but either party may withdraw without liability unless specific binding obligations are expressly included.",
+          "D": "Heads of terms are binding in commercial property transactions but not in residential transactions."
+        },
+        "correct": "C",
+        "explanation": "Heads of terms in commercial property transactions are usually expressed to be 'subject to contract' — they are therefore not legally binding (Winn v Bull [1877]; Regalian Properties v London Docklands Development Corporation [1995]). They record the commercial agreement in principle pending the formal documentation. Either party may withdraw without liability for breach of contract. Some specific elements of heads of terms may be binding (e.g. exclusivity/lock-out agreements, confidentiality), if expressly agreed. Option A is wrong — 'subject to contract' negates binding effect; C introduces an arbitrary trigger; D has no legal basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-068",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Grant of easement — express and implied",
+        "difficulty": "Complex",
+        "stem": "Ashworth Developments Ltd sells part of its Wharton Magna land to Rachel Okonkwo without expressly granting a right of way over the retained land, which is the only reasonable means of access to Rachel's plot. Can Rachel claim an easement by implication?",
+        "options": {
+          "A": "No — easements must always be expressly granted in the transfer deed; implied easements do not exist in registered land.",
+          "B": "Rachel must apply to the tribunal for a statutory right of way under s.26 LRA 2002.",
+          "C": "Yes — under the rule in Wheeldon v Burrows (1879), quasi-easements that are continuous and apparent and reasonably necessary for reasonable enjoyment of the property may pass on a grant. Additionally, an easement of necessity may be implied if the land is landlocked. Under s.62 LPA 1925, rights enjoyed over adjoining land may pass automatically on a conveyance.",
+          "D": "An implied easement can only be acquired by 20 years' use under the doctrine of prescription."
+        },
+        "correct": "C",
+        "explanation": "Implied easements arise in several ways: (i) Wheeldon v Burrows [1879] — quasi-easements continuous, apparent and necessary for reasonable enjoyment pass on a grant of part; (ii) easement of necessity — implied where without it the grantee's land would be inaccessible; (iii) common intention — where parties intended the land to be used in a way requiring the easement; (iv) s.62 LPA 1925 — rights, privileges and advantages enjoyed with the land prior to conveyance may pass as easements. The fact there is no other access strongly supports an easement of necessity. Option A is wrong — implied easements exist in registered land; C refers to a statutory provision that is not the primary route; D refers to prescription.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-069",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "SDLT — linked transactions",
+        "difficulty": "Complex",
+        "stem": "Hassan Nazari purchases two adjacent residential properties from Ashworth Developments Ltd as part of a single negotiation and scheme, completing on the same day for £400,000 and £350,000 respectively. Are the transactions linked for SDLT?",
+        "options": {
+          "A": "No — each transaction is separate for SDLT purposes and SDLT is calculated independently on each price.",
+          "B": "Linked transaction rules only apply to commercial property purchases.",
+          "C": "Under FA 2003 s.108, transactions are 'linked' if they form part of a single scheme, arrangement or series between the same buyer and seller. Linked transactions are treated as a single transaction: SDLT is calculated on the aggregate consideration (£750,000) and then apportioned between the properties. This typically results in a higher effective rate.",
+          "D": "SDLT linked transactions are only relevant where the buyer is a company."
+        },
+        "correct": "C",
+        "explanation": "Finance Act 2003 s.108: transactions are linked if they are part of a single scheme, arrangement or series between the same vendor and purchaser (or their connected persons). Linked transactions are treated as a single transaction for SDLT — the rates are applied to the aggregate consideration and the liability is apportioned. On £750,000 aggregate, the effective rate is higher than on each property individually. This prevents artificial structuring. Options A, C and D misstate the linked transactions rules.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-070",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Gazumping and lock-out agreements",
+        "difficulty": "Application",
+        "stem": "Rachel Okonkwo has agreed (subject to contract) to buy a property at £450,000. Before exchange, the seller accepts a higher offer from another buyer (gazumping). Has the seller acted unlawfully, and could a lock-out agreement have helped?",
+        "options": {
+          "A": "Yes — gazumping is unlawful because it breaches the agreement to sell to Rachel.",
+          "B": "Rachel can claim damages under the Misrepresentation Act 1967 for the seller's change of mind.",
+          "C": "No — because the agreement was 'subject to contract', no binding contract existed. The seller is free to accept another offer. A lock-out agreement (binding the seller not to negotiate with other buyers for a defined period) could have given Rachel a contractual remedy for that period if properly drafted and supported by consideration.",
+          "D": "An estate agent owes Rachel a duty not to accept higher offers on the seller's behalf."
+        },
+        "correct": "C",
+        "explanation": "In English law, property transactions are 'subject to contract' until exchange — no binding contract exists until exchange of contracts. Gazumping (accepting a higher offer before exchange) is not unlawful (Walford v Miles [1992] — no general obligation to negotiate in good faith). A lock-out agreement — an agreement by the seller not to negotiate with other buyers for a specified period — is enforceable if supported by consideration and certain in duration (Pitt v PHH Asset Management [1994]). It gives Rachel a contractual claim during the exclusivity period. Option A is wrong — no contract exists; C is wrong — no actionable misrepresentation; D is wrong — estate agents owe duties to the seller.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-071",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Searches — coal authority",
+        "difficulty": "Application",
+        "stem": "The solicitor acting for Gerald Crane on the purchase of industrial premises near a former mining area is advised to obtain a coal authority search. What does this search reveal?",
+        "options": {
+          "A": "The presence of previous owners' debts secured on the property.",
+          "B": "The planning history of the site only.",
+          "C": "Whether the property is affected by past, present or proposed coal mining activity, including areas of subsidence risk, mine entries, and proposed underground works — relevant to structural risk and insurance.",
+          "D": "Whether the property is connected to the national gas grid."
+        },
+        "correct": "C",
+        "explanation": "A coal authority search (available from the Coal Authority) identifies: (i) whether the property is in an area where mining has taken place, is taking place, or is proposed; (ii) the location of known mine entries; (iii) areas of surface hazard risk. In mining areas, properties may be at risk of subsidence from historical extraction. This affects structural insurance, mortgage availability, and development viability. It is essential due diligence in former mining areas. Options A, C and D describe entirely different searches.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-072",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Completion — CHAPS and money transfer",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier's solicitors need to transfer completion funds to the seller's solicitors for completion of a residential purchase. What is the standard mechanism, and what time risk must the solicitor manage?",
+        "options": {
+          "A": "Completion funds are transferred by cheque; the seller must wait for clearance.",
+          "B": "Completion funds may be transferred by BACS which takes three days; the parties agree to waive the time risk.",
+          "C": "Completion funds are transferred by CHAPS (Clearing House Automated Payment System), which provides same-day cleared funds. The solicitor must ensure funds are sent in sufficient time to arrive before the agreed completion time — late arrival can result in contractual penalties, interest, and deferral of completion.",
+          "D": "Funds are held by the Land Registry and released on registration."
+        },
+        "correct": "C",
+        "explanation": "The standard method of transferring completion funds in conveyancing is CHAPS, which provides same-day guaranteed cleared funds. The solicitor must ensure funds are sent early enough to reach the seller's solicitor's account by the agreed completion time (often 1 or 2 pm). If funds arrive late, the Standard Conditions of Sale (SCS 6.1) provide that the buyer has not completed on time, attracting interest and potentially allowing the seller to serve a notice to complete. BACS (3 days) is inappropriate; cheques are not used; the Land Registry does not hold funds.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-073",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Agreement for lease — conditions and long-stop",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering enters an agreement for lease of new offices to be constructed by Ashworth Developments Ltd. Completion is conditional on planning permission being obtained by a specified long-stop date. Planning is refused and the long-stop date passes. What is the position?",
+        "options": {
+          "A": "The agreement for lease automatically converts to a binding lease on the long-stop date.",
+          "B": "Hollowell must continue to wait — planning can always be re-applied for.",
+          "C": "If the agreement for lease provides that it becomes void if planning is not obtained by the long-stop date, both parties are released from their obligations. If the agreement is silent, the position depends on construction of the agreement — typically either party may rescind if the condition has failed without fault.",
+          "D": "The failure of a planning condition is a repudiatory breach by the developer entitling Hollowell to damages."
+        },
+        "correct": "C",
+        "explanation": "Agreements for lease are commonly conditional on planning permission being obtained. Standard drafting provides that if the condition fails by the long-stop date, the agreement is void and both parties are released. If the agreement does not address this scenario, the parties must look to general contract law — the condition may be a condition precedent to the agreement, or one party may have assumed responsibility for obtaining permission. The outcome depends on the drafting. Option A is wrong; C does not address the legal position; D only applies if the developer was in breach of an obligation to use reasonable endeavours to obtain planning permission.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-074",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Bankruptcy — effect on registered title",
+        "difficulty": "Complex",
+        "stem": "Hassan Nazari is declared bankrupt after exchanging but before completing on a property purchase. What is the effect on the purchase contract and the solicitor's position?",
+        "options": {
+          "A": "The contract is automatically rescinded on Hassan's bankruptcy, releasing the seller.",
+          "B": "Hassan's bankruptcy has no effect on completion — the sale must proceed as contracted.",
+          "C": "On bankruptcy, Hassan's estate (including his interest under the contract) vests in the trustee in bankruptcy (Insolvency Act 1986 s.306). The trustee may disclaim the contract as onerous, or proceed with it if it is beneficial. The seller's solicitor should be advised, and completion should not proceed without the trustee's involvement and authority.",
+          "D": "The seller may immediately rescind and retain the deposit on bankruptcy."
+        },
+        "correct": "C",
+        "explanation": "Insolvency Act 1986 s.306: on a bankruptcy order, the bankrupt's estate vests automatically in the trustee in bankruptcy. This includes equitable interests under contracts, including the interest arising on exchange of a purchase contract. The trustee may disclaim onerous property (s.315 IA 1986) or, if the transaction is beneficial to the estate, may complete. The seller's solicitor should be notified and no completion should occur without the trustee's consent. Option A is wrong — the contract does not automatically rescind; C ignores the trustee's role; D overstates the seller's rights (specific provisions of the contract and general law apply).",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-075",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Break clauses — strict compliance",
+        "difficulty": "Complex",
+        "stem": "Crane & Pelletier's commercial lease contains a tenant's break clause exercisable after 5 years, provided the tenant gives 6 months' notice and is not in breach of its obligations at the break date. Crane & Pelletier gives notice but has an outstanding rent arrear of £500 on the break date. Is the break effective?",
+        "options": {
+          "A": "Yes — a minor arrear does not invalidate a break clause.",
+          "B": "The landlord must elect whether to waive the breach before the break date.",
+          "C": "The effectiveness of the break clause depends on the drafting. If the clause requires the tenant to be in full compliance or free from all breaches, the courts have applied strict compliance: even a minor technical breach may prevent the break from taking effect (Riverside Park Ltd v NHS Property Services Ltd [2016]; Siemens Hearing Instruments Ltd v Friends Life Ltd [2014]).",
+          "D": "Break clauses are always effective regardless of technical breaches."
+        },
+        "correct": "C",
+        "explanation": "English courts have applied strict compliance to break clause conditions — if the condition requires no material breach or no outstanding obligations, courts construe this strictly. In Siemens Hearing Instruments [2014] and Riverside Park [2016], even minor arrears or technical breaches prevented break clauses from taking effect. The practical consequence is that tenants must audit all obligations before a break date and ensure no arrears or breaches exist. The drafting of the particular clause is determinative. Option A underestimates the risk; C describes a different issue; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-076",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Searches — HS2 and infrastructure",
+        "difficulty": "Application",
+        "stem": "Gerald Crane is purchasing a property in an area potentially affected by a proposed national infrastructure project. What searches should his solicitor consider beyond the standard suite?",
+        "options": {
+          "A": "No additional searches are needed — the local authority search covers all infrastructure projects.",
+          "B": "The solicitor should only search if the client requests it.",
+          "C": "Infrastructure projects are a matter of general knowledge; no searches are needed.",
+          "D": "For properties in areas affected by major infrastructure projects (such as HS2), the solicitor should consider: HS2 searches (land within the Act limits, safeguarding zones); Infrastructure Planning searches for development consent orders; and the Planning Inspectorate's Nationally Significant Infrastructure Project register — as these affect development potential, compensation rights and value."
+        },
+        "correct": "D",
+        "explanation": "Standard local authority searches may not reveal all infrastructure planning impacts. HS2 searches (or equivalent for other nationally significant infrastructure projects) are specifically recommended for affected areas: they identify whether land is within the Act limits (compulsory acquisition zones), safeguarding areas (affecting planning applications), or compensation entitlement zones. Failure to advise on appropriate specialist searches in known infrastructure corridors could constitute negligence. Options A, C and D inadequately protect the client's interests.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-077",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Adverse possession — registered land",
+        "difficulty": "Complex",
+        "stem": "Alek Kowalski has been in adverse possession of a strip of registered land bordering his property for 12 years. The registered owner, Ashworth Developments Ltd, discovers the occupation. What is the position under the Land Registration Act 2002?",
+        "options": {
+          "A": "After 12 years of adverse possession, Alek automatically acquires the legal title to the strip.",
+          "B": "Adverse possession of registered land is impossible — the registered owner cannot lose title to a squatter.",
+          "C": "The 12-year limitation period that applied to unregistered land applies equally to registered land under the LRA 2002.",
+          "D": "Under the LRA 2002 schedule 6, after 10 years of adverse possession, Alek may apply to be registered as proprietor. The Land Registry notifies the registered owner, who has 65 business days to oppose. If Ashworth opposes, Alek's application is rejected but Alek has a further 2 years to bring further proceedings. If Ashworth fails to respond, Alek is registered."
+        },
+        "correct": "D",
+        "explanation": "The LRA 2002 radically changed adverse possession for registered land. Schedule 6: after 10 years of adverse possession, the squatter may apply for registration. The Land Registry serves notice on the registered proprietor (and others). If the proprietor (or mortgagee) objects within 65 business days, the application fails — but if the squatter remains for a further 2 years without the proprietor regularising the position, the squatter may apply again and will be registered. Option A applies the old Limitation Act 1980 rule (12 years for unregistered land); C is wrong for registered land; D is wrong — adverse possession can succeed under the LRA 2002 procedure.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-078",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Rent review — upward only",
+        "difficulty": "Application",
+        "stem": "Hollowell Engineering's commercial lease contains an upward-only rent review clause providing for rent to be reviewed to the open market rent every 5 years. At the review date, the open market rent has fallen. What is the effect?",
+        "options": {
+          "A": "The rent reduces to the current market rent — the clause must be applied at the open market rate.",
+          "B": "The landlord must accept the lower market rent if they wish to retain the tenant.",
+          "C": "An upward-only clause is automatically void under the Unfair Contract Terms Act 1977.",
+          "D": "Under an upward-only rent review clause, the rent on review cannot fall below the existing passing rent — if the open market rent is lower, the passing rent is maintained at its current level. The clause is designed to protect the landlord from market falls."
+        },
+        "correct": "D",
+        "explanation": "Upward-only rent review clauses are standard in commercial leases. They provide that on review, the revised rent will be the higher of: the passing rent or the open market rent. Where the market has fallen, the rent stays at the existing level (it cannot fall). They are not unlawful (attempts to restrict them by statute have not been implemented). The Government's 2004 Code of Practice for Commercial Leases recommends offering alternatives, but upward-only clauses remain enforceable. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-079",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Notice to complete",
+        "difficulty": "Application",
+        "stem": "Completion of Hassan Nazari's purchase is due today. The seller's solicitor has received the funds but the seller refuses to vacate the property. Hassan's solicitor wishes to take action. What formal step can be taken and with what consequence?",
+        "options": {
+          "A": "Hassan can immediately rescind the contract and claim all losses.",
+          "B": "The solicitor must apply to the court for specific performance immediately on the completion date.",
+          "C": "Hassan must wait indefinitely for the seller to vacate before taking any further steps.",
+          "D": "Under the Standard Conditions of Sale condition 6.8, a party not in default may serve a notice to complete giving the other party 10 working days to complete. If the defaulting party fails to complete within that period, the serving party may rescind the contract — the buyer recovering the deposit (with interest) and damages for breach."
+        },
+        "correct": "D",
+        "explanation": "Standard Conditions of Sale (5th edition) condition 6.8: if the transaction is not completed on the contractual completion date, either party not in default may serve a notice to complete making time of the essence. The notice gives 10 working days. If the seller fails to complete: the buyer may rescind, recover the deposit (and interest) and sue for damages. Specific performance (D) is available as an alternative but is a slower court process. Option A is wrong — the notice procedure must first be followed under the SCs before rescission; C is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-080",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Undertakings in conveyancing — mortgage discharge",
+        "difficulty": "Application",
+        "stem": "At completion of a residential sale, the seller's solicitor at Crane & Pelletier gives an undertaking to the buyer's solicitor to use the proceeds of sale to discharge the seller's mortgage and to forward evidence of discharge within a specified period. The proceeds are received but the solicitor inadvertently uses them to offset a firm debt. The mortgage is not discharged. What are the professional consequences?",
+        "options": {
+          "A": "The solicitor has made a minor administrative error with no serious professional consequences.",
+          "B": "The solicitor's obligation under the undertaking terminates if the mortgage lender refuses to provide a redemption statement.",
+          "C": "The buyer's solicitor must apply to court to enforce the undertaking — no professional conduct action arises.",
+          "D": "Breach of a solicitor's undertaking is a serious professional conduct matter. The SRA may investigate for breach of SRA Principles (acting with integrity, honesty and in clients' best interests) and breach of the SRA Accounts Rules (misuse of client…"
+        },
+        "correct": "D",
+        "explanation": "A solicitor's undertaking is one of the most serious professional obligations. Breach exposes the giving solicitor to: (i) professional conduct proceedings before the SRA (Principles 2, 4, 5 — integrity, honesty, proper supervision); (ii) potential SRA intervention; (iii) disciplinary sanction up to strike-off; (iv) personal liability to the buyer's solicitor. Using completion proceeds to offset a firm debt is a misuse of client money under the SRA Accounts Rules. Courts can also enforce undertakings summarily. Options A, C and D all dramatically understate the seriousness of the breach.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-081",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Energy Performance Certificates — commercial property",
+        "difficulty": "Application",
+        "stem": "Ashworth Developments Ltd is letting commercial premises to Northgate Couriers. What are the seller/landlord's obligations in relation to an Energy Performance Certificate (EPC) and the Minimum Energy Efficiency Standards (MEES)?",
+        "options": {
+          "A": "EPCs are only required for residential property; commercial lettings are exempt.",
+          "B": "The tenant, not the landlord, is responsible for obtaining an EPC on taking a commercial lease.",
+          "C": "EPC requirements only apply to buildings over 1,000 square metres.",
+          "D": "The Energy Performance of Buildings (England and Wales) Regulations 2012 require a valid EPC to be provided to prospective commercial tenants."
+        },
+        "correct": "D",
+        "explanation": "EPCs are required on the construction, sale or letting of most buildings, including commercial properties, under the 2012 Regulations. MEES (currently minimum E rating for commercial property) prohibit granting new lettings or continuing existing lettings of sub-standard commercial premises unless an exemption applies (e.g. third party consent refused, devaluation, or wall/floor insulation exemption). The EPC must be provided to prospective tenants. Government policy is to raise the minimum standard further. Option A is wrong; C has no basis; D is wrong — the landlord must provide.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-082",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Electronic conveyancing and digital identity",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is conducting a residential conveyancing transaction and is required to carry out electronic verification of identity for both the client and any third parties. Under what framework does this now operate?",
+        "options": {
+          "A": "Electronic identity verification is prohibited in conveyancing — all identity checks must be done in person.",
+          "B": "Electronic verification of identity is mandatory and face-to-face checks are no longer permitted.",
+          "C": "Electronic identity checks are sufficient only for purchases under £200,000.",
+          "D": "HM Land Registry's Digital Identity Standard (and the associated Practice Guide 67) provides a framework for electronic identity verification using Identification Documents Validation Technology (IDVT). From 2023, the Land Registry accepts digital identity checks for conveyancing purposes, provided they meet the required standard. The solicitor must document the process."
+        },
+        "correct": "D",
+        "explanation": "HM Land Registry Practice Guide 67 and the Land Registry's Digital Identity Standard (introduced from April 2022 onwards) provide a framework allowing conveyancers to use certified Identity Service Providers to verify identity digitally to the required standard (complying with DIATF — UK Digital Identity and Attributes Trust Framework). This satisfies both AML/CDD and Land Registry identity verification requirements. The solicitor must retain records of the verification process. Option A is wrong; C introduces a false financial limit; D is wrong — face-to-face remains acceptable.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-083",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Positive covenants — burden not passing at common law",
+        "difficulty": "Complex",
+        "stem": "A previous owner of a freehold property covenanted to maintain a boundary wall shared with an adjacent property owned by Ravi Sharma. The property has since been sold to Gerald Crane. Ravi seeks to enforce the obligation against Gerald. Is Gerald bound?",
+        "options": {
+          "A": "Yes — the burden of all covenants runs with freehold land in the same way as restrictive covenants.",
+          "B": "Positive covenants are enforced by the local authority under planning law.",
+          "C": "Gerald is bound because the covenant was registered at the Land Registry.",
+          "D": "No — the burden of a positive covenant (one requiring expenditure or action) does not run at law or in equity with freehold land to bind successors (Halsall v Brizell [1957] and Rhone v Stephens [1994]). Ravi can only sue Gerald's predecessor. Gerald is not bound unless there is a chain of indemnity covenants, a Halsall v Brizell mutual benefit and burden, or an estate rentcharge."
+        },
+        "correct": "D",
+        "explanation": "The fundamental principle in English law (confirmed by the House of Lords in Rhone v Stephens [1994]) is that the burden of a positive freehold covenant does not pass with the land — subsequent owners of the burdened land are not automatically bound. The only mechanisms to enforce positive obligations against successors are: (i) a chain of indemnity covenants (personal contract right only); (ii) Halsall v Brizell mutual benefit and burden (if Gerald takes benefit of the covenant scheme, he must take the burden); (iii) estate rentcharge; (iv) commonhold. Registration at the Land Registry does not make a positive covenant binding against successors. Option A is wrong; C is wrong; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-084",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Lease renewal under LTA 1954 — unopposed",
+        "difficulty": "Application",
+        "stem": "Northgate Couriers' commercial tenancy of Wharton Magna premises is protected by the Landlord and Tenant Act 1954. The landlord does not oppose renewal. The parties cannot agree on the new rent. How is the rent determined?",
+        "options": {
+          "A": "The rent is fixed at the level agreed in the previous lease with a 10% increase.",
+          "B": "If the parties cannot agree, the tenancy continues on the old terms indefinitely.",
+          "C": "The landlord's last asking rent is automatically accepted if the parties cannot agree.",
+          "D": "On an unopposed renewal under LTA 1954, if the parties cannot agree the rent, the County Court sets it at the open market rent, disregarding the tenant's improvements and goodwill."
+        },
+        "correct": "D",
+        "explanation": "Section 34 LTA 1954 provides the formula for rent on renewal: the open market rent, assessed on a willing landlord/willing tenant basis at the date of commencement of the new tenancy. Three disregards apply (s.34(1)): (i) the tenant's occupation; (ii) goodwill attaching to the holding; (iii) improvements carried out by the tenant (subject to conditions). This prevents the landlord from capturing the tenant's own investment in the premises. Option A introduces an arbitrary increase; C gives the landlord unilateral power; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-085",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Capacity — acting for a client with diminished capacity",
+        "difficulty": "Application",
+        "stem": "Crane & Pelletier is instructed by Colonel Ashworth (aged 88) to sell his home. The solicitor meets Colonel Ashworth and forms concerns about his mental capacity to give instructions. What should the solicitor do?",
+        "options": {
+          "A": "Proceed with the transaction — the client is of legal age and must be presumed to have capacity.",
+          "B": "Capacity is irrelevant in property transactions — the solicitor must follow the client's instructions.",
+          "C": "The solicitor should immediately refer Colonel Ashworth to the Court of Protection without further discussion.",
+          "D": "The solicitor should assess whether Colonel Ashworth has the mental capacity to give instructions for the transaction under the Mental Capacity Act 2005."
+        },
+        "correct": "D",
+        "explanation": "Under the Mental Capacity Act 2005 (MCA), there is a presumption of capacity (s.1(2)), but if the solicitor has reasonable grounds to doubt capacity, they must conduct a capacity assessment (s.3 MCA — a person lacks capacity if they cannot understand, retain, use/weigh information or communicate a decision). The SRA Code requires solicitors to consider client vulnerability (SRA Guidance on the Vulnerability of Clients 2020). A solicitor should not proceed if capacity is in serious doubt. If capacity is lacking, a deputy/LPA attorney must instruct instead. An immediate Court of Protection referral (C) is premature and not the first step. Option A ignores professional obligations; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-086",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Commercial Property",
+        "subtopic": "Alienation — authorised guarantee agreements",
+        "difficulty": "Complex",
+        "stem": "Hollowell Engineering assigns its commercial lease to Northgate Couriers with the landlord's consent. The landlord requires Hollowell to enter into an Authorised Guarantee Agreement (AGA). What does an AGA oblige Hollowell to do?",
+        "options": {
+          "A": "An AGA requires Hollowell to guarantee all existing obligations under the lease for its entire remaining term.",
+          "B": "AGAs were abolished by the Landlord and Tenant (Covenants) Act 1995 and are no longer used.",
+          "C": "An AGA requires Hollowell to indemnify the landlord for any losses regardless of who is in occupation.",
+          "D": "Under the Landlord and Tenant (Covenants) Act 1995 s.16, the outgoing tenant may be required by the landlord as a condition of consent to assignment to enter an AGA, guaranteeing the performance of the lease obligations by the immediate assignee (Northgate Couriers) only — not by subsequent assignees. The AGA obligation ends if Northgate Couriers itself assigns the lease."
+        },
+        "correct": "D",
+        "explanation": "Landlord and Tenant (Covenants) Act 1995 s.16 permits landlords to require outgoing tenants to enter an Authorised Guarantee Agreement as a condition of consent to assignment. The AGA makes the outgoing tenant (Hollowell) a guarantor of the immediate assignee's (Northgate Couriers') performance of the lease covenants. The AGA is limited to guaranteeing the immediate assignee — it expires when that assignee in turn assigns (the former tenant cannot be required to guarantee indefinitely or down the chain). This is a material limitation compared to the pre-1995 Act privity of contract rule. Options A and C overstate the duration/scope; D is wrong — AGAs were introduced, not abolished, by the 1995 Act.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-087",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Leaseholder enfranchisement — collective",
+        "difficulty": "Complex",
+        "stem": "Twelve of the 20 long leaseholders of a Wharton Magna residential block wish to collectively enfranchise (purchase the freehold). Can they proceed under the Leasehold Reform, Housing and Urban Development Act 1993?",
+        "options": {
+          "A": "Collective enfranchisement requires all leaseholders in the block to participate.",
+          "B": "Enfranchisement requires a court order and the freeholder's consent.",
+          "C": "Collective enfranchisement is only available to blocks with fewer than 10 flats.",
+          "D": "Under the LRHUDA 1993 Part I Chapter I, the participating tenants must comprise at least half of the total number of flats in the building (i.e. at least 10 of 20 — which is satisfied here). Each participant must be a qualifying tenant (long lease of a flat). The nominee purchaser serves an initial notice and must pay a market premium calculated under Schedule 6."
+        },
+        "correct": "D",
+        "explanation": "LRHUDA 1993 Part I: collective enfranchisement allows qualifying tenants of a self-contained building to purchase the freehold collectively. Requirements include: (i) at least two-thirds of the flats in the building must be held on long leases (the '2/3 flats' test — s.3); (ii) at least 50% of all qualifying tenants in the building must participate (the 'participation' threshold — s.13). With 12 of 20 participating, both thresholds are met (more than half). The nominee purchaser serves an initial notice (s.13 notice); the freeholder may serve a counter-notice. Option A wrongly requires unanimity; C is wrong; D wrongly requires consent.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-088",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Title and Investigation",
+        "subtopic": "Mortgagee's power of sale — s.101 LPA 1925",
+        "difficulty": "Application",
+        "stem": "Ashworth Developments Ltd has defaulted on its commercial mortgage. The lender wishes to sell the property without going to court. Under LPA 1925 ss.101 and 103, which condition must be satisfied before the statutory power of sale is exercisable (not merely arisen)?",
+        "options": {
+          "A": "The lender may exercise the power of sale as soon as the mortgage deed is executed",
+          "B": "The power is only exercisable after the lender has obtained a court possession order",
+          "C": "The power is only exercisable once the entire mortgage debt has been formally demanded and remains unpaid for 6 months",
+          "D": "The power arises when the legal date of redemption has passed; it becomes exercisable when one of the s.103 conditions is met — such as a 3-month default after written notice, 2 months' interest arrears, or breach of a mortgage covenant"
+        },
+        "correct": "D",
+        "explanation": "LPA 1925 s.101 implies a power of sale into mortgages made by deed (unless excluded) — this power arises when the mortgage money has become due (the legal redemption date has passed, typically 6 months after grant). Section 103 provides that the power is not exercisable (i.e. cannot actually be exercised) unless one of three conditions is satisfied: (i) notice requiring payment has been served and the mortgagor has defaulted for 3 months after that notice; or (ii) some interest under the mortgage is in arrears for 2 months; or (iii) there has been a breach of some provision contained in the mortgage deed other than the covenant to repay the principal sum or pay interest. All three are alternative conditions. No court order is required for an LPA s.101 sale.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-089",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Conveyancing",
+        "subtopic": "Overage — clawback provisions",
+        "difficulty": "Complex",
+        "stem": "Ashworth Developments Ltd sells a development site to Hollowell Engineering with an overage clause providing that if planning permission for a significant uplift in use is obtained within 10 years, Ashworth will receive 25% of any uplift in value. How must this overage obligation be protected to bind subsequent purchasers of the site?",
+        "options": {
+          "A": "An overage clause is automatically binding on all purchasers once it is included in the transfer deed.",
+          "B": "Overage clauses cannot be protected in registered land.",
+          "C": "Overage obligations are enforceable as equitable interests without any registration.",
+          "D": "To bind subsequent purchasers, the overage obligation (which is personal to Hollowell as purchaser unless properly protected) must be secured by one or more of: registration of a restriction in the Land Registry (limiting registration of subsequent…"
+        },
+        "correct": "D",
+        "explanation": "Overage (clawback) clauses in property transactions are contractual obligations on the buyer. To ensure they bind successors (future purchasers of the site), the seller must register appropriate protection in the Land Registry: (i) a restriction preventing future disposals without the seller's consent or a certificate; (ii) a unilateral notice on the charges register; or (iii) a legal charge as security for the overage payment obligation. Overage obligations that are purely personal to the original buyer are not automatically binding on successors — the LRA 2002 priority rules apply. Options A and C are wrong; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "PROP-090",
+        "flk": "FLK2",
+        "subject": "Property Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Gifts from clients — undue influence risk",
+        "difficulty": "Application",
+        "stem": "Colonel Ashworth (aged 88) instructs Crane & Pelletier to draft a deed of gift transferring his house to his carer, Pat Hollowell, with no payment. The solicitor is aware that Pat is present at all meetings and Colonel Ashworth appears reluctant to speak freely. What professional obligations arise?",
+        "options": {
+          "A": "The solicitor should proceed — the client is an adult and has given instructions.",
+          "B": "Provided Colonel Ashworth signs the deed, the solicitor's duty is satisfied.",
+          "C": "The solicitor should immediately report Pat Hollowell to the police for elder abuse.",
+          "D": "The solicitor must be alert to the risk of undue influence and potential abuse of a vulnerable client."
+        },
+        "correct": "D",
+        "explanation": "SRA Code of Conduct 2019 (principles of acting in the client's best interests, honesty and integrity) and the SRA Guidance on Vulnerable Clients require solicitors to consider undue influence where an elderly or vulnerable client proposes a substantial gift — particularly to a person in a position of trust (carer). The solicitor must: (i) see the client alone; (ii) assess capacity (MCA 2005); (iii) consider whether instructions are freely given; (iv) advise on independent legal advice; (v) potentially decline if the risk of undue influence is too high. An immediate police report (C) is premature — the solicitor should first address the professional obligations. Option A ignores vulnerability; D is insufficient.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

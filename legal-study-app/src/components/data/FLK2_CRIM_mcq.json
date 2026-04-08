@@ -1,0 +1,1880 @@
+{
+  "FLK2": {
+    "Criminal Law & Practice": [
+      {
+        "question_id": "FLK2-CRIM-MCQ-001",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "General Principles of Criminal Liability",
+        "subtopic": "Actus Reus & Voluntary Act",
+        "difficulty": "Foundation",
+        "stem": "Which of the following best describes the 'voluntary act' requirement in criminal law?",
+        "options": {
+          "A": "A willed and consciously controlled act, as opposed to a reflex or involuntary movement",
+          "B": "An act performed with the intention to commit a criminal offence",
+          "C": "An act that the defendant willingly admits to in a police interview",
+          "D": "An act that would not have been committed but for the defendant's criminal motive"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is A. The voluntary act requirement (Hill v Baxter [1958]) means the act must be willed and consciously controlled. B is incorrect because voluntary act is about the nature of the conduct, not the defendant's intention regarding the offence itself. C is incorrect because admissions in interviews are evidence of liability, not the definition of voluntary act. D is incorrect because motive is not relevant to whether an act is voluntary — involuntary acts like reflexes remain involuntary regardless of the defendant's underlying motivation.",
+        "card_refs": [
+          "FLK2-CRIM-001"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-002",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "General Principles of Criminal Liability",
+        "subtopic": "Omissions & Duty to Act",
+        "difficulty": "Foundation",
+        "stem": "A senior care worker at a nursing home fails to report that a colleague has been physically assaulting an elderly resident. The care worker had no other involvement. Under what circumstances could the care worker be liable for this omission?",
+        "options": {
+          "A": "The care worker would only be liable if there was a statutory duty to report, contractual duty to act, or a duty arising from relationship or voluntary assumption of care",
+          "B": "The care worker would automatically be liable as an accessory for failing to report a crime",
+          "C": "The care worker would not be liable for failing to report, as there is no general 'Good Samaritan' duty in English law",
+          "D": "The care worker would be liable only if the resident dies as a result of the assault"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is A. Criminal liability for omissions requires identification of a legal duty to act. The five recognised duty situations are statutory, contractual, relationship-based, voluntary assumption, or prior dangerous act (R v Gibbins and Proctor [1918]; R v Stone and Dobinson [1977]; R v Miller [1983]). A care worker's professional duty of care to residents may create such a duty. B is incorrect because omissions liability requires a specific duty, not automatic accessory liability for silence. C is incorrect because, while there is no general Good Samaritan duty, specific duty situations create liability for omissions. D is incorrect because omissions liability can arise for protective omissions without requiring a specific consequence.",
+        "card_refs": [
+          "FLK2-CRIM-002"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-003",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "General Principles of Criminal Liability",
+        "subtopic": "Causation & 'But For' Test",
+        "difficulty": "Foundation",
+        "stem": "Which of the following correctly states the 'but for' test of factual causation?",
+        "options": {
+          "A": "But for the defendant's act, would the prohibited consequence have occurred? If 'no', factual causation is established",
+          "B": "The defendant's act must be the sole cause of the prohibited consequence",
+          "C": "The defendant must have intended the consequence that would 'but for' their act have occurred anyway",
+          "D": "The defendant's act must be 'but for' the victim's actions that contributed to the harm"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is A. The 'but for' test (R v White [1910]) asks whether the consequence would have occurred without the defendant's act. If the answer is 'no', factual causation is established. If the consequence would have happened anyway, factual causation fails. B is incorrect because causation does not require the defendant's act to be the sole cause — multiple causes can operate together. C is incorrect because intention regarding the 'but for' scenario is irrelevant; the test is purely factual. D is incorrect because the 'but for' test focuses on the defendant's act, not comparative causation with the victim's actions.",
+        "card_refs": [
+          "FLK2-CRIM-003"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-004",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "General Principles of Criminal Liability",
+        "subtopic": "Intent & Purpose",
+        "difficulty": "Foundation",
+        "stem": "A defendant shoots at a victim, intending to cause serious injury, and is certain that their shot will kill. According to the test for direct intention, which statement is correct?",
+        "options": {
+          "A": "The defendant has direct intention to cause serious injury, and the certainty of death is only relevant to oblique intention",
+          "B": "The defendant has direct intention to kill because they foresaw death as a virtually certain consequence",
+          "C": "The defendant has direct intention to kill because that is the natural consequence of their act",
+          "D": "The defendant has no direct intention to kill since their aim was only to cause serious injury"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is A. Direct intention (R v Mohan [1976]) exists where the consequence is the defendant's purpose or aim. Here, the defendant's aim is to cause serious injury. The fact that death is virtually certain is not relevant to direct intention to kill — it would be relevant to oblique intention (foresight as virtually certain). B is incorrect because virtually certain foresight is the test for oblique intention, not direct intention. C is incorrect because the natural consequences of an act are not relevant — direct intention requires the consequence to be the defendant's aim. D is incorrect because while there is no direct intention to kill, the defendant does have direct intention to cause GBH.",
+        "card_refs": [
+          "FLK2-CRIM-006"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-005",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "General Principles of Criminal Liability",
+        "subtopic": "Causation & Novus Actus Interveniens",
+        "difficulty": "Foundation",
+        "stem": "A defendant stabs a victim in the abdomen. The victim is taken to hospital where medical treatment is provided, but a junior doctor negligently administers the wrong antibiotic. The victim develops a serious infection as a result of the negligent treatment and dies. The defendant argues the doctor's negligence has broken the chain of causation. Will this argument succeed?",
+        "options": {
+          "A": "Yes, because any medical negligence is a novus actus interveniens that automatically breaks the chain",
+          "B": "No, because the defendant takes the victim as found, including medical treatment received",
+          "C": "No, because the negligence would need to be 'so palpably wrong' as to break the chain, and mere negligence does not satisfy this",
+          "D": "Yes, because the doctor's act was a free and deliberate act by a third party"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is C. Medical negligence only breaks the chain of causation where it is 'so palpably wrong' (R v Smith [1959]; R v Jordan [1956] is the narrow exception where treatment was grossly negligent and the original wound was no longer an operating cause). A is incorrect because medical negligence does not automatically break the chain. B is incorrect because the thin skull rule applies to the victim's characteristics and foreseeable reactions, not to medical treatment decisions. D is incorrect because while the doctor's act is a third party act, mere negligence does not meet the threshold of being so palpably wrong.",
+        "card_refs": [
+          "FLK2-CRIM-005"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-006",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "General Principles of Criminal Liability",
+        "subtopic": "Oblique Intention & Foresight",
+        "difficulty": "Foundation",
+        "stem": "A defendant plants a bomb on an aircraft to claim insurance money. They intend to destroy the plane but hope against hope that all passengers will somehow escape. The plane crashes, killing all 200 passengers. The defendant claims they did not intend to kill anyone, only to destroy the aircraft. How would a court analyse the defendant's mens rea for murder?",
+        "options": {
+          "A": "The defendant's hope that people would escape negates mens rea unless they were reckless as to death",
+          "B": "The defendant has mens rea for murder if they foresaw death as a virtually certain consequence of destroying the aircraft, even though that was not their aim",
+          "C": "The defendant has no mens rea for murder because they did not intend the deaths and hoped people would escape",
+          "D": "The defendant has mens rea for murder only if they subjectively wanted the passengers to die"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. Under the test for oblique intention (R v Woollin [1999]), the defendant has mens rea for murder if they foresaw death as a virtually certain consequence, even though it was not their direct aim. The defendant's hope against hope is subjectively irrelevant once they foresaw death as virtually certain. A is incorrect because hope is irrelevant to the test; the question is what was virtually certain, not what was hoped for. C is incorrect because foresight as virtually certain (not direct intention) is sufficient for murder. D is incorrect because murder does not require the defendant to want the deaths; foresight of virtual certainty suffices.",
+        "card_refs": [
+          "FLK2-CRIM-007",
+          "FLK2-CRIM-008"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-007",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Defences",
+        "subtopic": "Self-Defence & Force",
+        "difficulty": "Application",
+        "stem": "A defendant is lawfully defending their home from an intruder. Under section 76 of the Criminal Justice and Immigration Act 2008, what is the key test the court must apply?",
+        "options": {
+          "A": "Whether the force used was objectively proportionate to the threat posed",
+          "B": "Whether the defendant honestly believed they were in danger and the force used was reasonable in the circumstances as the defendant believed them to be",
+          "C": "Whether the defendant's actions were what a reasonable person would have done in identical circumstances",
+          "D": "Whether the force used would be classified as 'grossly disproportionate' to the threat"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. Section 76 CJIA 2008 establishes the test as (1) honest belief that force is necessary in defence, and (2) force reasonable in the circumstances as the defendant believed them to be (subjective test). A is incorrect because the test is not objective proportionality but rather reasonableness in the defendant's believed circumstances. C is incorrect because the test is what is reasonable in the defendant's believed circumstances, not what an objective reasonable person would do. D is incorrect because 'grossly disproportionate' is the threshold for householder cases (s.76(5A)) — a higher threshold — but the basic test is whether the force was reasonable.",
+        "card_refs": [
+          "FLK2-CRIM-031",
+          "FLK2-CRIM-032"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-008",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Defences",
+        "subtopic": "Duress",
+        "difficulty": "Application",
+        "stem": "A defendant commits robbery after being threatened that they and their family will be killed unless they do so. The defendant was reasonably afraid and had no safe avenue of escape. However, the threat was made by someone the defendant had voluntarily become involved with through gang membership. Will the defence of duress succeed?",
+        "options": {
+          "A": "Yes, because the threat meets the test of death or serious injury and the defendant reasonably believed the threat",
+          "B": "No, because the defendant foresaw the risk of such threats when they joined the gang — the duress was not self-induced but was a foreseeable consequence of their own choices",
+          "C": "No, because duress is not available to any member of a gang regardless of circumstances",
+          "D": "Yes, but only if the defendant can prove they tried to escape the gang and were threatened despite their attempts to leave"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. In R v Hasan [2005], the Court held that duress is not available where the defendant has voluntarily become involved in a criminal group and foreseably exposed themselves to the risk of threats. While the immediate threat may meet the formal criteria, the overall defence fails. A is incorrect because meeting the threat test is not sufficient if duress is excluded on other grounds. C is incorrect because gang membership alone does not automatically exclude duress; the test is whether the defendant foresaw the risk of such threats. D is incorrect because the defence fails on foresight grounds, not on the basis of failed attempts to escape.",
+        "card_refs": [
+          "FLK2-CRIM-033",
+          "FLK2-CRIM-034"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-009",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Defences",
+        "subtopic": "Intoxication & Specific Intent",
+        "difficulty": "Application",
+        "stem": "A defendant, voluntarily intoxicated, commits assault with the intention of causing serious injury. Can the defendant rely on intoxication as a defence?",
+        "options": {
+          "A": "Yes, because voluntary intoxication can always negate mens rea",
+          "B": "No, because assault is a basic intent crime where intoxication does not negate the required mens rea",
+          "C": "Yes, but only if the defendant can prove the intoxication was involuntary",
+          "D": "No, because intoxication is never a defence to any crime under English law"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is B. Under R v Majewski [1977], voluntary intoxication is not available as a defence to basic intent crimes (crimes of recklessness where the prohibited act is itself the harm). Assault is a basic intent crime; the mens rea is intention or recklessness as to the assault, and the assault itself is the actus reus. A is incorrect because voluntary intoxication is only potentially relevant to specific intent crimes. C is incorrect because voluntary intoxication is not available to basic intent crimes regardless of whether it was voluntary or involuntary. D is incorrect because intoxication can be a defence to specific intent crimes (e.g., specific intent murder, theft) where it negates the specific intent element.",
+        "card_refs": [
+          "FLK2-CRIM-035",
+          "FLK2-CRIM-036"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-010",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Defences",
+        "subtopic": "Insanity & Disease of the Mind",
+        "difficulty": "Application",
+        "stem": "A defendant suffers from diabetes and commits a serious assault during a hypoglycaemic episode (caused by low blood sugar). The defendant had no knowledge that this condition could cause such episodes. Will the defence of insanity succeed?",
+        "options": {
+          "A": "Yes, because the defendant suffered from a disease of the mind (diabetes) that caused the assault",
+          "B": "Yes, but only if the defendant had previously experienced such episodes and failed to take medication",
+          "C": "No, because hypoglycaemia is not a disease of the mind under the M'Naghten Rules; it is a temporary physiological condition",
+          "D": "No, because the defendant did not know they could suffer such episodes, so they could not have foreseen the risk"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is C. The M'Naghten Rules require a 'defect of reason from disease of the mind'. Hypoglycaemia is a temporary physiological condition, not a disease of the mind. The defendant's diabetes is a disease, but the acute hypoglycaemic episode is a temporary metabolic state. In similar cases, courts have distinguished between internal conditions (disease) and external causes. A is incorrect because diabetes alone does not trigger the defence; the acute condition causing the assault must itself be a disease of the mind. B is incorrect because prior knowledge is not the test for insanity. D is incorrect because foresight is not the test; the issue is whether the condition is a disease of the mind.",
+        "card_refs": [
+          "FLK2-CRIM-037"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-011",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Homicide",
+        "subtopic": "Murder — Mens Rea",
+        "difficulty": "Application",
+        "stem": "During an argument, James struck Colonel Ashworth repeatedly over the head with a metal bar. Ashworth died from the injuries. James claims he did not intend to kill Ashworth, only to 'teach him a lesson.' The prosecution charges murder. The jury must be directed on the mens rea of murder. What mental state must the prosecution prove James had at the time of the attack?",
+        "options": {
+          "A": "Intention to kill or intention to cause grievous bodily harm.",
+          "B": "Recklessness as to whether death or serious injury would be caused.",
+          "C": "Gross negligence in circumstances where death was a foreseeable consequence.",
+          "D": "Intention to cause any harm, however minor, to the victim."
+        },
+        "correct": "A",
+        "explanation": "Option A is correct. Murder requires the mens rea of intention to kill or intention to cause grievous bodily harm (GBH) — R v Vickers [1957]; R v Cunningham [1982]. Repeated blows with a metal bar to the head would strongly support the inference of an intention to cause GBH at minimum, even if James did not intend death. The jury may find direct intent or, applying R v Woollin [1998], may infer intent if death or serious injury was a virtual certainty foreseen by James. Option B is wrong: recklessness suffices for manslaughter but not murder — murder requires specific intention. Option C describes the mens rea for gross negligence manslaughter (R v Adomako [1995]), not murder. Option D is wrong: an intention to cause minor harm is insufficient for murder.",
+        "card_refs": [
+          "FLK2-CRIM-039",
+          "FLK2-CRIM-040"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-012",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Homicide",
+        "subtopic": "Loss of Control",
+        "difficulty": "Application",
+        "stem": "A defendant and their spouse have had a distant, loveless marriage for 15 years. The defendant discovers that the spouse has been having an affair for the past two months. The defendant immediately confronts the spouse in anger and, in a heated argument, kills them. Can the defendant rely on the defence of loss of control under sections 54-55 of the Coroners and Justice Act 2009?",
+        "options": {
+          "A": "Yes, because the defendant suffered an immediate loss of control triggered by the discovery of infidelity",
+          "B": "No, because the defence requires an abnormality of mental functioning, which the defendant does not have",
+          "C": "No, because loss of control caused by sexual infidelity alone is explicitly excluded by the Act",
+          "D": "Yes, provided the defendant did not incite the loss of control and was not already of unsound mind"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is C. Section 55(6)(c) of the Coroners and Justice Act 2009 explicitly excludes loss of control triggered solely by sexual infidelity. A is incorrect because while there may be an immediate loss of control, the defence is barred by the statutory exclusion. B is incorrect because the issue is not absence of abnormal functioning but the specific exclusion for infidelity-based triggers. D is incorrect because even if other requirements are met, the sexual infidelity exclusion applies regardless of incitement or soundness of mind.",
+        "card_refs": [
+          "FLK2-CRIM-041",
+          "FLK2-CRIM-042"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-013",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Homicide",
+        "subtopic": "Diminished Responsibility",
+        "difficulty": "Complex",
+        "stem": "A defendant with diagnosed borderline personality disorder (BPD) kills their estranged partner after months of unhealthy obsession and emotional dysregulation, which are characteristic of their condition. A psychiatrist testifies that the defendant's BPD substantially impaired their ability to form rational judgements and exercise self-control, and that this condition provides a substantial explanation for the killing. The defendant had normal cognitive capacity and knew the act was unlawful. Will the defence of diminished responsibility succeed?",
+        "options": {
+          "A": "Yes, because the defendant's mental condition substantially impaired their ability to exercise self-control and provides substantial explanation for the killing",
+          "B": "No, because the defendant knew their action was unlawful and had normal cognitive capacity",
+          "C": "No, because borderline personality disorder is a personality disorder, not a recognised medical condition sufficient for the defence",
+          "D": "Yes, but only if the defendant was unable to understand the nature of their actions"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. Under section 2 of the Homicide Act 1957 as amended by the Coroners and Justice Act 2009, diminished responsibility requires: (1) abnormality of mental functioning from a recognised medical condition; (2) substantially impaired ability to understand, form rational judgements, or exercise self-control; and (3) substantial explanation for the killing. BPD is a recognised medical condition, and the evidence shows substantial impairment of self-control and judgment, providing substantial explanation. B is incorrect because the test does not require cognitive inability to understand unlawfulness; it focuses on the ability to exercise self-control and form rational judgements. C is incorrect because personality disorders arising from recognised medical conditions can constitute abnormality for this defence. D is incorrect because the test does not require inability to understand the nature of the act, only substantial impairment of judgment or self-control.",
+        "card_refs": [
+          "FLK2-CRIM-043",
+          "FLK2-CRIM-044"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-014",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Homicide",
+        "subtopic": "Gross Negligence Manslaughter",
+        "difficulty": "Application",
+        "stem": "What are the key elements of gross negligence manslaughter as established in R v Adomako [1994]?",
+        "options": {
+          "A": "A duty of care to the victim, breach of that duty, a risk of death created by the breach, and gross negligence",
+          "B": "Recklessness as to death and an obvious and serious risk of death",
+          "C": "Intention to cause serious injury that results in death",
+          "D": "Knowledge that the defendant's act would cause harm and failure to prevent that harm"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. The Adomako test for gross negligence manslaughter comprises: (1) duty of care owed by defendant to victim; (2) breach of that duty; (3) the breach created a risk of death (not just injury); and (4) the breach was so negligent as to be 'gross'. B is incorrect because gross negligence manslaughter does not require recklessness; it is based on negligence. C is incorrect because that describes a form of murder or serious assault, not manslaughter. D is incorrect because knowledge and failure to prevent are not the basis; the test focuses on negligent breach of duty.",
+        "card_refs": [
+          "FLK2-CRIM-045"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-015",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Non-Fatal Offences",
+        "subtopic": "Assault, Battery & ABH",
+        "difficulty": "Application",
+        "stem": "A defendant deliberately touches a victim's arm in a threatening manner, causing the victim to suffer an acute anxiety disorder resulting in psychiatric injury. No physical injury is sustained. Is this assault and battery, or does it constitute assault occasioning actual bodily harm under section 47 of the Offences Against the Person Act 1861?",
+        "options": {
+          "A": "It is assault and battery only, because ABH requires at least some minimal physical injury like bruising",
+          "B": "It is assault and battery only, because psychiatric injury is not recognised as actual bodily harm",
+          "C": "It constitutes ABH, and additionally the defendant is liable for the common assault element with no need to prove separate mens rea for the injury itself",
+          "D": "It constitutes section 47 ABH because psychiatric injury caused by the defendant's act counts as actual bodily harm (Chan-Fook [1994])"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is C. In R v Chan-Fook [1994], the Court held that actual bodily harm includes recognisable psychiatric injury. Section 47 requires that the assault or battery cause ABH, but the mens rea is only intention or recklessness as to the assault or battery itself, not as to the injury (R v Savage [1992]). A is incorrect because ABH is not limited to physical injury. B is incorrect because psychiatric injury is explicitly recognised as ABH. D is correct in principle (the mens rea point) but option C is the better answer because it directly identifies that psychiatric injury counts as ABH.",
+        "card_refs": [
+          "FLK2-CRIM-046",
+          "FLK2-CRIM-047"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-016",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Non-Fatal Offences",
+        "subtopic": "GBH — Sections 18 & 20",
+        "difficulty": "Foundation",
+        "stem": "What is the key difference in mens rea between section 18 (wounding with intent) and section 20 (malicious wounding) of the Offences Against the Person Act 1861?",
+        "options": {
+          "A": "Section 18 requires intention to wound; section 20 requires intention to wound or recklessness",
+          "B": "Section 18 requires intention to cause GBH; section 20 requires recklessness as to some harm",
+          "C": "Both require the same mens rea but differ in the severity of the harm caused",
+          "D": "Section 18 requires gross negligence; section 20 requires intention to cause injury"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. Section 18 requires intention to cause GBH (R v Cunningham [1982]), while section 20 requires only subjective recklessness as to some harm — not necessarily GBH (R v Mowatt [1968]). A is incorrect because section 18 is not limited to intention to wound; it includes intention to cause GBH. C is incorrect because the mens rea differs fundamentally between the two offences. D is incorrect because neither offence requires gross negligence; they are crimes of intention or recklessness.",
+        "card_refs": [
+          "FLK2-CRIM-049",
+          "FLK2-CRIM-050"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-017",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Non-Fatal Offences",
+        "subtopic": "Sexual Offences",
+        "difficulty": "Complex",
+        "stem": "A defendant has sexual intercourse with another person. The defendant honestly but unreasonably believes the other person has consented. Under the Sexual Offences Act 2003, will the defendant be convicted of rape?",
+        "options": {
+          "A": "No, because the defendant's honest belief in consent, regardless of reasonableness, is a defence",
+          "B": "Yes, because consent is a matter for the complainant to decide, and honesty without reasonableness is insufficient",
+          "C": "No, if the defendant's belief is based on the other person's behaviour or words at the time",
+          "D": "Yes, because rape requires intention to have intercourse, which is satisfied regardless of consent issues"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. Under section 1 of the Sexual Offences Act 2003, the defendant must have a reasonable belief in consent. An honest but unreasonable belief is not a defence — the test is both subjective (honest) and objective (reasonable). A is incorrect because reasonableness is required as well as honesty. C is incorrect because behaviour or words are circumstantial; the test is whether the belief in consent is reasonable in all the circumstances. D is incorrect because the issue is not intention to have intercourse but reasonable belief in consent.",
+        "card_refs": [
+          "FLK2-CRIM-051"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-018",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Property Offences",
+        "subtopic": "Theft — Appropriation",
+        "difficulty": "Foundation",
+        "stem": "A shop owner discovers that one of their employees has taken money from the till without permission. At what point does appropriation of the money occur under section 3 of the Theft Act 1968?",
+        "options": {
+          "A": "When the employee assumes any of the owner's rights over the money, including the right of possession (R v Gomez [1993])",
+          "B": "When the employee forms the intention to take the money",
+          "C": "When the employee takes physical possession of the money",
+          "D": "When the employee removes the money from the premises"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. Appropriation is defined as any assumption of the owner's rights, as established in R v Gomez [1993] and clarified in R v Morris [1984]. It can occur at the moment of assumption, even if that is when the defendant gains possession. B is incorrect because intention alone is not appropriation; there must be an act assuming rights. C is incorrect because while physical possession may be when appropriation occurs, the correct legal test is assumption of rights, not possession per se. D is incorrect because physical removal is not a requirement; appropriation can occur anywhere on the premises.",
+        "card_refs": [
+          "FLK2-CRIM-052",
+          "FLK2-CRIM-053"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-019",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Property Offences",
+        "subtopic": "Theft — Dishonesty",
+        "difficulty": "Application",
+        "stem": "A defendant takes a bicycle from a street after its owner has abandoned it for 18 months with no intention to return and retrieve it. The defendant honestly believes the owner has abandoned it and does not intend to return. Under the test for dishonesty established in Ivey v Genting [2017], is the defendant's conduct dishonest?",
+        "options": {
+          "A": "Yes, because taking another person's property without permission is inherently dishonest",
+          "B": "No, if the defendant's conduct is not dishonest by the standards of ordinary, honest people and the defendant knew their conduct would be regarded as dishonest by those standards",
+          "C": "Yes, because the defendant's honest belief about abandonment is irrelevant to the objective test",
+          "D": "No, because the bicycle has been abandoned and therefore has no owner to steal from"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. Under Ivey v Genting [2017], dishonesty is determined by: (1) what the defendant's actual state of mind was (subjective); and (2) whether that conduct is dishonest by the standards of ordinary, honest people (objective), AND the defendant knew their conduct would be so regarded. If the defendant genuinely and reasonably believed the bicycle was abandoned, the conduct may not be dishonest by the standard test. A is incorrect because taking property can be non-dishonest if there is a genuine belief in entitlement or abandonment. C is incorrect because the defendant's honest belief is highly relevant to both the subjective and objective stages of the test. D is incorrect because even abandoned property belongs to someone unless genuinely lost.",
+        "card_refs": [
+          "FLK2-CRIM-054"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-020",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Property Offences",
+        "subtopic": "Fraud Act 2006",
+        "difficulty": "Complex",
+        "stem": "A defendant, a financial advisor, advises clients to invest in a purported hedge fund. The defendant knows the fund is fictitious and no genuine investment exists, yet continues to accept payments from clients over two years. Is the defendant guilty of fraud by false representation under section 2 of the Fraud Act 2006?",
+        "options": {
+          "A": "No, because fraud by false representation requires a single representation, not a course of conduct",
+          "B": "Yes, because the defendant has made an express representation (the investment exists) that is false, knowing it to be false or being reckless as to its falsity, with intent to make a gain",
+          "C": "Yes, but only if the clients actually relied on the false representation",
+          "D": "No, because the representation is not explicit but rather implied, and implied representations are covered only under fraud by abuse of position"
+        },
+        "correct": "B",
+        "explanation": "The correct answer is B. Section 2 Fraud Act 2006 requires: (1) a false representation (express or implied); (2) made dishonestly; (3) knowing it to be false or being reckless as to falsity; and (4) with intent to make a gain or cause loss. The defendant clearly satisfies all elements. A is incorrect because fraud requires a representation but a course of conduct involving multiple representations can constitute the crime. C is incorrect because reliance is not required — the crime is committed upon making the false representation with the necessary mens rea. D is incorrect because explicit statements that the fund exists constitute express representations.",
+        "card_refs": [
+          "FLK2-CRIM-055"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-021",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Inchoate Offences & Participation",
+        "subtopic": "Attempts — Section 1 Criminal Attempts Act 1981",
+        "difficulty": "Foundation",
+        "stem": "A defendant is spotted by police moving towards a parked car with a screwdriver and a hammer, intending to break into it. The defendant is arrested before touching the car. Has the defendant attempted theft?",
+        "options": {
+          "A": "Yes, because the defendant was in possession of tools and had intention to steal",
+          "B": "No, because the defendant had not yet done anything that constitutes a 'more than merely preparatory' act (R v Geddes [1996])",
+          "C": "It depends on whether the defendant had fully formed the intention and undertaken all preparatory steps",
+          "D": "Yes, because possession of burglary tools with intention to use them is itself an attempt"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is B. Under section 1 Criminal Attempts Act 1981 and R v Geddes [1996], an attempt requires the defendant to have gone beyond merely preparatory acts. Carrying tools and approaching a location are preparatory; the defendant must have gone further — such as actually attempting to break into the car. A is incorrect because intention and tools are insufficient without going beyond preparatory conduct. C is incorrect because the test is not about fully formed intention or completion of all preparatory steps but about crossing the threshold from preparation to attempt. D is incorrect because possession of tools with intent is itself preparation, not attempt.",
+        "card_refs": [
+          "FLK2-CRIM-056",
+          "FLK2-CRIM-057"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-022",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Inchoate Offences & Participation",
+        "subtopic": "Secondary Liability Post-Jogee",
+        "difficulty": "Application",
+        "stem": "A defendant watches a friend assault a stranger, knowing the assault is taking place but doing nothing to stop it. After the assault, the defendant tells the friend, 'I knew you were going to do that and I'm glad you did.' Will the defendant be liable as a secondary party (accessory) to the assault?",
+        "options": {
+          "A": "Yes, because the defendant's silence and subsequent approval constitutes assistance or encouragement",
+          "B": "No, because merely watching, even with knowledge, is not sufficient; there must be evidence of intentional assistance or encouragement before or during the offence (R v Jogee [2016])",
+          "C": "Yes, because the defendant did not instigate or plan the assault and therefore cannot be liable as a secondary party",
+          "D": "No, because the defendant's knowledge of the assault and failure to report it makes them an accessory after the fact"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is B. Following R v Jogee [2016], secondary liability requires intentional assistance or encouragement. Foresight alone is not sufficient. Mere watching and subsequent approval do not constitute intentional assistance or encouragement unless they occurred before or during the offence in a way that actually assisted or encouraged the principal offender. A is incorrect because foresight and approval are not the test; intentional assistance/encouragement is required. D is incorrect because there is no such offence as 'accessory after the fact' in English law; the approach focuses on assistance/encouragement before or during the offence. C is incorrect because a secondary party need not have instigated or planned the offence; but they must have intentionally assisted or encouraged.",
+        "card_refs": [
+          "FLK2-CRIM-058",
+          "FLK2-CRIM-059"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-023",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Inchoate Offences & Participation",
+        "subtopic": "Conspiracy",
+        "difficulty": "Complex",
+        "stem": "Two defendants agree to import cannabis. One defendant is a police officer acting under cover, who never intends to actually go through with the importation but is gathering evidence against the other defendant. Can both defendants be convicted of conspiracy to import cannabis?",
+        "options": {
+          "A": "No, because the police officer never intended to actually carry out the offence and therefore lacked the necessary mens rea for conspiracy",
+          "B": "Yes, because a conspiracy exists once two people agree with the requisite mens rea to commit the offence",
+          "C": "Yes, but the police officer can rely on a statutory defence as an undercover agent",
+          "D": "No, because one of the parties to the conspiracy is an officer of the law and therefore cannot form the mens rea for conspiracy"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. Conspiracy requires that the conspirators agree with the intention to pursue the agreed course of conduct. An undercover officer who never intends the course of conduct to be carried out lacks the necessary mens rea. The absence of shared intention to pursue the unlawful course of conduct between at least two parties means there is no conspiracy. B is incorrect because both parties must intend the course of conduct; a police officer pretending to agree does not satisfy this. D is incorrect because officers of the law can form the mens rea for conspiracy; the issue here is the officer's genuine lack of intent. C is incorrect because while statutory defences may exist for undercover agents, the immediate issue is the absence of mens rea.",
+        "card_refs": [
+          "FLK2-CRIM-060"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-024",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Classification of Offences",
+        "difficulty": "Foundation",
+        "stem": "Which of the following best describes the classification of criminal offences in England and Wales?",
+        "options": {
+          "A": "Crimes are classified as summary, either-way, or indictable depending on the appropriate forum for trial",
+          "B": "All crimes are classified as either misdemeanours or felonies depending on their severity",
+          "C": "Crimes are classified based solely on the maximum sentence available",
+          "D": "Crimes are classified based on whether the victim is a citizen or foreigner"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. Modern English law classifies offences into three categories: summary (tried in Magistrates' Courts), either-way (can be tried in either Magistrates' or Crown Court), and indictable (tried in Crown Court). The classification determines the appropriate forum. B is incorrect because the common law distinctions between misdemeanours and felonies have been abolished in modern law. C is incorrect because while maximum sentence is relevant, the classification system is based on the appropriate forum for trial. D is incorrect because the nature of the victim is irrelevant to the classification system.",
+        "card_refs": [
+          "FLK2-CRIM-062"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-025",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Bail & Grounds to Refuse",
+        "difficulty": "Application",
+        "stem": "A defendant is charged with burglary (an indictable either-way offence). At the first hearing, the prosecution applies for the defendant to be remanded in custody. What grounds could the court rely on under the Bail Act 1976 to refuse bail?",
+        "options": {
+          "A": "The court can refuse bail if there are substantial grounds for believing the defendant will fail to surrender, commit further offences, interfere with witnesses, or obstruct justice",
+          "B": "The court can refuse bail if it has reasonable suspicion that the defendant committed the offence",
+          "C": "The court can refuse bail only if it believes the defendant is a risk to the public's safety",
+          "D": "The court can refuse bail at any time for any reason, provided the defendant is brought before a judge within 72 hours"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is A. Under the Bail Act 1976, the court can refuse bail if satisfied there are substantial grounds for believing the defendant will (1) fail to surrender; (2) commit further offences; (3) interfere with witnesses or obstruct justice; or (4) fail to comply with conditions. B is incorrect because reasonable suspicion of guilt does not satisfy the bail test. C is incorrect because risk to the public is one ground among several; the test is broader. D is incorrect because bail cannot be refused arbitrarily; there must be substantial grounds for belief in one of the specific categories.",
+        "card_refs": [
+          "FLK2-CRIM-063"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-026",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Disclosure & CPIA",
+        "difficulty": "Application",
+        "stem": "Under the Criminal Procedure and Investigations Act 1996 (CPIA), what is the primary duty of the prosecution regarding disclosure?",
+        "options": {
+          "A": "The prosecution must disclose all material that might reasonably be considered capable of undermining the case for the prosecution or assisting the case for the accused (primary disclosure duty)",
+          "B": "The prosecution must disclose everything in its possession, including every witness statement and piece of evidence",
+          "C": "The prosecution must disclose only the evidence it intends to use at trial",
+          "D": "The prosecution has no obligation to disclose anything until the defendant makes a defence statement"
+        },
+        "correct": "C",
+        "explanation": "The correct answer is A. Under section 3 CPIA 1996, the prosecution has a continuing duty of primary disclosure: to disclose all material that might reasonably be considered capable of undermining the prosecution's case or assisting the defence. B is incorrect because not everything need be disclosed, only material that meets the disclosure test. C is incorrect because the disclosure duty extends beyond evidence the prosecution will use at trial. D is incorrect because primary disclosure is a duty of the prosecution independent of the defence making a statement.",
+        "card_refs": [
+          "FLK2-CRIM-064",
+          "FLK2-CRIM-065"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-027",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Allocation & Mode of Trial",
+        "difficulty": "Complex",
+        "stem": "A defendant is charged with actual bodily harm (ABH) under section 47 OFFPAP 1861, an either-way offence. At the allocation hearing in the Magistrates' Court, the defendant desires trial in the Crown Court, but the magistrates consider the case suitable for trial in the Magistrates' Court. Can the defendant insist on Crown Court trial?",
+        "options": {
+          "A": "No, the magistrates' view on suitability is determinative and the defendant must accept trial in the Magistrates' Court",
+          "B": "Yes, the defendant has an automatic right to elect Crown Court trial for all either-way offences under the Magistrates' Courts Act 1980 s.19",
+          "C": "Yes, but only if the defendant can persuade the magistrates that the facts are exceptionally complex or serious",
+          "D": "No, unless the defendant is charged with a second or subsequent either-way offence within the past year"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is B. Under the Magistrates' Courts Act 1980 section 19, for either-way offences, if after the allocation hearing the defendant declines summary trial (or it is declined by the prosecution), the defendant has the right to elect trial in the Crown Court. The defendant's election cannot be overridden by the magistrates' view on suitability. A is incorrect because the defendant's right to elect is not dependent on the magistrates' view. C is incorrect because the right is not conditional on complexity or seriousness; it is a statutory right. D is incorrect because the right is not limited to repeat offenders.",
+        "card_refs": [
+          "FLK2-CRIM-066"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-028",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Sentencing",
+        "subtopic": "Purposes of Sentencing",
+        "difficulty": "Application",
+        "stem": "A defendant is sentenced to five years' imprisonment for armed robbery. Which of the following best describes the sentencing court's multiple purposes in imposing such a sentence?",
+        "options": {
+          "A": "Punishment, rehabilitation, deterrence (specific and general), public protection, and reparation — a pluralistic approach to sentencing with multiple purposes",
+          "B": "Punishment only, as the primary purpose of sentencing is to inflict deserved harm on the offender",
+          "C": "Rehabilitation only, as modern sentencing aims to reform offenders and reintegrate them into society",
+          "D": "Deterrence only, as the primary function of sentencing is to discourage others from committing similar offences"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. The sentencing framework encompasses multiple purposes: punishment/retribution (deserved consequence), rehabilitation (reform of the offender), deterrence (both specific — to the individual offender — and general — to deter others), public protection (incapacitation), and reparation (compensation/amends). B is incorrect because punishment is only one purpose among several in modern sentencing. C is incorrect because while rehabilitation is important, it is not the sole purpose. D is incorrect because deterrence is one purpose among several, not the only one.",
+        "card_refs": [
+          "FLK2-CRIM-067",
+          "FLK2-CRIM-068"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-029",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Sentencing",
+        "subtopic": "Custodial & Community Sentences",
+        "difficulty": "Complex",
+        "stem": "A defendant pleads guilty to grievous bodily harm contrary to section 20 OFFPAP 1861 and has relevant previous convictions. The court is considering whether to impose a custodial sentence or a community order with a rehabilitation requirement. Under the Sentencing Code, what is the test the court must apply?",
+        "options": {
+          "A": "The court must assess whether the offence is serious enough to require custody in the interests of justice; a community order is permissible only if the court is satisfied that it is commensurate with the seriousness of the offence",
+          "B": "The court must impose a custodial sentence if the defendant has any previous convictions, as they evidence a pattern of offending",
+          "C": "The court must impose the shortest custodial sentence possible to balance punishment with the hope of rehabilitation",
+          "D": "The court has discretion to impose either a custodial or community sentence without applying a specific legal test"
+        },
+        "correct": "A",
+        "explanation": "The correct answer is A. The Sentencing Code (building on the Criminal Justice Act 2003) establishes that a court must not impose a custodial sentence unless satisfied that the offence is serious enough to require it in the interests of justice. Conversely, a community order is available if commensurate with seriousness. B is incorrect because previous convictions are relevant to culpability and risk assessment but do not mandate custody. C is incorrect because the test is not about imposing the shortest custodial sentence but about whether custody is required at all. D is incorrect because the court must apply the statutory test of seriousness.",
+        "card_refs": [
+          "FLK2-CRIM-069"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "FLK2-CRIM-MCQ-030",
+        "flk": "FLK2",
+        "subject": "Criminal Law & Practice",
+        "topic": "Advocate's Duty & Co-Defendant Conflict",
+        "subtopic": "Professional Conduct & Conflict of Interest",
+        "difficulty": "Complex",
+        "stem": "An advocate is instructed to represent one defendant in a fraud trial. Prior to trial, the advocate is approached by a co-defendant asking for representation in the same trial. Both defendants face similar charges but it is foreseeable that their defences could diverge significantly — the first defendant may seek to shift responsibility to the co-defendant. What professional duty does the advocate owe?",
+        "options": {
+          "A": "The advocate must decline instructions to represent the co-defendant because a conflict of interest is foreseeable, and continuing to represent only the first defendant creates an irreconcilable conflict",
+          "B": "The advocate can represent both defendants provided they each give informed consent and the case remains straightforward",
+          "C": "The advocate can represent both defendants without difficulty, as the duty of confidentiality prevents them from using information from one client against the other",
+          "D": "The advocate must represent both defendants if asked, as refusing would violate the cab rank principle"
+        },
+        "correct": "D",
+        "explanation": "The correct answer is A. Professional conduct rules require advocates to avoid conflicts of interest. Where one defendant's defence may involve implicating a co-defendant, a conflict is foreseeable and irreconcilable. The advocate cannot properly serve both clients' interests, and informed consent is insufficient to cure such structural conflicts. B is incorrect because consent cannot overcome an irreconcilable conflict of interest. C is incorrect because the duty of confidentiality does not resolve the underlying conflict of divergent interests at trial. D is incorrect because the cab rank principle does not require acceptance of instructions where a conflict exists.",
+        "card_refs": [
+          "FLK2-CRIM-070"
+        ],
+        "flag": false,
+        "generated_by": "ai"
+      },
+      {
+        "question_id": "CRIM-031",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "PACE 1984",
+        "subtopic": "Stop and search — s.1 PACE",
+        "difficulty": "Application",
+        "stem": "DC Griffiths observes Frank Hollis acting suspiciously near parked cars in Wharton town centre at 11 pm. He stops and searches Frank under s.1 PACE 1984. Which condition must be satisfied before the search is lawful?",
+        "options": {
+          "A": "The officer must have a reasonable suspicion that the person is, or has been, committing an offence.",
+          "B": "The officer must have reasonable grounds for suspecting that stolen or prohibited articles will be found.",
+          "C": "The officer requires a superintendent's written authorisation before searching in public.",
+          "D": "The search is lawful provided it takes place in a public place, with no additional precondition."
+        },
+        "correct": "B",
+        "explanation": "Section 1(3) PACE 1984 provides that a constable may search a person if they have reasonable grounds for suspecting they will find stolen or prohibited articles (within the meaning of s.1(7)). The suspicion must relate to articles that may be found, not merely that an offence has been committed. PACE Code A elaborates that reasonable suspicion must be based on specific facts, information or intelligence, not personal characteristics. Option A describes a general arrest threshold; C and D are incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-032",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "PACE 1984",
+        "subtopic": "Arrest — s.24 PACE",
+        "difficulty": "Application",
+        "stem": "PC Okoro arrests James Ashworth without a warrant for a suspected theft of equipment from Hollowell Engineering. Which two conditions must both be satisfied for the arrest to be lawful under s.24 PACE 1984?",
+        "options": {
+          "A": "The officer must have a warrant and the suspect must have been charged.",
+          "B": "The officer must have reasonable grounds to suspect involvement in an offence AND have reasonable grounds to believe arrest is necessary for one of the statutory reasons in s.24(5).",
+          "C": "The officer must have reasonable grounds to suspect the person has committed an offence; necessity is irrelevant.",
+          "D": "The officer must identify the suspect and caution them before the arrest is effected."
+        },
+        "correct": "B",
+        "explanation": "Section 24 PACE 1984 (as amended by SOCPA 2005) requires: (i) the constable must have reasonable grounds to suspect the person is guilty of an offence (the suspicion condition); and (ii) the constable must have reasonable grounds for believing arrest is necessary for a statutory reason listed in s.24(5) — e.g. to allow prompt investigation, prevent the person causing injury, or to prevent disappearance. Both limbs must be satisfied (Hayes v Chief Constable of Merseyside [2011]). A requires a warrant (not required for s.24); C omits the necessity condition; D conflates arrest procedure with arrest lawfulness.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-033",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "PACE 1984",
+        "subtopic": "Detention — rights and reviews",
+        "difficulty": "Application",
+        "stem": "Frank Hollis is detained at Wharton Police Station following arrest. After 24 hours he has not been charged. DCI Thorn wants to continue his detention. Which statement is correct regarding further detention without charge?",
+        "options": {
+          "A": "Frank must be released after 24 hours; there is no power to extend police detention.",
+          "B": "A superintendent may authorise continued detention up to 36 hours where the offence is an indictable offence and continued detention is necessary for evidence or questioning; a magistrates' court warrant of further detention may extend this up to 96 hours total.",
+          "C": "Detention beyond 24 hours requires a High Court order.",
+          "D": "There is no time limit on police detention provided the custody sergeant reviews detention every 9 hours."
+        },
+        "correct": "B",
+        "explanation": "Under PACE 1984 s.42, a superintendent may authorise continued detention beyond 24 hours for up to 36 hours where the offence is indictable and detention is necessary to secure/preserve evidence or to obtain evidence by questioning. Under s.43, a magistrates' court may grant a warrant of further detention for up to 36 additional hours (totalling up to 72 hours), and under s.44 may extend further to a maximum of 96 hours total. A is wrong; C misstates the authorising body; D is incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-034",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "PACE 1984",
+        "subtopic": "Interviews — caution and Code C",
+        "difficulty": "Application",
+        "stem": "James Ashworth is interviewed under caution at Wharton Police Station. He is told: 'You do not have to say anything, but it may harm your defence if you do not mention when questioned something which you later rely on in court. Anything you do say may be given in evidence.' He declines to answer. At trial, may the jury draw an adverse inference from his silence?",
+        "options": {
+          "A": "No — a suspect's right to silence is absolute and no adverse inference can ever be drawn.",
+          "B": "Yes — under s.34 Criminal Justice and Public Order Act 1994, adverse inferences may be drawn from failure to mention facts when questioned that the accused later relies on in court, provided the caution was correctly administered.",
+          "C": "Yes, but only if James was legally represented during the interview.",
+          "D": "No adverse inference may be drawn if James gave no comment replies throughout — s.34 only applies where the accused gives some answers but remains silent on specific points."
+        },
+        "correct": "B",
+        "explanation": "Section 34 CJPOA 1994 allows a court or jury to draw such inferences as appear proper from a failure to mention, when questioned under caution, a fact the accused later relies on in court and which in the circumstances they could reasonably have been expected to mention. The correct PACE caution was administered. The right to legal advice (s.58 PACE) affects whether inferences can be drawn from silence where access to a solicitor was denied (s.34(2A)), but James was properly cautioned. Option A reflects the pre-1994 absolute right to silence; C adds a precondition not in s.34; D misapplies the scope of s.34.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-035",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "PACE 1984",
+        "subtopic": "Search of premises — s.18 PACE",
+        "difficulty": "Application",
+        "stem": "Following James Ashworth's arrest for theft, PC Okoro wishes to search his home address without a warrant. Under which provision may this be done, and what is the key requirement?",
+        "options": {
+          "A": "Under s.8 PACE — an inspector must authorise the search and a warrant is required.",
+          "B": "Under s.18 PACE — an inspector (or above) must authorise the search in writing (unless it is impracticable to obtain authorisation in advance); the premises must be occupied or controlled by the arrested person and the search must be for evidence of the offence for which the person was arrested (or a connected/similar offence).",
+          "C": "Under s.32 PACE — the constable may search any premises where the arrest took place, without any authorisation.",
+          "D": "Under s.17 PACE — the constable may enter to search for any evidence connected to any crime."
+        },
+        "correct": "B",
+        "explanation": "Section 18 PACE 1984 permits a constable to enter and search premises occupied or controlled by a person under arrest for an indictable offence, without a warrant, to seek evidence of the offence for which they were arrested or a connected or similar indictable offence. The search requires written authorisation by an inspector (or above) before the search unless impracticable, in which case it must be obtained as soon as practicable after. Section 8 requires a warrant from a magistrate; s.32 allows search of premises where arrest occurred; s.17 covers entry to arrest or save life, not general evidence-gathering.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-036",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Charging and Bail",
+        "subtopic": "Charging decisions — CPS threshold test",
+        "difficulty": "Application",
+        "stem": "DCI Thorn refers a file on Frank Hollis to the CPS in relation to alleged handling of stolen goods. The CPS considers whether to charge. What is the standard test the CPS applies?",
+        "options": {
+          "A": "The CPS charges if there is a prima facie case established by the police, without independent assessment.",
+          "B": "The Full Code Test: (i) evidential stage — whether there is sufficient evidence to provide a realistic prospect of conviction; and (ii) public interest stage — whether it is in the public interest to prosecute.",
+          "C": "The CPS charges if the evidence would, on a balance of probabilities, establish the defendant's guilt.",
+          "D": "The CPS must secure a 75% prospect of conviction before charging."
+        },
+        "correct": "B",
+        "explanation": "The Code for Crown Prosecutors sets out the Full Code Test in two stages. First, the evidential stage: is the evidence sufficient to provide a realistic prospect of conviction? (An objective assessment of what a jury or magistrates' court, properly directed, is more likely than not to convict on.) Second, if the evidential stage is met, the public interest stage: is it in the public interest to prosecute? There is also a Threshold Test for cases where the suspect is in custody and a charging decision must be made before all evidence is available. A is wrong — the CPS exercises independent judgment; C and D misstate the standard.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-037",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Charging and Bail",
+        "subtopic": "Bail — Bail Act 1976",
+        "difficulty": "Application",
+        "stem": "Frank Hollis appears before Wharton Magistrates' Court charged with burglary (an imprisonable offence). The prosecution objects to bail. What is the starting presumption, and on what grounds may bail be withheld?",
+        "options": {
+          "A": "There is no presumption in favour of bail for burglary offences; the defendant must justify why bail should be granted.",
+          "B": "There is a general right to bail under s.4 Bail Act 1976, but bail may be withheld on the grounds listed in Schedule 1 Part I: substantial grounds to believe the defendant would fail to surrender, commit further offences on bail, or interfere with witnesses or obstruct the course of justice.",
+          "C": "Bail must always be granted for first-time offenders regardless of the offence charged.",
+          "D": "Bail for an indictable offence can only be refused by a Crown Court judge."
+        },
+        "correct": "B",
+        "explanation": "Section 4 Bail Act 1976 creates a general right to bail (a presumption in favour). Schedule 1 Part I sets out the exceptions for imprisonable offences — the court need not grant bail if there are substantial grounds for believing the defendant would: (i) fail to surrender; (ii) commit an offence while on bail; or (iii) interfere with witnesses or obstruct justice. Other exceptions include the defendant's own protection or if already serving custody. The court weighs specified factors (nature/seriousness of offence, defendant's character/record, etc.). A reverses the presumption; C and D are incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-038",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Allocation and Sending",
+        "subtopic": "Allocation — either-way offences",
+        "difficulty": "Application",
+        "stem": "Frank Hollis is charged with theft of goods worth £8,000 from Hollowell Engineering, an either-way offence. He appears before the magistrates' court. What is the correct allocation procedure?",
+        "options": {
+          "A": "The magistrates must immediately commit the case to the Crown Court for trial because the value exceeds £5,000.",
+          "B": "The magistrates follow the allocation procedure: consider whether the case is suitable for summary trial, applying the Sentencing Council allocation guideline; if they accept jurisdiction, the defendant is put to election; if the defendant elects Crown Court trial or the magistrates decline jurisdiction, the case is sent to the Crown Court.",
+          "C": "The defendant has an automatic right to Crown Court trial for any either-way offence without magistrates' consideration of allocation.",
+          "D": "The value of goods stolen automatically determines the court of trial."
+        },
+        "correct": "B",
+        "explanation": "For either-way offences, the Criminal Justice Act 2003 (as amended by the Magistrates' Courts Act 1980 and Criminal Procedure Rules) requires: (i) hearing representations on allocation; (ii) magistrates considering allocation having regard to sentencing powers and the Allocation Guideline; (iii) if they accept jurisdiction, the defendant is given the election to choose Crown Court or summary trial; (iv) if magistrates decline jurisdiction or defendant elects Crown Court, the case is sent to the Crown Court. Value is a factor in the guideline but does not mechanically determine venue. A and D are incorrect; C overstates the defendant's right.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-039",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Evidence",
+        "subtopic": "Hearsay — CJA 2003",
+        "difficulty": "Complex",
+        "stem": "At Frank Hollis's trial for handling stolen goods, the prosecution seeks to adduce a written statement from a witness who has since died. On what basis may this hearsay statement be admitted?",
+        "options": {
+          "A": "Hearsay is inadmissible in all circumstances in criminal proceedings.",
+          "B": "Under s.116 CJA 2003, a hearsay statement may be admitted where the maker is unavailable (including death), provided the conditions are satisfied; additionally, the court has a residual inclusionary discretion under s.114(1)(d).",
+          "C": "The statement is automatically admissible as documentary hearsay without any gateway.",
+          "D": "The death of the witness means the defendant loses their right to a fair trial and the prosecution must stay proceedings."
+        },
+        "correct": "B",
+        "explanation": "Section 116 CJA 2003 provides a gateway for hearsay where the witness is unavailable due to specified reasons, including death (s.116(2)(a)). The statement must otherwise comply with s.116 conditions (the witness would have been competent, the statement was made by a person, etc.). The court also has a residual discretion under s.114(1)(d) to admit hearsay in the interests of justice. The court retains the s.126 discretion to exclude where admission would be unfair. Option A is wrong — hearsay is admissible through CJA 2003 gateways; C is wrong — gateways must be met; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-040",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Evidence",
+        "subtopic": "Bad character — s.101 CJA 2003",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis has previous convictions for handling stolen goods. The prosecution applies to adduce this bad character evidence at his current trial for handling. Through which gateway under s.101 CJA 2003 is this most likely to be admitted?",
+        "options": {
+          "A": "Gateway (a) — agreed by all parties.",
+          "B": "Gateway (d) — the evidence is relevant to an important matter in issue between the defendant and the prosecution (specifically, propensity to commit offences of the kind charged).",
+          "C": "Gateway (f) — it is evidence to correct a false impression given by the defendant.",
+          "D": "Gateway (g) — the defendant has made an attack on another person's character."
+        },
+        "correct": "B",
+        "explanation": "Section 101(1)(d) CJA 2003 allows admission of bad character evidence relevant to an important matter in issue between defendant and prosecution. Section 103(1)(a) provides that 'an important matter in issue' includes propensity to commit offences of the kind charged. Previous convictions for the same type of offence (handling) are classically admitted through gateway (d) to establish propensity. The court retains s.101(3) discretion to exclude if admitting would make the proceedings unfair. Gateway (a) requires agreement; (f) and (g) apply in different circumstances.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-041",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Theft — s.1 Theft Act 1968",
+        "difficulty": "Application",
+        "stem": "James Ashworth takes a laptop computer belonging to Hollowell Engineering from a store cupboard, believing the company owes him money and he is entitled to keep it until paid. Has James committed theft?",
+        "options": {
+          "A": "Yes — any unauthorised taking of property belonging to another is theft.",
+          "B": "No — James has a genuine belief in a legal entitlement to the property under s.2(1)(a) Theft Act 1968, which negates dishonesty; provided the jury accepts this belief is genuine (not necessarily reasonable), the dishonesty element is not satisfied.",
+          "C": "No — the actus reus of theft requires permanent deprivation, and James intends to return the laptop once paid.",
+          "D": "Yes — a belief in a right to property can never negate dishonesty in theft."
+        },
+        "correct": "B",
+        "explanation": "Dishonesty under the Theft Act 1968 includes s.2(1)(a): a person is not dishonest if they appropriate property believing they have the legal right to deprive the other of it. This is a subjective test — the belief need not be reasonable, merely genuine. If the jury accept James genuinely (even if mistakenly) believed he was entitled to the laptop, dishonesty is negated. Option C is incorrect — theft does not require permanent deprivation to be proved separately (s.6 deals with intention to permanently deprive); s.6 is broadly interpreted. Option A ignores the dishonesty element; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-042",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Fraud — s.2 Fraud Act 2006",
+        "difficulty": "Application",
+        "stem": "Frank Hollis submits invoices to Ashworth Developments Ltd for building work he knows was never carried out. He intends to make a gain. Which offence best describes his conduct?",
+        "options": {
+          "A": "Obtaining property by deception under s.15 Theft Act 1968.",
+          "B": "Fraud by false representation under s.2 Fraud Act 2006 — making a false representation dishonestly, knowing it is or might be untrue, intending to make a gain or cause a loss.",
+          "C": "Theft under s.1 Theft Act 1968.",
+          "D": "Handling stolen goods under s.22 Theft Act 1968."
+        },
+        "correct": "B",
+        "explanation": "Section 2 Fraud Act 2006 creates the offence of fraud by false representation: the defendant (i) makes a false representation; (ii) dishonestly; (iii) knowing the representation is or might be untrue or misleading; (iv) with intent to make a gain or cause a loss. Submitting invoices for non-existent work is a false representation about the existence of the debt. The offence is complete on making the representation — it is inchoate; no gain needs to result. Option A refers to an abolished offence; C and D do not fit the conduct.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-043",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Assault occasioning actual bodily harm — s.47 OAPA 1861",
+        "difficulty": "Application",
+        "stem": "During a confrontation at a Wharton Magna building site, James Ashworth punches Alek Kowalski, causing bruising and a cut above his eye requiring two stitches. James is charged with assault occasioning actual bodily harm (ABH) under s.47 OAPA 1861. What must the prosecution prove as to James's mental state?",
+        "options": {
+          "A": "James must have intended to cause actual bodily harm.",
+          "B": "James must have intended or been reckless as to causing the assault or battery (the underlying contact) — it is not necessary to prove he intended or foresaw that ABH would result.",
+          "C": "James must have been reckless as to causing grievous bodily harm.",
+          "D": "Strict liability applies to s.47 — no mental element need be proved."
+        },
+        "correct": "B",
+        "explanation": "R v Roberts (1971) and confirmed in R v Savage; R v Parmenter [1992] AC 699: for s.47 ABH, the prosecution need only prove the mental element for the underlying assault or battery (intention or recklessness as to unlawful force/apprehension of force). It is not necessary to prove the defendant intended or foresaw the actual bodily harm — the ABH is the consequence that 'occasions' from the assault. Option A imposes a higher mens rea than the law requires; C refers to GBH; D is wrong — s.47 requires mens rea for the assault.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-044",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Grievous bodily harm — s.18 and s.20 OAPA 1861",
+        "difficulty": "Application",
+        "stem": "James Ashworth, during the same incident, produces a wrench and strikes Alek Kowalski on the arm, fracturing it. What distinguishes liability under s.18 from s.20 OAPA 1861?",
+        "options": {
+          "A": "The distinction lies only in the severity of injury — fractures are always s.20, not s.18.",
+          "B": "Section 18 requires proof of specific intent — the defendant must intend to cause GBH or resist/prevent lawful arrest. Section 20 requires only that the defendant intends or is subjectively reckless as to causing some harm (not necessarily GBH).",
+          "C": "Section 18 is a summary offence; s.20 is triable on indictment only.",
+          "D": "Section 20 requires direct physical contact; s.18 can be committed indirectly."
+        },
+        "correct": "B",
+        "explanation": "The critical distinction between ss.18 and 20 OAPA 1861 lies in mens rea. Section 18 (wounding/GBH with intent) requires the defendant to have specifically intended to cause GBH or to resist/prevent lawful arrest — this is a specific intent crime. Section 20 (malicious wounding/GBH) requires only Cunningham recklessness — the defendant must have foreseen that their act might cause some (not necessarily grievous) bodily harm (R v Mowatt [1968]). Both are indictable; the injury type (GBH) may be the same — the distinction is the higher mens rea for s.18.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-045",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Burglary — s.9 Theft Act 1968",
+        "difficulty": "Application",
+        "stem": "Frank Hollis enters Ashworth Developments Ltd's site office as a trespasser intending to steal. He finds nothing of value and leaves. Which offence, if any, has he committed?",
+        "options": {
+          "A": "No offence — theft requires actual appropriation, and Frank took nothing.",
+          "B": "Burglary under s.9(1)(a) Theft Act 1968 — entering a building as a trespasser with intent to commit one of the specified offences (theft, GBH, unlawful damage), which is complete on entry with intent.",
+          "C": "Burglary under s.9(1)(b) only — this requires him to have actually committed theft once inside.",
+          "D": "Attempted theft only."
+        },
+        "correct": "B",
+        "explanation": "Section 9(1)(a) Theft Act 1968 creates burglary by entering a building (or part of a building) as a trespasser with intent to: steal, inflict GBH, or do unlawful damage. The offence is complete on entry with the requisite intent — no further acts are required. Frank entered as a trespasser (without authority or beyond any permission given) intending to steal. The fact he found nothing does not negate the s.9(1)(a) offence. Section 9(1)(b) is the alternative form requiring commission of specified offences once inside. A and D are incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-046",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Defences",
+        "subtopic": "Self-defence — s.76 Criminal Justice and Immigration Act 2008",
+        "difficulty": "Application",
+        "stem": "James Ashworth is attacked by Frank Hollis. In response, James punches Frank with considerable force, causing fractures. James claims self-defence. Which statement correctly reflects the law?",
+        "options": {
+          "A": "A defendant may only use force in self-defence proportionate to the actual threat as assessed objectively at the time.",
+          "B": "Under s.76 CJIA 2008, the force used must not be disproportionate in the circumstances as the defendant believed them to be (subjectively); the defendant is judged on the facts as they genuinely believed, and some latitude is given for decisions made in the heat of the moment.",
+          "C": "Self-defence is only available where the defendant attempts to retreat before using force.",
+          "D": "The defendant must establish self-defence on the balance of probabilities."
+        },
+        "correct": "B",
+        "explanation": "Section 76 CJIA 2008 codifies the common law. The test is: (i) was the force used necessary in the circumstances the defendant genuinely believed to exist? (s.76(3)-(4) — subjective belief, even if mistaken and not reasonably so); (ii) was the force not disproportionate in those circumstances? The standard is whether a person of good character in the same circumstances might have done the same — the jury should not judge too precisely, recognising decisions made in the heat of the moment (Palmer v R [1971]). There is no duty to retreat (though failure to retreat is a factor). The prosecution bears the burden of disproving self-defence. A applies a purely objective test; C imposes a retreat requirement; D reverses the burden.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-047",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Defences",
+        "subtopic": "Intoxication — voluntary and involuntary",
+        "difficulty": "Complex",
+        "stem": "James Ashworth, after drinking heavily at a work event, smashes equipment at Hollowell Engineering, causing £12,000 of damage. He claims he did not form any intention due to his intoxicated state. He is charged with criminal damage under s.1(1) Criminal Damage Act 1971. Is his intoxication defence likely to succeed?",
+        "options": {
+          "A": "Yes — voluntary intoxication is a complete defence to all criminal charges.",
+          "B": "No — criminal damage under s.1(1) is a basic intent offence; voluntary intoxication cannot negate basic intent (recklessness), following DPP v Majewski [1977].",
+          "C": "Yes — intoxication always negates mens rea regardless of the type of offence.",
+          "D": "No — intoxication is never relevant to criminal proceedings."
+        },
+        "correct": "B",
+        "explanation": "DPP v Majewski [1977] AC 443: voluntary intoxication is a defence to specific intent crimes (where the intent cannot be formed) but not to basic intent crimes. Criminal damage under s.1(1) CDA 1971 is a basic intent offence — recklessness suffices. Because James voluntarily got intoxicated, the recklessness in getting into a state where he might cause damage is treated as satisfying the mens rea for basic intent offences. His intoxication cannot negate that recklessness. Option A is wrong — voluntary intoxication is not a complete defence; C is wrong; D is wrong — it is relevant in limited circumstances.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-048",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Defences",
+        "subtopic": "Duress — duress by threats",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis drives a getaway car for a robbery. He claims he did so only because members of a criminal gang threatened to kill his family if he refused. Which statement correctly states the law on duress by threats?",
+        "options": {
+          "A": "Duress is available for offences other than murder and attempted murder. The defendant must have acted under a threat of death or serious injury with no safe avenue of escape.",
+          "B": "Duress is available for all offences including murder, provided the threat is sufficiently serious.",
+          "C": "Duress is a complete defence to all offences where the defendant subjectively believed the threat, regardless of how a reasonable person would have responded.",
+          "D": "Duress applies only where the threat comes from the co-defendant in the same criminal enterprise."
+        },
+        "correct": "A",
+        "explanation": "R v Hasan [2005] UKHL 22 restated the elements of duress by threats: (i) a reasonable belief in a threat of death or serious physical injury; (ii) the threat must be directed at the defendant or a person for whom they are responsible; (iii) the threat must be immediate and operative; (iv) the sober person of reasonable firmness sharing the defendant's characteristics would have responded as the defendant did; (v) the defendant must not have voluntarily exposed themselves to the risk of compulsion. Duress is not available for murder (R v Howe [1987]) or attempted murder (R v Gotts [1992]). Option C removes the objective element; A is wrong; D limits the source of duress incorrectly.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-049",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Sentencing guidelines — purposes of sentencing",
+        "difficulty": "Application",
+        "stem": "Frank Hollis pleads guilty to fraud at the Crown Court. The judge considers the appropriate sentence. Which statement correctly identifies the statutory purposes of sentencing under the Sentencing Act 2020?",
+        "options": {
+          "A": "Under s.57 Sentencing Act 2020, the purposes of sentencing for adults include: punishment of offenders, reduction of crime (including by deterrence), reform and rehabilitation, protection of the public, and making reparation to victims.",
+          "B": "The only purpose of sentencing is punishment; rehabilitation is dealt with separately by the probation service.",
+          "C": "Sentencing purposes vary by court — magistrates must prioritise rehabilitation; Crown Court must prioritise punishment.",
+          "D": "The sentencing judge must select a single sentencing purpose and apply it exclusively."
+        },
+        "correct": "A",
+        "explanation": "Section 57 Sentencing Act 2020 (re-enacting CJA 2003 s.142) provides that any court dealing with an offender must have regard to the following purposes of sentencing: (a) punishment; (b) reduction of crime (including deterrence); (c) reform and rehabilitation; (d) protection of the public; (e) reparation to victims. The judge balances these purposes, guided by sentencing guidelines. There is no hierarchy or exclusive purpose. Options A, C and D are all incorrect.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-050",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Guilty plea reduction",
+        "difficulty": "Application",
+        "stem": "James Ashworth enters a guilty plea at the Plea and Trial Preparation Hearing (PTPH) in the Crown Court. Under the Sentencing Council's guideline on reduction for guilty pleas, what is the maximum reduction in sentence he can expect?",
+        "options": {
+          "A": "One-third reduction if the plea is entered at the PTPH.",
+          "B": "One-quarter reduction regardless of when the plea is entered.",
+          "C": "One-half reduction for a plea at any stage before trial.",
+          "D": "No reduction — guilty pleas are simply mitigating factors at large."
+        },
+        "correct": "A",
+        "explanation": "The Sentencing Council's Reduction in Sentence for a Guilty Plea guideline (2017, updated) provides that the maximum reduction is one-third where the guilty plea is entered at the first stage of proceedings (magistrates' or PTPH in Crown Court). The reduction reduces to one-quarter at the trial date and one-tenth if entered on the day of trial. The PTPH is the equivalent of the first stage for Crown Court purposes. Option B is wrong on the percentage and the fixed nature; C overstates; D is wrong — there is a structured discount scheme.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-051",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Custodial sentences — suspended sentence orders",
+        "difficulty": "Application",
+        "stem": "Frank Hollis is convicted of fraud and the Crown Court judge concludes that the custody threshold is passed and the appropriate custodial term is 15 months. The judge is considering whether to suspend the sentence. Which conditions must be met?",
+        "options": {
+          "A": "Under s.277 Sentencing Act 2020, the court may suspend a custodial sentence of two years or less if it is of the opinion that immediate custody is not required and the suspension is justified; the court must impose requirements as part of a Suspended Sentence Order.",
+          "B": "A custodial sentence of any length may be suspended provided the judge considers it appropriate.",
+          "C": "Only sentences of 12 months or less may be suspended.",
+          "D": "Suspended sentences are only available in the magistrates' court."
+        },
+        "correct": "A",
+        "explanation": "Under s.277 Sentencing Act 2020 (formerly CJA 2003 s.189), a court may suspend a custodial sentence of 2 years or less (in the Crown Court; 6 months or less in the magistrates' court, subject to amendments). The court must be of the opinion that immediate custody is not required (the custody threshold having been crossed). A Suspended Sentence Order must include at least one requirement (community requirement). The offender is subject to the requirement(s) during the operational period; breach may activate the custodial sentence. Option B removes the 2-year cap; C states an outdated 12-month limit; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-052",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Newton hearings",
+        "difficulty": "Application",
+        "stem": "James Ashworth pleads guilty to theft. The prosecution asserts the offence involved sophisticated planning; James denies this. The difference in factual basis materially affects sentence. What is the correct procedure?",
+        "options": {
+          "A": "A Newton hearing takes place — the judge hears evidence on the disputed factual basis and makes findings of fact. The judge sentences on those findings; the defendant retains their guilty plea discount.",
+          "B": "The judge must accept the defendant's factual basis for sentence as they have pleaded guilty.",
+          "C": "The prosecution's version of events always prevails on sentencing where the defendant has entered a guilty plea.",
+          "D": "The judge adjourns for a pre-sentence report and sentences on probation's assessment of the offence."
+        },
+        "correct": "A",
+        "explanation": "Where there is a material dispute about the factual basis of a guilty plea that affects the appropriate sentence, a Newton hearing is held (R v Newton (1982)). The judge hears evidence and makes findings on the balance of probabilities. The defendant retains the guilty plea discount (though this may be reduced if the Newton hearing finds against them). The prosecution does not automatically prevail; the judge determines the facts. A is wrong; C is wrong; D is the wrong procedure for this situation.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-053",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Drug offences — Misuse of Drugs Act 1971",
+        "difficulty": "Application",
+        "stem": "PC Okoro stops and searches Marcus Bridgewater and finds a quantity of cocaine in his pocket. Marcus admits the cocaine is his and says he intended it for personal use. Which offence is he most likely charged with?",
+        "options": {
+          "A": "Simple possession under s.5(2) MDA 1971, as there is no evidence of supply and the defendant admits personal use.",
+          "B": "Possession with intent to supply under s.5(3) MDA 1971, as the amount alone justifies the inference.",
+          "C": "Importation under s.3 MDA 1971.",
+          "D": "Producing a controlled drug under s.4(2) MDA 1971."
+        },
+        "correct": "A",
+        "explanation": "Section 5(2) MDA 1971 creates the offence of unlawful possession of a controlled drug. Where the defendant admits personal use and there is no evidence of supply (quantity, packaging, paraphernalia, cash, phones suggesting dealing), a charge of simple possession under s.5(2) is appropriate. The CPS charging standard considers quantity, context and evidence before charging s.5(3) PWITS. A overreads the evidence; C and D do not reflect the facts.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-054",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Money laundering — Proceeds of Crime Act 2002",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis receives payment for construction work into his business account. DCI Thorn believes the payments are the proceeds of fraud committed by James Ashworth. Frank claims he did not know or suspect this. Which element of the principal money laundering offence under s.327 POCA 2002 is likely to be most contested?",
+        "options": {
+          "A": "Whether Frank knew or suspected that the property was criminal property — the mens rea requirement under s.340 POCA 2002.",
+          "B": "Whether Frank 'converted' criminal property — this is a strict liability element.",
+          "C": "Whether James's fraud is a predicate offence capable of generating 'criminal property'.",
+          "D": "Whether the SRA Code requires Frank to report the transaction."
+        },
+        "correct": "A",
+        "explanation": "Section 327 POCA 2002 prohibits concealing, disguising, converting, transferring or removing criminal property. Section 340 defines criminal property as property constituting a benefit from criminal conduct where the alleged offender knows or suspects this. The critical contested element on these facts is Frank's knowledge or suspicion — did he know or suspect the payments derived from fraud? This is a subjective test. Option B incorrectly applies strict liability; C is less contested (James's fraud generates criminal property); D relates to separate regulatory obligations, not criminal liability.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-055",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Evidence",
+        "subtopic": "Disclosure — prosecution duty",
+        "difficulty": "Application",
+        "stem": "James Ashworth is charged with fraud. His solicitor is aware that the police have unused material including a witness statement supporting James's version of events. The prosecution has not disclosed it. What is the prosecution's disclosure obligation?",
+        "options": {
+          "A": "Under the Criminal Procedure and Investigations Act 1996, the prosecution must disclose initial unused material that might reasonably be considered capable of undermining the prosecution case or assisting the accused's case (s.3 CPIA primary disclosure); after the defence statement, further disclosure of material satisfying the same test follows.",
+          "B": "The prosecution has no obligation to disclose unused material — only evidence it intends to use at trial must be provided.",
+          "C": "Disclosure is entirely at the discretion of the investigating officer.",
+          "D": "The prosecution must disclose all unused material regardless of whether it assists the defence."
+        },
+        "correct": "A",
+        "explanation": "The CPIA 1996 s.3 requires the prosecution to disclose (or give notice that there is nothing to disclose) unused material that might reasonably be considered capable of undermining the prosecution case or of assisting the case for the accused. After the accused serves a defence statement, s.7A requires further disclosure of material satisfying the same test. The AG's Guidelines and the Code of Practice elaborate the disclosure obligation. A is wrong — unused material may include exculpatory evidence; C is wrong; D overstates — not all unused material need be disclosed, only that which meets the test.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-056",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Evidence",
+        "subtopic": "Defendant competence and compellability",
+        "difficulty": "Application",
+        "stem": "James Ashworth is on trial for fraud. He decides not to give evidence. The judge directs the jury. Which statement is correct regarding the defendant's failure to give evidence?",
+        "options": {
+          "A": "Under s.35 CJPOA 1994, the judge must warn the jury that they may draw such inferences as appear proper from the defendant's failure to testify, provided the defendant was made aware that this inference may be drawn; however, the inference alone cannot prove guilt.",
+          "B": "The jury must be directed that they may draw no inference whatsoever from his failure to testify.",
+          "C": "The defendant's failure to testify automatically leads to a directed acquittal.",
+          "D": "Failure to testify is treated as an admission of guilt."
+        },
+        "correct": "A",
+        "explanation": "Section 35 CJPOA 1994: where a defendant does not give evidence, the court or jury may draw such inferences as appear proper. The defendant must first be warned (by the judge under s.35(2)) that the stage has been reached at which they may give evidence and that inferences may be drawn from failure to do so. The inference is a permissible inference, not a mandatory one, and cannot alone prove guilt (s.38(3) CJPOA). Option B reflects the pre-1994 position; C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-057",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Appeals",
+        "subtopic": "Appeals from Crown Court — Court of Appeal",
+        "difficulty": "Application",
+        "stem": "James Ashworth is convicted of fraud after a Crown Court trial. He seeks to appeal his conviction. Which ground of appeal is most likely to succeed?",
+        "options": {
+          "A": "That the conviction is unsafe — e.g. there was a material irregularity in the trial, fresh evidence emerges, or the judge misdirected the jury on an important point of law.",
+          "B": "That the jury returned an unpopular verdict which the public disagrees with.",
+          "C": "That James did not personally like the judge.",
+          "D": "That the prosecution used witnesses James found credible but did not believe."
+        },
+        "correct": "A",
+        "explanation": "Section 2(1) Criminal Appeal Act 1968: the Court of Appeal shall allow an appeal against conviction if it thinks the conviction is 'unsafe'. Grounds include legal misdirection, material irregularity, fresh evidence (under s.23) that may have affected the outcome, or failure to disclose. The Court of Appeal is not a rehearing of the facts. Options A, C and D do not identify legally recognised grounds. 'Unsafe' is assessed objectively by the Court; the jury's assessment of credibility is generally final.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-058",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Conspiracy — s.1 Criminal Law Act 1977",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis and James Ashworth agree to defraud Hollowell Engineering by submitting false invoices. Neither has yet taken any further step. Are they guilty of conspiracy?",
+        "options": {
+          "A": "Yes — under s.1 Criminal Law Act 1977, conspiracy is complete when two or more persons agree to pursue a course of conduct that, if carried out in accordance with their intentions, will necessarily amount to or involve the commission of a criminal offence.",
+          "B": "No — conspiracy requires an overt act in furtherance of the agreement.",
+          "C": "No — fraud is not an offence capable of being the subject of a statutory conspiracy.",
+          "D": "Yes, but only if one of them is the ringleader with a previous criminal record."
+        },
+        "correct": "A",
+        "explanation": "Section 1 Criminal Law Act 1977 creates statutory conspiracy: it is complete on agreement, without any further act. The conspiracy is to pursue a course of conduct that will necessarily amount to an offence (here, fraud under the Fraud Act 2006). No overt act is required (unlike US federal conspiracy law). Both parties must intend the agreement to be carried out. Option B incorrectly imports an overt act requirement; C is wrong — fraud is a valid subject matter for conspiracy; D adds a condition not found in s.1.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-059",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Sexual offences — consent and s.1 SOA 2003",
+        "difficulty": "Complex",
+        "stem": "For an offence of rape under s.1 Sexual Offences Act 2003, which statement best describes the element of consent?",
+        "options": {
+          "A": "Under s.74 SOA 2003, a person consents if they agree by choice and have the freedom and capacity to make that choice. The defendant commits rape if they did not reasonably believe the complainant consented — assessed in light of all the circumstances including steps taken to ascertain consent.",
+          "B": "Consent means active verbal agreement; silence implies consent.",
+          "C": "Consent is a strict liability element; the defendant's belief in consent is irrelevant.",
+          "D": "Consent can be inferred from the parties' prior sexual relationship."
+        },
+        "correct": "A",
+        "explanation": "Section 74 SOA 2003 defines consent as agreement by choice where the person has the freedom and capacity to make that choice. Section 1(1)(c) provides that the defendant must not reasonably believe the complainant consents — this is an objective test applied in light of all circumstances, including any steps taken (s.1(2)). The evidential (ss.75-76) and conclusive (s.76) presumptions assist. Option B is wrong — active verbal agreement is not required but silence does not imply consent; C is wrong — reasonable belief is the defendant's mens rea; D is wrong — previous relationships do not imply consent.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-060",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Defence solicitor — duties to court and client in criminal proceedings",
+        "difficulty": "Application",
+        "stem": "A solicitor represents James Ashworth at Wharton Crown Court. During a conference, James tells the solicitor that he intends to give false evidence that he was in another country at the time of the alleged fraud. James insists the solicitor continues to represent him. What must the solicitor do?",
+        "options": {
+          "A": "Advise James strongly not to give false evidence; if James insists, the solicitor must withdraw from the case. The solicitor cannot put forward a case they know to be false (SRA Code para 1.4, 2.4 and the duty not to mislead the court).",
+          "B": "Continue to represent James as instructed, putting his fabricated alibi to the jury as directed.",
+          "C": "Report James to the police for proposed perjury.",
+          "D": "Continue to represent James but refuse only to question the prosecution witnesses on the false alibi."
+        },
+        "correct": "A",
+        "explanation": "SRA Code of Conduct 2019 paragraph 1.4 prohibits a solicitor from knowingly misleading the court; paragraph 2.4 requires the solicitor not to tamper with evidence or assist a client to do so. A solicitor who knows the client intends to commit perjury cannot put forward the false evidence. The solicitor must first advise the client not to proceed; if the client insists, the solicitor must withdraw. The solicitor cannot simply pick and choose which elements of the false case to advance (D is wrong). Option C — reporting to police — is not required (confidentiality may apply and perjury has not yet been committed), and is not the primary professional response. Option B involves the solicitor in misleading the court.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-061",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Manslaughter — gross negligence",
+        "difficulty": "Complex",
+        "stem": "Dr. Felix Unwin, a GP in Wharton Magna, fails to diagnose a patient's sepsis following a series of clinical errors. The patient dies. The CPS considers charging Dr Unwin with gross negligence manslaughter. Which elements must the prosecution prove?",
+        "options": {
+          "A": "That Dr Unwin owed a duty of care, breached it, and the breach caused death — identical to the civil negligence test.",
+          "B": "That Dr Unwin intended to harm the patient or was reckless as to death.",
+          "C": "That Dr Unwin owed a duty of care; breached that duty; the breach caused the death; and the breach was so grossly negligent that it should be judged criminal, assessed by whether the conduct fell so far below the standard of a reasonably competent doctor that it deserves to be categorised as criminal (R v Adomako [1994]).",
+          "D": "That Dr Unwin's conduct amounted to unlawful act manslaughter."
+        },
+        "correct": "C",
+        "explanation": "R v Adomako [1994] AC 212 (HL) established the gross negligence manslaughter test: (i) duty of care (often straightforward in doctor-patient); (ii) breach of that duty; (iii) breach caused death; (iv) the breach was so grossly negligent that, having regard to the risk of death involved, the jury consider it criminal. The final limb requires the jury to evaluate whether the conduct was truly exceptional rather than merely negligent. Intention or Cunningham recklessness are not required (distinguishing from unlawful act manslaughter). Civil negligence (A) does not require the criminal threshold; C and D misidentify the type of manslaughter.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-062",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Unlawful act manslaughter",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis punches Clive Dring once in the face in a short altercation. Clive, unknown to Frank, has a pre-existing heart condition; the punch triggers a fatal cardiac arrest. Frank is charged with unlawful act manslaughter. Which statement best describes the applicable law?",
+        "options": {
+          "A": "Frank can only be convicted if he foresaw or intended Clive's death.",
+          "B": "Frank is not liable because Clive's pre-existing condition was an unforeseeable intervening act breaking the chain of causation.",
+          "C": "Under the unlawful act manslaughter principle (Church [1966]; Newbury and Jones [1977]), Frank is guilty if he committed an intentional unlawful act (the punch — assault/battery) which was objectively dangerous (sober reasonable person would recognise risk of some harm), which caused death — regardless of Clive's pre-existing condition (thin skull rule).",
+          "D": "Frank must have intended to commit the battery and known of Clive's vulnerability."
+        },
+        "correct": "C",
+        "explanation": "R v Church [1966] and R v Newbury and Jones [1977] establish unlawful act manslaughter: (i) an intentional unlawful act (here, battery); (ii) objectively dangerous — sober reasonable person would recognise the act creates risk of some physical harm to another (not necessarily serious); (iii) the act caused death. The defendant need not foresee any harm; the victim's vulnerability (Blaue v R [1975] — thin skull/egg-shell skull) means causation is not broken by the pre-existing condition. Option A requires foresight, which is not required; C incorrectly applies intervening act analysis; D adds a knowledge requirement not in the law.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-063",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Robbery — s.8 Theft Act 1968",
+        "difficulty": "Application",
+        "stem": "Frank Hollis grabs Priya Mehta's handbag from her shoulder, pushing her to the ground in the process. He runs off with the bag. Is this robbery or theft?",
+        "options": {
+          "A": "Theft only — the force was incidental and not used to overcome resistance.",
+          "B": "Robbery requires the use of a weapon; a push is insufficient.",
+          "C": "Robbery under s.8 Theft Act 1968 — theft with force or the threat of force, on the person, immediately before or at the time of stealing, in order to steal. Pushing her to the ground is force used immediately before or at the time of stealing.",
+          "D": "This is assault with intent to steal, not robbery."
+        },
+        "correct": "C",
+        "explanation": "Section 8 Theft Act 1968: a person is guilty of robbery if they steal and immediately before or at the time of doing so, and in order to do so, they use force on any person or puts or seeks to put any person in fear of being then and there subjected to force. Physical force of any degree suffices (R v Dawson and James [1976] — nudging the victim was sufficient). Pushing Priya constitutes force used at the time of stealing in order to steal. No weapon is required. Option A narrowly mischaracterises the s.8 test; C adds a weapon requirement; D is not a recognised offence category.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-064",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Criminal damage — s.1 CDA 1971",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater spray-paints graffiti on Wharton Borough Council's wall. The graffiti cannot be removed by washing and requires repainting at a cost of £900. Marcus argues the wall has not been 'damaged'. Is his argument correct?",
+        "options": {
+          "A": "Yes — paint can be washed off; the structure of the wall is undamaged.",
+          "B": "Yes — the cost must exceed £5,000 for s.1 criminal damage to apply.",
+          "C": "No — damage under s.1 CDA 1971 is interpreted broadly; any impairment of value or utility, or any change that requires time and money to remedy, can constitute damage. The need for repainting at cost to the council satisfies the damage element (Morphitis v Salmon [1990]; Roe v Kingerlee [1986]).",
+          "D": "No — but the offence requires Marcus to have intended the damage to be permanent."
+        },
+        "correct": "C",
+        "explanation": "Roe v Kingerlee [1986] held that mud smeared on a police cell wall constituting damage even though it could be washed off — damage is to be construed widely. Morphitis v Salmon [1990] clarified that damage includes impairment of value or usefulness. Graffiti requiring repainting at cost clearly constitutes damage. There is no minimum financial threshold under s.1(1) (though value is relevant to triability). Permanence is not required — any impairment suffices. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-065",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Handling stolen goods — s.22 Theft Act 1968",
+        "difficulty": "Application",
+        "stem": "Frank Hollis receives a stolen laptop from James Ashworth, knowing it to be stolen, and stores it at his warehouse. Which element of handling stolen goods under s.22 Theft Act 1968 must the prosecution prove as to knowledge?",
+        "options": {
+          "A": "The prosecution must prove Frank was certain the laptop was stolen.",
+          "B": "Handling is a strict liability offence — knowledge is irrelevant.",
+          "C": "The prosecution must prove Frank knew or believed the goods to be stolen — suspicion alone is insufficient, but knowledge or belief (including wilful blindness) suffices.",
+          "D": "The prosecution must prove Frank knew the identity of the original thief."
+        },
+        "correct": "C",
+        "explanation": "Section 22 Theft Act 1968 requires that the defendant handles stolen goods 'knowing or believing them to be stolen'. The House of Lords in R v Hall (1985) confirmed that 'belief' requires the defendant to be virtually certain (not merely suspicious) that the goods are stolen, but 'wilful blindness' — deliberately shutting one's mind to the obvious — can equate to knowledge or belief. Suspicion alone is insufficient. Certainty is not the test (A is too high); C is wrong — mens rea is required; D adds an unnecessary element.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-066",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Defences",
+        "subtopic": "Diminished responsibility — s.2 Homicide Act 1957 (as amended)",
+        "difficulty": "Complex",
+        "stem": "James Ashworth kills Frank Hollis. He raises diminished responsibility as a partial defence to murder. Which elements must he establish under s.2 Homicide Act 1957 as amended by the Coroners and Justice Act 2009?",
+        "options": {
+          "A": "That he suffered from any mental disorder recognised by psychiatry and this caused him to act as he did.",
+          "B": "That he did not know the nature or quality of his act, or did not know it was wrong — the M'Naghten test.",
+          "C": "That he suffered from an abnormality of mental functioning arising from a recognised medical condition; that this substantially impaired his ability to understand the nature of his conduct, form a rational judgment, or exercise self-control; and that the abnormality provides an explanation for the killing.",
+          "D": "That he acted under an irresistible impulse caused by a recognised medical condition."
+        },
+        "correct": "C",
+        "explanation": "Section 2 Homicide Act 1957 as amended by the Coroners and Justice Act 2009 requires: (i) an abnormality of mental functioning; (ii) arising from a recognised medical condition; (iii) which substantially impaired the defendant's ability to understand the nature of their conduct, form a rational judgment, or exercise self-control; (iv) the abnormality provides an explanation for the act (i.e. is a significant cause). The defence is for the defendant to prove on the balance of probabilities. If successful, reduces murder to manslaughter. Option A is too broad; C describes the insanity defence; D was part of the old law but the irresistible impulse test was abolished by the 2009 Act amendments.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-067",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Defences",
+        "subtopic": "Loss of control — s.54 Coroners and Justice Act 2009",
+        "difficulty": "Complex",
+        "stem": "Victoria Ashworth kills her husband James Ashworth after a long history of domestic abuse. She raises loss of control as a partial defence. Which conditions must be satisfied under ss.54-55 Coroners and Justice Act 2009?",
+        "options": {
+          "A": "Victoria must have been provoked by the deceased's immediate act at the moment of killing.",
+          "B": "The defence is unavailable where the killing was not spontaneous — a planned or considered response to abuse cannot found loss of control.",
+          "C": "Victoria must have lost self-control at the time of the killing; the loss of control must have been attributable to a qualifying trigger (fear of serious violence from the deceased, or circumstances of an extremely grave character giving Victoria a…",
+          "D": "The defence requires medical evidence of a recognised mental disorder."
+        },
+        "correct": "C",
+        "explanation": "Sections 54-55 CJA 2009 replaced provocation. The requirements are: (i) the defendant lost self-control; (ii) attributable to a qualifying trigger under s.55 — fear of serious violence from V (s.55(3)) or circumstances of an extremely grave character giving the defendant a justifiable sense of being seriously wronged (s.55(4)); (iii) a person of D's sex and age with normal tolerance/self-restraint in the circumstances might have acted similarly. Unlike the old provocation, a time delay does not automatically bar the defence (s.54(2)). Option A imports the old 'immediate act' requirement; C incorrectly reinstates immediacy as a bar; D conflates with diminished responsibility.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-068",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Stalking — s.4A Protection from Harassment Act 1997",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater repeatedly follows Diana Pelletier, sends her dozens of unwanted messages each day, monitors her social media, and waits outside her home. Diana is in a state of fear. Which offence best describes this conduct?",
+        "options": {
+          "A": "Common assault under s.39 Criminal Justice Act 1988.",
+          "B": "Harassment under s.2 Protection from Harassment Act 1997 only — stalking is not a distinct offence.",
+          "C": "Stalking involving fear of violence or serious alarm/distress under s.4A Protection from Harassment Act 1997, which includes a course of conduct amounting to stalking that causes the victim to fear violence will be used, or causes serious alarm or distress with a substantial adverse effect on daily activities.",
+          "D": "Breach of a community protection notice."
+        },
+        "correct": "C",
+        "explanation": "Section 4A PHA 1997 (inserted by Protection of Freedoms Act 2012) creates the aggravated stalking offence where a course of conduct amounts to stalking (the behaviours listed in s.2A(3) include following, contacting, monitoring online activity, watching/spying) and either causes the victim to fear violence will be used or causes serious alarm/distress with substantial adverse effect on their usual activities. Marcus's conduct falls squarely within s.4A. Option B is wrong — stalking is a distinct offence; A requires apprehension of immediate unlawful force; D is a civil mechanism.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-069",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Community orders — requirements",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater is convicted of criminal damage (community/low culpability). The Crown Court imposes a community order. Which statement is correct about the requirements that may be attached?",
+        "options": {
+          "A": "A community order must always include unpaid work.",
+          "B": "Community orders are only available in magistrates' courts.",
+          "C": "A community order may include one or more requirements from the menu in the Sentencing Act 2020, including unpaid work, rehabilitation activity, programme, prohibited activity, curfew, exclusion, residence, mental health treatment, drug rehabilitation, alcohol treatment, attendance centre, and foreign travel prohibition requirements.",
+          "D": "A community order automatically includes a 12-month supervision period with no other requirements permitted."
+        },
+        "correct": "C",
+        "explanation": "The Sentencing Act 2020 (formerly CJA 2003 ss.177-180) provides that a community order must include one or more of the listed requirements. The requirements menu is extensive (ss.200-223 SA 2020) and includes unpaid work (40-300 hours), rehabilitation activity, curfew, exclusion, programme, prohibited activity, etc. The requirements must be appropriate given the seriousness of the offence and the defendant's circumstances. Crown Courts and magistrates' courts can both impose community orders. Option A overstates; C is wrong; D is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-070",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Confiscation — POCA 2002",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis is convicted of fraud by false representation. The Crown applies for a confiscation order under the Proceeds of Crime Act 2002. The court finds that Frank has benefited from criminal conduct and his available assets are less than his benefit figure. What amount is confiscated?",
+        "options": {
+          "A": "The full benefit figure, even if Frank does not have sufficient assets to satisfy it.",
+          "B": "Only assets directly traceable to the specific fraud charged.",
+          "C": "The available amount — the lesser of the benefit figure and the defendant's realisable assets at the time of making the order.",
+          "D": "A nominal amount, with the court prioritising rehabilitation."
+        },
+        "correct": "C",
+        "explanation": "POCA 2002 s.7 provides that the confiscation order is the lesser of: (i) the defendant's benefit figure; or (ii) the 'available amount' — the value of the defendant's realisable assets. Where the available amount is less than the benefit, the order is for the available amount. If the defendant later acquires assets, the prosecution may apply to increase the order (s.22). Option A would mean ordering confiscation of assets the defendant does not have; C introduces a direct tracing requirement not in POCA; D is wrong — confiscation is not limited by rehabilitation considerations.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-071",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Blackmail — s.21 Theft Act 1968",
+        "difficulty": "Application",
+        "stem": "James Ashworth sends a letter to Gerald Crane demanding £50,000 or he will disclose to the press that Crane & Pelletier has been falsely inflating client bills. If the disclosure is true, can James still be guilty of blackmail?",
+        "options": {
+          "A": "No — blackmail requires the threat to disclose something false or illegal.",
+          "B": "No — disclosure of a true fact cannot constitute a menace under s.21.",
+          "C": "Yes — A person is guilty of blackmail if they make an unwarranted demand with menaces with a view to gain.",
+          "D": "Yes, but only if James can show he is owed the £50,000 by Crane & Pelletier."
+        },
+        "correct": "C",
+        "explanation": "Section 21 Theft Act 1968: blackmail is a demand with menaces which is unwarranted. The demand is warranted only if the defendant believes they have reasonable grounds and that the use of menaces is a proper means of reinforcing it. Even a threat to disclose true information can constitute menaces (Thorne v Motor Trade Association [1937]). The threat to expose true facts does not make the demand 'warranted' — demanding money in exchange for silence, even about true facts, is not a proper means of reinforcing any claim. Option A and C incorrectly limit menaces to threats about false facts; D focuses on a separate issue (entitlement) that may affect the 'warranted' analysis but does not determine the outcome on these facts.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-072",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "PACE 1984",
+        "subtopic": "Identification evidence — PACE Code D",
+        "difficulty": "Application",
+        "stem": "DCI Thorn wishes to hold a video identification procedure (VIPER) in which a witness will attempt to identify Frank Hollis from a line of images. Frank refuses to participate. What are the consequences of his refusal under Code D?",
+        "options": {
+          "A": "The police cannot proceed with any identification procedure if the suspect refuses.",
+          "B": "Refusal to participate in a VIPER automatically leads to acquittal as the prosecution cannot establish identity.",
+          "C": "Under Code D paragraph 3.21, the police may proceed with an identification procedure using a covert image of Frank or a still from CCTV; the jury may be told of his refusal and invited to draw such inferences as appear proper.",
+          "D": "The police must obtain a court order compelling Frank to participate."
+        },
+        "correct": "C",
+        "explanation": "PACE Code D provides that where a suspect refuses to participate in a video identification procedure, the police may proceed using available images (covert photograph, CCTV still) and show the witness an identification procedure constructed from those images. The jury may be informed of the refusal and invited to draw adverse inferences. Option A would allow suspects to defeat identification evidence by simply refusing; C is wrong — the case can proceed on other evidence; D is not the procedure under PACE.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-073",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Inchoate offences — attempt",
+        "difficulty": "Complex",
+        "stem": "James Ashworth plans to forge a company cheque to defraud Ashworth Developments Ltd. He has printed a forged cheque and is walking to the bank to present it when PC Okoro arrests him. Has James committed an attempt to commit fraud?",
+        "options": {
+          "A": "No — James has not yet taken any action at the bank; preparation is not sufficient.",
+          "B": "Yes — any intent to commit fraud, however early the stage, is sufficient for attempt.",
+          "C": "Yes — under s.1 Criminal Attempts Act 1981, a person is guilty of attempt if they do an act which is more than merely preparatory to the commission of the offence, with intent to commit it. Printing the forged cheque and setting out for the bank to present it is arguably more than merely preparatory.",
+          "D": "No — attempt to commit fraud by false representation is not a recognised offence."
+        },
+        "correct": "C",
+        "explanation": "Section 1 Criminal Attempts Act 1981: the defendant must (i) intend to commit the full offence; (ii) do an act more than merely preparatory to it. The 'more than merely preparatory' test is a question of fact for the jury. R v Geddes [1996] and R v Jones [1990] illustrate the boundary. Printing the forged instrument and physically travelling to the bank to present it takes the conduct beyond mere preparation — it is an act in the execution of the offence. Option A overly restricts attempt to acts at the very point of commission; C extends attempt too broadly; D is wrong — fraud by false representation can be attempted.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-074",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Public order — s.4 and s.5 Public Order Act 1986",
+        "difficulty": "Application",
+        "stem": "During a heated confrontation at a Wharton Magna market, Marcus Bridgewater shouts threatening words at Alek Kowalski, causing Alek to fear immediate unlawful violence. Which offence does this most precisely describe?",
+        "options": {
+          "A": "Section 5 Public Order Act 1986 — using threatening or abusive words within the hearing of a person likely to be caused harassment, alarm or distress.",
+          "B": "Section 4A Public Order Act 1986 — causing intentional harassment, alarm or distress.",
+          "C": "Section 4 Public Order Act 1986 — using threatening, abusive or insulting words towards another with intent to cause them to believe immediate unlawful violence will be used, or to provoke immediate unlawful violence.",
+          "D": "Common assault under s.39 CJA 1988."
+        },
+        "correct": "C",
+        "explanation": "Section 4 POA 1986 requires: (i) use of threatening, abusive or insulting words/behaviour (or distribution of written material); (ii) either with intent to cause the other to believe that immediate unlawful violence will be used against them or another, or to provoke immediate unlawful violence. On these facts, Alek fears immediate unlawful violence — this fits s.4. Section 5 (A) covers less serious conduct not causing fear of violence; s.4A (C) requires intentional harassment/alarm/distress; D requires actual apprehension of immediate physical contact.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-075",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Computer Misuse Act 1990 — unauthorised access",
+        "difficulty": "Application",
+        "stem": "Frank Hollis accesses Crane & Pelletier's computer system without authorisation to obtain client fee information. Which offence does this engage under the Computer Misuse Act 1990?",
+        "options": {
+          "A": "No offence under the CMA 1990 — accessing information held on another's computer is only unlawful if data is deleted.",
+          "B": "The Computer Misuse Act 1990 does not apply to accessing a firm's computer network.",
+          "C": "Section 3 CMA 1990 — unauthorised modification of computer material.",
+          "D": "Section 1 CMA 1990 — unauthorised access to computer material: the defendant knowingly causes a computer to perform a function to secure access to a program or data, without authorisation and knowing they are not authorised."
+        },
+        "correct": "D",
+        "explanation": "Section 1 CMA 1990 creates the basic offence of unauthorised access: (i) the defendant causes a computer to perform a function; (ii) to secure access to any program or data; (iii) access is unauthorised; (iv) the defendant knows at the time they are not authorised. Frank accessing Crane & Pelletier's system without permission satisfies all elements. No modification or deletion is needed. Option A is wrong; C applies to unauthorised modification; D is wrong — the CMA applies to computer networks.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-076",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Sending to Crown Court — s.51 Crime and Disorder Act 1998",
+        "difficulty": "Application",
+        "stem": "James Ashworth is charged with fraud on indictment (indictable-only offence). He appears at Wharton Magistrates' Court. What must the magistrates do?",
+        "options": {
+          "A": "The magistrates must determine allocation and, if appropriate, try the case summarily.",
+          "B": "The magistrates must accept jurisdiction and sentence if the defendant pleads guilty.",
+          "C": "The magistrates must hear a committal proceeding and the defendant may make a submission of no case to answer.",
+          "D": "Under s.51 Crime and Disorder Act 1998, the magistrates' court must send the case immediately to the Crown Court for trial — there is no allocation hearing for indictable-only offences."
+        },
+        "correct": "D",
+        "explanation": "Section 51 CDA 1998 (as amended) requires that where an adult is charged with an indictable-only offence, the magistrates' court must send them to the Crown Court immediately for trial (and any related either-way or summary offences). There is no allocation hearing or committal proceedings for indictable-only offences. Committal proceedings were abolished for adults by the Crime and Disorder Act 1998. Option A describes the allocation procedure for either-way offences; C describes the abolished committal procedure; D is wrong — magistrates have no jurisdiction to sentence for indictable-only offences.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-077",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Abuse of process",
+        "difficulty": "Complex",
+        "stem": "James Ashworth's trial for fraud has been delayed for four years due to prosecution failures. He applies for a stay of proceedings as an abuse of process. On what basis may the court grant a stay?",
+        "options": {
+          "A": "The court may stay proceedings only where the prosecution has acted in bad faith.",
+          "B": "The four-year delay automatically entitles the defendant to a stay.",
+          "C": "A stay of proceedings is only available at the Court of Appeal.",
+          "D": "The court may stay proceedings as an abuse of process where: (i) it would be impossible to give the defendant a fair trial (e.g. due to irretrievable prejudice from delay); or (ii) it would be contrary to the public interest in the integrity of the criminal justice system to try the defendant in the particular circumstances (Beckford [1996]; Attorney General's Reference No 1 of 1990 [1992])."
+        },
+        "correct": "D",
+        "explanation": "The court's power to stay proceedings as an abuse of process derives from its inherent jurisdiction (R v Horseferry Road Magistrates' Court ex p Bennett [1994]). The two established categories are: (i) where a fair trial is impossible — e.g. irretrievable prejudice to the defendant from delay; or (ii) where it would be an affront to public conscience to try the defendant — e.g. entrapment or executive wrongdoing. Delay alone (without prejudice to a fair trial) does not automatically justify a stay (Attorney General's Reference No 1 of 1990 [1992]). Options A and D mistate the test; C is wrong on the forum.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-078",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Evidence",
+        "subtopic": "Exclusion of evidence — s.78 PACE",
+        "difficulty": "Application",
+        "stem": "Evidence against Frank Hollis was obtained during a search that DCI Thorn accepts was conducted without the required inspector's authorisation under s.18 PACE. Frank's solicitor applies to exclude the evidence under s.78 PACE 1984. What must the court consider?",
+        "options": {
+          "A": "Evidence obtained in breach of PACE is automatically excluded.",
+          "B": "The court must exclude evidence only if the breach was intentional.",
+          "C": "Section 78 only applies to confession evidence.",
+          "D": "Under s.78 PACE 1984, the court may exclude prosecution evidence if, having regard to all the circumstances including the circumstances in which the evidence was obtained, its admission would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it. The court exercises discretion."
+        },
+        "correct": "D",
+        "explanation": "Section 78 PACE 1984 gives the court a discretionary power to exclude prosecution evidence where its admission would have such an adverse effect on the fairness of the proceedings that it ought not to be admitted. The court considers: whether there has been a breach of PACE or Codes of Practice, the seriousness of the breach, whether it was deliberate or negligent, and the overall impact on fairness. Automatic exclusion does not follow from a breach (R v Khan [1997]). Option A imposes automatic exclusion; C limits s.78 to confessions (s.76 covers confessions; s.78 is broader); D requires intentionality, which is not the test.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-079",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Victim personal statements",
+        "difficulty": "Application",
+        "stem": "PC Okoro takes a victim personal statement from Priya Mehta following the robbery by Frank Hollis. What is the status of a victim personal statement in sentencing?",
+        "options": {
+          "A": "Victim personal statements are binding on the sentencing judge — the victim's recommended sentence must be followed.",
+          "B": "A victim personal statement may only be presented if the defendant consents.",
+          "C": "Victim personal statements are inadmissible at sentencing — only prosecution counsel may address the court on impact.",
+          "D": "A victim personal statement allows the victim to explain in their own words the impact of the offence on them. The sentencing court takes it into account as part of the circumstances of the offence; however, the judge is not bound by any sentencing recommendation in it."
+        },
+        "correct": "D",
+        "explanation": "Victim personal statements are part of the Victims' Code and criminal procedure (Criminal Practice Direction V). They allow the victim to describe the impact of the offence. The sentencing judge considers the statement as part of the overall picture but is not bound by any sentencing recommendation contained in it — sentencing remains the exclusive function of the court. They may be read aloud or presented in writing. Option A wrongly binds the judge; C is wrong — victim personal statements are expressly used at sentencing; D requires no consent from the defendant.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-080",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Prosecution advocate — duties to court",
+        "difficulty": "Application",
+        "stem": "A Crown Prosecution Service advocate is prosecuting Frank Hollis for fraud. During the trial, new evidence emerges strongly suggesting Frank is innocent. What is the advocate's primary obligation?",
+        "options": {
+          "A": "The advocate must continue the prosecution as instructed regardless of the new evidence.",
+          "B": "The advocate must seek the judge's direction in private before deciding what to do.",
+          "C": "The advocate must immediately disclose the evidence to the defence and then make a closing speech as normal.",
+          "D": "A prosecution advocate's primary duty is to the court and to justice, not to secure a conviction. On receiving material evidence that the defendant may be innocent, the advocate must refer the matter to the CPS who may discontinue proceedings; the advocate cannot suppress the evidence."
+        },
+        "correct": "D",
+        "explanation": "The prosecution advocate owes a primary duty to the court and to justice (R v Banks [1916]; Bar Standards Board Code rC5; SRA Code for solicitors). The role is to present the case fairly, not to obtain a conviction at all costs. Where new evidence significantly undermines the prosecution case or suggests the defendant's innocence, the advocate must bring this to the CPS's attention and, if necessary, notify the court. Suppression would be professionally improper and potentially a contempt. Option A ignores the duty to the court; C is partial; D is not the appropriate response.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-081",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Bribery — Bribery Act 2010",
+        "difficulty": "Application",
+        "stem": "James Ashworth, acting as an agent for Ashworth Developments Ltd, receives a payment from a subcontractor to ensure they are awarded contracts. Which offence under the Bribery Act 2010 is most relevant to the company?",
+        "options": {
+          "A": "The company is automatically immune because James acted in his personal capacity.",
+          "B": "Section 2 Bribery Act 2010 — offences relating to being bribed, applicable to companies.",
+          "C": "Only James can be prosecuted — companies have no criminal liability under the Bribery Act 2010.",
+          "D": "Section 7 Bribery Act 2010 — failure of a commercial organisation to prevent bribery. The company commits this offence if a person associated with it bribes another intending to obtain or retain business for the company, unless the company can prove it had adequate procedures to prevent bribery."
+        },
+        "correct": "D",
+        "explanation": "Section 7 Bribery Act 2010 creates a strict liability corporate offence: where a person associated with a commercial organisation bribes another person intending to obtain or retain business or a business advantage for the organisation, the organisation commits an offence. The only defence is that the organisation had adequate procedures in place to prevent bribery (s.7(2)). James as an associated person (agent) bribing the subcontractor for the company's benefit engages s.7. Section 2 applies to the passive bribery offence (being bribed) for natural persons; C is wrong — corporate liability is the point of s.7; A is wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-082",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Preparatory hearings — complex fraud",
+        "difficulty": "Complex",
+        "stem": "James Ashworth is charged with a complex fraud involving multiple defendants and extensive documentary evidence. The Crown Court judge orders a preparatory hearing under the Criminal Procedure and Investigations Act 1996 Part III. What is the primary purpose of such a hearing?",
+        "options": {
+          "A": "To enter a guilty plea in advance of the trial date.",
+          "B": "To allow the prosecution to test the defence's evidence before trial.",
+          "C": "To replace the PTPH and bail hearings in all fraud cases.",
+          "D": "To identify the key issues in the case in advance, to assist the jury's understanding of complex issues, and to facilitate the management of the trial — the judge may give binding rulings on questions of law."
+        },
+        "correct": "D",
+        "explanation": "A preparatory hearing under CPIA 1996 Part III (or the Criminal Justice Act 1987 for serious fraud) is used in complex, lengthy or serious fraud cases. Its purposes (s.29 CPIA 1996) include: identifying issues likely to be material; assisting the jury's comprehension of those issues; expediting the proceedings; facilitating the management of the trial. The judge may give binding rulings on questions of law. These are the same in principle as preparatory hearings under s.8 CJA 1987. Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-083",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Totality principle",
+        "difficulty": "Application",
+        "stem": "Frank Hollis is sentenced for three separate offences of fraud, handling and blackmail arising from different incidents. The judge imposes consecutive sentences for each. What principle must the judge apply when imposing multiple consecutive sentences?",
+        "options": {
+          "A": "The sentences must be run consecutively in full — the total is irrelevant.",
+          "B": "Consecutive sentences require the approval of the Lord Chief Justice.",
+          "C": "Multiple sentences must always run concurrently to avoid double punishment.",
+          "D": "The totality principle requires the judge to stand back and ensure the overall sentence is just and proportionate to the overall offending — if the total is disproportionate, individual sentences should be adjusted so the total reflects the overall criminality."
+        },
+        "correct": "D",
+        "explanation": "The Sentencing Council's Totality Guideline (2012) requires a sentencing court imposing multiple sentences (consecutive or concurrent) to review the overall total to ensure it is just and proportionate to the overall offending. If the arithmetic total of consecutive sentences is disproportionate, the judge adjusts individual sentences. The guideline also addresses when sentences should be concurrent (same/related incident) versus consecutive (separate incidents). Option A ignores the totality principle; C incorrectly mandates concurrent sentences; D has no legal basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-084",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Perverting the course of justice",
+        "difficulty": "Application",
+        "stem": "After being charged with fraud, James Ashworth contacts prosecution witnesses and persuades them to change their evidence. Which offence does this describe?",
+        "options": {
+          "A": "Contempt of court only.",
+          "B": "Witness intimidation under s.51 Criminal Justice and Public Order Act 1994 only.",
+          "C": "Perjury under s.1 Perjury Act 1911.",
+          "D": "Perverting the course of justice — the common law offence of doing an act (or a series of acts) that has a tendency to pervert and is intended to pervert the course of public justice."
+        },
+        "correct": "D",
+        "explanation": "Perverting the course of justice is a common law offence: the defendant does an act or series of acts which tends to pervert the course of justice, with intent to do so. Interfering with prosecution witnesses by persuading them to change evidence clearly falls within this offence. It may overlap with witness intimidation under s.51 CJPOA 1994 and potentially contempt, but the most precise charge for deliberately corrupting witness evidence is perverting the course of justice. Perjury (C) would apply to the witness making false statements on oath, not to James persuading them.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-085",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Special measures — vulnerable witnesses",
+        "difficulty": "Application",
+        "stem": "Priya Mehta is a witness in the robbery trial of Frank Hollis. She is frightened of giving evidence in open court in Frank's presence. Which measure can the court apply under the Youth Justice and Criminal Evidence Act 1999?",
+        "options": {
+          "A": "The court cannot protect adult witnesses in criminal trials.",
+          "B": "Priya must apply to the High Court for special measures.",
+          "C": "Special measures are only available for witnesses under 18.",
+          "D": "Under the YJCEA 1999, the court may grant special measures for eligible vulnerable or intimidated witnesses, including: screens to shield the witness from the defendant, evidence by live link, evidence given in private, removal of wigs and gowns, and video-recorded evidence-in-chief."
+        },
+        "correct": "D",
+        "explanation": "The YJCEA 1999 ss.23-30 provide a menu of special measures for eligible witnesses — either 'vulnerable' (under 18, or affected by mental/physical disorder) or 'intimidated' (quality of evidence likely to be diminished by fear or distress about testifying — which includes fear of the defendant). Priya qualifies as an intimidated witness. Available measures include live link, screens, evidence in private, video-recorded examination-in-chief, and others. The application is made to the trial court; no High Court application is needed. Options A and C are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-086",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Evidence",
+        "subtopic": "Confessions — s.76 PACE",
+        "difficulty": "Complex",
+        "stem": "Frank Hollis makes a confession at Wharton Police Station after DC Griffiths tells him that his friend James will be charged and his family will lose their home unless Frank confesses quickly. Frank later argues the confession should be excluded. On what ground under s.76 PACE 1984 would his argument be strongest?",
+        "options": {
+          "A": "The confession should be excluded under s.76(2)(a) because it was obtained by oppression.",
+          "B": "The confession can only be challenged after conviction on appeal.",
+          "C": "The confession is admissible because Frank made it voluntarily.",
+          "D": "The confession should be excluded under s.76(2)(b) because it was obtained in consequence of things said or done which were likely, in the consequences existing at the time, to render any confession unreliable."
+        },
+        "correct": "D",
+        "explanation": "Section 76(2) PACE 1984 requires exclusion of a confession where it was obtained: (a) by oppression (torture, inhuman treatment, or the exercise of power in a way that saps free will — s.76(8)); or (b) in consequence of anything said or done which was likely in the circumstances to render unreliable any confession. DC Griffiths's false threat about James being charged and the family's home is not oppression in the s.76(8) sense (no physical mistreatment or improper pressure at that level), but it is 'something said' likely to render the confession unreliable — Frank confessed to protect others, not because the confession is true. Option A (oppression) applies to more egregious conduct; C ignores the s.76 grounds; D is wrong — challenges to confessions are made at the voir dire before or during trial.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-087",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Criminal Procedure",
+        "subtopic": "Restraint orders — POCA 2002",
+        "difficulty": "Application",
+        "stem": "The Crown Prosecution Service applies to the Crown Court for a restraint order against James Ashworth under the Proceeds of Crime Act 2002 to prevent him dealing with his assets before a confiscation order is made. When may a restraint order be made?",
+        "options": {
+          "A": "Only after a confiscation order has been made.",
+          "B": "Restraint orders are made by the High Court, not the Crown Court.",
+          "C": "Only after conviction but before sentencing.",
+          "D": "A restraint order may be made under POCA 2002 s.41 at any point if a criminal investigation has been started, a prosecution has been commenced, or an application for a confiscation order has been made — provided there is reasonable cause to believe the defendant has benefited from criminal conduct."
+        },
+        "correct": "D",
+        "explanation": "POCA 2002 s.40 provides that a restraint order may be made where a criminal investigation has been started (s.40(1)(a)), a prosecution has been commenced (s.40(1)(b)), or a confiscation order application has been made (s.40(1)(c)). The court must be satisfied there is reasonable cause to believe the defendant has benefited from criminal conduct. Restraint orders are available pre-charge, pre-trial and post-conviction. The Crown Court has jurisdiction (s.58 POCA). Options A, C and D are wrong.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-088",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Specific Offences",
+        "subtopic": "Cybercrime — s.3 Computer Misuse Act 1990",
+        "difficulty": "Application",
+        "stem": "Frank Hollis installs malware on Crane & Pelletier's server that deletes client files without authorisation. Which provision of the Computer Misuse Act 1990 is engaged?",
+        "options": {
+          "A": "Section 1 CMA 1990 — unauthorised access.",
+          "B": "Section 2 CMA 1990 — unauthorised access with intent to commit a further offence.",
+          "C": "Section 3ZA CMA 1990 — unauthorised acts causing or creating risk of serious damage.",
+          "D": "Section 3 CMA 1990 — unauthorised acts with intent to impair the operation of a computer or programs or data, or to prevent/hinder access to programs or data."
+        },
+        "correct": "D",
+        "explanation": "Section 3 CMA 1990 covers unauthorised modification of computer material: any act that causes an unauthorised modification of computer contents with intent to impair operation of any computer, to prevent access, or to impair data or programs. Deleting files is an unauthorised modification of data. Section 1 applies to mere access; s.2 applies to access with intent to commit a further offence; s.3ZA (added by Serious Crime Act 2015) applies to acts causing or creating risk of serious damage to essential infrastructure — not the primary charge for this conduct.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-089",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Sentencing",
+        "subtopic": "Ancillary orders — Sexual Harm Prevention Order",
+        "difficulty": "Application",
+        "stem": "Marcus Bridgewater is convicted of a sexual offence and the prosecution applies for a Sexual Harm Prevention Order (SHPO). Under what legislation and on what basis may an SHPO be made?",
+        "options": {
+          "A": "Under the Sexual Offences Act 2003 — an SHPO may be imposed on conviction of a listed offence where necessary to protect the public from sexual harm.",
+          "B": "Under the Protection of Freedoms Act 2012 — the court may impose an SHPO as a licensing condition.",
+          "C": "Under the Criminal Justice Act 2003 — an SHPO is a sentence in its own right.",
+          "D": "An SHPO requires a separate civil application by the chief constable."
+        },
+        "correct": "A",
+        "explanation": "Sexual Harm Prevention Orders are made under the Sexual Offences Act 2003 ss.103A-103K (as amended by the Anti-social Behaviour, Crime and Policing Act 2014). On conviction of a listed sexual offence, the sentencing court (or later, a magistrates' court on complaint) may make an SHPO if it is necessary to protect the public from sexual harm by the defendant. The order imposes prohibitions on the defendant and has a minimum duration of 5 years. Options B, C and D misidentify the statutory basis.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      },
+      {
+        "question_id": "CRIM-090",
+        "flk": "FLK2",
+        "subject": "Criminal Law and Practice",
+        "topic": "Professional Conduct",
+        "subtopic": "Defence solicitor — disclosure of client information",
+        "difficulty": "Complex",
+        "stem": "During a conference, James Ashworth tells his solicitor that he has hidden a large sum of the alleged proceeds of fraud in an overseas account. The solicitor believes this may constitute money laundering. What are the solicitor's obligations?",
+        "options": {
+          "A": "The solicitor must immediately disclose all information to the National Crime Agency.",
+          "B": "The solicitor has no money laundering obligations when acting in criminal proceedings.",
+          "C": "The solicitor must disclose the information to the prosecution as part of their duty to the court.",
+          "D": "The solicitor must consider whether the information is subject to legal professional privilege (LPP)."
+        },
+        "correct": "D",
+        "explanation": "The position involves the intersection of LPP, the regulated sector money laundering obligations and the POCA 2002 s.330 failure to disclose offence (regulated sector). Communications made in the context of giving legal advice in criminal defence proceedings are generally privileged (Three Rivers DC v Bank of England [2004]). The crime/fraud exception (Cox and Railton [1884]) removes LPP where the communication was made to facilitate a crime. If the information falls outside LPP (e.g. because disclosing a pre-existing asset position rather than seeking advice), the solicitor in the regulated sector must submit a SAR and cannot tip off the client (s.333A POCA). Option A imposes an unqualified obligation; C misapplies the duty to the court; D is wrong — solicitors in the regulated sector have AML obligations.",
+        "card_refs": [],
+        "flag": false,
+        "generated_by": "claude-sonnet-4-6"
+      }
+    ]
+  }
+}

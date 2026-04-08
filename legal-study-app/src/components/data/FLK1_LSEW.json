@@ -4,7 +4,7 @@
       "The Constitution": {
         "Parliamentary Supremacy": [
           {
-            "card_code": "FLK1-LSYS-001",
+            "card_code": "FLK1-LSEW-001",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -20,7 +20,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-002",
+            "card_code": "FLK1-LSEW-002",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -36,7 +36,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-003",
+            "card_code": "FLK1-LSEW-003",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -52,7 +52,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-004",
+            "card_code": "FLK1-LSEW-004",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -68,7 +68,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-069",
+            "card_code": "FLK1-LSEW-069",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -84,7 +84,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-001",
+            "card_code": "FLK1-LSEW-CASE-001",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -100,7 +100,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-002",
+            "card_code": "FLK1-LSEW-CASE-002",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -116,7 +116,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-001",
+            "card_code": "FLK1-LSEW-SCE-001",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -132,7 +132,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-002",
+            "card_code": "FLK1-LSEW-SCE-002",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -148,7 +148,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-003",
+            "card_code": "FLK1-LSEW-SCE-003",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -164,7 +164,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-007",
+            "card_code": "FLK1-LSEW-SCE-007",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -180,7 +180,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-001",
+            "card_code": "FLK1-LSEW-DEEP-001",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -192,11 +192,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DICEY · PARLIAMENTARY SOVEREIGNTY · WADE · LAWS LJ · THOBURN · JACKSON · CONSTITUTIONAL STATUTES · ALLAN · CRAIG · ELLIOTT · JENNINGS · UNRESOLVED",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-002",
+            "card_code": "FLK1-LSEW-DEEP-002",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -208,11 +208,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PICKIN · ENROLLED BILL · ALLAN · LAWS LJ · JACKSON DICTA · LORD STEYN · LADY HALE · COMMON LAW CONSTITUTIONALISM · GRIFFITH · EWING · RULE OF LAW · JUDICIAL REVIEW OF LEGISLATION",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-002",
+            "card_code": "FLK1-LSEW-TRAP-002",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -220,19 +220,19 @@
             "subtopic": "Parliamentary Supremacy",
             "front": "⚠️ TRAP CARD\n\nThe Data Surveillance Act 2027 contains a provision allowing covert surveillance of private communications without a judicial warrant. The Act makes no express reference to the Human Rights Act 1998. A senior civil servant advises the Home Secretary: 'The 2027 Act is the later legislation and is inconsistent with the HRA 1998. Under the doctrine of implied repeal, the 2027 Act takes precedence. The HRA provisions on privacy are impliedly repealed to the extent of the inconsistency. No express repeal is needed.'\n\nThe Home Secretary is about to authorise surveillance operations on the basis of this advice.",
             "answer": null,
-            "issue": "The trap is applying the standard doctrine of implied repeal — which correctly states that a later Act prevails over an inconsistent earlier Act — to the Human Rights Act 1998. This is a very plausible legal argument: the 2027 Act is later, it is inconsistent with the HRA, and the implied repeal doctrine has been a cornerstone of parliamentary supremacy for centuries. Students who know the doctrine well are most at risk of reaching this wrong conclusion confidently.",
-            "rule": "The Human Rights Act 1998 is a constitutional statute in the sense identified by Laws LJ in Thoburn v Sunderland City Council [2002]. Constitutional statutes — Acts that condition the legal relationship between citizen and state in a general, overarching manner — are immune from implied repeal. They can only be expressly repealed by clear and unambiguous statutory language. The Data Surveillance Act 2027 makes no express reference to the HRA. Implied repeal cannot operate against it.",
-            "application": "The specific red herring is the 2027 Act's silence on repeal combined with the later-Act argument. Silence plus later enactment = implied repeal under orthodox doctrine — but only for ordinary statutes. The civil servant's error is treating the HRA as an ordinary statute subject to standard implied repeal rules. The HRA occupies a protected constitutional category. If the Government intends to override HRA provisions, it must do so with express words that make Parliament's intention unmistakably clear. The 2027 Act's silence on the HRA means the HRA survives intact. Any surveillance authorised without judicial warrant under the 2027 Act remains subject to HRA scrutiny.",
-            "conclusion": "HRA 1998 = CONSTITUTIONAL STATUTE. Implied repeal cannot remove it. Express repeal only. The civil servant's advice is wrong. The surveillance operations would be challengeable under the HRA. The trap: applying standard implied repeal doctrine without recognising the HRA's protected constitutional status.",
+            "issue": "The Trap: The trap is applying the standard doctrine of implied repeal — which correctly states that a later Act prevails over an inconsistent earlier Act — to the Human Rights Act 1998. This is a very plausible legal argument: the 2027 Act is later, it is inconsistent with the HRA, and the implied repeal doctrine has been a cornerstone of parliamentary supremacy for centuries. Students who know the doctrine well are most at risk of reaching this wrong conclusion confidently.",
+            "rule": "The Reality: The Human Rights Act 1998 is a constitutional statute in the sense identified by Laws LJ in Thoburn v Sunderland City Council [2002]. Constitutional statutes — Acts that condition the legal relationship between citizen and state in a general, overarching manner — are immune from implied repeal. They can only be expressly repealed by clear and unambiguous statutory language. The Data Surveillance Act 2027 makes no express reference to the HRA. Implied repeal cannot operate against it.",
+            "application": "Why the Distractor Fails: The specific red herring is the 2027 Act's silence on repeal combined with the later-Act argument. Silence plus later enactment = implied repeal under orthodox doctrine — but only for ordinary statutes. The civil servant's error is treating the HRA as an ordinary statute subject to standard implied repeal rules. The HRA occupies a protected constitutional category. If the Government intends to override HRA provisions, it must do so with express words that make Parliament's intention unmistakably clear. The 2027 Act's silence on the HRA means the HRA survives intact. Any surveillance authorised without judicial warrant under the 2027 Act remains subject to HRA scrutiny.",
+            "conclusion": "The Key Rule: HRA 1998 = CONSTITUTIONAL STATUTE. Implied repeal cannot remove it. Express repeal only. The civil servant's advice is wrong. The surveillance operations would be challengeable under the HRA. The trap: applying standard implied repeal doctrine without recognising the HRA's protected constitutional status.",
             "summary_line": "THOBURN · HRA = CONSTITUTIONAL STATUTE · IMPLIED REPEAL FAILS · EXPRESS REPEAL ONLY · LATER ACT INSUFFICIENT · ⚠️ TRAP: STANDARD IMPLIED REPEAL APPLIED TO CONSTITUTIONAL STATUTE",
             "is_deeper": 0
           }
         ],
         "Separation of Powers": [
           {
-            "card_code": "FLK1-LSYS-005",
+            "card_code": "FLK1-LSEW-005",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "The Constitution",
             "subtopic": "Separation of Powers",
@@ -246,7 +246,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-006",
+            "card_code": "FLK1-LSEW-006",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -262,7 +262,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-004",
+            "card_code": "FLK1-LSEW-SCE-004",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -280,7 +280,7 @@
         ],
         "The Rule of Law": [
           {
-            "card_code": "FLK1-LSYS-007",
+            "card_code": "FLK1-LSEW-007",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -296,7 +296,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-008",
+            "card_code": "FLK1-LSEW-008",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -312,7 +312,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-005",
+            "card_code": "FLK1-LSEW-SCE-005",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -330,7 +330,7 @@
         ],
         "Constitutional Conventions": [
           {
-            "card_code": "FLK1-LSYS-068",
+            "card_code": "FLK1-LSEW-068",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -346,7 +346,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-006",
+            "card_code": "FLK1-LSEW-SCE-006",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -364,7 +364,7 @@
         ],
         "Separation of Powers / Rule of Law": [
           {
-            "card_code": "FLK1-LSYS-CASE-003",
+            "card_code": "FLK1-LSEW-CASE-003",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -380,7 +380,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-008",
+            "card_code": "FLK1-LSEW-SCE-008",
             "card_type": 3,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -396,7 +396,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-003",
+            "card_code": "FLK1-LSEW-DEEP-003",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -408,7 +408,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "ANISMINIC [1969] · OUSTER CLAUSES · LORD REID · NULLITY APPROACH · JRCA 2022 · CRAIG · ELLIOTT · FORSYTH · JOWELL · JACKSON DICTA · RULE OF LAW FLOOR · UNRESOLVED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -416,7 +416,7 @@
       "Legislation": {
         "Primary Legislation": [
           {
-            "card_code": "FLK1-LSYS-009",
+            "card_code": "FLK1-LSEW-009",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -432,7 +432,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-010",
+            "card_code": "FLK1-LSEW-010",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -450,7 +450,7 @@
         ],
         "Delegated Legislation": [
           {
-            "card_code": "FLK1-LSYS-011",
+            "card_code": "FLK1-LSEW-011",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -466,7 +466,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-012",
+            "card_code": "FLK1-LSEW-012",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -482,7 +482,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-013",
+            "card_code": "FLK1-LSEW-013",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -498,7 +498,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-070",
+            "card_code": "FLK1-LSEW-070",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -514,7 +514,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-071",
+            "card_code": "FLK1-LSEW-071",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -530,7 +530,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-016",
+            "card_code": "FLK1-LSEW-SCE-016",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -546,7 +546,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-017",
+            "card_code": "FLK1-LSEW-SCE-017",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -562,7 +562,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-020",
+            "card_code": "FLK1-LSEW-SCE-020",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -578,7 +578,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-023",
+            "card_code": "FLK1-LSEW-SCE-023",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -596,9 +596,9 @@
         ],
         "Statutory Interpretation — Four Rules": [
           {
-            "card_code": "FLK1-LSYS-014",
+            "card_code": "FLK1-LSEW-014",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Legislation",
             "subtopic": "Statutory Interpretation — Four Rules",
@@ -612,7 +612,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-015",
+            "card_code": "FLK1-LSEW-015",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -628,7 +628,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-016",
+            "card_code": "FLK1-LSEW-016",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -644,7 +644,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-017",
+            "card_code": "FLK1-LSEW-017",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -660,9 +660,9 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-018",
+            "card_code": "FLK1-LSEW-018",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Legislation",
             "subtopic": "Statutory Interpretation — Four Rules",
@@ -676,7 +676,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-019",
+            "card_code": "FLK1-LSEW-019",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -692,7 +692,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-004",
+            "card_code": "FLK1-LSEW-CASE-004",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -708,7 +708,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-005",
+            "card_code": "FLK1-LSEW-CASE-005",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -724,7 +724,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-006",
+            "card_code": "FLK1-LSEW-CASE-006",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -740,7 +740,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-007",
+            "card_code": "FLK1-LSEW-CASE-007",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -756,7 +756,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-008",
+            "card_code": "FLK1-LSEW-CASE-008",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -772,7 +772,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-009",
+            "card_code": "FLK1-LSEW-SCE-009",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -788,7 +788,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-010",
+            "card_code": "FLK1-LSEW-SCE-010",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -804,7 +804,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-011",
+            "card_code": "FLK1-LSEW-SCE-011",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -820,7 +820,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-012",
+            "card_code": "FLK1-LSEW-SCE-012",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -836,7 +836,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-019",
+            "card_code": "FLK1-LSEW-SCE-019",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -852,7 +852,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-022",
+            "card_code": "FLK1-LSEW-SCE-022",
             "card_type": 3,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -870,7 +870,7 @@
         ],
         "Aids to Interpretation": [
           {
-            "card_code": "FLK1-LSYS-020",
+            "card_code": "FLK1-LSEW-020",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -886,7 +886,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-021",
+            "card_code": "FLK1-LSEW-021",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -902,7 +902,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-022",
+            "card_code": "FLK1-LSEW-022",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -918,7 +918,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-010",
+            "card_code": "FLK1-LSEW-CASE-010",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -934,7 +934,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-013",
+            "card_code": "FLK1-LSEW-SCE-013",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -950,7 +950,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-021",
+            "card_code": "FLK1-LSEW-SCE-021",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -966,7 +966,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-007",
+            "card_code": "FLK1-LSEW-TRAP-007",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -974,17 +974,17 @@
             "subtopic": "Aids to Interpretation",
             "front": "⚠️ TRAP CARD\n\nA solicitor is advising on a tax case involving an ambiguous provision in the Finance Act 2025. In researching the legislative history, she finds the following materials in Hansard:\n\n(a) A statement by the Financial Secretary to the Treasury at Second Reading, clearly explaining that the provision was intended to apply only to UK-resident companies.\n(b) A lengthy speech by a backbench Conservative MP on the Finance Bill Committee, citing an independent economic report and arguing forcefully — and clearly — that the provision should be interpreted in the same narrow way.\n\nThe solicitor tells her client: 'We have strong material here. Both statements are in Hansard, the legislation is ambiguous, and both statements are clear. Under Pepper v Hart, both are admissible to resolve the ambiguity.'",
             "answer": null,
-            "issue": "The trap is the combination of genuine ambiguity and two clear Hansard statements — one admissible, one not. Students who know Pepper v Hart correctly identify that ambiguity is condition\n\n1. and clarity is condition (3). They then assume that any clear Hansard statement satisfies the test once ambiguity is established. The source of the statement — condition\n2. — is the condition students most commonly overlook.",
-            "rule": "Under Pepper (Inspector of Taxes) v Hart [1992] UKHL 3, Hansard may be consulted as an extrinsic aid to statutory interpretation only where all three conditions are satisfied:\n\n1. the legislation is ambiguous or obscure, or the literal meaning leads to an absurdity\n2. the material consists of statements by a minister or other promoter of the Bill; and\n3. the statements relied upon are clear. All three conditions are conjunctive. Condition\n2. is not satisfied by a backbench MP's speech, regardless of how clear or persuasive it is.\n\nBackbench statements — from any party, including government backbenchers — are inadmissible under Pepper v Hart.",
-            "application": "Statement (a) — Financial Secretary (minister): satisfies condition (2). Ambiguity is established (condition 1). The statement is clear (condition 3). All three conditions are met. Admissible. Statement (b) — backbench Conservative MP: fails condition (2). A backbench MP is neither a minister nor a promoter of the Bill. The fact that the speech is clear and well-reasoned is irrelevant — Pepper v Hart expressly restricts admissible Hansard to ministerial and promoter statements. The solicitor is wrong to treat statement (b) as admissible. It cannot be placed before the court as a Pepper v Hart aid.",
-            "conclusion": "PEPPER v HART: ALL THREE CONDITIONS CONJUNCTIVE. Source must be minister or Bill promoter. Backbench speech inadmissible regardless of clarity. The trap: assuming ambiguity + clarity = admissibility, overlooking the source requirement.",
+            "issue": "The Trap: The trap is the combination of genuine ambiguity and two clear Hansard statements — one admissible, one not. Students who know Pepper v Hart correctly identify that ambiguity is condition\n\n1. and clarity is condition (3). They then assume that any clear Hansard statement satisfies the test once ambiguity is established. The source of the statement — condition\n2. — is the condition students most commonly overlook.",
+            "rule": "The Reality: Under Pepper (Inspector of Taxes) v Hart [1992] UKHL 3, Hansard may be consulted as an extrinsic aid to statutory interpretation only where all three conditions are satisfied:\n\n1. the legislation is ambiguous or obscure, or the literal meaning leads to an absurdity\n2. the material consists of statements by a minister or other promoter of the Bill; and\n3. the statements relied upon are clear. All three conditions are conjunctive. Condition\n2. is not satisfied by a backbench MP's speech, regardless of how clear or persuasive it is.\n\nBackbench statements — from any party, including government backbenchers — are inadmissible under Pepper v Hart.",
+            "application": "Why the Distractor Fails: Statement (a) — Financial Secretary (minister): satisfies condition (2). Ambiguity is established (condition 1). The statement is clear (condition 3). All three conditions are met. Admissible. Statement (b) — backbench Conservative MP: fails condition (2). A backbench MP is neither a minister nor a promoter of the Bill. The fact that the speech is clear and well-reasoned is irrelevant — Pepper v Hart expressly restricts admissible Hansard to ministerial and promoter statements. The solicitor is wrong to treat statement (b) as admissible. It cannot be placed before the court as a Pepper v Hart aid.",
+            "conclusion": "The Key Rule: PEPPER v HART: ALL THREE CONDITIONS CONJUNCTIVE. Source must be minister or Bill promoter. Backbench speech inadmissible regardless of clarity. The trap: assuming ambiguity + clarity = admissibility, overlooking the source requirement.",
             "summary_line": "PEPPER v HART · THREE CONDITIONS ALL REQUIRED · MINISTER/PROMOTER ONLY · BACKBENCH = INADMISSIBLE · CLARITY INSUFFICIENT · ⚠️ TRAP: IGNORING SOURCE REQUIREMENT (CONDITION 2)",
             "is_deeper": 0
           }
         ],
         "Rules of Language": [
           {
-            "card_code": "FLK1-LSYS-023",
+            "card_code": "FLK1-LSEW-023",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1000,7 +1000,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-024",
+            "card_code": "FLK1-LSEW-024",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1016,7 +1016,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-025",
+            "card_code": "FLK1-LSEW-025",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1032,7 +1032,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-009",
+            "card_code": "FLK1-LSEW-CASE-009",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1048,7 +1048,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-018",
+            "card_code": "FLK1-LSEW-SCE-018",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1066,9 +1066,9 @@
         ],
         "Presumptions in Statutory Interpretation": [
           {
-            "card_code": "FLK1-LSYS-026",
+            "card_code": "FLK1-LSEW-026",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Legislation",
             "subtopic": "Presumptions in Statutory Interpretation",
@@ -1082,7 +1082,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-027",
+            "card_code": "FLK1-LSEW-027",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1098,7 +1098,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-011",
+            "card_code": "FLK1-LSEW-CASE-011",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1114,7 +1114,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-014",
+            "card_code": "FLK1-LSEW-SCE-014",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1130,7 +1130,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-015",
+            "card_code": "FLK1-LSEW-SCE-015",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1148,7 +1148,7 @@
         ],
         "Statutory Interpretation": [
           {
-            "card_code": "FLK1-LSYS-DEEP-004",
+            "card_code": "FLK1-LSEW-DEEP-004",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -1160,7 +1160,7 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "S.3 HRA · GHAIDAN · KAVANAGH · PHILLIPSON · LEIGH · MASTERMAN · INTERPRETATION VS LEGISLATION · ANDERSON LIMIT · LESTER · TOMKINS · CONSTITUTIONAL BOUNDARY · ONGOING DEBATE",
+            "summary_line": null,
             "is_deeper": 1
           }
         ]
@@ -1168,7 +1168,7 @@
       "Case Law & Precedent": {
         "Doctrine of Stare Decisis": [
           {
-            "card_code": "FLK1-LSYS-028",
+            "card_code": "FLK1-LSEW-028",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1186,7 +1186,7 @@
         ],
         "Ratio Decidendi and Obiter Dicta": [
           {
-            "card_code": "FLK1-LSYS-029",
+            "card_code": "FLK1-LSEW-029",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1202,7 +1202,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-030",
+            "card_code": "FLK1-LSEW-030",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1218,7 +1218,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-031",
+            "card_code": "FLK1-LSEW-031",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1234,7 +1234,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-072",
+            "card_code": "FLK1-LSEW-072",
             "card_type": 1,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -1250,7 +1250,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-024",
+            "card_code": "FLK1-LSEW-SCE-024",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1266,7 +1266,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-032",
+            "card_code": "FLK1-LSEW-SCE-032",
             "card_type": 3,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -1282,7 +1282,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-005",
+            "card_code": "FLK1-LSEW-DEEP-005",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -1294,11 +1294,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "RATIO DECIDENDI · GOODHART · WAMBAUGH · CROSS & HARRIS · MACCORMICK · DUXBURY · MULTIPLE JUDGMENTS · OBITER PROBLEM · INTERPRETIVE RECONSTRUCTION · THEORETICAL LIMITS",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-007",
+            "card_code": "FLK1-LSEW-DEEP-007",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -1310,11 +1310,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "RATIO/OBITER · WORKABILITY · GOODHART · WAMBAUGH · CROSS/HARRIS · INFLUENTIAL OBITER · DONOGHUE · ANNS · JACKSON · TWINING/MIERS · MACCORMICK · SPECTRUM NOT BINARY",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-010",
+            "card_code": "FLK1-LSEW-TRAP-010",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -1322,17 +1322,17 @@
             "subtopic": "Ratio Decidendi and Obiter Dicta",
             "front": "⚠️ TRAP CARD\n\nThe Supreme Court decides R (Thornton) v Secretary of State for the Home Department [2023]. The case turns on a narrow procedural point. In a unanimous judgment, all five justices agree on the procedural issue and the case is decided on that basis.\n\nHowever, the leading judgment contains eight paragraphs — agreed by all five justices — addressing the correct constitutional relationship between Parliament and the courts in the context of ouster clauses. The paragraphs draw on Jackson v Attorney General [2005] and state that certain types of ouster clause may be constitutionally impermissible, regardless of how clearly Parliament words them.\n\nA barrister advising on a judicial review of an ouster clause tells her client: 'Those eight paragraphs are obiter dictum — the case was decided on a procedural ground and the ouster clause analysis was unnecessary to the decision. Obiter dicta are not binding. We can ignore those paragraphs entirely and they carry no legal weight.'",
             "answer": null,
-            "issue": "The trap is the technically correct application of the ratio/obiter distinction producing a practically and legally misleading conclusion. The barrister is right that the eight paragraphs are obiter — the case was decided on a procedural ground, making the ouster clause analysis unnecessary to the outcome. But the conclusion that obiter dicta carry 'no legal weight' and can be 'ignored entirely' is wrong and would expose the client to serious litigation risk.",
-            "rule": "Obiter dicta are not binding — they do not form part of the ratio decidendi and lower courts are not required to follow them. However, obiter dicta are not without legal weight. Their persuasive authority depends on their source and context. Obiter statements from the Supreme Court — particularly unanimous statements agreed by all five justices on a significant constitutional point, drawing on earlier HL/SC authority — carry very significant persuasive weight. In practice, a lower court would need compelling reasons to depart from such obiter. The distinction between 'binding' and 'carries no weight' does not exhaust the options.",
-            "application": "The red herring is the technically accurate classification of the eight paragraphs as obiter. The barrister stops at 'obiter = not binding' and takes that to mean the passages are legally irrelevant. But the persuasive authority of this particular obiter is very high: unanimous, all five SC justices, on a constitutional point, expressly agreed. The Jackson dicta — which these paragraphs rely on — have shaped constitutional law despite being obiter. A court faced with an ouster clause challenge will take these paragraphs very seriously. Advising a client that they can be 'ignored entirely' is professionally dangerous and legally incorrect.",
-            "conclusion": "OBITER ≠ NO WEIGHT. Not binding ≠ can be ignored. SC unanimous obiter on constitutional points carries very significant persuasive authority. The trap: treating the ratio/obiter binary as if 'not binding' means 'legally irrelevant'.",
+            "issue": "The Trap: The trap is the technically correct application of the ratio/obiter distinction producing a practically and legally misleading conclusion. The barrister is right that the eight paragraphs are obiter — the case was decided on a procedural ground, making the ouster clause analysis unnecessary to the outcome. But the conclusion that obiter dicta carry 'no legal weight' and can be 'ignored entirely' is wrong and would expose the client to serious litigation risk.",
+            "rule": "The Reality: Obiter dicta are not binding — they do not form part of the ratio decidendi and lower courts are not required to follow them. However, obiter dicta are not without legal weight. Their persuasive authority depends on their source and context. Obiter statements from the Supreme Court — particularly unanimous statements agreed by all five justices on a significant constitutional point, drawing on earlier HL/SC authority — carry very significant persuasive weight. In practice, a lower court would need compelling reasons to depart from such obiter. The distinction between 'binding' and 'carries no weight' does not exhaust the options.",
+            "application": "Why the Distractor Fails: The red herring is the technically accurate classification of the eight paragraphs as obiter. The barrister stops at 'obiter = not binding' and takes that to mean the passages are legally irrelevant. But the persuasive authority of this particular obiter is very high: unanimous, all five SC justices, on a constitutional point, expressly agreed. The Jackson dicta — which these paragraphs rely on — have shaped constitutional law despite being obiter. A court faced with an ouster clause challenge will take these paragraphs very seriously. Advising a client that they can be 'ignored entirely' is professionally dangerous and legally incorrect.",
+            "conclusion": "The Key Rule: OBITER ≠ NO WEIGHT. Not binding ≠ can be ignored. SC unanimous obiter on constitutional points carries very significant persuasive authority. The trap: treating the ratio/obiter binary as if 'not binding' means 'legally irrelevant'.",
             "summary_line": "OBITER NOT BINDING ≠ NO WEIGHT · SC UNANIMOUS OBITER = HIGH PERSUASIVE AUTHORITY · JACKSON DICTA EXAMPLE · NOT BINDING ≠ CAN BE IGNORED · ⚠️ TRAP: RATIO/OBITER BINARY TREATED AS BINDING/IRRELEVANT",
             "is_deeper": 0
           }
         ],
         "Binding vs Persuasive Precedent": [
           {
-            "card_code": "FLK1-LSYS-032",
+            "card_code": "FLK1-LSEW-032",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1348,9 +1348,9 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-033",
+            "card_code": "FLK1-LSEW-033",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Case Law & Precedent",
             "subtopic": "Binding vs Persuasive Precedent",
@@ -1364,7 +1364,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-034",
+            "card_code": "FLK1-LSEW-034",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1380,7 +1380,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-025",
+            "card_code": "FLK1-LSEW-SCE-025",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1396,7 +1396,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-028",
+            "card_code": "FLK1-LSEW-SCE-028",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1412,7 +1412,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-034",
+            "card_code": "FLK1-LSEW-SCE-034",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1428,7 +1428,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-004",
+            "card_code": "FLK1-LSEW-TRAP-004",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -1436,17 +1436,17 @@
             "subtopic": "Binding vs Persuasive Precedent",
             "front": "⚠️ TRAP CARD\n\nThe Judicial Committee of the Privy Council, sitting as a Board of seven, hands down a judgment in an employment law case from Bermuda. The Board is composed entirely of current UK Supreme Court justices, including the President of the Supreme Court. The judgment directly addresses a point of English employment law on which the Supreme Court has not yet ruled, and four of the seven justices write separately to confirm that the same reasoning applies to English law.\n\nThe following week, the Court of Appeal is asked to follow the JCPC decision in an English employment case raising the identical point. The appellant's barrister argues: 'This is effectively a Supreme Court decision. Seven Supreme Court justices have decided this point. The Court of Appeal is bound.'",
             "answer": null,
-            "issue": "The trap is the composition of the Board. Seven current Supreme Court justices — including the President — is about as authoritative as a court can get in terms of the identity of its members. Four of them expressly confirm the reasoning applies to English law. The instinctive conclusion is that this is functionally a Supreme Court decision and the Court of Appeal must follow it. This is wrong.",
-            "rule": "The Judicial Committee of the Privy Council is not part of the English court hierarchy. Its decisions are persuasive only — never binding on any English court, including the Court of Appeal. The institutional position of the court in the hierarchy, not the identity of the judges sitting on it, determines whether decisions are binding. The JCPC hears appeals from Commonwealth jurisdictions and the Crown Dependencies; it is not an appellate court in the English system. No matter how many Supreme Court justices sit, a JCPC decision cannot bind the Court of Appeal.",
-            "application": "The red herring is the composition and the express statements by four justices about English law. Both features dramatically increase the persuasive weight of the decision — a Court of Appeal would need a very strong reason to depart from it — but they do not change its formal status. The barrister's argument confuses persuasive authority with binding authority. The Court of Appeal is not bound. In practice, it will almost certainly follow the JCPC decision given the composition, but that is a choice, not a compulsion.",
-            "conclusion": "JCPC = PERSUASIVE ONLY REGARDLESS OF COMPOSITION. Institutional position in the hierarchy determines binding status, not the identity of judges. The Court of Appeal is not bound. The trap: SC justices sitting on JCPC = assumed to be SC-equivalent authority.",
+            "issue": "The Trap: The trap is the composition of the Board. Seven current Supreme Court justices — including the President — is about as authoritative as a court can get in terms of the identity of its members. Four of them expressly confirm the reasoning applies to English law. The instinctive conclusion is that this is functionally a Supreme Court decision and the Court of Appeal must follow it. This is wrong.",
+            "rule": "The Reality: The Judicial Committee of the Privy Council is not part of the English court hierarchy. Its decisions are persuasive only — never binding on any English court, including the Court of Appeal. The institutional position of the court in the hierarchy, not the identity of the judges sitting on it, determines whether decisions are binding. The JCPC hears appeals from Commonwealth jurisdictions and the Crown Dependencies; it is not an appellate court in the English system. No matter how many Supreme Court justices sit, a JCPC decision cannot bind the Court of Appeal.",
+            "application": "Why the Distractor Fails: The red herring is the composition and the express statements by four justices about English law. Both features dramatically increase the persuasive weight of the decision — a Court of Appeal would need a very strong reason to depart from it — but they do not change its formal status. The barrister's argument confuses persuasive authority with binding authority. The Court of Appeal is not bound. In practice, it will almost certainly follow the JCPC decision given the composition, but that is a choice, not a compulsion.",
+            "conclusion": "The Key Rule: JCPC = PERSUASIVE ONLY REGARDLESS OF COMPOSITION. Institutional position in the hierarchy determines binding status, not the identity of judges. The Court of Appeal is not bound. The trap: SC justices sitting on JCPC = assumed to be SC-equivalent authority.",
             "summary_line": "JCPC NOT IN ENGLISH HIERARCHY · COMPOSITION IRRELEVANT · PERSUASIVE ONLY · CA NOT BOUND · ⚠️ TRAP: SC JUSTICES ON JCPC = ASSUMED BINDING",
             "is_deeper": 0
           }
         ],
         "Techniques: Distinguishing, Overruling, Reversing, Per Incuriam": [
           {
-            "card_code": "FLK1-LSYS-035",
+            "card_code": "FLK1-LSEW-035",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1462,7 +1462,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-036",
+            "card_code": "FLK1-LSEW-036",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1478,7 +1478,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-037",
+            "card_code": "FLK1-LSEW-037",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1494,7 +1494,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-026",
+            "card_code": "FLK1-LSEW-SCE-026",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1510,7 +1510,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-027",
+            "card_code": "FLK1-LSEW-SCE-027",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1526,7 +1526,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-033",
+            "card_code": "FLK1-LSEW-SCE-033",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1542,7 +1542,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-009",
+            "card_code": "FLK1-LSEW-TRAP-009",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -1550,17 +1550,17 @@
             "subtopic": "Techniques: Distinguishing, Overruling, Reversing, Per Incuriam",
             "front": "⚠️ TRAP CARD\n\nThe Court of Appeal decided in Hartley v Meridian Bank plc [2019] that banks owe a duty of care to guarantors when providing information about the financial position of the principal debtor. Meridian Bank appeals to the Supreme Court.\n\nIn 2024, the Supreme Court hears the appeal in Hartley v Meridian Bank plc and holds that the Court of Appeal was wrong — no such duty of care exists. The Supreme Court allows the bank's appeal.\n\nA law student preparing for an exam reads the Supreme Court judgment and writes in her notes: 'The SC overruled the Court of Appeal in Hartley v Meridian Bank. Overruling is when a higher court disapproves of a lower court's decision in the same case.'",
             "answer": null,
-            "issue": "The trap is subtle and targets the precise distinction between reversing and overruling — two concepts that look similar because both involve a higher court disagreeing with a lower court's legal analysis. The student has correctly identified that the SC found the CA was wrong. She has incorrectly labelled the mechanism and — crucially — incorrectly defined 'overruling'. The error is definitional but has real analytical consequences.",
-            "rule": "Reversing: a court on appeal sets aside the decision of a lower court in the same litigation. The parties are the same, the case is the same, and the higher court substitutes its decision for the lower court's. Overruling: a court in a later, different case holds that a previous decision in an earlier, different case was wrongly decided. The overruled decision ceases to be good law as a precedent for future cases, but the parties in the original case are unaffected by the overruling. In Hartley v Meridian Bank, the SC is hearing Hartley on appeal — the same litigation. The SC has reversed the CA's decision. It has not overruled it.",
-            "application": "The red herring is that the SC found the CA was wrong. Both reversing and overruling involve a higher court finding a lower court's reasoning incorrect — the distinction lies in whether it is the same case or a different case. The student's definition ('overruling is when a higher court disapproves of a lower court's decision in the same case') is the definition of reversing. What actually happened: the SC reversed the CA in Hartley. The SC's decision in Hartley also establishes the correct legal position (no duty of care to guarantors) — meaning that any future case relying on the Hartley CA decision as precedent would find it has been overruled. But the mechanism that happened in Hartley itself is reversal, not overruling.",
-            "conclusion": "SAME CASE ON APPEAL = REVERSAL. DIFFERENT CASE, LATER DATE = OVERRULING. The SC reversed the CA in Hartley. The student's definition is wrong. The trap: conflating 'higher court finds lower court wrong' with 'overruling' regardless of whether it is the same or a different case.",
+            "issue": "The Trap: The trap is subtle and targets the precise distinction between reversing and overruling — two concepts that look similar because both involve a higher court disagreeing with a lower court's legal analysis. The student has correctly identified that the SC found the CA was wrong. She has incorrectly labelled the mechanism and — crucially — incorrectly defined 'overruling'. The error is definitional but has real analytical consequences.",
+            "rule": "The Reality: Reversing: a court on appeal sets aside the decision of a lower court in the same litigation. The parties are the same, the case is the same, and the higher court substitutes its decision for the lower court's. Overruling: a court in a later, different case holds that a previous decision in an earlier, different case was wrongly decided. The overruled decision ceases to be good law as a precedent for future cases, but the parties in the original case are unaffected by the overruling. In Hartley v Meridian Bank, the SC is hearing Hartley on appeal — the same litigation. The SC has reversed the CA's decision. It has not overruled it.",
+            "application": "Why the Distractor Fails: The red herring is that the SC found the CA was wrong. Both reversing and overruling involve a higher court finding a lower court's reasoning incorrect — the distinction lies in whether it is the same case or a different case. The student's definition ('overruling is when a higher court disapproves of a lower court's decision in the same case') is the definition of reversing. What actually happened: the SC reversed the CA in Hartley. The SC's decision in Hartley also establishes the correct legal position (no duty of care to guarantors) — meaning that any future case relying on the Hartley CA decision as precedent would find it has been overruled. But the mechanism that happened in Hartley itself is reversal, not overruling.",
+            "conclusion": "The Key Rule: SAME CASE ON APPEAL = REVERSAL. DIFFERENT CASE, LATER DATE = OVERRULING. The SC reversed the CA in Hartley. The student's definition is wrong. The trap: conflating 'higher court finds lower court wrong' with 'overruling' regardless of whether it is the same or a different case.",
             "summary_line": "REVERSING = SAME CASE ON APPEAL · OVERRULING = DIFFERENT LATER CASE · SC REVERSED CA IN HARTLEY · STUDENT'S DEFINITION WRONG · ⚠️ TRAP: 'HIGHER COURT FINDS WRONG' = ASSUMED OVERRULING",
             "is_deeper": 0
           }
         ],
         "The Practice Statement 1966": [
           {
-            "card_code": "FLK1-LSYS-038",
+            "card_code": "FLK1-LSEW-038",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1576,7 +1576,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-039",
+            "card_code": "FLK1-LSEW-039",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1592,7 +1592,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-012",
+            "card_code": "FLK1-LSEW-CASE-012",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1608,7 +1608,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-014",
+            "card_code": "FLK1-LSEW-CASE-014",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1624,7 +1624,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-015",
+            "card_code": "FLK1-LSEW-CASE-015",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1640,7 +1640,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-016",
+            "card_code": "FLK1-LSEW-CASE-016",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1656,7 +1656,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-031",
+            "card_code": "FLK1-LSEW-SCE-031",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1672,7 +1672,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-006",
+            "card_code": "FLK1-LSEW-DEEP-006",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -1684,13 +1684,13 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "PRACTICE STATEMENT 1966 · JUDICIAL RESTRAINT · CROSS · STEVENS · DUXBURY · DEMOCRATIC LEGITIMACY · GRIFFITH · RETROSPECTIVE LAWMAKING · COMPARATIVE (US) · NO AGREED METRIC · UNRESOLVED",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
         "Court of Appeal and Young v Bristol Aeroplane": [
           {
-            "card_code": "FLK1-LSYS-040",
+            "card_code": "FLK1-LSEW-040",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1706,7 +1706,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-041",
+            "card_code": "FLK1-LSEW-041",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1722,7 +1722,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-042",
+            "card_code": "FLK1-LSEW-042",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1738,7 +1738,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-013",
+            "card_code": "FLK1-LSEW-CASE-013",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -1754,7 +1754,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-029",
+            "card_code": "FLK1-LSEW-SCE-029",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1770,7 +1770,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-030",
+            "card_code": "FLK1-LSEW-SCE-030",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1786,7 +1786,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-035",
+            "card_code": "FLK1-LSEW-SCE-035",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1802,7 +1802,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-005",
+            "card_code": "FLK1-LSEW-TRAP-005",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -1810,10 +1810,10 @@
             "subtopic": "Court of Appeal and Young v Bristol Aeroplane",
             "front": "⚠️ TRAP CARD\n\nThe Supreme Court is hearing an appeal in a negligence case. Counsel for the appellant argues that the Court of Appeal below was wrong to follow one of its own previous decisions, because that previous CA decision was unjust and clearly incorrect. The CA had held it was bound by its own precedent unless one of the three Young v Bristol Aeroplane exceptions applied — and none did.\n\nIn the Supreme Court, a different counsel then argues: 'The Supreme Court itself is also bound by the Young v Bristol Aeroplane framework. Before the SC can depart from any of its own previous decisions, it too must demonstrate that one of the three exceptions applies. The SC cannot simply decide it was wrong and depart — it needs a recognised exception.'",
             "answer": null,
-            "issue": "The trap has two stages and a clever surface plausibility. First: the CA was correct to apply Young v Bristol — it is bound by its own decisions subject only to the three exhaustive exceptions. This part is right. Second: the argument extends Young v Bristol to the Supreme Court, asserting the SC is equally constrained. This is the error. Students who correctly understand that the CA is tightly bound by its own precedents may naturally extend that principle upward — if the CA cannot just disagree, why can the SC?",
-            "rule": "The Young v Bristol Aeroplane framework applies to the Court of Appeal (Civil Division). It does not apply to the Supreme Court (or its predecessor, the House of Lords). The Supreme Court operates under the Practice Statement 1966, which permits departure from a previous decision 'when it appears right to do so' — a broad, discretionary test with no fixed categories of exception. The SC is not confined to the three Young v Bristol exceptions. It may depart whenever, weighing certainty against correctness, it considers departure to be right.",
-            "application": "The specific red herring is the elegant parallel structure of the argument: if the CA needs an exception, so must the SC. The parallelism feels logical but is constitutionally wrong. The two courts operate under entirely different precedent regimes. The CA's strict self-binding reflects its intermediate position in the hierarchy — it must maintain consistency for the courts below it. The SC's Practice Statement discretion reflects its position as the final court — it can correct errors without referring to a fixed list of exceptions. The SC should assess whether to depart from its own previous decision using the Practice Statement 1966 test, not Young v Bristol.",
-            "conclusion": "YOUNG v BRISTOL = CA ONLY. SC operates under Practice Statement 1966 — broad discretion, no fixed exceptions required. The trap: extending the CA's strict self-binding framework to the Supreme Court.",
+            "issue": "The Trap: The trap has two stages and a clever surface plausibility. First: the CA was correct to apply Young v Bristol — it is bound by its own decisions subject only to the three exhaustive exceptions. This part is right. Second: the argument extends Young v Bristol to the Supreme Court, asserting the SC is equally constrained. This is the error. Students who correctly understand that the CA is tightly bound by its own precedents may naturally extend that principle upward — if the CA cannot just disagree, why can the SC?",
+            "rule": "The Reality: The Young v Bristol Aeroplane framework applies to the Court of Appeal (Civil Division). It does not apply to the Supreme Court (or its predecessor, the House of Lords). The Supreme Court operates under the Practice Statement 1966, which permits departure from a previous decision 'when it appears right to do so' — a broad, discretionary test with no fixed categories of exception. The SC is not confined to the three Young v Bristol exceptions. It may depart whenever, weighing certainty against correctness, it considers departure to be right.",
+            "application": "Why the Distractor Fails: The specific red herring is the elegant parallel structure of the argument: if the CA needs an exception, so must the SC. The parallelism feels logical but is constitutionally wrong. The two courts operate under entirely different precedent regimes. The CA's strict self-binding reflects its intermediate position in the hierarchy — it must maintain consistency for the courts below it. The SC's Practice Statement discretion reflects its position as the final court — it can correct errors without referring to a fixed list of exceptions. The SC should assess whether to depart from its own previous decision using the Practice Statement 1966 test, not Young v Bristol.",
+            "conclusion": "The Key Rule: YOUNG v BRISTOL = CA ONLY. SC operates under Practice Statement 1966 — broad discretion, no fixed exceptions required. The trap: extending the CA's strict self-binding framework to the Supreme Court.",
             "summary_line": "YOUNG v BRISTOL = CA ONLY · SC = PRACTICE STATEMENT 1966 · BROAD DISCRETION · NO FIXED EXCEPTIONS REQUIRED · ⚠️ TRAP: YOUNG v BRISTOL APPLIED TO SC",
             "is_deeper": 0
           }
@@ -1822,7 +1822,7 @@
       "Court Structure & Jurisdiction": {
         "Civil Court Hierarchy and Track Allocation": [
           {
-            "card_code": "FLK1-LSYS-043",
+            "card_code": "FLK1-LSEW-043",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1838,7 +1838,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-044",
+            "card_code": "FLK1-LSEW-044",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1854,7 +1854,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-036",
+            "card_code": "FLK1-LSEW-SCE-036",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1872,7 +1872,7 @@
         ],
         "Criminal Court Hierarchy": [
           {
-            "card_code": "FLK1-LSYS-045",
+            "card_code": "FLK1-LSEW-045",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1888,7 +1888,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-046",
+            "card_code": "FLK1-LSEW-046",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1904,7 +1904,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-047",
+            "card_code": "FLK1-LSEW-047",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1920,7 +1920,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-037",
+            "card_code": "FLK1-LSEW-SCE-037",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1936,7 +1936,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-038",
+            "card_code": "FLK1-LSEW-SCE-038",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -1954,7 +1954,7 @@
         ],
         "Appellate Routes": [
           {
-            "card_code": "FLK1-LSYS-048",
+            "card_code": "FLK1-LSEW-048",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1970,7 +1970,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-049",
+            "card_code": "FLK1-LSEW-049",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -1986,7 +1986,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-073",
+            "card_code": "FLK1-LSEW-073",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2002,7 +2002,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-039",
+            "card_code": "FLK1-LSEW-SCE-039",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2018,7 +2018,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-040",
+            "card_code": "FLK1-LSEW-SCE-040",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2034,7 +2034,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-041",
+            "card_code": "FLK1-LSEW-SCE-041",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2050,7 +2050,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-043",
+            "card_code": "FLK1-LSEW-SCE-043",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2066,7 +2066,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-006",
+            "card_code": "FLK1-LSEW-TRAP-006",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -2074,17 +2074,17 @@
             "subtopic": "Appellate Routes",
             "front": "⚠️ TRAP CARD\n\nMr Nkosi is charged with common assault — a summary-only offence. He is tried in the Magistrates' Court and acquitted. The prosecution is dissatisfied with the outcome, believing the magistrates made a serious error of law in directing themselves on the elements of the offence.\n\nA Crown Prosecution Service lawyer advises: 'The normal route for appealing a Magistrates' Court decision is to the Crown Court. We should lodge an appeal to the Crown Court within 21 days. This is the standard appellate route and it is available to both defendants and prosecutors.'",
             "answer": null,
-            "issue": "The trap is the phrase 'normal route' combined with the correct statement that appeals from the Magistrates' Court go to the Crown Court. Students who have learned the appellate route diagram — Magistrates' Court → Crown Court → KBD → CA → SC — correctly identify the Crown Court as the first step. The error is applying that route to the prosecution. The Crown Court appeal route is a defendant-only remedy. The CPS lawyer has correctly identified the route and incorrectly applied it.",
-            "rule": "The Crown Court appeal from the Magistrates' Court is available to defendants only — for appeals against conviction (on fact or law) and sentence. The prosecution cannot appeal an acquittal to the Crown Court. The prosecution's available routes from a Magistrates' Court acquittal are:\n\n1. case stated to the King's Bench Division (Administrative Court) — on a point of law only; and\n2. an Attorney General's Reference — where the AG considers a point of law requires clarification, resulting in a ruling for future cases but not affecting the acquittal.",
-            "application": "The red herring is 'normal route' + 'available to both'. The Crown Court route is normal — for defendants. The CPS lawyer has made the error of treating symmetry as the default: if defendants can appeal to the Crown Court, prosecutors can too. They cannot. Lodging a Crown Court appeal would be procedurally incompetent. Mr Nkosi's acquittal cannot be challenged by this route. If the prosecution believes the magistrates made an error of law, the correct route is case stated to the KBD — but this only corrects the point of law for future cases; it does not result in a retrial or affect Mr Nkosi's acquittal.",
-            "conclusion": "CROWN COURT APPEAL = DEFENDANTS ONLY. Prosecution cannot appeal acquittal to Crown Court. Prosecution routes: case stated (KBD, law only) or AG Reference (no retrial). The trap: assuming the Crown Court appellate route is symmetrical.",
+            "issue": "The Trap: The trap is the phrase 'normal route' combined with the correct statement that appeals from the Magistrates' Court go to the Crown Court. Students who have learned the appellate route diagram — Magistrates' Court → Crown Court → KBD → CA → SC — correctly identify the Crown Court as the first step. The error is applying that route to the prosecution. The Crown Court appeal route is a defendant-only remedy. The CPS lawyer has correctly identified the route and incorrectly applied it.",
+            "rule": "The Reality: The Crown Court appeal from the Magistrates' Court is available to defendants only — for appeals against conviction (on fact or law) and sentence. The prosecution cannot appeal an acquittal to the Crown Court. The prosecution's available routes from a Magistrates' Court acquittal are:\n\n1. case stated to the King's Bench Division (Administrative Court) — on a point of law only; and\n2. an Attorney General's Reference — where the AG considers a point of law requires clarification, resulting in a ruling for future cases but not affecting the acquittal.",
+            "application": "Why the Distractor Fails: The red herring is 'normal route' + 'available to both'. The Crown Court route is normal — for defendants. The CPS lawyer has made the error of treating symmetry as the default: if defendants can appeal to the Crown Court, prosecutors can too. They cannot. Lodging a Crown Court appeal would be procedurally incompetent. Mr Nkosi's acquittal cannot be challenged by this route. If the prosecution believes the magistrates made an error of law, the correct route is case stated to the KBD — but this only corrects the point of law for future cases; it does not result in a retrial or affect Mr Nkosi's acquittal.",
+            "conclusion": "The Key Rule: CROWN COURT APPEAL = DEFENDANTS ONLY. Prosecution cannot appeal acquittal to Crown Court. Prosecution routes: case stated (KBD, law only) or AG Reference (no retrial). The trap: assuming the Crown Court appellate route is symmetrical.",
             "summary_line": "CROWN COURT APPEAL = DEFENDANT ONLY · PROSECUTION CANNOT USE · CASE STATED TO KBD · AG REFERENCE · ⚠️ TRAP: ASSUMING SYMMETRIC PROSECUTION/DEFENCE APPEAL RIGHTS",
             "is_deeper": 0
           }
         ],
         "Specialist Courts and Tribunals": [
           {
-            "card_code": "FLK1-LSYS-050",
+            "card_code": "FLK1-LSEW-050",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2100,7 +2100,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-051",
+            "card_code": "FLK1-LSEW-051",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2116,7 +2116,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-042",
+            "card_code": "FLK1-LSEW-SCE-042",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2136,9 +2136,9 @@
       "Human Rights": {
         "The ECHR — Structure and Key Articles": [
           {
-            "card_code": "FLK1-LSYS-052",
+            "card_code": "FLK1-LSEW-052",
             "card_type": 1,
-            "difficulty": "Foundation",
+            "difficulty": "Application",
             "flk": "FLK1",
             "topic": "Human Rights",
             "subtopic": "The ECHR — Structure and Key Articles",
@@ -2152,7 +2152,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-053",
+            "card_code": "FLK1-LSEW-053",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2168,7 +2168,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-074",
+            "card_code": "FLK1-LSEW-074",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2184,7 +2184,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-075",
+            "card_code": "FLK1-LSEW-075",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2200,7 +2200,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-044",
+            "card_code": "FLK1-LSEW-SCE-044",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2216,7 +2216,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-045",
+            "card_code": "FLK1-LSEW-SCE-045",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2232,7 +2232,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-051",
+            "card_code": "FLK1-LSEW-SCE-051",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2248,7 +2248,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-010",
+            "card_code": "FLK1-LSEW-DEEP-010",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -2260,11 +2260,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "MARGIN OF APPRECIATION · STRASBOURG DOCTRINE · LORD HOPE · DISCRETIONARY AREA OF JUDGMENT · LETSAS · FENWICK/PHILLIPSON · ELLIOTT · PROPORTIONALITY · BANK MELLAT · INSTITUTIONAL COMPETENCE",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-008",
+            "card_code": "FLK1-LSEW-TRAP-008",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -2272,17 +2272,17 @@
             "subtopic": "The ECHR — Structure and Key Articles",
             "front": "⚠️ TRAP CARD\n\nA prison introduces a new disciplinary policy under which any prisoner who assaults a prison officer is automatically placed in solitary confinement for 30 days. The cells used for solitary confinement are small, have no natural light, and prisoners are denied all human contact except for brief daily checks.\n\nA prisoner, Mr Achebe, challenges the policy after spending 30 days in those conditions. His barrister argues the policy violates Article 3 ECHR.\n\nThe Governor's legal adviser responds: 'Article 3 can be complied with by demonstrating that the measure is prescribed by law (the prison rules), pursues a legitimate aim (maintaining prison security and discipline), and is proportionate to that aim. The policy satisfies all three elements. The Article 3 challenge fails.'",
             "answer": null,
-            "issue": "The trap is a confident, three-part legal argument that is structurally correct for the wrong Article. The three-stage test — prescribed by law / legitimate aim / proportionate — is the test for qualified rights under Articles 8, 9, 10, and 11. It is a well-known framework that students apply frequently and correctly in those contexts. The error is applying it to Article 3, which is an absolute right. The argument sounds legally sophisticated and its structure is impeccable — for a different Convention right.",
-            "rule": "Article 3 ECHR — the prohibition on torture, inhuman or degrading treatment or punishment — is an absolute right. It admits no exceptions, no derogations, and no balancing exercise. There is no proportionality test. There is no legitimate aim defence. The state cannot justify treatment that reaches the Article 3 threshold by demonstrating good reasons for it. The only question is whether the treatment constitutes torture, inhuman treatment, or degrading treatment. If it does, the violation is established regardless of the state's justifications.",
-            "application": "The red herring is the Governor's structured three-part argument. Every element of it is legally sound — for a qualified right. Prescribed by law: ✓ (prison rules). Legitimate aim: ✓ (security and discipline — expressly recognised). Proportionate: plausibly arguable. But none of this matters for Article 3. The Governor's legal adviser has applied the qualified rights framework to an absolute right. 30 days in a cell with no natural light and no human contact is a serious candidate for inhuman or degrading treatment — the ECtHR has found shorter periods of complete sensory isolation to engage Article 3. The correct analysis is: does this treatment cross the Article 3 threshold? If so, violation is established and the three-part justification framework is irrelevant.",
-            "conclusion": "ARTICLE 3 IS ABSOLUTE. No proportionality. No legitimate aim defence. No balancing. The three-stage qualified rights test has no application. The trap: applying the familiar qualified rights framework to an absolute Convention right.",
+            "issue": "The Trap: The trap is a confident, three-part legal argument that is structurally correct for the wrong Article. The three-stage test — prescribed by law / legitimate aim / proportionate — is the test for qualified rights under Articles 8, 9, 10, and 11. It is a well-known framework that students apply frequently and correctly in those contexts. The error is applying it to Article 3, which is an absolute right. The argument sounds legally sophisticated and its structure is impeccable — for a different Convention right.",
+            "rule": "The Reality: Article 3 ECHR — the prohibition on torture, inhuman or degrading treatment or punishment — is an absolute right. It admits no exceptions, no derogations, and no balancing exercise. There is no proportionality test. There is no legitimate aim defence. The state cannot justify treatment that reaches the Article 3 threshold by demonstrating good reasons for it. The only question is whether the treatment constitutes torture, inhuman treatment, or degrading treatment. If it does, the violation is established regardless of the state's justifications.",
+            "application": "Why the Distractor Fails: The red herring is the Governor's structured three-part argument. Every element of it is legally sound — for a qualified right. Prescribed by law: ✓ (prison rules). Legitimate aim: ✓ (security and discipline — expressly recognised). Proportionate: plausibly arguable. But none of this matters for Article 3. The Governor's legal adviser has applied the qualified rights framework to an absolute right. 30 days in a cell with no natural light and no human contact is a serious candidate for inhuman or degrading treatment — the ECtHR has found shorter periods of complete sensory isolation to engage Article 3. The correct analysis is: does this treatment cross the Article 3 threshold? If so, violation is established and the three-part justification framework is irrelevant.",
+            "conclusion": "The Key Rule: ARTICLE 3 IS ABSOLUTE. No proportionality. No legitimate aim defence. No balancing. The three-stage qualified rights test has no application. The trap: applying the familiar qualified rights framework to an absolute Convention right.",
             "summary_line": "ARTICLE 3 ABSOLUTE · NO PROPORTIONALITY · NO LEGITIMATE AIM DEFENCE · NO DEROGATION · THREE-STAGE TEST = WRONG ARTICLE · ⚠️ TRAP: QUALIFIED RIGHTS FRAMEWORK APPLIED TO ABSOLUTE RIGHT",
             "is_deeper": 0
           }
         ],
         "The HRA 1998 — Key Sections": [
           {
-            "card_code": "FLK1-LSYS-054",
+            "card_code": "FLK1-LSEW-054",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2298,7 +2298,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-055",
+            "card_code": "FLK1-LSEW-055",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2314,7 +2314,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-056",
+            "card_code": "FLK1-LSEW-056",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2330,7 +2330,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-057",
+            "card_code": "FLK1-LSEW-057",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2346,7 +2346,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-058",
+            "card_code": "FLK1-LSEW-058",
             "card_type": 1,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -2362,7 +2362,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-066",
+            "card_code": "FLK1-LSEW-066",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2378,7 +2378,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-067",
+            "card_code": "FLK1-LSEW-067",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2394,7 +2394,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-076",
+            "card_code": "FLK1-LSEW-076",
             "card_type": 1,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -2410,7 +2410,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-017",
+            "card_code": "FLK1-LSEW-CASE-017",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2426,7 +2426,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-018",
+            "card_code": "FLK1-LSEW-CASE-018",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2442,7 +2442,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-019",
+            "card_code": "FLK1-LSEW-CASE-019",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2458,7 +2458,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-024",
+            "card_code": "FLK1-LSEW-CASE-024",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2474,7 +2474,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-046",
+            "card_code": "FLK1-LSEW-SCE-046",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2490,7 +2490,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-047",
+            "card_code": "FLK1-LSEW-SCE-047",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2506,7 +2506,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-048",
+            "card_code": "FLK1-LSEW-SCE-048",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2522,7 +2522,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-049",
+            "card_code": "FLK1-LSEW-SCE-049",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2538,7 +2538,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-052",
+            "card_code": "FLK1-LSEW-SCE-052",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2554,7 +2554,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-053",
+            "card_code": "FLK1-LSEW-SCE-053",
             "card_type": 3,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -2570,7 +2570,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-054",
+            "card_code": "FLK1-LSEW-SCE-054",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2586,7 +2586,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-008",
+            "card_code": "FLK1-LSEW-DEEP-008",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -2598,11 +2598,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "DIALOGUE MODEL · HRA · KLUG · HICKMAN · TOMKINS · BELLAMY · KAVANAGH · JOWELL · S.3 DOMINANCE · S.4 SUPPLEMENT · PARLIAMENTARY SOVEREIGNTY PRESERVED · JUDICIAL POWER UNDERESTIMATED",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-009",
+            "card_code": "FLK1-LSEW-DEEP-009",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -2614,11 +2614,11 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "HORIZONTAL EFFECT · WADE · HUNT · BUXTON · PHILLIPSON · INDIRECT MODEL · CAMPBELL v MGN · S.6 DESIGN CHOICE · POSITIVE OBLIGATIONS · OSMAN · PRIVATE LAW TRANSFORMATION RISK · LAW COMMISSION",
+            "summary_line": null,
             "is_deeper": 1
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-001",
+            "card_code": "FLK1-LSEW-TRAP-001",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -2626,15 +2626,15 @@
             "subtopic": "The HRA 1998 — Key Sections",
             "front": "⚠️ TRAP CARD\n\nMs Oduya has been detained under a provision of the Criminal Justice Act 2024. She challenges her detention before the Court of Appeal, which agrees that the provision is incompatible with Article 5 ECHR. The court makes a declaration of incompatibility under s.4 HRA 1998.\n\nMs Oduya's solicitor writes to her: 'The Court of Appeal has ruled in your favour. The incompatible provision no longer applies to you and you are entitled to immediate release. The Government is legally obliged to change the law.'\n\nMs Oduya is still in detention the following day. She contacts her solicitor to ask why she has not been released.",
             "answer": null,
-            "issue": "The solicitor's letter is wrong on every point. The trap is the assumption — natural after winning a court ruling — that a declaration of incompatibility operates like a successful judicial review quashing order or a finding that detention is unlawful. It does not. Most students instinctively treat 'the court ruled in her favour' as meaning she has obtained a legally effective remedy. She has not.",
-            "rule": "A declaration of incompatibility under s.4(6) HRA 1998: (a) does not affect the validity, continuing operation or enforcement of the provision in respect of which it is given; and (b) is not binding on the parties to the proceedings. The legislation continues in force. Ms Oduya's detention remains lawful under domestic law. The Government is not legally obliged to change the law — Parliament may respond using the remedial order procedure under s.10 or by primary legislation, or it may do nothing.",
-            "application": "The red herring is the court's finding in Ms Oduya's favour. A declaration of incompatibility is the maximum remedy a court can grant against incompatible primary legislation — but it provides no individual remedy. It signals to Parliament that the legislation is incompatible. Ms Oduya remains detained under the provision that has been declared incompatible. Her release requires either: (a) a successful habeas corpus application on a different ground; (b) parliamentary action to repeal or amend the provision; or (c) a successful application to the European Court of Human Rights. The solicitor's claim that the Government is 'legally obliged' to change the law is also wrong — there is no legal obligation, only political pressure.",
-            "conclusion": "S.4 DECLARATION = NO INDIVIDUAL REMEDY. The legislation continues. The Government is not legally obliged to act. Ms Oduya remains detained. The court's declaration is addressed to Parliament, not to the parties. The trap: equating a favourable court ruling under s.4 with an enforceable remedy.",
+            "issue": "The Trap: The solicitor's letter is wrong on every point. The trap is the assumption — natural after winning a court ruling — that a declaration of incompatibility operates like a successful judicial review quashing order or a finding that detention is unlawful. It does not. Most students instinctively treat 'the court ruled in her favour' as meaning she has obtained a legally effective remedy. She has not.",
+            "rule": "The Reality: A declaration of incompatibility under s.4(6) HRA 1998: (a) does not affect the validity, continuing operation or enforcement of the provision in respect of which it is given; and (b) is not binding on the parties to the proceedings. The legislation continues in force. Ms Oduya's detention remains lawful under domestic law. The Government is not legally obliged to change the law — Parliament may respond using the remedial order procedure under s.10 or by primary legislation, or it may do nothing.",
+            "application": "Why the Distractor Fails: The red herring is the court's finding in Ms Oduya's favour. A declaration of incompatibility is the maximum remedy a court can grant against incompatible primary legislation — but it provides no individual remedy. It signals to Parliament that the legislation is incompatible. Ms Oduya remains detained under the provision that has been declared incompatible. Her release requires either: (a) a successful habeas corpus application on a different ground; (b) parliamentary action to repeal or amend the provision; or (c) a successful application to the European Court of Human Rights. The solicitor's claim that the Government is 'legally obliged' to change the law is also wrong — there is no legal obligation, only political pressure.",
+            "conclusion": "The Key Rule: S.4 DECLARATION = NO INDIVIDUAL REMEDY. The legislation continues. The Government is not legally obliged to act. Ms Oduya remains detained. The court's declaration is addressed to Parliament, not to the parties. The trap: equating a favourable court ruling under s.4 with an enforceable remedy.",
             "summary_line": "S.4 HRA · DECLARATION ≠ INDIVIDUAL REMEDY · LEGISLATION CONTINUES · NOT BINDING ON PARTIES · GOVERNMENT NOT OBLIGED · S.4(6) · PARLIAMENT MAY OR MAY NOT ACT · ⚠️ CLASSIC HRA TRAP",
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-TRAP-003",
+            "card_code": "FLK1-LSEW-TRAP-003",
             "card_type": 5,
             "difficulty": null,
             "flk": "FLK1",
@@ -2642,17 +2642,17 @@
             "subtopic": "The HRA 1998 — Key Sections",
             "front": "⚠️ TRAP CARD\n\nThe European Court of Human Rights Grand Chamber hands down a unanimous judgment in Becker v Germany holding that a particular method of pre-trial detention used across Council of Europe states — including a nearly identical practice used in the UK — violates Article 5 ECHR. The judgment is handed down on Monday.\n\nOn Wednesday, a UK Crown Court judge is hearing a bail application. The defendant's barrister cites Becker v Germany and argues: 'Your Honour is bound by this Grand Chamber judgment under s.2 HRA 1998. The UK's equivalent detention practice is incompatible with Article 5. You must order the defendant's release.'\n\nThe prosecution argues that the judge is not bound.",
             "answer": null,
-            "issue": "The trap is the phrase 'Grand Chamber' combined with the unanimity and direct relevance of the Becker judgment. Students who understand the ECtHR hierarchy know that the Grand Chamber is the most authoritative formation — 17 judges, final authority within Strasbourg. The natural inference is that a unanimous Grand Chamber decision on a directly relevant Article 5 point must bind a UK court. It does not.",
-            "rule": "Section 2 HRA 1998 requires UK courts to 'take into account' judgments of the ECtHR — not to follow or be bound by them. ECtHR decisions are never binding on UK courts regardless of the formation (Chamber or Grand Chamber) or the unanimity of the decision. R v Horncastle [2009] UKSC 14 confirms that even the Supreme Court may decline to follow a Grand Chamber ruling where there are cogent domestic reasons to do so. The UK Supreme Court itself is not bound — a Crown Court judge a fortiori is not bound.",
-            "application": "The specific red herring is 'Grand Chamber' + 'unanimous' + 'directly relevant'. All three features make the Becker judgment maximally persuasive — but persuasive is not the same as binding. The defendant's barrister has used the wrong legal basis: the correct argument is that the judge should take the judgment carefully into account under s.2 and, given its direct relevance and the weight of the Grand Chamber's analysis, depart from the UK's equivalent practice only with cogent domestic reasons. The prosecution is correct that the judge is not bound. The judge must take Becker into account, assess whether the UK practice is distinguishable, and decide accordingly — but is not required to order release on the basis of the Strasbourg judgment alone.",
-            "conclusion": "S.2 HRA = TAKE INTO ACCOUNT, NOT BOUND. Grand Chamber decisions are maximally persuasive but never binding. Horncastle confirms SC itself can decline to follow. The trap: equating 'most authoritative ECtHR formation' with 'binding on UK courts'.",
+            "issue": "The Trap: The trap is the phrase 'Grand Chamber' combined with the unanimity and direct relevance of the Becker judgment. Students who understand the ECtHR hierarchy know that the Grand Chamber is the most authoritative formation — 17 judges, final authority within Strasbourg. The natural inference is that a unanimous Grand Chamber decision on a directly relevant Article 5 point must bind a UK court. It does not.",
+            "rule": "The Reality: Section 2 HRA 1998 requires UK courts to 'take into account' judgments of the ECtHR — not to follow or be bound by them. ECtHR decisions are never binding on UK courts regardless of the formation (Chamber or Grand Chamber) or the unanimity of the decision. R v Horncastle [2009] UKSC 14 confirms that even the Supreme Court may decline to follow a Grand Chamber ruling where there are cogent domestic reasons to do so. The UK Supreme Court itself is not bound — a Crown Court judge a fortiori is not bound.",
+            "application": "Why the Distractor Fails: The specific red herring is 'Grand Chamber' + 'unanimous' + 'directly relevant'. All three features make the Becker judgment maximally persuasive — but persuasive is not the same as binding. The defendant's barrister has used the wrong legal basis: the correct argument is that the judge should take the judgment carefully into account under s.2 and, given its direct relevance and the weight of the Grand Chamber's analysis, depart from the UK's equivalent practice only with cogent domestic reasons. The prosecution is correct that the judge is not bound. The judge must take Becker into account, assess whether the UK practice is distinguishable, and decide accordingly — but is not required to order release on the basis of the Strasbourg judgment alone.",
+            "conclusion": "The Key Rule: S.2 HRA = TAKE INTO ACCOUNT, NOT BOUND. Grand Chamber decisions are maximally persuasive but never binding. Horncastle confirms SC itself can decline to follow. The trap: equating 'most authoritative ECtHR formation' with 'binding on UK courts'.",
             "summary_line": "S.2 HRA · TAKE INTO ACCOUNT ≠ BOUND · GRAND CHAMBER = HIGHLY PERSUASIVE NOT BINDING · HORNCASTLE · ⚠️ TRAP: GRAND CHAMBER + UNANIMOUS = ASSUMED BINDING",
             "is_deeper": 0
           }
         ],
         "Remedies under the HRA": [
           {
-            "card_code": "FLK1-LSYS-059",
+            "card_code": "FLK1-LSEW-059",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2670,7 +2670,7 @@
         ],
         "Derogations and Limitations": [
           {
-            "card_code": "FLK1-LSYS-060",
+            "card_code": "FLK1-LSEW-060",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2686,7 +2686,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-020",
+            "card_code": "FLK1-LSEW-CASE-020",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2702,7 +2702,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-050",
+            "card_code": "FLK1-LSEW-SCE-050",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2722,7 +2722,7 @@
       "EU Law (Retained)": {
         "The Brexit Framework and EUWA 2018": [
           {
-            "card_code": "FLK1-LSYS-061",
+            "card_code": "FLK1-LSEW-061",
             "card_type": 1,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2738,7 +2738,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-064",
+            "card_code": "FLK1-LSEW-064",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2754,7 +2754,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-077",
+            "card_code": "FLK1-LSEW-077",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2770,7 +2770,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-021",
+            "card_code": "FLK1-LSEW-CASE-021",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2786,7 +2786,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-055",
+            "card_code": "FLK1-LSEW-SCE-055",
             "card_type": 3,
             "difficulty": "Foundation",
             "flk": "FLK1",
@@ -2802,7 +2802,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-058",
+            "card_code": "FLK1-LSEW-SCE-058",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2818,7 +2818,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-011",
+            "card_code": "FLK1-LSEW-DEEP-011",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -2830,13 +2830,13 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "FACTORTAME · WADE · CONSTITUTIONAL REVOLUTION · RULE OF RECOGNITION · HART · CRAIG · EVOLUTION THESIS · ALLAN · ELLIOTT · ECA 1972 REPEALED · BREXIT RESOLUTION · SOVEREIGNTY DEBATE",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
         "Retained EU Law — Status and Hierarchy": [
           {
-            "card_code": "FLK1-LSYS-062",
+            "card_code": "FLK1-LSEW-062",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2852,7 +2852,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-065",
+            "card_code": "FLK1-LSEW-065",
             "card_type": 1,
             "difficulty": "Complex",
             "flk": "FLK1",
@@ -2868,7 +2868,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-057",
+            "card_code": "FLK1-LSEW-SCE-057",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2884,7 +2884,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-059",
+            "card_code": "FLK1-LSEW-SCE-059",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2900,7 +2900,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-DEEP-012",
+            "card_code": "FLK1-LSEW-DEEP-012",
             "card_type": 4,
             "difficulty": null,
             "flk": "FLK1",
@@ -2912,13 +2912,13 @@
             "rule": null,
             "application": null,
             "conclusion": null,
-            "summary_line": "EU LEGACY · PROPORTIONALITY · CRAIG · BARNARD · BANK MELLAT · WEDNESBURY · BINGHAM · RIGHTS METHODOLOGY · JUDICIAL CULTURE SHIFT · REULA 2023 · FORSYTH · LIVE QUESTION",
+            "summary_line": null,
             "is_deeper": 1
           }
         ],
         "Supremacy of Retained EU Law — Limits Post-2023": [
           {
-            "card_code": "FLK1-LSYS-063",
+            "card_code": "FLK1-LSEW-063",
             "card_type": 1,
             "difficulty": "Application",
             "flk": "FLK1",
@@ -2934,7 +2934,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-022",
+            "card_code": "FLK1-LSEW-CASE-022",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2950,7 +2950,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-CASE-023",
+            "card_code": "FLK1-LSEW-CASE-023",
             "card_type": 2,
             "difficulty": null,
             "flk": "FLK1",
@@ -2966,7 +2966,7 @@
             "is_deeper": 0
           },
           {
-            "card_code": "FLK1-LSYS-SCE-056",
+            "card_code": "FLK1-LSEW-SCE-056",
             "card_type": 3,
             "difficulty": "Application",
             "flk": "FLK1",
