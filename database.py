@@ -105,6 +105,11 @@ def _migrate_schema(conn):
             "UPDATE accounts SET invite_free_access = 1 WHERE invite_code IS NOT NULL AND invite_code != ''"
         )
 
+    # ── option_e on mcq_questions (SRA questions have 5 options) ──
+    existing_mcq = {row[1] for row in conn.execute("PRAGMA table_info(mcq_questions)").fetchall()}
+    if 'option_e' not in existing_mcq:
+        conn.execute("ALTER TABLE mcq_questions ADD COLUMN option_e TEXT")
+
     # ── Stripe webhook deduplication ──
     conn.execute("""
         CREATE TABLE IF NOT EXISTS stripe_events (
@@ -823,6 +828,9 @@ def get_subjects_with_progress(user_id: int) -> list[dict]:
                 (user_id, s["id"])
             ).fetchone()["n"]
 
+            if total == 0:
+                continue  # skip SRA-only subjects that have no flashcards
+
             progress_pct = round((reviewed / total * 100) if total else 0)
 
             result.append({
@@ -1537,6 +1545,63 @@ def seed_mcqs(questions: list[dict]) -> tuple[int, int]:
                     _json.dumps(q.get("card_refs", [])),
                     1 if q.get("flag") else 0,
                     q.get("generated_by", "human"),
+                ),
+            )
+            inserted += 1
+    return inserted, skipped
+
+
+def seed_sra_questions(questions: list[dict], flk: str) -> tuple[int, int]:
+    """
+    Insert SRA official sample questions into mcq_questions.
+    Creates a synthetic subject/topic/subtopic hierarchy for SRA questions.
+    Returns (inserted, skipped).
+    """
+    inserted = skipped = 0
+    subject_name = f"SRA Sample Paper ({flk})"
+    abbr = f"SRA{flk[-1]}"  # SRA1 or SRA2
+
+    with get_db() as conn:
+        subject_row = conn.execute(
+            "SELECT id FROM subjects WHERE name = ? AND flk = ?", (subject_name, flk)
+        ).fetchone()
+        if subject_row:
+            subject_id = subject_row["id"]
+        else:
+            conn.execute(
+                "INSERT INTO subjects (name, abbr, flk) VALUES (?,?,?)",
+                (subject_name, abbr, flk),
+            )
+            subject_id = conn.execute("SELECT last_insert_rowid()").fetchone()[0]
+
+        topic_id = get_or_create_topic(conn, "Official Sample Questions", subject_id)
+        subtopic_id = get_or_create_subtopic(conn, "Mixed Questions", topic_id)
+
+        import json as _json
+        for q in questions:
+            existing = conn.execute(
+                "SELECT question_id FROM mcq_questions WHERE question_id = ?",
+                (q["question_id"],),
+            ).fetchone()
+            if existing:
+                skipped += 1
+                continue
+
+            opts = q.get("options", {})
+            conn.execute(
+                """INSERT INTO mcq_questions
+                   (question_id, subtopic_id, flk, difficulty, stem,
+                    option_a, option_b, option_c, option_d, option_e,
+                    correct, explanation, card_refs, flag, generated_by)
+                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                (
+                    q["question_id"], subtopic_id, flk, "",
+                    q["stem"],
+                    opts.get("A", ""), opts.get("B", ""), opts.get("C", ""), opts.get("D", ""),
+                    opts.get("E"),
+                    q["correct"], "",
+                    _json.dumps([]),
+                    0, "SRA",
                 ),
             )
             inserted += 1

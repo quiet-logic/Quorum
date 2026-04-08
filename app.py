@@ -572,8 +572,8 @@ def mcq_attempt():
         return err
     question_id = body.get("question_id", "").strip()
     selected    = body.get("selected", "").strip().upper()
-    if not question_id or selected not in ("A", "B", "C", "D"):
-        return jsonify({"error": "question_id and selected (A/B/C/D) are required"}), 400
+    if not question_id or selected not in ("A", "B", "C", "D", "E"):
+        return jsonify({"error": "question_id and selected (A/B/C/D/E) are required"}), 400
     with db.get_db() as conn:
         q = conn.execute(
             "SELECT correct FROM mcq_questions WHERE question_id = ?", (question_id,)

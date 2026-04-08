@@ -2,12 +2,10 @@ import { useState } from 'react';
 import { useUser } from '../../UserContext';
 import './MCQSession.css';
 
-const LABELS = { A: 'A', B: 'B', C: 'C', D: 'D' };
-
 const MCQSession = ({ questions, subjectName, onComplete, onHome }) => {
   const { apiFetch } = useUser();
   const [index, setIndex]       = useState(0);
-  const [selected, setSelected] = useState(null);  // null | 'A'|'B'|'C'|'D'
+  const [selected, setSelected] = useState(null);  // null | 'A'|'B'|'C'|'D'|'E'
   const [revealed, setRevealed] = useState(false);
   const [results, setResults]   = useState([]);
   const [submitting, setSubmitting] = useState(false);
@@ -20,6 +18,7 @@ const MCQSession = ({ questions, subjectName, onComplete, onHome }) => {
     { key: 'B', text: question.option_b },
     { key: 'C', text: question.option_c },
     { key: 'D', text: question.option_d },
+    ...(question.option_e ? [{ key: 'E', text: question.option_e }] : []),
   ];
 
   const handleSelect = async (key) => {
