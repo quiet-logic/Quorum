@@ -23,7 +23,7 @@ import stripe_service
 from srs import sm2, next_review_date
 from flask_login import login_required, current_user
 
-app = Flask(__name__, static_folder="legal-study-app/dist", static_url_path="")
+app = Flask(__name__, static_folder="legal-study-app/dist", static_url_path="/app")
 auth_module.init_app(app)
 
 # ── DB init (seeding happens in Procfile before gunicorn starts) ──────────────
