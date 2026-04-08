@@ -1522,11 +1522,18 @@ def seed_mcqs(questions: list[dict]) -> tuple[int, int]:
                 sid = get_or_create_subtopic(conn, q.get("subtopic", ""), topic_id)
 
             opts = q.get("options", {})
+            option_e = opts.get("E")
             existing = conn.execute(
-                "SELECT question_id FROM mcq_questions WHERE question_id = ?",
+                "SELECT question_id, option_e FROM mcq_questions WHERE question_id = ?",
                 (q["question_id"],),
             ).fetchone()
             if existing:
+                # Backfill option_e if it was seeded before the column existed
+                if option_e and existing["option_e"] is None:
+                    conn.execute(
+                        "UPDATE mcq_questions SET option_e = ? WHERE question_id = ?",
+                        (option_e, q["question_id"]),
+                    )
                 skipped += 1
                 continue
 
@@ -1534,13 +1541,14 @@ def seed_mcqs(questions: list[dict]) -> tuple[int, int]:
             conn.execute(
                 """INSERT INTO mcq_questions
                    (question_id, subtopic_id, flk, difficulty, stem,
-                    option_a, option_b, option_c, option_d,
+                    option_a, option_b, option_c, option_d, option_e,
                     correct, explanation, card_refs, flag, generated_by)
-                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
                 (
                     q["question_id"], sid, q.get("flk", ""), q.get("difficulty"),
                     q["stem"],
                     opts.get("A", ""), opts.get("B", ""), opts.get("C", ""), opts.get("D", ""),
+                    option_e,
                     q["correct"], q["explanation"],
                     _json.dumps(q.get("card_refs", [])),
                     1 if q.get("flag") else 0,
