@@ -68,6 +68,11 @@ def serve_terms():
     return render_template("terms.html")
 
 
+@app.route("/cookies")
+def serve_cookies():
+    return render_template("cookies.html")
+
+
 @app.route("/app")
 @app.route("/app/<path:path>")
 def serve_app(path=""):
