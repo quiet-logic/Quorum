@@ -1492,14 +1492,26 @@ def seed_mcqs(questions: list[dict]) -> tuple[int, int]:
     inserted = skipped = 0
     with get_db() as conn:
         for q in questions:
-            subtopic_id = conn.execute(
+            subtopic_row = conn.execute(
                 """SELECT st.id FROM subtopics st
                      JOIN topics t ON t.id = st.topic_id
                      JOIN subjects s ON s.id = t.subject_id
                     WHERE s.name = ? AND t.name = ? AND st.name = ?""",
                 (q.get("subject"), q.get("topic"), q.get("subtopic")),
             ).fetchone()
-            sid = subtopic_id["id"] if subtopic_id else None
+            if subtopic_row:
+                sid = subtopic_row["id"]
+            else:
+                # Auto-create missing topic/subtopic under the existing subject
+                subject_row = conn.execute(
+                    "SELECT id, abbr, flk FROM subjects WHERE name = ?",
+                    (q.get("subject"),),
+                ).fetchone()
+                if not subject_row:
+                    skipped += 1
+                    continue
+                topic_id = get_or_create_topic(conn, q.get("topic", ""), subject_row["id"])
+                sid = get_or_create_subtopic(conn, q.get("subtopic", ""), topic_id)
 
             opts = q.get("options", {})
             existing = conn.execute(
