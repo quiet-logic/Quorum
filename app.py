@@ -35,9 +35,10 @@ except Exception as e:
     print(f"[startup] seed_data failed: {e}", flush=True)
 try:
     import seed_mcq
-    seed_mcq.main()
-except SystemExit:
-    pass
+    questions = seed_mcq.load_questions(seed_mcq.DEFAULT_DIR)
+    if questions:
+        inserted, skipped = db.seed_mcqs(questions)
+        print(f"[startup] seed_mcq: {inserted} inserted, {skipped} skipped", flush=True)
 except Exception as e:
     print(f"[startup] seed_mcq failed: {e}", flush=True)
 
