@@ -4,8 +4,12 @@ const UserContext = createContext(null);
 
 export function UserProvider({ children }) {
   const [activeUser, setActiveUser] = useState(() => {
-    const stored = localStorage.getItem('quorum_active_user');
-    return stored ? JSON.parse(stored) : null;
+    try {
+      const stored = localStorage.getItem('quorum_active_user');
+      return stored ? JSON.parse(stored) : null;
+    } catch {
+      return null;
+    }
   });
 
   const setUser = (user) => {
