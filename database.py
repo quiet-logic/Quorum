@@ -118,6 +118,15 @@ def _migrate_schema(conn):
         )
     """)
 
+    # ── Mailing list subscribers ──
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS subscribers (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            email      TEXT    NOT NULL UNIQUE,
+            created_at TEXT    NOT NULL DEFAULT (datetime('now'))
+        )
+    """)
+
     # ── MCQ tables ──
     conn.execute("""
         CREATE TABLE IF NOT EXISTS mcq_questions (
@@ -1614,3 +1623,24 @@ def seed_sra_questions(questions: list[dict], flk: str) -> tuple[int, int]:
             )
             inserted += 1
     return inserted, skipped
+
+
+
+def add_subscriber(email: str) -> tuple[bool, str]:
+    """Add email to mailing list. Returns (success, message)."""
+    email = email.strip().lower()
+    if not email or "@" not in email:
+        return False, "Invalid email address"
+    try:
+        with get_db() as conn:
+            conn.execute("INSERT INTO subscribers (email) VALUES (?)", (email,))
+        return True, "Subscribed"
+    except sqlite3.IntegrityError:
+        return True, "Already subscribed"
+
+
+def get_subscribers() -> list[dict]:
+    """Return all subscribers — for export/admin use."""
+    with get_db() as conn:
+        rows = conn.execute("SELECT email, created_at FROM subscribers ORDER BY created_at DESC").fetchall()
+    return [dict(r) for r in rows]

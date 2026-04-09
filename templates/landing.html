@@ -1548,23 +1548,40 @@
   </footer>
 
   <script>
-    function handleSubmit(e) {
+    async function handleSubmit(e) {
       e.preventDefault();
       const input = e.target.querySelector('input[type="email"]');
       const btn = e.target.querySelector('button');
-      const email = input.value;
-      // Replace this with your actual mailing list integration
-      btn.textContent = 'Done ✓';
-      btn.style.background = '#7EB8A4';
-      btn.style.borderColor = '#7EB8A4';
-      input.value = '';
-      input.placeholder = 'You\'re on the list.';
-      setTimeout(() => {
-        btn.textContent = 'Join';
+      const email = input.value.trim();
+      if (!email) return;
+
+      btn.textContent = '...';
+      btn.disabled = true;
+
+      try {
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email }),
+        });
+        btn.textContent = 'Done ✓';
+        btn.style.background = '#7EB8A4';
+        btn.style.borderColor = '#7EB8A4';
+        input.value = '';
+        input.placeholder = 'You\'re on the list.';
+      } catch {
+        btn.textContent = 'Try again';
         btn.style.background = '';
         btn.style.borderColor = '';
-        input.placeholder = 'Your email address';
-      }, 3000);
+      } finally {
+        btn.disabled = false;
+        setTimeout(() => {
+          btn.textContent = 'Join';
+          btn.style.background = '';
+          btn.style.borderColor = '';
+          input.placeholder = 'Your email address';
+        }, 3000);
+      }
     }
   </script>
 

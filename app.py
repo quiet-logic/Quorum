@@ -73,6 +73,18 @@ def serve_cookies():
     return render_template("cookies.html")
 
 
+@app.route("/api/subscribe", methods=["POST"])
+def subscribe():
+    body = request.get_json(silent=True) or {}
+    email = (body.get("email") or "").strip()
+    if not email:
+        return jsonify({"error": "email is required"}), 400
+    success, message = db.add_subscriber(email)
+    if not success:
+        return jsonify({"error": message}), 400
+    return jsonify({"message": message})
+
+
 @app.route("/app")
 @app.route("/app/<path:path>")
 def serve_app(path=""):
